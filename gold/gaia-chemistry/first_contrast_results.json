@@ -1,0 +1,228 @@
+{
+  "n_pairs": 7698,
+  "gspphot_all": {
+    "subset": "all quality",
+    "n": 5834,
+    "median_diff": -0.062,
+    "p16": -0.307,
+    "p84": 0.288
+  },
+  "gspspec_all": {
+    "subset": "all quality (gspspec subset)",
+    "n": 1834,
+    "median_diff": 0.108,
+    "p16": -0.072,
+    "p84": 0.289
+  },
+  "by_feh_gspphot": [
+    {
+      "subset": "fe_h -3..-2",
+      "n": 15,
+      "median_diff": 1.849,
+      "p16": 0.483,
+      "p84": 2.439,
+      "bin": "-3..-2"
+    },
+    {
+      "subset": "fe_h -2..-1.5",
+      "n": 66,
+      "median_diff": 1.447,
+      "p16": 0.779,
+      "p84": 1.672,
+      "bin": "-2..-1.5"
+    },
+    {
+      "subset": "fe_h -1.5..-1",
+      "n": 149,
+      "median_diff": 0.932,
+      "p16": 0.436,
+      "p84": 1.154,
+      "bin": "-1.5..-1"
+    },
+    {
+      "subset": "fe_h -1..-0.5",
+      "n": 722,
+      "median_diff": 0.337,
+      "p16": -0.145,
+      "p84": 0.595,
+      "bin": "-1..-0.5"
+    },
+    {
+      "subset": "fe_h -0.5..0",
+      "n": 3506,
+      "median_diff": -0.075,
+      "p16": -0.298,
+      "p84": 0.191,
+      "bin": "-0.5..0"
+    },
+    {
+      "subset": "fe_h 0..0.6",
+      "n": 1369,
+      "median_diff": -0.177,
+      "p16": -0.381,
+      "p84": 0.055,
+      "bin": "0..0.6"
+    }
+  ],
+  "by_feh_gspspec": [
+    {
+      "subset": "fe_h -3..-2",
+      "n": 4,
+      "median_diff": 0.509,
+      "p16": -0.457,
+      "p84": 1.137,
+      "bin": "-3..-2"
+    },
+    {
+      "subset": "fe_h -2..-1.5",
+      "n": 4,
+      "median_diff": -0.001,
+      "p16": -0.357,
+      "p84": 0.256,
+      "bin": "-2..-1.5"
+    },
+    {
+      "subset": "fe_h -1.5..-1",
+      "n": 14,
+      "median_diff": 0.243,
+      "p16": -0.261,
+      "p84": 0.517,
+      "bin": "-1.5..-1"
+    },
+    {
+      "subset": "fe_h -1..-0.5",
+      "n": 196,
+      "median_diff": 0.159,
+      "p16": -0.07,
+      "p84": 0.325,
+      "bin": "-1..-0.5"
+    },
+    {
+      "subset": "fe_h -0.5..0",
+      "n": 1226,
+      "median_diff": 0.103,
+      "p16": -0.062,
+      "p84": 0.289,
+      "bin": "-0.5..0"
+    },
+    {
+      "subset": "fe_h 0..0.6",
+      "n": 389,
+      "median_diff": 0.101,
+      "p16": -0.087,
+      "p84": 0.258,
+      "bin": "0..0.6"
+    }
+  ],
+  "giants_logg_lt2.5_gspphot": {
+    "subset": "giants logg<2.5",
+    "n": 1101,
+    "median_diff": 0.167,
+    "p16": -0.167,
+    "p84": 0.576
+  },
+  "subgiants_2.5_3.5_gspphot": {
+    "subset": "logg 2.5-3.5",
+    "n": 988,
+    "median_diff": 0.147,
+    "p16": -0.11,
+    "p84": 0.477
+  },
+  "dwarfs_logg_ge3.5_gspphot": {
+    "subset": "dwarfs logg>=3.5",
+    "n": 3745,
+    "median_diff": -0.154,
+    "p16": -0.355,
+    "p84": 0.091
+  },
+  "giants_gspspec": {
+    "subset": "giants logg<2.5 gspspec",
+    "n": 778,
+    "median_diff": 0.105,
+    "p16": -0.051,
+    "p84": 0.28
+  },
+  "dwarfs_gspspec": {
+    "subset": "dwarfs logg>=3.5 gspspec",
+    "n": 672,
+    "median_diff": 0.096,
+    "p16": -0.156,
+    "p84": 0.283
+  },
+  "by_teff_gspphot": [
+    {
+      "subset": "teff 3500..4500",
+      "n": 337,
+      "median_diff": 0.32,
+      "p16": 0.061,
+      "p84": 0.541,
+      "bin": "3500..4500"
+    },
+    {
+      "subset": "teff 4500..5500",
+      "n": 3071,
+      "median_diff": 0.062,
+      "p16": -0.175,
+      "p84": 0.379,
+      "bin": "4500..5500"
+    },
+    {
+      "subset": "teff 5500..6500",
+      "n": 2144,
+      "median_diff": -0.234,
+      "p16": -0.401,
+      "p84": -0.09,
+      "bin": "5500..6500"
+    },
+    {
+      "subset": "teff 6500..8000",
+      "n": 282,
+      "median_diff": 0.006,
+      "p16": -0.31,
+      "p84": 0.553,
+      "bin": "6500..8000"
+    }
+  ],
+  "by_ag_gspphot": [
+    {
+      "subset": "Ag 0..0.5",
+      "n": 4778,
+      "median_diff": -0.112,
+      "p16": -0.327,
+      "p84": 0.157,
+      "bin": "0..0.5"
+    },
+    {
+      "subset": "Ag 0.5..1",
+      "n": 872,
+      "median_diff": 0.282,
+      "p16": -0.091,
+      "p84": 0.697,
+      "bin": "0.5..1"
+    },
+    {
+      "subset": "Ag 1..2",
+      "n": 177,
+      "median_diff": 0.323,
+      "p16": 0.004,
+      "p84": 1.144,
+      "bin": "1..2"
+    },
+    {
+      "subset": "Ag 2..10",
+      "n": 7,
+      "median_diff": 0.551,
+      "p16": 0.414,
+      "p84": 0.699,
+      "bin": "2..10"
+    }
+  ],
+  "n_with_gspphot": 5834,
+  "n_with_gspspec": 1834,
+  "feh_range_galah": [
+    -3.6167126,
+    0.8715954
+  ],
+  "n_vmp_feh_lt_-2": 19,
+  "n_mp_feh_lt_-1": 330
+}

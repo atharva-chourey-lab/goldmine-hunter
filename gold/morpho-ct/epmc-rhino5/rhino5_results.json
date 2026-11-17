@@ -1,0 +1,98 @@
+{
+  "ge5": {
+    "Ceratotherium_simum": 12,
+    "Dicerorhinus_sumatrensis": 9,
+    "Diceros_bicornis": 7,
+    "Rhinoceros_sondaicus": 7,
+    "Rhinoceros_unicornis": 9
+  },
+  "complete6": {
+    "Ceratotherium_simum": 10,
+    "Dicerorhinus_sumatrensis": 9,
+    "Diceros_bicornis": 5,
+    "Rhinoceros_sondaicus": 7,
+    "Rhinoceros_unicornis": 7
+  },
+  "pairwise": [
+    {
+      "sp1": "Ceratotherium_simum",
+      "sp2": "Dicerorhinus_sumatrensis",
+      "n1": 10,
+      "n2": 9,
+      "dist": 0.0223,
+      "perm_p": 0.0091990800919908
+    },
+    {
+      "sp1": "Ceratotherium_simum",
+      "sp2": "Diceros_bicornis",
+      "n1": 10,
+      "n2": 5,
+      "dist": 0.0232,
+      "perm_p": 0.039996000399960006
+    },
+    {
+      "sp1": "Ceratotherium_simum",
+      "sp2": "Rhinoceros_sondaicus",
+      "n1": 10,
+      "n2": 7,
+      "dist": 0.0469,
+      "perm_p": 0.00019998000199980003
+    },
+    {
+      "sp1": "Ceratotherium_simum",
+      "sp2": "Rhinoceros_unicornis",
+      "n1": 10,
+      "n2": 7,
+      "dist": 0.0355,
+      "perm_p": 9.999000099990002e-05
+    },
+    {
+      "sp1": "Dicerorhinus_sumatrensis",
+      "sp2": "Diceros_bicornis",
+      "n1": 9,
+      "n2": 5,
+      "dist": 0.0376,
+      "perm_p": 0.0008999100089991
+    },
+    {
+      "sp1": "Dicerorhinus_sumatrensis",
+      "sp2": "Rhinoceros_sondaicus",
+      "n1": 9,
+      "n2": 7,
+      "dist": 0.0276,
+      "perm_p": 0.00019998000199980003
+    },
+    {
+      "sp1": "Dicerorhinus_sumatrensis",
+      "sp2": "Rhinoceros_unicornis",
+      "n1": 9,
+      "n2": 7,
+      "dist": 0.0263,
+      "perm_p": 0.00019998000199980003
+    },
+    {
+      "sp1": "Diceros_bicornis",
+      "sp2": "Rhinoceros_sondaicus",
+      "n1": 5,
+      "n2": 7,
+      "dist": 0.0556,
+      "perm_p": 0.0016998300169983002
+    },
+    {
+      "sp1": "Diceros_bicornis",
+      "sp2": "Rhinoceros_unicornis",
+      "n1": 5,
+      "n2": 7,
+      "dist": 0.0566,
+      "perm_p": 0.0013998600139986002
+    },
+    {
+      "sp1": "Rhinoceros_sondaicus",
+      "sp2": "Rhinoceros_unicornis",
+      "n1": 7,
+      "n2": 7,
+      "dist": 0.0458,
+      "perm_p": 0.0010998900109989002
+    }
+  ]
+}

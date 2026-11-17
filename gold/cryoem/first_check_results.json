@@ -1,0 +1,220 @@
+{
+ "EMD-10000": {
+  "title": "Lateral flagellar motor from Plesiomonas shigelloidea",
+  "reported_resolution_A": [
+   "120.0"
+  ],
+  "pdb_list": null,
+  "map_parse": {
+   "shape": [
+    100,
+    100,
+    100
+   ],
+   "dtype": "float32",
+   "voxel_A": [
+    8.28,
+    8.28,
+    8.28
+   ],
+   "origin": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "min": -0.5544880628585815,
+   "max": 0.6671159863471985,
+   "mean": 0.01699185185134411,
+   "std": 0.13127447664737701,
+   "author_contour": 0.013,
+   "frac_voxels_above_contour": 0.56397,
+   "density_bbox_extent_A_zyx": [
+    828.0,
+    828.0,
+    828.0
+   ],
+   "density_volume_A3_at_contour": 320145182.0
+  }
+ },
+ "EMD-76805": {
+  "title": "Human Hemoglobin, Laser Phase Plate TEM, Laser-ON dataset 2 (H2)",
+  "reported_resolution_A": [
+   "2.86"
+  ],
+  "pdb_list": null,
+  "map_parse": {
+   "shape": [
+    128,
+    128,
+    128
+   ],
+   "dtype": "float32",
+   "voxel_A": [
+    0.94,
+    0.94,
+    0.94
+   ],
+   "origin": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "min": -0.07489459961652756,
+   "max": 0.15456631779670715,
+   "mean": 0.0002679663593880832,
+   "std": 0.005597610492259264,
+   "author_contour": 0.01,
+   "frac_voxels_above_contour": 0.01716,
+   "density_bbox_extent_A_zyx": [
+    56.4,
+    66.7,
+    70.5
+   ],
+   "density_volume_A3_at_contour": 29896.0
+  }
+ },
+ "EMD-22805": {
+  "title": "The Cryo-EM Structure of Alcohol Dehyrogenase from Yeast in complex with NADH (open form).",
+  "reported_resolution_A": [
+   "2.67"
+  ],
+  "pdb_list": {
+   "pdb_reference": [
+    {
+     "instance_type": "pdb_reference",
+     "pdb_id": "7kc2",
+     "relationship": {
+      "in_frame": "FULLOVERLAP"
+     }
+    }
+   ]
+  },
+  "map_parse": {
+   "shape": [
+    180,
+    180,
+    180
+   ],
+   "dtype": "float32",
+   "voxel_A": [
+    1.05,
+    1.05,
+    1.05
+   ],
+   "origin": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "min": -0.16577628254890442,
+   "max": 0.2567656338214874,
+   "mean": 0.0004960239166393876,
+   "std": 0.008440717123448849,
+   "author_contour": 0.032,
+   "frac_voxels_above_contour": 0.00834,
+   "density_bbox_extent_A_zyx": [
+    70.3,
+    72.4,
+    93.4
+   ],
+   "density_volume_A3_at_contour": 56288.0
+  }
+ },
+ "PDB-7KC2": {
+  "deposited_model_for_EMD-22805": {
+   "atoms": 10192,
+   "chains": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "residues": 1404,
+   "extent_A": [
+    94.3,
+    73.2,
+    69.3
+   ],
+   "centroid": [
+    94.5,
+    94.5,
+    94.5
+   ],
+   "coord_min": [
+    47.3,
+    57.9,
+    59.8
+   ],
+   "coord_max": [
+    141.7,
+    131.1,
+    129.2
+   ],
+   "bfactor_mean": 41.52,
+   "bfactor_min": 12.61
+  }
+ },
+ "AF-S5RZC2": {
+  "alphafold_for_7KC2_uniprot": {
+   "atoms": 2589,
+   "chains": [
+    "A"
+   ],
+   "residues": 348,
+   "extent_A": [
+    64.3,
+    42.0,
+    61.5
+   ],
+   "centroid": [
+    0.8,
+    0.6,
+    1.2
+   ],
+   "coord_min": [
+    -30.7,
+    -19.5,
+    -30.2
+   ],
+   "coord_max": [
+    33.6,
+    22.6,
+    31.3
+   ],
+   "bfactor_mean": 96.84,
+   "bfactor_min": 57.53
+  },
+  "plddt_note": "B-factor column in AF PDB = pLDDT per residue/atom"
+ },
+ "AF-P69905-HBA": {
+  "alphafold_human_hemoglobin_alpha": {
+   "atoms": 1077,
+   "chains": [
+    "A"
+   ],
+   "residues": 142,
+   "extent_A": [
+    44.4,
+    26.9,
+    41.7
+   ],
+   "centroid": [
+    1.4,
+    2.7,
+    -0.4
+   ],
+   "coord_min": [
+    -19.9,
+    -10.1,
+    -21.7
+   ],
+   "coord_max": [
+    24.5,
+    16.8,
+    20.0
+   ],
+   "bfactor_mean": 98.04,
+   "bfactor_min": 65.38
+  }
+ }
+}
