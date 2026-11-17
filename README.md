@@ -43,6 +43,17 @@ python3 goldmine_hunter.py --help
 Python 3 with requests (see imports); no API keys are required or used — the
 hunter reads public web pages only.
 
+## Published output
+
+The morpho-CT campaign's rhino computation — the dataset this tool located
+(Mallet et al. 2019's Supplemental Information 9 landmarks, obtained
+barrier-free via Europe PMC) — is published as a manuscript in its own right:
+**[The Forearm Splits the Rhinos](https://github.com/atharva-chourey-lab/rhino-forearm)**,
+a within-specimen centroid-size profile analysis separating all five living
+rhinoceros species. The computation itself lives here, under
+`gold/morpho-ct/epmc-rhino5/` (script, centroid sizes, profiles, pairwise
+tests, results JSON).
+
 ## Data — not redistributed
 
 The datasets the campaigns downloaded (~800 MB of atlases, simulation

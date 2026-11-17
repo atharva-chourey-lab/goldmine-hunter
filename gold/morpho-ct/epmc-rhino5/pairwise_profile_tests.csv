@@ -1,0 +1,11 @@
+sp1,sp2,n1,n2,dist,perm_p
+Ceratotherium_simum,Dicerorhinus_sumatrensis,10,9,0.0223,0.0091990800919908
+Ceratotherium_simum,Diceros_bicornis,10,5,0.0232,0.039996000399960006
+Ceratotherium_simum,Rhinoceros_sondaicus,10,7,0.0469,0.00019998000199980003
+Ceratotherium_simum,Rhinoceros_unicornis,10,7,0.0355,9.999000099990002e-05
+Dicerorhinus_sumatrensis,Diceros_bicornis,9,5,0.0376,0.0008999100089991
+Dicerorhinus_sumatrensis,Rhinoceros_sondaicus,9,7,0.0276,0.00019998000199980003
+Dicerorhinus_sumatrensis,Rhinoceros_unicornis,9,7,0.0263,0.00019998000199980003
+Diceros_bicornis,Rhinoceros_sondaicus,5,7,0.0556,0.0016998300169983002
+Diceros_bicornis,Rhinoceros_unicornis,5,7,0.0566,0.0013998600139986002
+Rhinoceros_sondaicus,Rhinoceros_unicornis,7,7,0.0458,0.0010998900109989002
