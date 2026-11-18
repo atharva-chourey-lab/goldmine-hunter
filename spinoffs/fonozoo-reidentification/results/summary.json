@@ -1,0 +1,102 @@
+{
+ "unique_firm_names_countable": 556,
+ "firm_recordings_countable": 629,
+ "not_a_name_names": 5,
+ "not_a_name_recordings": 7,
+ "names_by_category": {
+  "UNCHANGED": 416,
+  "MOVED": 112,
+  "SYNONYM": 13,
+  "SPLIT-AMBIGUOUS": 5,
+  "SPLIT-ELEVATED": 2,
+  "UNRESOLVED": 8
+ },
+ "recordings_by_category": {
+  "NOT-A-NAME": 7,
+  "UNCHANGED": 469,
+  "MOVED": 129,
+  "SYNONYM": 15,
+  "SPLIT-ELEVATED": 2,
+  "SPLIT-AMBIGUOUS": 6,
+  "UNRESOLVED": 8
+ },
+ "changed_recordings": 152,
+ "changed_names": 132,
+ "donor_genera_top10": [
+  [
+   "Hyla",
+   40
+  ],
+  [
+   "Bufo",
+   29
+  ],
+  [
+   "Hypsiboas",
+   15
+  ],
+  [
+   "Eleutherodactylus",
+   10
+  ],
+  [
+   "Platypelis",
+   6
+  ],
+  [
+   "Rana",
+   5
+  ],
+  [
+   "Epipedobates",
+   4
+  ],
+  [
+   "Phyllomedusa",
+   4
+  ],
+  [
+   "Phrynopus",
+   4
+  ],
+  [
+   "Phrynohyas",
+   3
+  ]
+ ],
+ "scorecard": {
+  "P1": {
+   "pass": false,
+   "value_pct": 22.5,
+   "rule": ">=35% of unique firm names MOVED+SYNONYM"
+  },
+  "P2": {
+   "pass": true,
+   "value_pct": 89.6,
+   "rule": "MOVED >=60% of (MOVED+SYNONYM) and largest of the two"
+  },
+  "P3": {
+   "pass": false,
+   "value_pct": 1.3,
+   "rule": "SPLIT recordings 5-20% of firm recordings"
+  },
+  "P4": {
+   "pass": false,
+   "value_pct": 74.8,
+   "rule": "UNCHANGED share of unique firm names in 40-65%"
+  },
+  "P5": {
+   "pass": true,
+   "value_pct": 26.3,
+   "top_donor": "Hyla",
+   "rule": "single donor genus >=15% of changed recordings"
+  },
+  "P6": {
+   "pass": true,
+   "trinomial_rate": 80.0,
+   "binomial_rate": 23.2,
+   "n_trinomial_names": 5,
+   "rule": "trinomial change rate exceeds binomial by >=15 pts"
+  }
+ }
+}

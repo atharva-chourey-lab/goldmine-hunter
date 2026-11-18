@@ -1,0 +1,110 @@
+[
+ {
+  "filed": "Centronele savegei",
+  "query": "Centrolene savagei",
+  "kind": "orthographic",
+  "justification": "genus and epithet both misspelled in the FCW filename; only one savagei centrolenid exists",
+  "match_type": "EXACT",
+  "status": "ACCEPTED",
+  "accepted": "Centrolene savagei"
+ },
+ {
+  "filed": "Gubermantis liber",
+  "query": "Guibemantis liber",
+  "kind": "orthographic",
+  "justification": "transposed letters in the genus; Guibemantis liber is the Malagasy species",
+  "match_type": "EXACT",
+  "status": "ACCEPTED",
+  "accepted": "Guibemantis liber"
+ },
+ {
+  "filed": "Hpsiboas faber",
+  "query": "Hypsiboas faber",
+  "kind": "orthographic",
+  "justification": "dropped letter in the genus in the guide filename",
+  "match_type": "EXACT",
+  "status": "SYNONYM",
+  "accepted": "Boana faber"
+ },
+ {
+  "filed": "Tlacohyla godmani",
+  "query": "Tlalocohyla godmani",
+  "kind": "orthographic",
+  "justification": "transposed letters in the genus",
+  "match_type": "EXACT",
+  "status": "ACCEPTED",
+  "accepted": "Tlalocohyla godmani"
+ },
+ {
+  "filed": "Tlacohyla smithii",
+  "query": "Tlalocohyla smithii",
+  "kind": "orthographic",
+  "justification": "transposed letters in the genus; the same name is filed correctly elsewhere in the pile",
+  "match_type": "EXACT",
+  "status": "ACCEPTED",
+  "accepted": "Tlalocohyla smithii"
+ },
+ {
+  "filed": "Osteopilus sept",
+  "query": "Osteopilus septentrionalis",
+  "kind": "orthographic",
+  "justification": "Cuba-guide filename truncates the epithet; septentrionalis is the only Osteopilus with this stem and the Cuban species",
+  "match_type": "EXACT",
+  "status": "ACCEPTED",
+  "accepted": "Osteopilus septentrionalis"
+ },
+ {
+  "filed": "Eleuthe plani",
+  "query": "Eleutherodactylus planirostris",
+  "kind": "orthographic",
+  "justification": "Cuba-guide truncation of genus and epithet; planirostris is the only Cuban Eleutherodactylus with this stem",
+  "match_type": "EXACT",
+  "status": "ACCEPTED",
+  "accepted": "Eleutherodactylus planirostris"
+ },
+ {
+  "filed": "Eleuthe gund",
+  "query": "Eleutherodactylus gundlachi",
+  "kind": "orthographic",
+  "justification": "Cuba-guide truncation; gundlachi is the only Cuban Eleutherodactylus with this stem",
+  "match_type": "EXACT",
+  "status": "ACCEPTED",
+  "accepted": "Eleutherodactylus gundlachi"
+ },
+ {
+  "filed": "Eleuthe guana",
+  "query": "Eleutherodactylus guanahacabibes",
+  "kind": "orthographic",
+  "justification": "Cuba-guide truncation; guanahacabibes is the only Cuban Eleutherodactylus with this stem",
+  "match_type": "EXACT",
+  "status": "ACCEPTED",
+  "accepted": "Eleutherodactylus guanahacabibes"
+ },
+ {
+  "filed": "Eleuthe klini",
+  "query": "Eleutherodactylus klinikowskii",
+  "kind": "orthographic",
+  "justification": "Cuba-guide truncation; attempted completion - see outcome in log",
+  "match_type": "EXACT",
+  "status": "ACCEPTED",
+  "accepted": "Eleutherodactylus klinikowskii"
+ },
+ {
+  "filed": "Colosthetus brunneus",
+  "query": "Allobates brunneus",
+  "kind": "identity",
+  "justification": "real era combination absent from the backbone; identity via the accepted name",
+  "match_type": "EXACT",
+  "status": "ACCEPTED",
+  "accepted": "Allobates brunneus"
+ },
+ {
+  "filed": "Eleutherodactylus reichlei",
+  "query": "Pristimantis reichlei",
+  "kind": "identity",
+  "justification": "backbone matched genus only; the species was recombined into Pristimantis",
+  "match_type": "EXACT",
+  "status": "ACCEPTED",
+  "accepted": "Pristimantis reichlei"
+ }
+]
