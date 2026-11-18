@@ -214,6 +214,99 @@ def fidelity_card(system):
             "RAW": f"raw capture types {p['raw_exts']} / words {p['raw_words']}",
             "UNIT": p["unit"], "LABEL_GAP": p["second_ruler"], "ANCHOR": p["anchor"]}
 
+# --- Niche-keyword registry (2026-11-18, Atharva's direction) ---
+# 50 niche domains chosen by three tests — fidelity, headline,
+# fragmentation (see README doctrine + NICHES-50.md). The registry in
+# niches.json is the campaign-generation queue: campaigns are
+# GENERATED from the top of it, not hand-picked. NICHE_PACKS mirrors
+# the FIDELITY_PACKS shape so scoring works the same way.
+import os as _os
+def _load_niches():
+    path = _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), "niches.json")
+    try:
+        with open(path) as fh:
+            doc = json.load(fh)
+        return {e["slug"]: e for e in doc["niches"]}
+    except Exception:
+        return {}
+NICHE_PACKS = _load_niches()
+
+def niche_score(name, slug=None):
+    """Score a filename/URL against a niche's gold words + signature
+    extensions (all niches if slug is None). Raw-capture signature
+    extensions outrank generic data files. Returns 0..~12."""
+    n = name.lower()
+    s = 0
+    packs = NICHE_PACKS.values() if slug is None else [NICHE_PACKS[slug]] if slug in NICHE_PACKS else []
+    for p in packs:
+        if n.endswith(tuple(p["signature_exts"])):
+            s += 3
+        for w in p["gold_words"]:
+            if w in n:
+                s += 2
+    return min(s, 12)
+
+def niche_card(slug):
+    """Registry entry as a printable card: fidelity 4-liner, keywords,
+    headline shape, score."""
+    e = NICHE_PACKS.get(slug)
+    if not e:
+        return None
+    return {"slug": slug, "name": e["name"], "family": e["family"],
+            "score": e["score"], "rank": e["rank_by_score"],
+            "RAW": e["fidelity_card"]["RAW"], "UNIT": e["fidelity_card"]["UNIT"],
+            "LABEL_GAP": e["fidelity_card"]["LABEL_GAP"], "ANCHOR": e["fidelity_card"]["ANCHOR"],
+            "keywords": e["keywords"], "headline": e["headline_shape"],
+            "why_niche": e["why_niche"], "score_justification": e["score_justification"],
+            "signature_exts": e["signature_exts"], "gold_words": e["gold_words"]}
+
+# --- Mammal-grain niche registry (2026-11-18, Atharva's correction) ---
+# He meant niches at the grain of "paws and fingerprint analysis of
+# mammals": ONE intuitive animal world, a niche = one body/trace/
+# pattern system (prints, tracks, whisker spots, flukes, hair casts).
+# This registry (mammal_niches.json, built by build_mammal_niches.py)
+# sits AHEAD of the broad NICHE_PACKS registry in the campaign queue.
+def _load_mammal_niches():
+    path = _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), "mammal_niches.json")
+    try:
+        with open(path) as fh:
+            doc = json.load(fh)
+        return {e["slug"]: e for e in doc["niches"]}
+    except Exception:
+        return {}
+MAMMAL_NICHE_PACKS = _load_mammal_niches()
+
+def mammal_niche_score(name, slug=None):
+    """Score a filename/URL against a mammal niche's gold words +
+    signature extensions (all mammal niches if slug is None).
+    Mirrors niche_score(), except word matching normalises _ and -
+    to spaces first (real files are named guard_hair_scale_cast.tif,
+    not 'guard hair scale cast.tif'). Returns 0..~12."""
+    n = name.lower()
+    n_words = n.replace("_", " ").replace("-", " ")
+    s = 0
+    packs = MAMMAL_NICHE_PACKS.values() if slug is None else [MAMMAL_NICHE_PACKS[slug]] if slug in MAMMAL_NICHE_PACKS else []
+    for p in packs:
+        if n.endswith(tuple(p["signature_exts"])):
+            s += 3
+        for w in p["gold_words"]:
+            if w in n_words:
+                s += 2
+    return min(s, 12)
+
+def mammal_niche_card(slug):
+    """Mammal registry entry as a printable card. Mirrors niche_card()."""
+    e = MAMMAL_NICHE_PACKS.get(slug)
+    if not e:
+        return None
+    return {"slug": slug, "name": e["name"], "family": e["family"],
+            "score": e["score"], "rank": e["rank_by_score"],
+            "RAW": e["fidelity_card"]["RAW"], "UNIT": e["fidelity_card"]["UNIT"],
+            "LABEL_GAP": e["fidelity_card"]["LABEL_GAP"], "ANCHOR": e["fidelity_card"]["ANCHOR"],
+            "keywords": e["keywords"], "headline": e["headline_shape"],
+            "why_niche": e["why_niche"], "score_justification": e["score_justification"],
+            "signature_exts": e["signature_exts"], "gold_words": e["gold_words"]}
+
 def is_data(url):
     p = unquote(urlparse(url).path.lower())
     return any(p.endswith(e) for e in DATA_EXTS)
@@ -671,6 +764,14 @@ def main():
     f.add_argument("--depth", type=int, default=1)
     f.add_argument("--max-pages", type=int, default=30)
 
+    ni = sub.add_parser("niches", help="niche-keyword registry (NICHES-50.md / niches.json): list all 50 ranked by score, top N, or one niche's full card — the campaign-generation queue")
+    ni.add_argument("--niche", choices=sorted(NICHE_PACKS), help="one niche slug — print its card, keywords and headline shape")
+    ni.add_argument("--top", type=int, metavar="N", help="print only the top N niches by score")
+
+    mn = sub.add_parser("mammal-niches", help="MAMMAL-GRAIN niche registry (MAMMAL-NICHES-50.md / mammal_niches.json): 50 print/trace/pattern systems inside one animal world — sits AHEAD of the broad registry in the campaign queue")
+    mn.add_argument("--niche", choices=sorted(MAMMAL_NICHE_PACKS), help="one mammal niche slug — print its card, keywords and headline shape")
+    mn.add_argument("--top", type=int, metavar="N", help="print only the top N mammal niches by score")
+
     args = ap.parse_args()
 
     if args.cmd == "audit":
@@ -744,6 +845,54 @@ def main():
             for k in sorted(FIDELITY_PACKS):
                 c = fidelity_card(k)
                 print(f"\n  {k}: {c['label']}\n    UNIT: {c['UNIT']}\n    ANCHOR: {c['ANCHOR']}")
+    elif args.cmd == "niches":
+        ranked = sorted(NICHE_PACKS.values(), key=lambda e: e["rank_by_score"])
+        if args.niche:
+            c = niche_card(args.niche)
+            print(f"\n=== {c['name']} (`{c['slug']}`) — score {c['score']}/10, rank {c['rank']} of {len(ranked)} ===")
+            print(f"  Family: {c['family']}")
+            for k in ("RAW", "UNIT", "LABEL_GAP", "ANCHOR"):
+                print(f"  {k}: {c[k]}")
+            print(f"  HEADLINE: {c['headline']}")
+            print(f"  Keywords: {'; '.join(c['keywords'])}")
+            print(f"  Signature files: {', '.join(c['signature_exts'])} | Gold words: {', '.join(c['gold_words'])}")
+            print(f"  Why niche: {c['why_niche']}")
+            print(f"  Score justification: {c['score_justification']}")
+            save({"niche_card": c}, f"niches-{args.niche}")
+        else:
+            show = ranked[:args.top] if args.top else ranked
+            print(f"Niche-keyword registry — {len(ranked)} niches, ranked by score (campaign-generation queue; --top N / --niche <slug>):")
+            for e in show:
+                print(f"  {e['rank_by_score']:2d}. [{e['score']}/10] {e['slug']} — {e['name']}")
+                print(f"      {e['headline_shape']}")
+            if args.top:
+                save({"niches_top": show}, f"niches-top{args.top}")
+    elif args.cmd == "mammal-niches":
+        # Sort by CURRENT score (calibration amends scores in
+        # mammal_niches.json; rank_by_score is the stale pre-campaign
+        # order and is kept only as a tiebreak) — patched 2026-11-18
+        # before Campaign 8, per CALIBRATION-2026-11-18 tooling note.
+        ranked = sorted(MAMMAL_NICHE_PACKS.values(), key=lambda e: (-e["score"], e["rank_by_score"]))
+        if args.niche:
+            c = mammal_niche_card(args.niche)
+            print(f"\n=== {c['name']} (`{c['slug']}`) — score {c['score']}/10, rank {c['rank']} of {len(ranked)} ===")
+            print(f"  Family: {c['family']}")
+            for k in ("RAW", "UNIT", "LABEL_GAP", "ANCHOR"):
+                print(f"  {k}: {c[k]}")
+            print(f"  HEADLINE: {c['headline']}")
+            print(f"  Keywords: {'; '.join(c['keywords'])}")
+            print(f"  Signature files: {', '.join(c['signature_exts'])} | Gold words: {', '.join(c['gold_words'])}")
+            print(f"  Why niche: {c['why_niche']}")
+            print(f"  Score justification: {c['score_justification']}")
+            save({"mammal_niche_card": c}, f"mammal-niches-{args.niche}")
+        else:
+            show = ranked[:args.top] if args.top else ranked
+            print(f"Mammal-grain niche registry — {len(ranked)} niches, ranked by score (campaign queue, AHEAD of the broad registry; --top N / --niche <slug>):")
+            for i, e in enumerate(show, 1):
+                print(f"  {i:2d}. [{e['score']}/10] {e['slug']} — {e['name']}")
+                print(f"      {e['headline_shape']}")
+            if args.top:
+                save({"mammal_niches_top": show}, f"mammal-niches-top{args.top}")
 
 if __name__ == "__main__":
     main()
