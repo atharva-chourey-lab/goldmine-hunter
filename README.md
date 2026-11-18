@@ -30,6 +30,10 @@ projects under `spinoffs/`.
 | Campaign 6 / Wave 1 (registry) | 2026-11-18 | Broad niche registry top 8 niches, 9 seeds | **GOLD** — Fonoteca Zoológica frog-call pile, 1,013 files stranded; SILVER Barts ([shortlist](campaigns/SHORTLIST-CAMPAIGN6-WAVE1-2026-11-18.md), [spin-off](spinoffs/fonozoo-reidentification/)) |
 | Campaign 7 / Mammal Wave 1 | 2026-11-18 | Mammal-grain registry top 7 seed groups | No gold; SILVER ×2 (Juneau flukes, Wellcome Galton IIIF); Wagyu custody finding ([shortlist](campaigns/SHORTLIST-CAMPAIGN7-MAMMAL-2026-11-18.md)) |
 | Campaign 8 / Mammal Wave 2 | 2026-11-18 | Recalibrated mammal queue, 7 niches | **GOLD** — Blue Spring manatee scar sheets, ~200 individuals, frozen 2013; SILVER guard-hair atlases + EBRWS ([shortlist](campaigns/SHORTLIST-CAMPAIGN8-MAMMAL2-2026-11-18.md), [spin-off](spinoffs/manatee-scar-sheets/)) |
+| Campaign 9 / Broad Wave 2A | 2026-11-18 | Broad registry next band, 10 niches | No gold; one small SILVER (wood key) ([shortlist](campaigns/SHORTLIST-CAMPAIGN9-WAVE2A-2026-11-18.md)) |
+| Campaign 10 / Broad Wave 2B | 2026-11-18 | Broad registry seeds 11–20, 10 niches | **GOLD** — LAGS dialect pile stranded at its former host: 1,082 informant folders vs 64 covered by formal products; minted as a pre-registered transcription audit; SILVER glacier repeat photos, dye books, endangered-language finding aids ([shortlist](campaigns/SHORTLIST-CAMPAIGN10-WAVE2B-2026-11-18.md), [spin-off](spinoffs/lags-transcription-audit/)) |
+| Campaign 11 / Mammal Wave 3 | 2026-11-18 | Mammal registry next band | No gold; 2 SILVER (published-by-design: SealID, GZGC sets on LILA), 5 inventory, rest custody/kill ([shortlist](campaigns/SHORTLIST-CAMPAIGN11-MAMMAL3-2026-11-18.md)) |
+| Campaign 12 / Mammal Wave 4 | 2026-11-18 | Mammal registry 7-band, 10 niches | No gold, no silver; 4 inventory, 6 kill/custody; registry scores recalibrated ([shortlist](campaigns/SHORTLIST-CAMPAIGN12-MAMMAL4-2026-11-18.md)) |
 
 Campaign scripts, verify passes and output JSONs are in `campaigns/`
 and `campaigns/outputs/`; the two niche registries are
@@ -302,6 +306,11 @@ python3 set_report.py outputs/species-sweep-<ts>.json --audit outputs/audit-<id>
   campaign's first gold — frog-call-archives was its #1 seed. Un-run
   comparison: re-identify the accessioned calls against today's
   DNA-split anuran taxonomy and count how many change species.
+  **Run to exhaustion (2026-11-18):** 146 of 629 countable recordings
+  (23.2%) no longer carry their filed name vs the GBIF backbone;
+  the maintained FNJV control changed at 1.1% — dead-name burden is
+  a property of filing state, not era. Manuscript published as the
+  lab's `fonozoo-reidentification` repository ([spin-off](spinoffs/fonozoo-reidentification/)).
 - **Manatee scar sheets (Campaign 8 / Mammal Wave 2, 2026-11-18) —
   GOLD, stranded:** the complete frozen April-2013 edition of Wayne
   Hartley's hand-drawn Blue Spring scar catalogue (~200 individuals,
@@ -310,9 +319,14 @@ python3 set_report.py outputs/species-sweep-<ts>.json --audit outputs/audit-<id>
   Manatee Club's old-site subdomains and never ingested by MIPS (the
   formal system is photographic; the sketches are a medium it does
   not ingest). Comparison pre-registered in
-  `~/workspace/manatee-scar-sheets/`: join the 2013 sheets to
+  the lab's project record: join the 2013 sheets to
   post-2013 records and test the sheet's own 3–5-year drop rules as
-  predictions of re-identifiability.
+  predictions of re-identifiability. **Run (2026-11-18):** 210
+  entries transcribed; the public ruler joined only 45/209 (21.5%),
+  so the pre-registered fallback fired — a coverage audit and case
+  series, scorecard 2 pass / 3 fail / 1 void. Manuscript published
+  as the lab's `manatee-scar-sheets` repository
+  ([spin-off](spinoffs/manatee-scar-sheets/)).
 - **Lion audit re-found the gold cold:** Hippocampus.nii.gz (42,043 B,
   dims 276×334×209 = the MRI's grid) and Telencephalon.nii.gz
   (272,280 B), both website-only; Zenodo 44855 holds only MRI-n4.nii.gz.

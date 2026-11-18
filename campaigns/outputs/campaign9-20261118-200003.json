@@ -1,0 +1,951 @@
+{
+  "campaign9_wave2a": [
+    {
+      "niche": "cephalopod-beaks",
+      "label": "BAS Cephalopod Beak Guide page (Xavier & Cherel)",
+      "url": "https://www.bas.ac.uk/news/cephalopod-beak-guide-for-the-southern-ocean/",
+      "pages": 10,
+      "unique_data_files": 5,
+      "images": 95,
+      "top": [
+        {
+          "name": "web-peninsula-video.mp4",
+          "url": "https://www.bas.ac.uk/wp-content/uploads/2026/06/web-peninsula-video.mp4",
+          "score": 6
+        },
+        {
+          "name": "Web-video-clip-SDA.mp4",
+          "url": "https://www.bas.ac.uk/wp-content/uploads/2026/06/Web-video-clip-SDA.mp4",
+          "score": 6
+        },
+        {
+          "name": "VIDEO-web-slow-lemaire.mp4",
+          "url": "https://www.bas.ac.uk/wp-content/uploads/2026/06/VIDEO-web-slow-lemaire.mp4",
+          "score": 6
+        },
+        {
+          "name": "traverse_for_website.mp4",
+          "url": "https://www.bas.ac.uk/wp-content/uploads/2026/06/traverse_for_website.mp4",
+          "score": 6
+        },
+        {
+          "name": "Rothera-DB-30secHD.mp4",
+          "url": "https://www.bas.ac.uk/wp-content/uploads/2026/10/Rothera-DB-30secHD.mp4",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "cephalopod-beaks",
+      "label": "NERC NORA eprint record 529835 (2021 guide PDF)",
+      "url": "https://nora.nerc.ac.uk/id/eprint/529835/",
+      "pages": 10,
+      "unique_data_files": 1,
+      "images": 19,
+      "top": [
+        {
+          "name": "nerc-eprint-529835.xml",
+          "url": "https://nora.nerc.ac.uk/cgi/export/eprint/529835/ContextObject/nerc-eprint-529835.xml",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "bivalve-shell-rings",
+      "label": "NOAA NCEI paleo Butler2013 author directory (Arctica increments)",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2013/",
+      "pages": 2,
+      "unique_data_files": 17,
+      "images": 0,
+      "top": [
+        {
+          "name": "butler2013-raw-noaa.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2013/butler2013-raw-noaa.txt",
+          "score": 7
+        },
+        {
+          "name": "butler2013-raw.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2013/butler2013-raw.txt",
+          "score": 7
+        },
+        {
+          "name": "butler2013-chron-noaa.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2013/butler2013-chron-noaa.txt",
+          "score": 4
+        },
+        {
+          "name": "butler2013-chron.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2013/butler2013-chron.txt",
+          "score": 4
+        },
+        {
+          "name": "butler2013-lifetimes-noaa.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2013/butler2013-lifetimes-noaa.txt",
+          "score": 4
+        },
+        {
+          "name": "butler2013-lifetimes.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2013/butler2013-lifetimes.txt",
+          "score": 4
+        },
+        {
+          "name": "butler2013-rcs-noaa.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2013/butler2013-rcs-noaa.txt",
+          "score": 4
+        },
+        {
+          "name": "butler2013-rcs.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2013/butler2013-rcs.txt",
+          "score": 4
+        },
+        {
+          "name": "butler2013-seg-length-noaa.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2013/butler2013-seg-length-noaa.txt",
+          "score": 4
+        },
+        {
+          "name": "butler2013-seg-length.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2013/butler2013-seg-length.txt",
+          "score": 4
+        },
+        {
+          "name": "butler2013-stats-ne-noaa.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2013/butler2013-stats-ne-noaa.txt",
+          "score": 4
+        },
+        {
+          "name": "butler2013-stats-ne.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2013/butler2013-stats-ne.txt",
+          "score": 4
+        },
+        {
+          "name": "butler2013-stats-rcs-h-noaa.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2013/butler2013-stats-rcs-h-noaa.txt",
+          "score": 4
+        },
+        {
+          "name": "butler2013-stats-rcs-h.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2013/butler2013-stats-rcs-h.txt",
+          "score": 4
+        },
+        {
+          "name": "butler2013-stats-rcs-m-noaa.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2013/butler2013-stats-rcs-m-noaa.txt",
+          "score": 4
+        },
+        {
+          "name": "butler2013-stats-rcs-m.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2013/butler2013-stats-rcs-m.txt",
+          "score": 4
+        },
+        {
+          "name": "readme-ncei-wds-paleoclimatology.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/readme-ncei-wds-paleoclimatology.txt",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "bivalve-shell-rings",
+      "label": "NOAA NCEI paleo Butler2009 author directory (Irish Sea chronology)",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2009/",
+      "pages": 2,
+      "unique_data_files": 9,
+      "images": 0,
+      "top": [
+        {
+          "name": "butler2009-raw-noaa.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2009/butler2009-raw-noaa.txt",
+          "score": 7
+        },
+        {
+          "name": "butler2009-raw.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2009/butler2009-raw.txt",
+          "score": 7
+        },
+        {
+          "name": "butler2009-chron-noaa.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2009/butler2009-chron-noaa.txt",
+          "score": 4
+        },
+        {
+          "name": "butler2009-chron.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2009/butler2009-chron.txt",
+          "score": 4
+        },
+        {
+          "name": "butler2009-d13C-noaa.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2009/butler2009-d13C-noaa.txt",
+          "score": 4
+        },
+        {
+          "name": "butler2009-d13C.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2009/butler2009-d13C.txt",
+          "score": 4
+        },
+        {
+          "name": "butler2009-deltaR-noaa.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2009/butler2009-deltaR-noaa.txt",
+          "score": 4
+        },
+        {
+          "name": "butler2009-deltaR.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2009/butler2009-deltaR.txt",
+          "score": 4
+        },
+        {
+          "name": "readme-ncei-wds-paleoclimatology.txt",
+          "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/readme-ncei-wds-paleoclimatology.txt",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "bivalve-shell-rings",
+      "label": "sclerochronology.org (community site \u2014 live status check)",
+      "url": "https://www.sclerochronology.org/",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "bird-egg-collections",
+      "label": "WFVZ collections page (world's largest egg collection)",
+      "url": "https://wfvz.org/collections/",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 15,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "bird-egg-collections",
+      "label": "Alfred Denny Museum egg collection (Google Sites)",
+      "url": "https://sites.google.com/sheffield.ac.uk/admuseum/collections/eggs",
+      "pages": 5,
+      "unique_data_files": 0,
+      "images": 46,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "bird-egg-collections",
+      "label": "MVZ Egg & Nest Collection page (Arctos/GBIF surface)",
+      "url": "http://mvz.berkeley.edu/Egg_Nest_Collection.html",
+      "pages": 10,
+      "unique_data_files": 0,
+      "images": 20,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "seed-bank-germination-vintages",
+      "label": "Genesys PGR portal (formal genebank platform)",
+      "url": "https://www.genesys-pgr.org/",
+      "pages": 10,
+      "unique_data_files": 43,
+      "images": 42,
+      "top": [
+        {
+          "name": "client.json",
+          "url": "https://www.genesys-pgr.org/locales/cs/client.json",
+          "score": 4
+        },
+        {
+          "name": "client-472b3643c62b0e09e328c681397766eb.json",
+          "url": "https://www.genesys-pgr.org/locales/cs/client-472b3643c62b0e09e328c681397766eb.json",
+          "score": 4
+        },
+        {
+          "name": "client-f9ca6ab80108581d56c8a4d11a0ca30b.json",
+          "url": "https://www.genesys-pgr.org/locales/de/client-f9ca6ab80108581d56c8a4d11a0ca30b.json",
+          "score": 4
+        },
+        {
+          "name": "client-3af3516736758f314e0de282894b4950.json",
+          "url": "https://www.genesys-pgr.org/locales/es/client-3af3516736758f314e0de282894b4950.json",
+          "score": 4
+        },
+        {
+          "name": "client-9edee5d298d1bb300993c231e41a2f8f.json",
+          "url": "https://www.genesys-pgr.org/locales/ar/client-9edee5d298d1bb300993c231e41a2f8f.json",
+          "score": 4
+        },
+        {
+          "name": "client-6ed126649c9c601b6dff262c67ab2a9d.json",
+          "url": "https://www.genesys-pgr.org/locales/fa/client-6ed126649c9c601b6dff262c67ab2a9d.json",
+          "score": 4
+        },
+        {
+          "name": "client-58729a87c4750dbba26dfe97aeccfad4.json",
+          "url": "https://www.genesys-pgr.org/locales/en/client-58729a87c4750dbba26dfe97aeccfad4.json",
+          "score": 4
+        },
+        {
+          "name": "client-54ef91386209f076143c309722b7f040.json",
+          "url": "https://www.genesys-pgr.org/locales/ja/client-54ef91386209f076143c309722b7f040.json",
+          "score": 4
+        },
+        {
+          "name": "client-6c78f339625c2773aafb2a492f3cc174.json",
+          "url": "https://www.genesys-pgr.org/locales/fr/client-6c78f339625c2773aafb2a492f3cc174.json",
+          "score": 4
+        },
+        {
+          "name": "client-cd0a0667ae01228bd0e75013936165fd.json",
+          "url": "https://www.genesys-pgr.org/locales/ko/client-cd0a0667ae01228bd0e75013936165fd.json",
+          "score": 4
+        },
+        {
+          "name": "client-9fd36a47c14aff306a84cf3c7deaff5d.json",
+          "url": "https://www.genesys-pgr.org/locales/pt-BR/client-9fd36a47c14aff306a84cf3c7deaff5d.json",
+          "score": 4
+        },
+        {
+          "name": "client-b853041eb979a35d61159d5afdb931ab.json",
+          "url": "https://www.genesys-pgr.org/locales/zh/client-b853041eb979a35d61159d5afdb931ab.json",
+          "score": 4
+        },
+        {
+          "name": "client-92945eb7265c089132449ce85a48dac4.json",
+          "url": "https://www.genesys-pgr.org/locales/pt/client-92945eb7265c089132449ce85a48dac4.json",
+          "score": 4
+        },
+        {
+          "name": "client-e5feb732e9e29352033cfd89ded7bf0f.json",
+          "url": "https://www.genesys-pgr.org/locales/ru/client-e5feb732e9e29352033cfd89ded7bf0f.json",
+          "score": 4
+        },
+        {
+          "name": "common.json",
+          "url": "https://www.genesys-pgr.org/locales/ar/common.json",
+          "score": 4
+        },
+        {
+          "name": "common-eae6aa1749eabd86267f0eb1968120b6.json",
+          "url": "https://www.genesys-pgr.org/locales/ar/common-eae6aa1749eabd86267f0eb1968120b6.json",
+          "score": 4
+        },
+        {
+          "name": "translations.json",
+          "url": "https://www.genesys-pgr.org/locales/ar/translations.json",
+          "score": 4
+        },
+        {
+          "name": "translations-ef0aabfd511c98f0ca2d08f3665a41a9.json",
+          "url": "https://www.genesys-pgr.org/locales/ar/translations-ef0aabfd511c98f0ca2d08f3665a41a9.json",
+          "score": 4
+        },
+        {
+          "name": "common-a07131b360ff2a716c308456bd7ab442.json",
+          "url": "https://www.genesys-pgr.org/locales/de/common-a07131b360ff2a716c308456bd7ab442.json",
+          "score": 4
+        },
+        {
+          "name": "translations-356d74d80ffaf8acc5b15e726e098ea9.json",
+          "url": "https://www.genesys-pgr.org/locales/de/translations-356d74d80ffaf8acc5b15e726e098ea9.json",
+          "score": 4
+        },
+        {
+          "name": "common-5ce21d63c2c80e90c5e38d2ade990da5.json",
+          "url": "https://www.genesys-pgr.org/locales/cs/common-5ce21d63c2c80e90c5e38d2ade990da5.json",
+          "score": 4
+        },
+        {
+          "name": "translations-41ddc82225c9ca7d77620e673d46dbb4.json",
+          "url": "https://www.genesys-pgr.org/locales/cs/translations-41ddc82225c9ca7d77620e673d46dbb4.json",
+          "score": 4
+        },
+        {
+          "name": "common-638924548269db1bc84c4ef39b359bed.json",
+          "url": "https://www.genesys-pgr.org/locales/es/common-638924548269db1bc84c4ef39b359bed.json",
+          "score": 4
+        },
+        {
+          "name": "translations-7f7007cc61e768f01a8854655f73be7a.json",
+          "url": "https://www.genesys-pgr.org/locales/es/translations-7f7007cc61e768f01a8854655f73be7a.json",
+          "score": 4
+        },
+        {
+          "name": "common-bc24e608e49dfab0d163f3b8c472bda1.json",
+          "url": "https://www.genesys-pgr.org/locales/en/common-bc24e608e49dfab0d163f3b8c472bda1.json",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "seed-bank-germination-vintages",
+      "label": "Marius Comper blog \u2014 40-yr Australian Grains Genebank analysis (personal site)",
+      "url": "https://mariuscomper.uk/how-long-do-seeds-last-seed-vault/",
+      "pages": 3,
+      "unique_data_files": 5,
+      "images": 14,
+      "top": [
+        {
+          "name": "catalogue.9832cad68f8d.json",
+          "url": "https://mariuscomper.uk/assets/catalogue.9832cad68f8d.json",
+          "score": 10
+        },
+        {
+          "name": "evidence.json",
+          "url": "https://mariuscomper.uk/how-long-do-seeds-last-seed-vault/assets/evidence.json",
+          "score": 4
+        },
+        {
+          "name": "projects.json",
+          "url": "https://mariuscomper.uk/projects.json",
+          "score": 4
+        },
+        {
+          "name": "agent-products.json",
+          "url": "https://mariuscomper.uk/agent-products.json",
+          "score": 4
+        },
+        {
+          "name": "question-search-6f69d498d113.json",
+          "url": "https://mariuscomper.uk/assets/question-search-6f69d498d113.json",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 19,
+      "wayback_data_files_raw": 19,
+      "wayback_sets_status200": {
+        "/bonfire-night-air/assets": 16,
+        "/": 1,
+        "/assets/discovery-technology-03b279cf2fda": 1,
+        "/atlasul-istoriei-romaniei": 1
+      },
+      "wayback_top": [
+        {
+          "name": "puzzle-01-cups.mp4",
+          "url": "https://mariuscomper.uk/assets/discovery-technology-03b279cf2fda/puzzle-01-cups.mp4",
+          "first_capture": "20261106215850",
+          "status": "200"
+        },
+        {
+          "name": "agent-products.json",
+          "url": "http://mariuscomper.uk/agent-products.json",
+          "first_capture": "20261008052054",
+          "status": "200"
+        },
+        {
+          "name": "here.json",
+          "url": "https://mariuscomper.uk/atlasul-istoriei-romaniei/here.json",
+          "first_capture": "20261004203145",
+          "status": "200"
+        },
+        {
+          "name": "basemap.68448c07f3.json",
+          "url": "https://mariuscomper.uk/bonfire-night-air/assets/basemap.68448c07f3.json",
+          "first_capture": "20261106172245",
+          "status": "200"
+        },
+        {
+          "name": "monitors.731fc44a90.json",
+          "url": "https://mariuscomper.uk/bonfire-night-air/assets/monitors.731fc44a90.json",
+          "first_capture": "20261106172245",
+          "status": "200"
+        },
+        {
+          "name": "night-2009.e4d178d023.json",
+          "url": "https://mariuscomper.uk/bonfire-night-air/assets/night-2009.e4d178d023.json",
+          "first_capture": "20261106172246",
+          "status": "200"
+        },
+        {
+          "name": "night-2010.2265d4dfa5.json",
+          "url": "https://mariuscomper.uk/bonfire-night-air/assets/night-2010.2265d4dfa5.json",
+          "first_capture": "20261106172247",
+          "status": "200"
+        },
+        {
+          "name": "night-2011.bf8a0e50f4.json",
+          "url": "https://mariuscomper.uk/bonfire-night-air/assets/night-2011.bf8a0e50f4.json",
+          "first_capture": "20261106172248",
+          "status": "200"
+        },
+        {
+          "name": "night-2012.7e180aeccd.json",
+          "url": "https://mariuscomper.uk/bonfire-night-air/assets/night-2012.7e180aeccd.json",
+          "first_capture": "20261106172248",
+          "status": "200"
+        },
+        {
+          "name": "night-2013.3e01323560.json",
+          "url": "https://mariuscomper.uk/bonfire-night-air/assets/night-2013.3e01323560.json",
+          "first_capture": "20261106172250",
+          "status": "200"
+        },
+        {
+          "name": "night-2014.ce9c1fa7f1.json",
+          "url": "https://mariuscomper.uk/bonfire-night-air/assets/night-2014.ce9c1fa7f1.json",
+          "first_capture": "20261106172251",
+          "status": "200"
+        },
+        {
+          "name": "night-2015.c93da8d3d2.json",
+          "url": "https://mariuscomper.uk/bonfire-night-air/assets/night-2015.c93da8d3d2.json",
+          "first_capture": "20261106172251",
+          "status": "200"
+        },
+        {
+          "name": "night-2016.062c293544.json",
+          "url": "https://mariuscomper.uk/bonfire-night-air/assets/night-2016.062c293544.json",
+          "first_capture": "20261106172252",
+          "status": "200"
+        },
+        {
+          "name": "night-2017.bf785193b1.json",
+          "url": "https://mariuscomper.uk/bonfire-night-air/assets/night-2017.bf785193b1.json",
+          "first_capture": "20261106172253",
+          "status": "200"
+        },
+        {
+          "name": "night-2018.1ff2e54fe0.json",
+          "url": "https://mariuscomper.uk/bonfire-night-air/assets/night-2018.1ff2e54fe0.json",
+          "first_capture": "20261106172253",
+          "status": "200"
+        },
+        {
+          "name": "night-2019.1c3c6481b8.json",
+          "url": "https://mariuscomper.uk/bonfire-night-air/assets/night-2019.1c3c6481b8.json",
+          "first_capture": "20261106172254",
+          "status": "200"
+        },
+        {
+          "name": "night-2020.e53c08b701.json",
+          "url": "https://mariuscomper.uk/bonfire-night-air/assets/night-2020.e53c08b701.json",
+          "first_capture": "20261106172255",
+          "status": "200"
+        },
+        {
+          "name": "night-2025.2f38314121.json",
+          "url": "https://mariuscomper.uk/bonfire-night-air/assets/night-2025.2f38314121.json",
+          "first_capture": "20261106172245",
+          "status": "200"
+        },
+        {
+          "name": "ui.en.4ba427884f.json",
+          "url": "https://mariuscomper.uk/bonfire-night-air/assets/ui.en.4ba427884f.json",
+          "first_capture": "20261106172245",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "diatom-type-slides",
+      "label": "Diatoms of North America (diatoms.org)",
+      "url": "https://diatoms.org/",
+      "pages": 20,
+      "unique_data_files": 1,
+      "images": 309,
+      "top": [
+        {
+          "name": "browserconfig.xml",
+          "url": "https://diatoms.org/images/icons/browserconfig.xml",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "diatom-type-slides",
+      "label": "ANSP Diatom Herbarium page",
+      "url": "https://ansp.org/research/systematics-evolution/diatom-herbarium/",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "diatom-type-slides",
+      "label": "Legacy ANSP diatom host diatom.ansp.org (dead live \u2014 Wayback check)",
+      "url": "http://diatom.ansp.org/",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 8,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "wood-anatomy-xylarium",
+      "label": "woodanatomy.ch \u2014 Schoch et al. Central European wood anatomy (old institute site)",
+      "url": "https://www.woodanatomy.ch/",
+      "pages": 9,
+      "unique_data_files": 0,
+      "images": 23,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 10,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "wood-anatomy-xylarium",
+      "label": "InsideWood (NCSU \u2014 formal joined database)",
+      "url": "https://insidewood.lib.ncsu.edu/",
+      "pages": 12,
+      "unique_data_files": 5,
+      "images": 91,
+      "top": [
+        {
+          "name": "ModernWoodDataSheet.xlsx",
+          "url": "https://insidewood.lib.ncsu.edu/extras/insidewood/ModernWoodDataSheet.xlsx",
+          "score": 6
+        },
+        {
+          "name": "FossilWoodDataSheet.xlsx",
+          "url": "https://insidewood.lib.ncsu.edu/extras/insidewood/FossilWoodDataSheet.xlsx",
+          "score": 6
+        },
+        {
+          "name": "SoftwoodDataSheet.xlsx",
+          "url": "https://insidewood.lib.ncsu.edu/extras/insidewood/SoftwoodDataSheet.xlsx",
+          "score": 6
+        },
+        {
+          "name": "ModernWoodDataSheet.xls",
+          "url": "https://insidewood.lib.ncsu.edu/files/insidewood/ModernWoodDataSheet.xls",
+          "score": 4
+        },
+        {
+          "name": "FossilWoodDataSheet.xls",
+          "url": "https://insidewood.lib.ncsu.edu/files/insidewood/FossilWoodDataSheet.xls",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "wood-anatomy-xylarium",
+      "label": "WSL Xylem Database page",
+      "url": "https://www.wsl.ch/en/services-produkte/xylem-database/",
+      "pages": 10,
+      "unique_data_files": 1,
+      "images": 82,
+      "top": [
+        {
+          "name": "metaInfo.json",
+          "url": "https://www.wsl.ch/fileadmin/avalanche_bulletin/home/metaInfo.json",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "blood-group-surveys",
+      "label": "BloodBook \u2014 world ABO frequency page (one-person compilation)",
+      "url": "http://www.bloodbook.com/world-abo-frequency.html",
+      "pages": 15,
+      "unique_data_files": 2,
+      "images": 0,
+      "top": [
+        {
+          "name": "sitemap-index.xml",
+          "url": "http://www.bloodbook.com/sitemap-index.xml",
+          "score": 6
+        },
+        {
+          "name": "rss.xml",
+          "url": "http://www.bloodbook.com/rss.xml",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 5,
+      "wayback_data_files_raw": 18,
+      "wayback_sets_status200": {
+        "/": 5
+      },
+      "wayback_top": [
+        {
+          "name": "rss.xml",
+          "url": "https://www.bloodbook.com/rss.xml",
+          "first_capture": "20260422184849",
+          "status": "200"
+        },
+        {
+          "name": "sitemap-0.xml",
+          "url": "https://www.bloodbook.com/sitemap-0.xml",
+          "first_capture": "20260422185042",
+          "status": "200"
+        },
+        {
+          "name": "sitemap-index.xml",
+          "url": "https://www.bloodbook.com/sitemap-index.xml",
+          "first_capture": "20260422185010",
+          "status": "200"
+        },
+        {
+          "name": "ads.txt",
+          "url": "http://bloodbook.com/ads.txt",
+          "first_capture": "20210519055444",
+          "status": "200"
+        },
+        {
+          "name": "robots.txt",
+          "url": "http://www.bloodbook.com:80/robots.txt",
+          "first_capture": "20010518123028",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "blood-group-surveys",
+      "label": "Allele Frequency Net Database (formal database)",
+      "url": "https://www.allelefrequencies.net/",
+      "pages": 10,
+      "unique_data_files": 0,
+      "images": 5,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "pathology-museum-jars",
+      "label": "Gordon Museum collection page (KCL \u2014 restricted-access museum)",
+      "url": "http://kcl.ac.uk/lsm/centre-for-education/museums/gordon-museum/the-collection",
+      "pages": 6,
+      "unique_data_files": 1,
+      "images": 49,
+      "top": [
+        {
+          "name": "browserconfig.xml",
+          "url": "http://kcl.ac.uk/_GhbZtw_95c69539-4db0-448f-a928-7887de0ca331/static/browserconfig.xml",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "pathology-museum-jars",
+      "label": "Anatomical Theatre museum list (secondary index)",
+      "url": "http://www.astropop.com/anatomical/museums.html",
+      "pages": 3,
+      "unique_data_files": 0,
+      "images": 1,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "tide-marigrams",
+      "label": "PSMSL data obtaining index (formal service)",
+      "url": "https://psmsl.org/data/obtaining/",
+      "pages": 15,
+      "unique_data_files": 26,
+      "images": 25,
+      "top": [
+        {
+          "name": "catalogue.dat",
+          "url": "https://psmsl.org/data/obtaining/catalogue.dat",
+          "score": 10
+        },
+        {
+          "name": "aden_calibrations.xls",
+          "url": "https://psmsl.org/data/calibrations/aden/aden_calibrations.xls",
+          "score": 7
+        },
+        {
+          "name": "chabahar_calibrations.xls",
+          "url": "https://psmsl.org/data/calibrations/chabahar/chabahar_calibrations.xls",
+          "score": 7
+        },
+        {
+          "name": "djibouti_calibrations.xls",
+          "url": "https://psmsl.org/data/calibrations/djibouti/djibouti_calibrations.xls",
+          "score": 7
+        },
+        {
+          "name": "inhambane_calibrations.xls",
+          "url": "https://psmsl.org/data/calibrations/inhambane/inhambane_calibrations.xls",
+          "score": 7
+        },
+        {
+          "name": "karachi_calibrations.xls",
+          "url": "https://psmsl.org/data/calibrations/karachi/karachi_calibrations.xls",
+          "score": 7
+        },
+        {
+          "name": "nouakchott_calibrations.xls",
+          "url": "https://psmsl.org/data/calibrations/nouakchott/nouakchott_calibrations.xls",
+          "score": 7
+        },
+        {
+          "name": "pemba_calibrations.xls",
+          "url": "https://psmsl.org/data/calibrations/pemba/pemba_calibrations.xls",
+          "score": 7
+        },
+        {
+          "name": "takoradi_calibrations.xls",
+          "url": "https://psmsl.org/data/calibrations/takoradi/takoradi_calibrations.xls",
+          "score": 7
+        },
+        {
+          "name": "browserconfig.xml",
+          "url": "https://psmsl.org/graphics/browserconfig.xml",
+          "score": 6
+        },
+        {
+          "name": "Brest_time_series.txt",
+          "url": "https://psmsl.org/data/longrecords/Brest_time_series.txt",
+          "score": 4
+        },
+        {
+          "name": "BrMHW_diurnalresidue.txt",
+          "url": "https://psmsl.org/data/longrecords/BrMHW_diurnalresidue.txt",
+          "score": 4
+        },
+        {
+          "name": "TalkeBostonMonthly.txt",
+          "url": "https://psmsl.org/data/longrecords/TalkeBostonMonthly.txt",
+          "score": 4
+        },
+        {
+          "name": "TalkeBostonMonthlyPsmsl.txt",
+          "url": "https://psmsl.org/data/longrecords/TalkeBostonMonthlyPsmsl.txt",
+          "score": 4
+        },
+        {
+          "name": "TalkeBostonAnnual.txt",
+          "url": "https://psmsl.org/data/longrecords/TalkeBostonAnnual.txt",
+          "score": 4
+        },
+        {
+          "name": "TalkeBostonAnnualPsmsl.txt",
+          "url": "https://psmsl.org/data/longrecords/TalkeBostonAnnualPsmsl.txt",
+          "score": 4
+        },
+        {
+          "name": "TalkeNewYorkMonthly.txt",
+          "url": "https://psmsl.org/data/longrecords/TalkeNewYorkMonthly.txt",
+          "score": 4
+        },
+        {
+          "name": "TalkeNewYorkMonthlyPsmsl.txt",
+          "url": "https://psmsl.org/data/longrecords/TalkeNewYorkMonthlyPsmsl.txt",
+          "score": 4
+        },
+        {
+          "name": "TalkeNewYorkAnnual.txt",
+          "url": "https://psmsl.org/data/longrecords/TalkeNewYorkAnnual.txt",
+          "score": 4
+        },
+        {
+          "name": "TalkeNewYorkAnnualPsmsl.txt",
+          "url": "https://psmsl.org/data/longrecords/TalkeNewYorkAnnualPsmsl.txt",
+          "score": 4
+        },
+        {
+          "name": "odinafrica_cal_sheet.xls",
+          "url": "https://psmsl.org/data/calibrations/odinafrica_cal_sheet.xls",
+          "score": 4
+        },
+        {
+          "name": "odinafrica_cal_sheet_french.xls",
+          "url": "https://psmsl.org/data/calibrations/odinafrica_cal_sheet_french.xls",
+          "score": 4
+        },
+        {
+          "name": "rlr_monthly.zip",
+          "url": "https://psmsl.org/data/obtaining/rlr.monthly.data/rlr_monthly.zip",
+          "score": 4
+        },
+        {
+          "name": "rlr_annual.zip",
+          "url": "https://psmsl.org/data/obtaining/rlr.annual.data/rlr_annual.zip",
+          "score": 4
+        },
+        {
+          "name": "met_monthly.zip",
+          "url": "https://psmsl.org/data/obtaining/met.monthly.data/met_monthly.zip",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "tide-marigrams",
+      "label": "PSMSL station 15 \u2014 Liverpool Georges/Princes Piers (1857-1983)",
+      "url": "https://psmsl.org/data/obtaining/stations/15.php",
+      "pages": 5,
+      "unique_data_files": 2,
+      "images": 20,
+      "top": [
+        {
+          "name": "browserconfig.xml",
+          "url": "https://psmsl.org/graphics/browserconfig.xml",
+          "score": 6
+        },
+        {
+          "name": "stationLocations.json",
+          "url": "https://psmsl.org/data/obtaining/stations/stationLocations.json",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    }
+  ]
+}

@@ -146,3 +146,25 @@ counted.
   9,821 otolith images and Otolitos UNAM sit behind JSP/PHP query
   interfaces with zero downloadable files; HyperL
 ...[truncated 3396 chars]
+## Addendum — Campaigns 9–12 and the exhaustion phase (2026-11-18, later)
+
+Four more registry-generated campaigns fired the same day (38 niches):
+Campaign 9 (Broad 2A) found no gold and one small silver; **Campaign 10
+(Broad 2B) found GOLD** — the LAGS dialect pile stranded at its former
+host, 1,082 informant folders against 64 covered by every formal
+product, minted as a pre-registered transcription audit
+(`spinoffs/lags-transcription-audit/`); Campaigns 11–12 (Mammal 3–4)
+found no gold — their silvers were published-by-design, and the rest
+was inventory or custody, with registry scores recalibrated downward
+in `campaigns/CALIBRATION-2026-11-18.md`.
+
+The two earlier golds were then **exhausted** — the minted comparisons
+run in full and written as manuscripts, published as their own lab
+repositories (`fonozoo-reidentification`, `manatee-scar-sheets`):
+Fonozoo's dead-name rate landed at 23.2% against a 1.1% maintained
+control; the manatee audit's public ruler reached only 21.5% of the
+catalogue, so its pre-registered fallback — a coverage audit, honestly
+labelled — is the deliverable. The lesson the hunter's grades now
+carry: minting is not the finish line; a gold is only spent when its
+comparison has been run and its result, including a coverage failure,
+published as found.

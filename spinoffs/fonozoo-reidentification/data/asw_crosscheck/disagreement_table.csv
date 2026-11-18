@@ -1,0 +1,66 @@
+filed_name,effective_name,n_recordings,gbif_category,gbif_accepted,col_category,col_accepted,col_status,agreement
+Adenomera diptyyx,Adenomera diptyyx,1,UNCHANGED,Adenomera diptyx,UNRESOLVED,,,DISAGREE-VERDICT
+Afrixalus fulvovitattus,Afrixalus fulvovitattus,1,UNCHANGED,Afrixalus fulvovittatus,UNRESOLVED,,,DISAGREE-VERDICT
+Ankaratra slow,Ankaratra slow,1,NOT-A-NAME,Ankaratra,UNRESOLVED,,,DISAGREE-VERDICT
+Anodonthyla aff,Anodonthyla aff,1,PROVISIONAL,Anodonthyla,UNRESOLVED,,,DISAGREE-VERDICT
+Anodonthyla boulengeri,Anodonthyla boulengeri,1,UNCHANGED,Anodonthyla boulengerii,UNRESOLVED,,,DISAGREE-VERDICT
+Aplastotiscus perviridis,Aplastotiscus perviridis,1,UNCHANGED,Aplastodiscus perviridis,UNRESOLVED,,,DISAGREE-VERDICT
+Blommersia aff,Blommersia aff,3,PROVISIONAL,Blommersia,UNRESOLVED,,,DISAGREE-VERDICT
+Blommersia witt,Blommersia witt,1,UNCHANGED,Blommersia wittei,UNRESOLVED,,,DISAGREE-VERDICT
+Bokermanohyla pseudopseudis,Bokermanohyla pseudopseudis,1,UNCHANGED,Bokermannohyla pseudopseudis,UNRESOLVED,,,DISAGREE-VERDICT
+Boophis aff,Boophis aff,4,PROVISIONAL,Boophis,UNRESOLVED,,,DISAGREE-VERDICT
+Boophis aff brachychir,Boophis aff brachychir,1,PROVISIONAL,Boophis brachychir,UNRESOLVED,,,DISAGREE-VERDICT
+Boophis aff rhodoscelis,Boophis aff rhodoscelis,1,PROVISIONAL,Boophis rhodoscelis,UNRESOLVED,,,DISAGREE-VERDICT
+Boophis brachychird,Boophis brachychird,1,UNCHANGED,Boophis brachychir,UNRESOLVED,,,DISAGREE-VERDICT
+Boophis brachychirdi,Boophis brachychirdi,1,UNCHANGED,Boophis brachychir,UNRESOLVED,,,DISAGREE-VERDICT
+Boophis feonnysala,Boophis feonnysala,1,UNCHANGED,Boophis feonnyala,UNRESOLVED,,,DISAGREE-VERDICT
+Boophis goudoti,Boophis goudoti,2,UNCHANGED,Boophis goudotii,UNRESOLVED,,,DISAGREE-VERDICT
+Cigarralmenoresfuente cristinaiglcfifa,Cigarralmenoresfuente cristinaiglcfifa,1,NOT-A-NAME,,UNRESOLVED,,,DISAGREE-VERDICT
+Colostethus jacobuspetersi,Colostethus jacobuspetersi,1,UNCHANGED,Colostethus jacobuspetersi,MOVED,Hyloxalus jacobuspetersi,synonym,DISAGREE-VERDICT
+Colosthetus brunneus,Colosthetus brunneus,1,MOVED,Allobates brunneus,UNRESOLVED,,,DISAGREE-VERDICT
+Craugastor stejnegeriaunus,Craugastor stejnegeriaunus,1,UNCHANGED,Craugastor stejnegerianus,UNRESOLVED,,,DISAGREE-VERDICT
+Dendopsophus bokermanni,Dendopsophus bokermanni,1,UNCHANGED,Dendropsophus bokermanni,UNRESOLVED,,,DISAGREE-VERDICT
+Dendropsophus samborni,Dendropsophus samborni,1,UNCHANGED,Dendropsophus sanborni,UNRESOLVED,,,DISAGREE-VERDICT
+Discoglossus jeanneae,Discoglossus jeanneae,1,UNCHANGED,Discoglossus jeanneae,SYNONYM,Discoglossus galganoi,synonym,DISAGREE-VERDICT
+Discoglossus pictus auritus,Discoglossus pictus auritus,1,SYNONYM,Discoglossus pictus,UNCHANGED,Discoglossus pictus,synonym,DISAGREE-VERDICT
+Eleutherodactylus reichlei,Eleutherodactylus reichlei,1,MOVED,Pristimantis reichlei,UNRESOLVED,,,DISAGREE-VERDICT
+Geco chichak,Geco chichak,1,NOT-A-NAME,,UNRESOLVED,,,DISAGREE-VERDICT
+Gephyromantis aff,Gephyromantis aff,1,PROVISIONAL,Gephyromantis,UNRESOLVED,,,DISAGREE-VERDICT
+Gephyromantis ventrimaculatus,Gephyromantis ventrimaculatus,1,UNCHANGED,Gephyromantis ventrimaculatus,SYNONYM,Gephyromantis malagasius,synonym,DISAGREE-VERDICT
+Guibemantis aff,Guibemantis aff,1,PROVISIONAL,Guibemantis,UNRESOLVED,,,DISAGREE-VERDICT
+Heterixalus betsilea,Heterixalus betsilea,1,UNCHANGED,Heterixalus betsileo,UNRESOLVED,,,DISAGREE-VERDICT
+Hyalinobatrachum bergeri,Hyalinobatrachum bergeri,1,UNCHANGED,Hyalinobatrachium bergeri,UNRESOLVED,,,DISAGREE-VERDICT
+Hyla koechlini,Hyla koechlini,1,MOVED,Dendropsophus koechlini,SYNONYM,Dendropsophus pauiniensis,synonym,DISAGREE-VERDICT
+Hyla meridonalis,Hyla meridonalis,1,UNCHANGED,Hyla meridionalis,UNRESOLVED,,,DISAGREE-VERDICT
+Hylarana guentheri,Hylarana guentheri,1,MOVED,Sylvirana guentheri,UNCHANGED,Hylarana guentheri,accepted,DISAGREE-VERDICT
+Hypsiboas alfaroni,Hypsiboas alfaroni,1,MOVED,Boana alfaroi,UNRESOLVED,,,DISAGREE-VERDICT
+Hypsiboas calacaratus,Hypsiboas calacaratus,1,SYNONYM,Boana calcarata,UNRESOLVED,,,DISAGREE-VERDICT
+Lao bruno,Lao bruno,1,NOT-A-NAME,,UNRESOLVED,,,DISAGREE-VERDICT
+Leptodactylus chaquensis macrosternum,Leptodactylus chaquensis macrosternum,1,SYNONYM,Leptodactylus chaquensis,UNRESOLVED,,,DISAGREE-VERDICT
+Leptodactylus dydimus,Leptodactylus dydimus,1,UNCHANGED,Leptodactylus didymus,UNRESOLVED,,,DISAGREE-VERDICT
+Leptodatylus melanontus,Leptodatylus melanontus,1,UNCHANGED,Leptodactylus melanonotus,UNRESOLVED,,,DISAGREE-VERDICT
+Limnonectes kuhli,Limnonectes kuhli,1,UNCHANGED,Limnonectes kuhlii,UNRESOLVED,,,DISAGREE-VERDICT
+Lithobates catesbeianus,Lithobates catesbeianus,1,UNCHANGED,Lithobates catesbeianus,MOVED,Aquarana catesbeiana,synonym,DISAGREE-VERDICT
+Lysapsus limellum,Lysapsus limellum,1,UNCHANGED,Lysapsus limellum,MOVED,Pseudis limellum,synonym,DISAGREE-VERDICT
+Lysapsus limellus,Lysapsus limellus,1,UNCHANGED,Lysapsus limellum,MOVED,Pseudis limellum,synonym,DISAGREE-VERDICT
+Mantidactylus aff,Mantidactylus aff,1,PROVISIONAL,Mantidactylus,UNRESOLVED,,,DISAGREE-VERDICT
+Melanophryniscus rubiventris,Melanophryniscus rubiventris,1,UNCHANGED,Melanophryniscus rubriventris,UNRESOLVED,,,DISAGREE-VERDICT
+Paradoxophylla palmata,Paradoxophylla palmata,1,UNCHANGED,Paradoxophyla palmata,UNRESOLVED,,,DISAGREE-VERDICT
+Phyllomedus boliviana,Phyllomedus boliviana,1,UNCHANGED,Phyllomedusa boliviana,UNRESOLVED,,,DISAGREE-VERDICT
+Platypelis aff,Platypelis aff,1,PROVISIONAL,Platypelis,UNRESOLVED,,,DISAGREE-VERDICT
+Platypelis cowanii,Platypelis cowanii,1,MOVED,Cophyla cowanii,UNCHANGED,Platypelis cowanii,accepted,DISAGREE-VERDICT
+Platypelis grandis,Platypelis grandis,1,MOVED,Cophyla grandis,UNCHANGED,Platypelis grandis,accepted,DISAGREE-VERDICT
+Platypelis milloti,Platypelis milloti,1,MOVED,Cophyla milloti,UNCHANGED,Platypelis milloti,accepted,DISAGREE-VERDICT
+Platypelis tetra,Platypelis tetra,1,MOVED,Cophyla tetra,UNCHANGED,Platypelis tetra,accepted,DISAGREE-VERDICT
+Platypelis tuberifera,Platypelis tuberifera,1,MOVED,Cophyla tuberifera,UNCHANGED,Platypelis tuberifera,accepted,DISAGREE-VERDICT
+Pleurodema borelli,Pleurodema borelli,1,UNCHANGED,Pleurodema borellii,UNRESOLVED,,,DISAGREE-VERDICT
+Pseudys paradoxa,Pseudys paradoxa,2,UNCHANGED,Pseudis paradoxa,UNRESOLVED,,,DISAGREE-VERDICT
+Ptychadaena anchietae amani,Ptychadaena anchietae amani,1,UNCHANGED,Ptychadena anchietae,UNRESOLVED,,,DISAGREE-VERDICT
+Ptychohyla legleri,Ptychohyla legleri,1,UNCHANGED,Ptychohyla legleri,MOVED,Duellmanohyla legleri,synonym,DISAGREE-VERDICT
+Ptychohyla salvadorensis,Ptychohyla salvadorensis,1,UNCHANGED,Ptychohyla salvadorensis,MOVED,Duellmanohyla salvadorensis,synonym,DISAGREE-VERDICT
+Rana catesbeiana,Rana catesbeiana,1,MOVED,Lithobates catesbeianus,MOVED,Aquarana catesbeiana,synonym,DISAGREE-TARGET
+Rhinoderma darwini,Rhinoderma darwini,1,UNCHANGED,Rhinoderma darwinii,UNRESOLVED,,,DISAGREE-VERDICT
+Sapo parteiro,Sapo parteiro,3,NOT-A-NAME,,UNRESOLVED,,,DISAGREE-VERDICT
+Scarthyla goinurum,Scarthyla goinurum,1,UNCHANGED,Scarthyla goinorum,UNRESOLVED,,,DISAGREE-VERDICT
+Telmatobius vilamensis,Telmatobius vilamensis,1,UNCHANGED,Telmatobius vilamensis,SYNONYM,Telmatobius halli,synonym,DISAGREE-VERDICT
+Trachicephalus venulosus,Trachicephalus venulosus,1,UNCHANGED,Trachycephalus venulosus,UNRESOLVED,,,DISAGREE-VERDICT

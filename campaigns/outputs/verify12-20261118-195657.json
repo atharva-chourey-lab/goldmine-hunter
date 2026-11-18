@@ -1,0 +1,206 @@
+{
+  "verify12": {
+    "turkish_atd": {
+      "label": "Turkish J Pediatr 1970 Down dermatoglyphics (atd tables)",
+      "url": "https://turkjpediatr.org/article/download/4340/4948/48939",
+      "http_status": 200,
+      "bytes_downloaded": 921950,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "65946c224532dad75fcd19b93f3d8708",
+      "md5_head1mb": "65946c224532dad75fcd19b93f3d8708",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign12-verify/turkish-atd-1970.pdf"
+    },
+    "ijbm_atd": {
+      "label": "IJBM 2023 Kosova atd comparison",
+      "url": "https://www.ijbm.org/articles/i51/ijbm_13(3)_oa15.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 561584,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "d66ede950e16330aa11356e66a49ea92",
+      "md5_head1mb": "d66ede950e16330aa11356e66a49ea92",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign12-verify/ijbm-atd-2023.pdf"
+    },
+    "murie_text_head": {
+      "label": "Murie Peterson Field Guide djvu text (archive.org)",
+      "url": "https://dn720005.ca.archive.org/0/items/peterson-field-guide-animal-tracks/Peterson%20Field%20Guide%20Animal%20Tracks_djvu.txt",
+      "http_status": 200,
+      "bytes_downloaded": 458752,
+      "truncated_at_cap": true,
+      "content_type": "text/plain; charset=utf-8",
+      "error": null,
+      "md5_full": null,
+      "md5_head1mb": "5980cfbf621cec06e9dc2619248781e9",
+      "looks_html": false,
+      "lines_sampled": 19252,
+      "first_line": "Nile URS. uw ",
+      "verdict": "REAL \u2014 decodable text data"
+    },
+    "amherst_sheet": {
+      "label": "Amherst Tracks and Scat ID sheet",
+      "url": "https://cpb-us-w2.wpmucdn.com/wordpress.amherst.edu/dist/3/137/files/2020/03/Track-and-Scat-Identification-1.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 3425108,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "a18c578f62ff5c80fd65b086de40495c",
+      "md5_head1mb": "d76cd5a435f7444eef62db4804c3459d",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign12-verify/amherst-tracks-scat.pdf"
+    },
+    "virginia": {
+      "status": 403,
+      "paw_rule_snippet": null
+    },
+    "hokkaido": {
+      "status": null,
+      "erdp_snippet": null,
+      "paw_width_snippet": null
+    },
+    "nasa_pdf": {
+      "label": "NASA Snow Wildlife Tracks user guide PDF (ORNL DAAC 2188)",
+      "url": "https://data.ornldaac.earthdata.nasa.gov/public/above/Snow_Wildlife_Tracks_AK_WA/comp/Snow_Wildlife_Tracks_AK_WA.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 1204031,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "98abda1b3bbbcd2ea6186057ce8b7f0a",
+      "md5_head1mb": "c762930e1a18a434375e0242f9bcfd37",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign12-verify/nasa-snow-tracks-guide.pdf"
+    },
+    "nasa_zip_head": {
+      "status": 200,
+      "size": "869271",
+      "type": "application/zip"
+    },
+    "datagov": {
+      "status": 200,
+      "snippet": "dataset contains three field seasons of snow-wildlife observations conducted at 707 sites from January 2021 to March 2023 in Washington and Alaska, spanning a broad range of snow conditions"
+    },
+    "luke": {
+      "status": 200,
+      "bytes": 276898
+    },
+    "pachyderm": {
+      "label": "Pachyderm Who's Who & Whereabouts paper",
+      "url": "https://Pachydermjournal.org/index.php/pachyderm/article/download/482/498",
+      "http_status": 200,
+      "bytes_downloaded": 3665008,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "4e0eeefd03f8bf8c02b2084ed6313671",
+      "md5_head1mb": "03991233af47b83220994aef6e19a9bb",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign12-verify/pachyderm-whoswho.pdf"
+    },
+    "kelly": {
+      "label": "Kelly 2001 Serengeti cheetah computer-aided ID (mjkelly.info personal site)",
+      "url": "http://mjkelly.info/ewExternalFiles/computeraid.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 262988,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "ede0700c3269d8bfadf4f2079b7d11dc",
+      "md5_head1mb": "ede0700c3269d8bfadf4f2079b7d11dc",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign12-verify/kelly-cheetah-2001.pdf"
+    },
+    "marameru": {
+      "label": "Mara-Meru Cheetah Project Annual Report 2022",
+      "url": "https://romanwildlifefoundation.com/files/uploads/annual-report-2022.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 8049538,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "333c4d8845fd0089d2c9da2d9444f471",
+      "md5_head1mb": "92e4a53d81e9729a478fb2f3cb3449de",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign12-verify/marameru-2022.pdf"
+    },
+    "slt": {
+      "status": 200,
+      "million_snippet": " They have also tagged more than one million images collected across the Greater Himalayan and Trans\u2011Himalayan regions of Himachal Pradesh and Jammu &amp; Kashmir as part ",
+      "rosette_snippet": "d from viewing snow leopards as threats to actively tracking them, identifying individuals by their rosette patterns and contributing to vital population estimates"
+    },
+    "puns": {
+      "label": "PUNS pangolin notching preprint (EcoEvoRxiv)",
+      "url": "https://ecoevorxiv.org/repository/object/6274/download/12204/",
+      "http_status": 200,
+      "bytes_downloaded": 758358,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "a8baf6957968800d771e87ab58cc5e63",
+      "md5_head1mb": "a8baf6957968800d771e87ab58cc5e63",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign12-verify/puns-preprint.pdf"
+    },
+    "cites_pangolin": {
+      "label": "CITES CoP18 IUCN pangolin monitoring methods",
+      "url": "https://cites.org/sites/default/files/eng/cop/18/inf/P-CoP18-Inf-075.pdf",
+      "http_status": null,
+      "bytes_downloaded": 0,
+      "truncated_at_cap": false,
+      "content_type": null,
+      "error": "HTTPSConnectionPool(host='cites.org', port=443): Max retries exceeded with url: /sites/default/files/eng/cop/18/inf/P-CoP18-Inf-075.pdf (Caused by ProxyError('U",
+      "verdict": "UNREACHABLE / EMPTY"
+    },
+    "wti_guide": {
+      "label": "WTI Wildlife ID & Post-Seizure Guide",
+      "url": "https://www.wti.org.in/wp-content/uploads/2026/03/SPECIES-ID-POST-IDENTIFICATION-GUIDE.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 13586838,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "bd2e3db9148cd8beadd0f4f6dc587533",
+      "md5_head1mb": "cc5de9b8c5a62110deed319e6673e6b5",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign12-verify/wti-seizure-guide.pdf"
+    },
+    "wisconsin_wolf": {
+      "label": "Wisconsin Gray Wolf Monitoring Report 2025-26",
+      "url": "https://preprod-wpr-main.pantheonsite.io/wp-content/uploads/2026/09/2026-Annual-Wolf-Report_July2026.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 3821391,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "482b49a25cd9780f6735b9831cc52f88",
+      "md5_head1mb": "f88157045e3f00dbae327b4773d113af",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign12-verify/wisconsin-wolf-2026.pdf"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "verify9c": {
+    "diatom_lm": {
+      "label": "diatoms.org Cymbella hustedtii LM image 1",
+      "url": "https://diatoms.gumlet.io/images/species_lm_images/Cymbella_hustedtii1.jpg",
+      "http_status": 200,
+      "bytes_downloaded": 24311,
+      "truncated_at_cap": false,
+      "content_type": "image/jpeg",
+      "error": null,
+      "md5_full": "ad4f5d12aed590fd2969147c0060a056",
+      "md5_head1mb": "ad4f5d12aed590fd2969147c0060a056",
+      "looks_html": false,
+      "verdict": "REAL \u2014 JPEG image",
+      "jpeg": true,
+      "saved_to": "gold/campaign9-verify/diatoms-Cymbella_hustedtii1.jpg"
+    },
+    "wsl_species_js": {
+      "label": "WSL dendro species_list.js",
+      "url": "https://static.wsl.ch/land/products/dendro/js/species_list.js",
+      "http_status": 200,
+      "bytes_downloaded": 4132,
+      "truncated_at_cap": false,
+      "content_type": "text/javascript",
+      "error": null,
+      "md5_full": "0b178712b05eac0ce056f350c1757ffd",
+      "md5_head1mb": "0b178712b05eac0ce056f350c1757ffd",
+      "looks_html": false,
+      "lines_sampled": 89,
+      "first_line": "/* species_list.html - replaces species_az/_family/_coni/_dico/_group.php",
+      "verdict": "REAL \u2014 decodable text data",
+      "saved_to": "gold/campaign9-verify/wsl-species_list.js"
+    },
+    "wsl_js_stats": {
+      "bytes": 4132,
+      "latin_name_like": 4,
+      "sample": "/* species_list.html - replaces species_az/_family/_coni/_dico/_group.php\n   URL parameters: type=C|D|DR|DD, sort=latin|family, group=XX (first two letters of the species code), q=search text */\n(function () {\n  \"use strict\";\n  const h = Dendro.h;\n  const state = {\n    type: Dendro.param(\"type\") || "
+    },
+    "bloodbook_raw": {
+      "status": 200,
+      "bytes": 26084,
+      "count_ABO": 6,
+      "count_percent_sign": 16,
+      "json_refs": [],
+      "has_table_tag": false
+    },
+    "psmsl_15_rlr": {
+      "label": "PSMSL 15.rlrdata monthly (Liverpool)",
+      "url": "https://psmsl.org/data/obtaining/rlr.monthly.data/15.rlrdata",
+      "http_status": 200,
+      "bytes_downloaded": 39468,
+      "truncated_at_cap": false,
+      "content_type": null,
+      "error": null,
+      "md5_full": "691b090c7605e24cc38f3c3f423c6c01",
+      "md5_head1mb": "691b090c7605e24cc38f3c3f423c6c01",
+      "looks_html": false,
+      "lines_sampled": 1518,
+      "first_line": "  1857.5417;  6823; 1;000",
+      "verdict": "REAL \u2014 decodable text data",
+      "saved_to": "gold/campaign9-verify/psmsl-15.rlrdata"
+    }
+  }
+}

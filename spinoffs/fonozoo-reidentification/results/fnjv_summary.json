@@ -1,0 +1,54 @@
+{
+ "archive": "FNJV - Fonoteca Neotropical Jacques Vielliard (UNICAMP)",
+ "dwca_records_total": 103162,
+ "amphibian_recordings": 11130,
+ "firm_named_recordings": 5793,
+ "excluded_nonfirm": 5337,
+ "unique_firm_names": 694,
+ "names_by_category": {
+  "UNCHANGED": 667,
+  "UNRESOLVED": 15,
+  "SYNONYM": 3,
+  "MOVED": 8,
+  "NON-ANURAN": 1
+ },
+ "recordings_by_category": {
+  "UNCHANGED": 5620,
+  "UNRESOLVED": 101,
+  "MOVED": 54,
+  "SYNONYM": 7,
+  "NON-ANURAN": 11
+ },
+ "changed_names_pct": 1.6,
+ "changed_recordings_pct": 1.1,
+ "by_recording_decade": {
+  "1960s": {
+   "total": 245,
+   "changed_pct": 0.0
+  },
+  "1970s": {
+   "total": 202,
+   "changed_pct": 0.0
+  },
+  "1980s": {
+   "total": 970,
+   "changed_pct": 0.7
+  },
+  "1990s": {
+   "total": 715,
+   "changed_pct": 0.1
+  },
+  "2000s": {
+   "total": 661,
+   "changed_pct": 1.1
+  },
+  "2010s": {
+   "total": 2198,
+   "changed_pct": 2.0
+  },
+  "2020s": {
+   "total": 736,
+   "changed_pct": 0.1
+  }
+ }
+}

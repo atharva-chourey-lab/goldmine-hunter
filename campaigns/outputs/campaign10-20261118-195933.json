@@ -1,0 +1,888 @@
+{
+  "campaign10_wave2b": [
+    {
+      "niche": "glacier-repeat-photos",
+      "label": "SwissGlaciers / gletschervergleiche.ch (personal repeat-photo site)",
+      "url": "https://gletschervergleiche.ch/pages/ImageCompare.aspx?Id=6",
+      "pages": 25,
+      "unique_data_files": 0,
+      "images": 202,
+      "top": [],
+      "wayback_data_files_status200": 1,
+      "wayback_data_files_raw": 2,
+      "wayback_sets_status200": {
+        "/": 1
+      },
+      "wayback_top": [
+        {
+          "name": "sitemap.xml",
+          "url": "https://www.gletschervergleiche.ch/sitemap.xml",
+          "first_capture": "20220718151404",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "glacier-repeat-photos",
+      "label": "NSIDC glacier photographs announcement (formal collection surface)",
+      "url": "https://nsidc.org/data/user-resources/data-announcements/glacier-photographs-past-and-present",
+      "pages": 10,
+      "unique_data_files": 0,
+      "images": 73,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "glacier-repeat-photos",
+      "label": "USGS Repeat Photography Project (formal)",
+      "url": "https://www.usgs.gov/centers/norock/science/repeat-photography-project?qt-science_center_objects=0",
+      "pages": 10,
+      "unique_data_files": 2,
+      "images": 132,
+      "top": [
+        {
+          "name": "Coasts_Animation.mp4",
+          "url": "https://usgs-ocapsv2-public-output-media.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/video/Coasts_Animation/MP4/Coasts_Animation.mp4",
+          "score": 6
+        },
+        {
+          "name": "20Animation.mp4",
+          "url": "https://www.usgs.gov/science/science-explorer/20Animation.mp4",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "paper-seismograms",
+      "label": "INGV EuroSeismos static collection pages (storing.ingv.it)",
+      "url": "http://storing.ingv.it/es_web/Data/Collection.htm",
+      "pages": 25,
+      "unique_data_files": 0,
+      "images": 12,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 9,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "paper-seismograms",
+      "label": "INGV SISMOS Seismogram Request 2.0 (registration-tier custody surface)",
+      "url": "http://seismogramrequest.rm.ingv.it",
+      "pages": 1,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "paper-seismograms",
+      "label": "Mendeley Data \u2014 Romanian EUROSEISMOS seismograms (formal deposit)",
+      "url": "https://data.mendeley.com/datasets/gvxmng6644/2",
+      "pages": 5,
+      "unique_data_files": 1,
+      "images": 1,
+      "top": [
+        {
+          "name": "Brazil.xml",
+          "url": "https://data.mendeley.com/Brazil.xml",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "moonwatch-satellite-cards",
+      "label": "Smithsonian Archives \u2014 Moonwatch Division records page (RU 255)",
+      "url": "https://siarchives.si.edu/collections/siris_arc_216819",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "moonwatch-satellite-cards",
+      "label": "NSIDC NOAA IGY Satellite Report No.4 PDF (Moonwatch Catalogue inside)",
+      "url": "https://noaadata.apps.nsidc.org/NOAA/G02201/IPY_Pub_017_20100728/DAHLI_IPY017_0387.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "steam-engine-indicator-cards",
+      "label": "Science Museum Group \u2014 indicator diagram object",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co51466/indicator-diagram",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "steam-engine-indicator-cards",
+      "label": "Rolls-Royce Experimental Archives \u2014 Box 52 (indicator-card orders/scans)",
+      "url": "https://archive.rollsroyces.org/boxes/experimental/ExFiles_bck_Box_sp_52_bck_1/",
+      "pages": 10,
+      "unique_data_files": 0,
+      "images": 1,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "steam-engine-indicator-cards",
+      "label": "Smithsonian NMAH \u2014 Lippincott indicator (record cards in box)",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_847439",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "dye-sample-books",
+      "label": "ETH Truempy print-sample catalog (truempy-druckmuster.ethz.ch)",
+      "url": "https://truempy-druckmuster.ethz.ch/en",
+      "pages": 20,
+      "unique_data_files": 0,
+      "images": 3,
+      "top": [],
+      "wayback_data_files_status200": 13,
+      "wayback_data_files_raw": 14,
+      "wayback_sets_status200": {
+        "/": 7,
+        "/.well-known": 5,
+        "/feeds": 1
+      },
+      "wayback_top": [
+        {
+          "name": "atom.xml",
+          "url": "https://truempy-druckmuster.ethz.ch/atom.xml",
+          "first_capture": "20250720103824",
+          "status": "200"
+        },
+        {
+          "name": "feed.xml",
+          "url": "https://truempy-druckmuster.ethz.ch/feed.xml",
+          "first_capture": "20250720103813",
+          "status": "200"
+        },
+        {
+          "name": "all.atom.xml",
+          "url": "https://truempy-druckmuster.ethz.ch/feeds/all.atom.xml",
+          "first_capture": "20250720103805",
+          "status": "200"
+        },
+        {
+          "name": "index.xml",
+          "url": "https://truempy-druckmuster.ethz.ch/index.xml",
+          "first_capture": "20250720103906",
+          "status": "200"
+        },
+        {
+          "name": "sitemap.xml",
+          "url": "https://truempy-druckmuster.ethz.ch/sitemap.xml",
+          "first_capture": "20250720103814",
+          "status": "200"
+        },
+        {
+          "name": "ai-plugin.json",
+          "url": "https://truempy-druckmuster.ethz.ch/.well-known/ai-plugin.json",
+          "first_capture": "20250720103823",
+          "status": "200"
+        },
+        {
+          "name": "assetlinks.json",
+          "url": "https://truempy-druckmuster.ethz.ch/.well-known/assetlinks.json",
+          "first_capture": "20250720103831",
+          "status": "200"
+        },
+        {
+          "name": "dnt-policy.txt",
+          "url": "https://truempy-druckmuster.ethz.ch/.well-known/dnt-policy.txt",
+          "first_capture": "20250720103842",
+          "status": "200"
+        },
+        {
+          "name": "gpc.json",
+          "url": "https://truempy-druckmuster.ethz.ch/.well-known/gpc.json",
+          "first_capture": "20250720103829",
+          "status": "200"
+        },
+        {
+          "name": "trust.txt",
+          "url": "https://truempy-druckmuster.ethz.ch/.well-known/trust.txt",
+          "first_capture": "20250720103807",
+          "status": "200"
+        },
+        {
+          "name": "ads.txt",
+          "url": "https://truempy-druckmuster.ethz.ch/ads.txt",
+          "first_capture": "20250720103942",
+          "status": "200"
+        },
+        {
+          "name": "app-ads.txt",
+          "url": "https://truempy-druckmuster.ethz.ch/app-ads.txt",
+          "first_capture": "20250720103909",
+          "status": "200"
+        },
+        {
+          "name": "robots.txt",
+          "url": "https://truempy-druckmuster.ethz.ch/robots.txt",
+          "first_capture": "20250720103811",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "dye-sample-books",
+      "label": "ETH e-heritage \u2014 Truempy online catalog announcement",
+      "url": "https://etheritage.ethz.ch/2024/11/15/chemische-farbenpracht-a-j-truempys-stoffmuster-als-onlinekatalog/?lang=en",
+      "pages": 5,
+      "unique_data_files": 0,
+      "images": 27,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "dye-sample-books",
+      "label": "Yale \u2014 Koechlin & Freres sample books catalogue record (2 vols, thousands of swatches)",
+      "url": "https://search.library.yale.edu/archives/13876265",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "endangered-language-tape-shelves",
+      "label": "AIATSIS collection finding aids index",
+      "url": "https://aiatsis.gov.au/research/guides-and-resources/collection-finding-aids",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "endangered-language-tape-shelves",
+      "label": "PARADISEC catalog (formal archive surface)",
+      "url": "https://catalog.paradisec.org.au/",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "endangered-language-tape-shelves",
+      "label": "Alaska Native Language Archive (UAF)",
+      "url": "https://www.uaf.edu/anla/",
+      "pages": 10,
+      "unique_data_files": 2,
+      "images": 33,
+      "top": [
+        {
+          "name": "result.xml",
+          "url": "https://www.uaf.edu/anla/result.xml?searchId=&form.searchId;",
+          "score": 6
+        },
+        {
+          "name": "index.xml",
+          "url": "https://www.uaf.edu/anla/index.xml",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "dialect-survey-recordings",
+      "label": "Linguistic Atlas Project Data Download Center (lap.uga.edu old site)",
+      "url": "https://www.lap.uga.edu/Site/DDC.html",
+      "pages": 2,
+      "unique_data_files": 0,
+      "images": 5,
+      "top": [],
+      "wayback_data_files_status200": 278,
+      "wayback_data_files_raw": 292,
+      "wayback_sets_status200": {
+        "/Projects/DASS/Biographies": 64,
+        "/Projects/DASS2019/Bios": 64,
+        "/Projects/XML%20master": 13,
+        "/Projects/SED": 5,
+        "/Projects/DASS/Speakers": 3,
+        "/Projects/DASS2019/Info": 3,
+        "/Projects/LAGS/Speakers/LAGS(INF001)": 3,
+        "/Projects/LAGS/Speakers/LAGS(INF002)": 3,
+        "/Projects/LAGS/Speakers/LAGS(INF003)": 3,
+        "/Projects/DASS2019/Full_Corpus": 2,
+        "/Projects/LAGS/Speakers/LAGS(INF010)": 2,
+        "/Projects/LAGS/Speakers/LAGS(INF011)": 2
+      },
+      "wayback_top": [
+        {
+          "name": "DASS_demographic_information.xlsx",
+          "url": "https://www.lap.uga.edu/Projects/DASS2019/Info/DASS_demographic_information.xlsx",
+          "first_capture": "20250412050540",
+          "status": "200"
+        },
+        {
+          "name": "LAGS-Bio-Spreadsheet.xlsx",
+          "url": "http://www.lap.uga.edu:80/Projects/LAGS/Information/LAGS-Bio-Spreadsheet.xlsx",
+          "first_capture": "20191019185542",
+          "status": "200"
+        },
+        {
+          "name": "LAMSAS-Bio-spreadsheet.xlsx",
+          "url": "http://www.lap.uga.edu:80/Projects/LAMSAS/Information/LAMSAS-Bio-spreadsheet.xlsx",
+          "first_capture": "20170323170750",
+          "status": "200"
+        },
+        {
+          "name": "ATLSP_XMLmaster.xlsx",
+          "url": "http://www.lap.uga.edu/Projects/XML%20master/ATLSP_XMLmaster.xlsx",
+          "first_capture": "20221006161456",
+          "status": "200"
+        },
+        {
+          "name": "AUG_XMLmaster.xlsx",
+          "url": "https://www.lap.uga.edu/Projects/XML%20master/AUG_XMLmaster.xlsx",
+          "first_capture": "20240819011947",
+          "status": "200"
+        },
+        {
+          "name": "DARE_XMLmaster.xlsx",
+          "url": "http://www.lap.uga.edu/Projects/XML%20master/DARE_XMLmaster.xlsx",
+          "first_capture": "20221006154454",
+          "status": "200"
+        },
+        {
+          "name": "GDS_XMLMaster.xlsx",
+          "url": "http://www.lap.uga.edu/Projects/XML%20master/GDS_XMLMaster.xlsx",
+          "first_capture": "20221006162257",
+          "status": "200"
+        },
+        {
+          "name": "LAGS_XMLmaster.xlsx",
+          "url": "http://www.lap.uga.edu/Projects/XML%20master/LAGS_XMLmaster.xlsx",
+          "first_capture": "20221006153048",
+          "status": "200"
+        },
+        {
+          "name": "LAMSASII_XMLmaster.xlsx",
+          "url": "http://www.lap.uga.edu/Projects/XML%20master/LAMSASII_XMLmaster.xlsx",
+          "first_capture": "20221006153306",
+          "status": "200"
+        },
+        {
+          "name": "LANCS_XMLmaster.xlsx",
+          "url": "http://www.lap.uga.edu/Projects/XML%20master/LANCS_XMLmaster.xlsx",
+          "first_capture": "20221006165601",
+          "status": "200"
+        },
+        {
+          "name": "LAO_XMLmaster.xlsx",
+          "url": "http://www.lap.uga.edu/Projects/XML%20master/LAO_XMLmaster.xlsx",
+          "first_capture": "20221006155136",
+          "status": "200"
+        },
+        {
+          "name": "LAWS_XMLmaster.xlsx",
+          "url": "http://www.lap.uga.edu/Projects/XML%20master/LAWS_XMLmaster.xlsx",
+          "first_capture": "20221006153256",
+          "status": "200"
+        },
+        {
+          "name": "LPSK_XMLmaster.xlsx",
+          "url": "http://www.lap.uga.edu/Projects/XML%20master/LPSK_XMLmaster.xlsx",
+          "first_capture": "20221006153032",
+          "status": "200"
+        },
+        {
+          "name": "ROSWELL_XMLmaster.xlsx",
+          "url": "http://www.lap.uga.edu/Projects/XML%20master/ROSWELL_XMLmaster.xlsx",
+          "first_capture": "20221006154526",
+          "status": "200"
+        },
+        {
+          "name": "VIRGINIA_XMLmaster.xlsx",
+          "url": "http://www.lap.uga.edu/Projects/XML%20master/VIRGINIA_XMLmaster.xlsx",
+          "first_capture": "20221006182620",
+          "status": "200"
+        },
+        {
+          "name": "DASS_XMLmaster.xls",
+          "url": "https://www.lap.uga.edu/Projects/XML%20master/DASS_XMLmaster.xls",
+          "first_capture": "20240819163027",
+          "status": "200"
+        },
+        {
+          "name": "allprojects.xlsx",
+          "url": "http://www.lap.uga.edu:80/Projects/allprojects.xlsx",
+          "first_capture": "20130126045625",
+          "status": "200"
+        },
+        {
+          "name": "LAGS-allsound.xml",
+          "url": "https://www.lap.uga.edu/Projects/DASS/Speakers/LAGS-allsound.xml",
+          "first_capture": "20250410104558",
+          "status": "200"
+        },
+        {
+          "name": "DASS_full.xml",
+          "url": "https://www.lap.uga.edu/Projects/DASS2019/Full_Corpus/DASS_full.xml",
+          "first_capture": "20250410091310",
+          "status": "200"
+        },
+        {
+          "name": "DASS_narratives_topics.xlsx",
+          "url": "https://www.lap.uga.edu/Projects/DASS2019/Info/DASS_narratives_topics.xlsx",
+          "first_capture": "20250412050837",
+          "status": "200"
+        },
+        {
+          "name": "metadata.xlsx",
+          "url": "https://www.lap.uga.edu/Projects/DASS2019/Info/metadata.xlsx",
+          "first_capture": "20250412052918",
+          "status": "200"
+        },
+        {
+          "name": "LAGS(INF001).xlsx",
+          "url": "http://www.lap.uga.edu:80/Projects/LAGS/Speakers/LAGS(INF001)/LAGS(INF001).xlsx",
+          "first_capture": "20130126045456",
+          "status": "200"
+        },
+        {
+          "name": "LAGS(INF001).xml",
+          "url": "http://www.lap.uga.edu:80/Projects/LAGS/Speakers/LAGS(INF001)/LAGS(INF001).xml",
+          "first_capture": "20130126045502",
+          "status": "200"
+        },
+        {
+          "name": "LAGS(INF002).xlsx",
+          "url": "http://www.lap.uga.edu:80/Projects/LAGS/Speakers/LAGS(INF002)/LAGS(INF002).xlsx",
+          "first_capture": "20180202003518",
+          "status": "200"
+        },
+        {
+          "name": "LAGS(INF002).xml",
+          "url": "http://www.lap.uga.edu:80/Projects/LAGS/Speakers/LAGS(INF002)/LAGS(INF002).xml",
+          "first_capture": "20180202002547",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "dialect-survey-recordings",
+      "label": "British Library Sound and Vision (SED surface, formal)",
+      "url": "https://www.bl.uk/collection/sound-and-vision",
+      "pages": 10,
+      "unique_data_files": 2,
+      "images": 84,
+      "top": [
+        {
+          "name": "387d6081960fd2b4f9ed7fd0fb906e78d658226a.mp4",
+          "url": "https://cdn.sanity.io/files/v5dwkion/production/387d6081960fd2b4f9ed7fd0fb906e78d658226a.mp4",
+          "score": 6
+        },
+        {
+          "name": "british-library-website-welcome-video-2025.mp4",
+          "url": "https://www.bl.uk/british-library-website-welcome-video-2025.mp4",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "dialect-survey-recordings",
+      "label": "Leeds LAVC \u2014 SED gramophone disc recordings record",
+      "url": "https://explore.library.leeds.ac.uk/special-collections-explore/414940",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "commodity-price-currents",
+      "label": "archive.org \u2014 Toronto Trade Circular and Prices Current (item files)",
+      "url": "https://archive.org/details/torontotradecirc00unse",
+      "pages": 5,
+      "unique_data_files": 14,
+      "images": 18,
+      "top": [
+        {
+          "name": "torontotradecirc00unse_archive_marc.xml",
+          "url": "https://archive.org/download/torontotradecirc00unse/torontotradecirc00unse_archive_marc.xml",
+          "score": 9
+        },
+        {
+          "name": "torontotradecirc00unse_scandata.xml",
+          "url": "https://archive.org/details/torontotradecirc00unse_scandata.xml",
+          "score": 9
+        },
+        {
+          "name": "torontotradecirc00unse_dc.xml",
+          "url": "https://archive.org/details/torontotradecirc00unse_dc.xml",
+          "score": 6
+        },
+        {
+          "name": "torontotradecirc00unse_djvu.xml",
+          "url": "https://archive.org/details/torontotradecirc00unse_djvu.xml",
+          "score": 6
+        },
+        {
+          "name": "torontotradecirc00unse_files.xml",
+          "url": "https://archive.org/details/torontotradecirc00unse_files.xml",
+          "score": 6
+        },
+        {
+          "name": "torontotradecirc00unse_marc.xml",
+          "url": "https://archive.org/details/torontotradecirc00unse_marc.xml",
+          "score": 6
+        },
+        {
+          "name": "torontotradecirc00unse_meta.xml",
+          "url": "https://archive.org/details/torontotradecirc00unse_meta.xml",
+          "score": 6
+        },
+        {
+          "name": "torontotradecirc00unse_metasource.xml",
+          "url": "https://archive.org/details/torontotradecirc00unse_metasource.xml",
+          "score": 6
+        },
+        {
+          "name": "torontotradecirc00unse_djvu.txt",
+          "url": "https://archive.org/stream/torontotradecirc00unse/torontotradecirc00unse_djvu.txt",
+          "score": 4
+        },
+        {
+          "name": "torontotradecirc00unse_page_numbers.json",
+          "url": "https://archive.org/download/torontotradecirc00unse/torontotradecirc00unse_page_numbers.json",
+          "score": 4
+        },
+        {
+          "name": "torontotradecirc00unse_orig_jp2.tar",
+          "url": "https://archive.org/download/torontotradecirc00unse/torontotradecirc00unse_orig_jp2.tar",
+          "score": 4
+        },
+        {
+          "name": "torontotradecirc00unse_jp2.zip",
+          "url": "https://archive.org/download/torontotradecirc00unse/torontotradecirc00unse_jp2.zip",
+          "score": 4
+        },
+        {
+          "name": "torontotradecirc00unse_events.json",
+          "url": "https://archive.org/details/torontotradecirc00unse_events.json",
+          "score": 4
+        },
+        {
+          "name": "torontotradecirc00unse_hocr_pageindex.json",
+          "url": "https://archive.org/details/torontotradecirc00unse_hocr_pageindex.json",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "commodity-price-currents",
+      "label": "archive.org \u2014 British Packet and Argentine News 1845-10-04 (Prices Current inside)",
+      "url": "https://archive.org/details/BNA_S001219212_18451004N0998",
+      "pages": 5,
+      "unique_data_files": 8,
+      "images": 18,
+      "top": [
+        {
+          "name": "BNA_S001219212_18451004N0998_scandata.xml",
+          "url": "https://archive.org/details/BNA_S001219212_18451004N0998_scandata.xml",
+          "score": 9
+        },
+        {
+          "name": "BNA_S001219212_18451004N0998_djvu.xml",
+          "url": "https://archive.org/details/BNA_S001219212_18451004N0998_djvu.xml",
+          "score": 6
+        },
+        {
+          "name": "BNA_S001219212_18451004N0998_files.xml",
+          "url": "https://archive.org/details/BNA_S001219212_18451004N0998_files.xml",
+          "score": 6
+        },
+        {
+          "name": "BNA_S001219212_18451004N0998_meta.xml",
+          "url": "https://archive.org/details/BNA_S001219212_18451004N0998_meta.xml",
+          "score": 6
+        },
+        {
+          "name": "BNA_S001219212_18451004N0998_djvu.txt",
+          "url": "https://archive.org/stream/BNA_S001219212_18451004N0998/BNA_S001219212_18451004N0998_djvu.txt",
+          "score": 4
+        },
+        {
+          "name": "BNA_S001219212_18451004N0998_page_numbers.json",
+          "url": "https://archive.org/download/BNA_S001219212_18451004N0998/BNA_S001219212_18451004N0998_page_numbers.json",
+          "score": 4
+        },
+        {
+          "name": "BNA_S001219212_18451004N0998_jp2.zip",
+          "url": "https://archive.org/download/BNA_S001219212_18451004N0998/BNA_S001219212_18451004N0998_jp2.zip",
+          "score": 4
+        },
+        {
+          "name": "BNA_S001219212_18451004N0998_hocr_pageindex.json",
+          "url": "https://archive.org/details/BNA_S001219212_18451004N0998_hocr_pageindex.json",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "fire-insurance-plans",
+      "label": "Library and Archives Canada \u2014 Goad Montreal Vol V record (digitised sheets)",
+      "url": "https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=fonandcol&IdNumber=3821547",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "fire-insurance-plans",
+      "label": "UCalgary libguide \u2014 Calgary Fire Insurance Plans inventory",
+      "url": "https://libguides.ucalgary.ca/c.php?g=740062&p=5339528",
+      "pages": 10,
+      "unique_data_files": 0,
+      "images": 16,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "fire-insurance-plans",
+      "label": "Goad's Guide \u2014 collections & copyright page (househistories.ca)",
+      "url": "https://www.househistories.ca/goads-guide-collections",
+      "pages": 5,
+      "unique_data_files": 31,
+      "images": 29,
+      "top": [
+        {
+          "name": "u.label",
+          "url": "https://www.househistories.ca/u.label",
+          "score": 11
+        },
+        {
+          "name": "o.label",
+          "url": "https://www.househistories.ca/o.label",
+          "score": 11
+        },
+        {
+          "name": "file.mp4",
+          "url": "https://www.househistories.ca/file.mp4",
+          "score": 6
+        },
+        {
+          "name": "blog-feed.xml",
+          "url": "https://www.househistories.ca/blog-feed.xml",
+          "score": 6
+        },
+        {
+          "name": "manifests.json",
+          "url": "https://www.househistories.ca/manifests/14271d6f-ba62-d045-549b-ab972ae1f70e/25/manifests.json",
+          "score": 4
+        },
+        {
+          "name": "a7dbf879980a8e90e03d649b6f48fac4_r3.json",
+          "url": "https://www.househistories.ca/a7dbf879980a8e90e03d649b6f48fac4_r3.json",
+          "score": 4
+        },
+        {
+          "name": "7D.json",
+          "url": "https://www.househistories.ca/7D.json",
+          "score": 4
+        },
+        {
+          "name": "ae7beb322e32912fccc688a488a3de89_r3.json",
+          "url": "https://www.househistories.ca/ae7beb322e32912fccc688a488a3de89_r3.json",
+          "score": 4
+        },
+        {
+          "name": "5ebf2e_3c76a90751c1cda486fe5cc0b4dfdfb5_1692.json",
+          "url": "https://www.househistories.ca/5ebf2e_3c76a90751c1cda486fe5cc0b4dfdfb5_1692.json",
+          "score": 4
+        },
+        {
+          "name": "5ebf2e_c4f602f069bfd4a9b79d90d4c2b5c898_1694.json",
+          "url": "https://www.househistories.ca/5ebf2e_c4f602f069bfd4a9b79d90d4c2b5c898_1694.json",
+          "score": 4
+        },
+        {
+          "name": "5ebf2e_8e6482acc2a0619a4074ab5af4983d56_1692.json",
+          "url": "https://www.househistories.ca/5ebf2e_8e6482acc2a0619a4074ab5af4983d56_1692.json",
+          "score": 4
+        },
+        {
+          "name": "5ebf2e_142837e33a9877295729d02b46bb5313_1692.json",
+          "url": "https://www.househistories.ca/5ebf2e_142837e33a9877295729d02b46bb5313_1692.json",
+          "score": 4
+        },
+        {
+          "name": "5ebf2e_b69c435267feb18bf5bf668a4238511f_1692.json",
+          "url": "https://www.househistories.ca/5ebf2e_b69c435267feb18bf5bf668a4238511f_1692.json",
+          "score": 4
+        },
+        {
+          "name": "5ebf2e_f17104926ab3ec68f84d32e809081409_1692.json",
+          "url": "https://www.househistories.ca/5ebf2e_f17104926ab3ec68f84d32e809081409_1692.json",
+          "score": 4
+        },
+        {
+          "name": "5ebf2e_c9554b85d65da4c364c9127b0beeae43_1692.json",
+          "url": "https://www.househistories.ca/5ebf2e_c9554b85d65da4c364c9127b0beeae43_1692.json",
+          "score": 4
+        },
+        {
+          "name": "5ebf2e_52c52c7dad86434df2513912f8e6b9f2_1692.json",
+          "url": "https://www.househistories.ca/5ebf2e_52c52c7dad86434df2513912f8e6b9f2_1692.json",
+          "score": 4
+        },
+        {
+          "name": "5ebf2e_357a87ef2fa16691a6b1b4f224f7f9cf_1692.json",
+          "url": "https://www.househistories.ca/5ebf2e_357a87ef2fa16691a6b1b4f224f7f9cf_1692.json",
+          "score": 4
+        },
+        {
+          "name": "5ebf2e_80fdcce7b3a1a9c9e12383a2c14b8ebf_1692.json",
+          "url": "https://www.househistories.ca/5ebf2e_80fdcce7b3a1a9c9e12383a2c14b8ebf_1692.json",
+          "score": 4
+        },
+        {
+          "name": "5ebf2e_f386190edfe39d2c59ce6c704b0c1d39_1692.json",
+          "url": "https://www.househistories.ca/5ebf2e_f386190edfe39d2c59ce6c704b0c1d39_1692.json",
+          "score": 4
+        },
+        {
+          "name": "5ebf2e_ffb6106075a908cef4fe11491cea17aa_1692.json",
+          "url": "https://www.househistories.ca/5ebf2e_ffb6106075a908cef4fe11491cea17aa_1692.json",
+          "score": 4
+        },
+        {
+          "name": "5ebf2e_2329d6b717859d3b5aba857f90c206e4_1694.json",
+          "url": "https://www.househistories.ca/5ebf2e_2329d6b717859d3b5aba857f90c206e4_1694.json",
+          "score": 4
+        },
+        {
+          "name": "5ebf2e_287c6cc837078e9b2aa649a6fa44b010_1692.json",
+          "url": "https://www.househistories.ca/5ebf2e_287c6cc837078e9b2aa649a6fa44b010_1692.json",
+          "score": 4
+        },
+        {
+          "name": "5ebf2e_29b034ccf6edc47b3731ce33af50c6f1_1692.json",
+          "url": "https://www.househistories.ca/5ebf2e_29b034ccf6edc47b3731ce33af50c6f1_1692.json",
+          "score": 4
+        },
+        {
+          "name": "5ebf2e_d3a37b0c1f8a74a84acea761c723d0d7_1692.json",
+          "url": "https://www.househistories.ca/5ebf2e_d3a37b0c1f8a74a84acea761c723d0d7_1692.json",
+          "score": 4
+        },
+        {
+          "name": "5ebf2e_759e44bb4d687d15c73170c7a177d0b7_1692.json",
+          "url": "https://www.househistories.ca/5ebf2e_759e44bb4d687d15c73170c7a177d0b7_1692.json",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "photo-finish-film-strips",
+      "label": "LA32 Games \u2014 First Olympic Photo Finish (1932 Kirby camera account)",
+      "url": "https://la32games.substack.com/p/the-first-olympic-photo-finish",
+      "pages": 5,
+      "unique_data_files": 0,
+      "images": 28,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "photo-finish-film-strips",
+      "label": "Weebly \u2014 Photo Finish PDF (secondary compilation)",
+      "url": "https://licksmacenre.weebly.com/uploads/1/4/8/7/148708983/photo-finish.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    }
+  ]
+}

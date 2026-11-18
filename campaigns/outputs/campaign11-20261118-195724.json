@@ -1,0 +1,955 @@
+{
+  "campaign11_mammal3": [
+    {
+      "niche": "rhino-ear-notch-horn-profiles",
+      "label": "Save the Rhino \u2014 how do you identify black rhinos? (Ezemvelo notch system explainer)",
+      "url": "https://www.savetherhino.org/africa/south-africa/how-do-you-identify-black-rhinos/",
+      "pages": 5,
+      "unique_data_files": 1,
+      "images": 29,
+      "top": [
+        {
+          "name": "jquery.json",
+          "url": "https://www.savetherhino.org/app/plugins/gravityforms/js/jquery.json",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "rhino-ear-notch-horn-profiles",
+      "label": "International Rhino Foundation \u2014 RhODIS genetics page (forensic anchor, custody)",
+      "url": "https://rhinos.org/blog/genetic-factors-to-improve-rhino-management/",
+      "pages": 5,
+      "unique_data_files": 0,
+      "images": 21,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "rhino-ear-notch-horn-profiles",
+      "label": "RhODIS home (rhodis.co.za \u2014 forensic system surface check)",
+      "url": "http://rhodis.co.za/",
+      "pages": 1,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 1,
+      "wayback_data_files_raw": 3,
+      "wayback_sets_status200": {
+        "/wp-includes": 1
+      },
+      "wayback_top": [
+        {
+          "name": "wlwmanifest.xml",
+          "url": "http://rhodis.co.za/wp-includes/wlwmanifest.xml",
+          "first_capture": "20160115094630",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "pinniped-pelage-patterns",
+      "label": "MDPI Sensors \u2014 SealID paper (Saimaa, 57 seals / 2,080 images, DOI dataset)",
+      "url": "https://www.mdpi.com/1424-8220/22/19/7602",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "pinniped-pelage-patterns",
+      "label": "Monk Seal Conservation Program Cabo Blanco \u2014 annual report PDF host (freqstats.marineland.fr)",
+      "url": "http://freqstats.marineland.fr/dl/Annual-Report-2017-2018-Mediterranean-monk-seal-Program.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 1,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "pinniped-pelage-patterns",
+      "label": "NOAA InPort \u2014 Hawaiian Monk Seal Photo ID Database (custody; no distributions)",
+      "url": "https://www.fisheries.noaa.gov/inport/item/28581",
+      "pages": 5,
+      "unique_data_files": 0,
+      "images": 10,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "tiger-stripe-catalogues",
+      "label": "Conservation Research Ltd \u2014 ExtractCompare Tigers page (demo folders + Access DB, 2010)",
+      "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/Tigers.html",
+      "pages": 10,
+      "unique_data_files": 20,
+      "images": 18,
+      "top": [
+        {
+          "name": "tiger_demo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/tiger/tiger_demo_folders.zip",
+          "score": 7
+        },
+        {
+          "name": "adders_demo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/adders/adders_demo_folders.zip",
+          "score": 7
+        },
+        {
+          "name": "cheetah_demo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/cheetah/cheetah_demo_folders.zip",
+          "score": 7
+        },
+        {
+          "name": "chital_demo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/chital/chital_demo_folders.zip",
+          "score": 7
+        },
+        {
+          "name": "clouded_leopard_demo.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/clouded_leopard/clouded_leopard_demo.zip",
+          "score": 7
+        },
+        {
+          "name": "clouded_leopard_demo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/clouded_leopard_demo_folders.zip",
+          "score": 7
+        },
+        {
+          "name": "tiger_tutorial.mp4",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/tiger/tiger_tutorial.mp4",
+          "score": 6
+        },
+        {
+          "name": "ExtractCompare_install.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/ExtractCompare_install.zip",
+          "score": 4
+        },
+        {
+          "name": "race_review.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/race_review.zip",
+          "score": 4
+        },
+        {
+          "name": "Germany.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/Germany.zip",
+          "score": 4
+        },
+        {
+          "name": "documents.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/documents.zip",
+          "score": 4
+        },
+        {
+          "name": "data.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/data.zip",
+          "score": 4
+        },
+        {
+          "name": "dungsurv.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/dungsurv.zip",
+          "score": 4
+        },
+        {
+          "name": "extra_install.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/extra_install.zip",
+          "score": 4
+        },
+        {
+          "name": "Extra_install.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/Extra_install.zip",
+          "score": 4
+        },
+        {
+          "name": "UNGSURV.ZIP",
+          "url": "https://www.conservationresearch.org.uk/Home/UNGSURV.ZIP",
+          "score": 4
+        },
+        {
+          "name": "Wild-ID_1.0.0.zip",
+          "url": "http://software.dartmouth.edu/Macintosh/Academic/Wild-ID_1.0.0.zip",
+          "score": 4
+        },
+        {
+          "name": "adders_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/adders_folders.zip",
+          "score": 4
+        },
+        {
+          "name": "armadillo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/armadillo/armadillo_folders.zip",
+          "score": 4
+        },
+        {
+          "name": "cheetah_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/cheetah_folders.zip",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 7,
+      "wayback_data_files_raw": 20,
+      "wayback_sets_status200": {
+        "/": 5,
+        "/onewebmedia": 2
+      },
+      "wayback_top": [
+        {
+          "name": "sitemap.xml",
+          "url": "https://www.conservationresearch.org.uk/sitemap.xml",
+          "first_capture": "20221105113607",
+          "status": "200"
+        },
+        {
+          "name": "datafile.txt",
+          "url": "http://conservationresearch.org.uk/datafile.txt",
+          "first_capture": "20241009030407",
+          "status": "200"
+        },
+        {
+          "name": "datafile1.txt",
+          "url": "http://conservationresearch.org.uk/datafile1.txt",
+          "first_capture": "20241009024612",
+          "status": "200"
+        },
+        {
+          "name": "datafile_Bhutan.txt",
+          "url": "http://conservationresearch.org.uk/datafile_Bhutan.txt",
+          "first_capture": "20241009044428",
+          "status": "200"
+        },
+        {
+          "name": "killed.txt",
+          "url": "http://conservationresearch.org.uk/killed.txt",
+          "first_capture": "20241009043344",
+          "status": "200"
+        },
+        {
+          "name": "DogDensity.zip",
+          "url": "http://conservationresearch.org.uk/onewebmedia/DogDensity.zip",
+          "first_capture": "20240518095426",
+          "status": "200"
+        },
+        {
+          "name": "SmartPhoneAccess_install.zip",
+          "url": "http://conservationresearch.org.uk/onewebmedia/SmartPhoneAccess_install.zip",
+          "first_capture": "20240518042237",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "tiger-stripe-catalogues",
+      "label": "Wildlife Institute of India \u2014 MSTrIPES page (national system, custody)",
+      "url": "https://wii.gov.in/mstripes",
+      "pages": 5,
+      "unique_data_files": 1,
+      "images": 75,
+      "top": [
+        {
+          "name": "17503389546204.mp4",
+          "url": "https://wii.gov.in/uploads/banners/17503389546204.mp4",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "leopard-jaguar-rosettes",
+      "label": "Conservation Research Ltd \u2014 ExtractCompare leopard page (demo folders, 2010)",
+      "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/leopard.html",
+      "pages": 10,
+      "unique_data_files": 20,
+      "images": 16,
+      "top": [
+        {
+          "name": "leopard_demo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/leopard/leopard_demo_folders.zip",
+          "score": 7
+        },
+        {
+          "name": "adders_demo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/adders/adders_demo_folders.zip",
+          "score": 7
+        },
+        {
+          "name": "cheetah_demo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/cheetah/cheetah_demo_folders.zip",
+          "score": 7
+        },
+        {
+          "name": "chital_demo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/chital/chital_demo_folders.zip",
+          "score": 7
+        },
+        {
+          "name": "clouded_leopard_demo.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/clouded_leopard/clouded_leopard_demo.zip",
+          "score": 7
+        },
+        {
+          "name": "clouded_leopard_demo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/clouded_leopard_demo_folders.zip",
+          "score": 7
+        },
+        {
+          "name": "leaopard_tutorial.mp4",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/leopard/leaopard_tutorial.mp4",
+          "score": 6
+        },
+        {
+          "name": "ExtractCompare_install.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/ExtractCompare_install.zip",
+          "score": 4
+        },
+        {
+          "name": "race_review.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/race_review.zip",
+          "score": 4
+        },
+        {
+          "name": "Germany.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/Germany.zip",
+          "score": 4
+        },
+        {
+          "name": "documents.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/documents.zip",
+          "score": 4
+        },
+        {
+          "name": "data.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/data.zip",
+          "score": 4
+        },
+        {
+          "name": "dungsurv.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/dungsurv.zip",
+          "score": 4
+        },
+        {
+          "name": "extra_install.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/extra_install.zip",
+          "score": 4
+        },
+        {
+          "name": "Extra_install.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/Extra_install.zip",
+          "score": 4
+        },
+        {
+          "name": "UNGSURV.ZIP",
+          "url": "https://www.conservationresearch.org.uk/Home/UNGSURV.ZIP",
+          "score": 4
+        },
+        {
+          "name": "Wild-ID_1.0.0.zip",
+          "url": "http://software.dartmouth.edu/Macintosh/Academic/Wild-ID_1.0.0.zip",
+          "score": 4
+        },
+        {
+          "name": "adders_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/adders_folders.zip",
+          "score": 4
+        },
+        {
+          "name": "armadillo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/armadillo/armadillo_folders.zip",
+          "score": 4
+        },
+        {
+          "name": "cheetah_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/cheetah_folders.zip",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "leopard-jaguar-rosettes",
+      "label": "Conservation Research Ltd \u2014 ExtractCompare clouded leopard page (demo, 2012)",
+      "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/cloudedLeopard.html",
+      "pages": 10,
+      "unique_data_files": 19,
+      "images": 17,
+      "top": [
+        {
+          "name": "clouded_leopard_demo.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/clouded_leopard/clouded_leopard_demo.zip",
+          "score": 7
+        },
+        {
+          "name": "clouded_leopard_demo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/clouded_leopard_demo_folders.zip",
+          "score": 7
+        },
+        {
+          "name": "adders_demo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/adders/adders_demo_folders.zip",
+          "score": 7
+        },
+        {
+          "name": "cheetah_demo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/cheetah/cheetah_demo_folders.zip",
+          "score": 7
+        },
+        {
+          "name": "chital_demo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/chital/chital_demo_folders.zip",
+          "score": 7
+        },
+        {
+          "name": "ExtractCompare_install.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/ExtractCompare_install.zip",
+          "score": 4
+        },
+        {
+          "name": "race_review.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/race_review.zip",
+          "score": 4
+        },
+        {
+          "name": "Germany.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/Germany.zip",
+          "score": 4
+        },
+        {
+          "name": "documents.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/documents.zip",
+          "score": 4
+        },
+        {
+          "name": "data.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/data.zip",
+          "score": 4
+        },
+        {
+          "name": "dungsurv.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/dungsurv.zip",
+          "score": 4
+        },
+        {
+          "name": "extra_install.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/extra_install.zip",
+          "score": 4
+        },
+        {
+          "name": "Extra_install.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/Extra_install.zip",
+          "score": 4
+        },
+        {
+          "name": "UNGSURV.ZIP",
+          "url": "https://www.conservationresearch.org.uk/Home/UNGSURV.ZIP",
+          "score": 4
+        },
+        {
+          "name": "Wild-ID_1.0.0.zip",
+          "url": "http://software.dartmouth.edu/Macintosh/Academic/Wild-ID_1.0.0.zip",
+          "score": 4
+        },
+        {
+          "name": "adders_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/adders_folders.zip",
+          "score": 4
+        },
+        {
+          "name": "armadillo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/armadillo/armadillo_folders.zip",
+          "score": 4
+        },
+        {
+          "name": "cheetah_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/cheetah_folders.zip",
+          "score": 4
+        },
+        {
+          "name": "cobra_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/cobra/cobra_folders.zip",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "zebra-stripe-patterns",
+      "label": "LILA BC \u2014 Great Zebra and Giraffe Count and ID dataset page (formal repository)",
+      "url": "https://lila.science/datasets/great-zebra-giraffe-id",
+      "pages": 10,
+      "unique_data_files": 5,
+      "images": 6,
+      "top": [
+        {
+          "name": "article-p197.xml",
+          "url": "https://fwspubs.kglmeridian.com/view/journals/fwma/12/1/article-p197.xml",
+          "score": 6
+        },
+        {
+          "name": "gzgc.coco.tar.gz",
+          "url": "https://storage.googleapis.com/public-datasets-lila/wild-me/gzgc.coco.tar.gz",
+          "score": 4
+        },
+        {
+          "name": ".json",
+          "url": "https://lila.science/datasets/.json",
+          "score": 4
+        },
+        {
+          "name": "myfile.zip",
+          "url": "https://storage.googleapis.com/public-datasets-lila/mydataset/myfile.zip",
+          "score": 4
+        },
+        {
+          "name": "whaleshark.coco.tar.gz",
+          "url": "https://storage.googleapis.com/public-datasets-lila/wild-me/whaleshark.coco.tar.gz",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "zebra-stripe-patterns",
+      "label": "Conservation Research Ltd \u2014 ExtractCompare index (zebra system listed)",
+      "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/index.html",
+      "pages": 10,
+      "unique_data_files": 19,
+      "images": 17,
+      "top": [
+        {
+          "name": "adders_demo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/adders/adders_demo_folders.zip",
+          "score": 7
+        },
+        {
+          "name": "cheetah_demo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/cheetah/cheetah_demo_folders.zip",
+          "score": 7
+        },
+        {
+          "name": "chital_demo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/chital/chital_demo_folders.zip",
+          "score": 7
+        },
+        {
+          "name": "clouded_leopard_demo.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/clouded_leopard/clouded_leopard_demo.zip",
+          "score": 7
+        },
+        {
+          "name": "clouded_leopard_demo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/clouded_leopard_demo_folders.zip",
+          "score": 7
+        },
+        {
+          "name": "Wild-ID_1.0.0.zip",
+          "url": "http://software.dartmouth.edu/Macintosh/Academic/Wild-ID_1.0.0.zip",
+          "score": 4
+        },
+        {
+          "name": "race_review.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/race_review.zip",
+          "score": 4
+        },
+        {
+          "name": "Germany.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/Germany.zip",
+          "score": 4
+        },
+        {
+          "name": "documents.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/documents.zip",
+          "score": 4
+        },
+        {
+          "name": "data.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/data.zip",
+          "score": 4
+        },
+        {
+          "name": "dungsurv.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/dungsurv.zip",
+          "score": 4
+        },
+        {
+          "name": "extra_install.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/extra_install.zip",
+          "score": 4
+        },
+        {
+          "name": "Extra_install.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/Extra_install.zip",
+          "score": 4
+        },
+        {
+          "name": "UNGSURV.ZIP",
+          "url": "https://www.conservationresearch.org.uk/Home/UNGSURV.ZIP",
+          "score": 4
+        },
+        {
+          "name": "ExtractCompare_install.zip",
+          "url": "https://www.conservationresearch.org.uk/onewebmedia/ExtractCompare_install.zip",
+          "score": 4
+        },
+        {
+          "name": "adders_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/adders_folders.zip",
+          "score": 4
+        },
+        {
+          "name": "armadillo_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/armadillo/armadillo_folders.zip",
+          "score": 4
+        },
+        {
+          "name": "cheetah_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/cheetah_folders.zip",
+          "score": 4
+        },
+        {
+          "name": "cobra_folders.zip",
+          "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/cobra/cobra_folders.zip",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "giraffe-coat-patterns",
+      "label": "GiraffeSpotter (Wildbook platform \u2014 custody by design)",
+      "url": "https://giraffespotter.org/",
+      "pages": 10,
+      "unique_data_files": 2,
+      "images": 9,
+      "top": [
+        {
+          "name": ".mov",
+          "url": "https://giraffespotter.org/.mov",
+          "score": 6
+        },
+        {
+          "name": ".mp4",
+          "url": "https://giraffespotter.org/.mp4",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 2,
+      "wayback_data_files_raw": 15,
+      "wayback_sets_status200": {
+        "/": 1,
+        "/software": 1
+      },
+      "wayback_top": [
+        {
+          "name": "atom.xml",
+          "url": "https://giraffespotter.org/atom.xml",
+          "first_capture": "20241221144118",
+          "status": "200"
+        },
+        {
+          "name": "GridClient.zip",
+          "url": "https://giraffespotter.org/software/GridClient.zip",
+          "first_capture": "20190713212647",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "giraffe-coat-patterns",
+      "label": "Conservation Research Ltd \u2014 ExtractCompare giraffe page if present (via index crawl)",
+      "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/Giraffe.html",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "tooth-wear-age-charts",
+      "label": "Vista Mountain WMA \u2014 TPWD Age Determination guide, HTML afterlife (Cain & Wallace 2003)",
+      "url": "http://vistamountainwma.org/news/age-determination-of-white-tailed-deer/",
+      "pages": 10,
+      "unique_data_files": 0,
+      "images": 33,
+      "top": [],
+      "wayback_data_files_status200": 2,
+      "wayback_data_files_raw": 2,
+      "wayback_sets_status200": {
+        "/": 1,
+        "/wp-includes": 1
+      },
+      "wayback_top": [
+        {
+          "name": "wlwmanifest.xml",
+          "url": "http://vistamountainwma.org/wp-includes/wlwmanifest.xml",
+          "first_capture": "20170521231155",
+          "status": "200"
+        },
+        {
+          "name": "robots.txt",
+          "url": "http://vistamountainwma.org/robots.txt",
+          "first_capture": "20130702124429",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "tooth-wear-age-charts",
+      "label": "East Foundation \u2014 Foley et al. known-age accuracy paper (the comparison, published)",
+      "url": "https://eastfoundation.net/wp-content/uploads/2024/09/wr21050.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "tooth-wear-age-charts",
+      "label": "Boone & Crockett Fair Chase \u2014 Deer Ages / dentition article PDF (Severinghaus tradition)",
+      "url": "https://aws.boone-crockett.org/s3fs-public/atoms/files/FC_Summer2008_DeerAges.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "cementum-annuli-tooth-archives",
+      "label": "Matson's Laboratory home (commercial ageing lab, since 1969)",
+      "url": "https://www.matsonslab.com/",
+      "pages": 1,
+      "unique_data_files": 1,
+      "images": 5,
+      "top": [
+        {
+          "name": "Biologist-Order-Form.xlsx",
+          "url": "https://matsonslab.com/wp-content/uploads/2025/02/Biologist-Order-Form.xlsx",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 16,
+      "wayback_data_files_raw": 31,
+      "wayback_sets_status200": {
+        "/": 8,
+        "/wp-content/uploads/2016/02": 2,
+        "/images/cementum-aging": 1,
+        "/wp-content/uploads/2021/09": 1,
+        "/wp-content/uploads/2021/10": 1,
+        "/wp-content/uploads/2024/03": 1,
+        "/wp-content/uploads/2025/02": 1,
+        "/wp-includes": 1
+      },
+      "wayback_top": [
+        {
+          "name": "Hunter-Master-List-2021.xlsx",
+          "url": "https://matsonslab.com/wp-content/uploads/2021/09/Hunter-Master-List-2021.xlsx",
+          "first_capture": "20221125155758",
+          "status": "200"
+        },
+        {
+          "name": "attachment-sitemap.xml",
+          "url": "https://matsonslab.com/attachment-sitemap.xml",
+          "first_capture": "20220720134556",
+          "status": "200"
+        },
+        {
+          "name": "image-sitemap-1.xml",
+          "url": "https://matsonslab.com/image-sitemap-1.xml",
+          "first_capture": "20220720134522",
+          "status": "200"
+        },
+        {
+          "name": "news-sitemap.xml",
+          "url": "https://matsonslab.com/news-sitemap.xml",
+          "first_capture": "20220720134541",
+          "status": "200"
+        },
+        {
+          "name": "page-sitemap.xml",
+          "url": "https://matsonslab.com/page-sitemap.xml",
+          "first_capture": "20220720134558",
+          "status": "200"
+        },
+        {
+          "name": "post-sitemap.xml",
+          "url": "https://matsonslab.com/post-sitemap.xml",
+          "first_capture": "20220720134552",
+          "status": "200"
+        },
+        {
+          "name": "sitemap-1.xml",
+          "url": "https://matsonslab.com/sitemap-1.xml",
+          "first_capture": "20220720134530",
+          "status": "200"
+        },
+        {
+          "name": "sitemap.xml",
+          "url": "https://matsonslab.com/sitemap.xml",
+          "first_capture": "20220720134434",
+          "status": "200"
+        },
+        {
+          "name": "sitemap_index.xml",
+          "url": "https://matsonslab.com/sitemap_index.xml",
+          "first_capture": "20220720134531",
+          "status": "200"
+        },
+        {
+          "name": "Laboratory-Analysis-Order-Form.xlsx",
+          "url": "https://matsonslab.com/wp-content/uploads/2021/10/Laboratory-Analysis-Order-Form.xlsx",
+          "first_capture": "20220425102221",
+          "status": "200"
+        },
+        {
+          "name": "Laboratory-Analysis-Order-Form.xlsx",
+          "url": "https://matsonslab.com/wp-content/uploads/2024/03/Laboratory-Analysis-Order-Form.xlsx",
+          "first_capture": "20240514095323",
+          "status": "200"
+        },
+        {
+          "name": "Biologist-Order-Form.xlsx",
+          "url": "https://matsonslab.com/wp-content/uploads/2025/02/Biologist-Order-Form.xlsx",
+          "first_capture": "20251127072734",
+          "status": "200"
+        },
+        {
+          "name": "wlwmanifest.xml",
+          "url": "http://matsonslab.com:80/wp-includes/wlwmanifest.xml",
+          "first_capture": "20160402070912",
+          "status": "200"
+        },
+        {
+          "name": "Cementum_Analysis_Order_Form_Professional.xls",
+          "url": "http://matsonslab.com/images/cementum-aging/Cementum_Analysis_Order_Form_Professional.xls",
+          "first_capture": "20160220134102",
+          "status": "200"
+        },
+        {
+          "name": "Cementum_Analysis_Order_Form_Professional.xls",
+          "url": "http://matsonslab.com/wp-content/uploads/2016/02/Cementum_Analysis_Order_Form_Professional.xls",
+          "first_capture": "20160405053633",
+          "status": "200"
+        },
+        {
+          "name": "hunter_order_form_07062015.xls",
+          "url": "http://matsonslab.com/wp-content/uploads/2016/02/hunter_order_form_07062015.xls",
+          "first_capture": "20160405110824",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "cementum-annuli-tooth-archives",
+      "label": "Minnesota Legislature host \u2014 Matson cementum age report PDF for MN DNR (2,448 deer teeth, 2006)",
+      "url": "https://www.leg.mn.gov/docs/2013/other/C130010.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "cementum-annuli-tooth-archives",
+      "label": "ADF&G \u2014 How old is my bear? cementum explainer (agency lab history)",
+      "url": "https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=4137",
+      "pages": 5,
+      "unique_data_files": 1,
+      "images": 46,
+      "top": [
+        {
+          "name": "adfg_america_250.mp4",
+          "url": "https://www.adfg.alaska.gov/static/home/about/multimedia/adfg_america_250.mp4",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "primate-face-pattern-archives",
+      "label": "Jane Goodall Institute news \u2014 ChimpFace / Gombe AI archive article (site custody surface)",
+      "url": "https://news.janegoodall.org/2018/07/29/the-future-using-ai-in-gombe/",
+      "pages": 5,
+      "unique_data_files": 1,
+      "images": 18,
+      "top": [
+        {
+          "name": "default.json",
+          "url": "https://janegoodall.org/wp-content/plugins/elementor-pro/modules/lottie/assets/animations/default.json",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "primate-face-pattern-archives",
+      "label": "arXiv \u2014 Face Recognition: Primates in the Wild (ChimpFace 5,559 imgs / 90 indiv. dataset paper)",
+      "url": "https://arxiv.org/abs/1804.08790",
+      "pages": 5,
+      "unique_data_files": 2,
+      "images": 6,
+      "top": [
+        {
+          "name": "math.FA",
+          "url": "https://arxiv.org/list/math.FA",
+          "score": 6
+        },
+        {
+          "name": "browserconfig.xml",
+          "url": "https://arxiv.org/images/icons/browserconfig.xml",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    }
+  ]
+}

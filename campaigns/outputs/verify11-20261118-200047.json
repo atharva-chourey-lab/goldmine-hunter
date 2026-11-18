@@ -1,0 +1,428 @@
+{
+  "verify11": {
+    "tiger_zip": {
+      "label": "Tiger demo folders zip",
+      "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/tiger/tiger_demo_folders.zip",
+      "http_status": 200,
+      "bytes": 22138354,
+      "md5_full": "4160f1eed46e500664daa525c67b9da0",
+      "magic": "PK",
+      "n_entries": 196,
+      "n_images": 31,
+      "mdb": [
+        "tiger_demo/tiger_demo.mdb"
+      ],
+      "entries_sample": [
+        "tiger_demo/BLANK/",
+        "tiger_demo/BLANK/A1_040726_005p75_FL",
+        "tiger_demo/BLANK/A1_040726_005p75_HL",
+        "tiger_demo/BLANK/A1_040726_006p83_FL",
+        "tiger_demo/BLANK/A1_040726_006p83_HL",
+        "tiger_demo/BLANK/A1_040726_007p64_FL",
+        "tiger_demo/BLANK/A1_040726_007p64_HL",
+        "tiger_demo/BLANK/A1_040726_008p74_FL",
+        "tiger_demo/BLANK/A1_040726_008p74_HL",
+        "tiger_demo/BLANK/A1_040726_009p83_FL",
+        "tiger_demo/BLANK/A1_040726_009p83_HL",
+        "tiger_demo/BLANK/A1_040726_010p14_FL"
+      ],
+      "sample": {
+        "entry": "tiger_demo/download_photo/040726_98.jpg",
+        "bytes": 8119,
+        "md5": "cdad867c7b3b49caadcddaf9910dc0e9",
+        "magic_hex": "ffd8ff",
+        "saved_to": "gold/campaign11-verify/tiger-sample-040726_98.jpg"
+      },
+      "verdict": "REAL \u2014 valid zip, listed + sampled"
+    },
+    "leopard_zip": {
+      "label": "Leopard demo folders zip",
+      "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/leopard/leopard_demo_folders.zip",
+      "http_status": 200,
+      "bytes": 15656495,
+      "md5_full": "0a7694af2e7001feaacabbec393f6807",
+      "magic": "PK",
+      "n_entries": 373,
+      "n_images": 76,
+      "mdb": [
+        "leopard_demo/leopard_demo.mdb"
+      ],
+      "entries_sample": [
+        "leopard_demo/blank/",
+        "leopard_demo/blank/ADL-102_1p53_FL",
+        "leopard_demo/blank/ADL-102_2p43_FL",
+        "leopard_demo/blank/ADL-103_3p53_FL",
+        "leopard_demo/blank/ADL-103_4p43_FL",
+        "leopard_demo/blank/ADL-104_10p43_FL",
+        "leopard_demo/blank/ADL-104_11p34_FL",
+        "leopard_demo/blank/ADL-105_13p34_FL",
+        "leopard_demo/blank/ADL-105_14p43_FL",
+        "leopard_demo/blank/ADL-107_18p53_FL",
+        "leopard_demo/blank/ADL-107_19p33_FL",
+        "leopard_demo/blank/ADL-108_22p42_FL"
+      ],
+      "sample": {
+        "entry": "leopard_demo/newpic/BDL-104_53.jpg",
+        "bytes": 15191,
+        "md5": "8e414e30f7b428d9645e22e84a5201e2",
+        "magic_hex": "ffd8ff",
+        "saved_to": "gold/campaign11-verify/leopard-sample-BDL-104_53.jpg"
+      },
+      "verdict": "REAL \u2014 valid zip, listed + sampled"
+    },
+    "zebra_zip": {
+      "label": "Zebra demo folders zip",
+      "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/zebra/zebra_demo_folders.zip",
+      "http_status": 200,
+      "bytes": 30341304,
+      "md5_full": "5e7038ce5efbd23d6e1ab811aacfda8e",
+      "magic": "PK",
+      "n_entries": 298,
+      "n_images": 62,
+      "mdb": [
+        "zebra_demo/zebra_demo.mdb"
+      ],
+      "entries_sample": [
+        "zebra_demo/BLANK/",
+        "zebra_demo/BLANK/3_DSCF0001p55_FL",
+        "zebra_demo/BLANK/3_DSCF0001p55_HA",
+        "zebra_demo/download_photos/",
+        "zebra_demo/download_photos/04_038.jpg",
+        "zebra_demo/download_photos/grevy6 (1).jpg",
+        "zebra_demo/download_photos/P2140159.JPG",
+        "zebra_demo/download_photos/Thumbs.db",
+        "zebra_demo/Flank.dat",
+        "zebra_demo/haunch.dat",
+        "zebra_demo/newlib/",
+        "zebra_demo/newlib/3_DSCF0001p55_FL"
+      ],
+      "sample": {
+        "entry": "zebra_demo/NEWPIC/3_L24.jpg",
+        "bytes": 32892,
+        "md5": "d4daebed7744f7e64d5ec216ef1369b1",
+        "magic_hex": "ffd8ff",
+        "saved_to": "gold/campaign11-verify/zebra-sample-3_L24.jpg"
+      },
+      "verdict": "REAL \u2014 valid zip, listed + sampled"
+    },
+    "giraffe_zip": {
+      "label": "Giraffe demo folders zip",
+      "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/giraffe/giraffe_demo_folders.zip",
+      "http_status": 200,
+      "bytes": 56105944,
+      "md5_full": "1a9a1bd654041fe95d94803bd6db0074",
+      "magic": "PK",
+      "n_entries": 136,
+      "n_images": 30,
+      "mdb": [
+        "giraffe_demo/giraffe_demo.mdb"
+      ],
+      "entries_sample": [
+        "giraffe_demo/blank/",
+        "giraffe_demo/blank/DSC_0110 copyp42_NK",
+        "giraffe_demo/blank/DSC_0173 copyp61_NK",
+        "giraffe_demo/blank/DSC_0174 copyp51_NK",
+        "giraffe_demo/blank/DSC_0355 copyp41_NK",
+        "giraffe_demo/blank/DSCF0027 copyp62_NK",
+        "giraffe_demo/blank/DSCF0034 copyp21_NK",
+        "giraffe_demo/blank/DSCF0046 copyp33_NK",
+        "giraffe_demo/blank/DSCF0134 copyp22_NK",
+        "giraffe_demo/blank/DSCF0140 copyp52_NK",
+        "giraffe_demo/blank/DSCF0146 copyp32_NK",
+        "giraffe_demo/blank/DSCF0147 copyp33_NK"
+      ],
+      "sample": {
+        "entry": "giraffe_demo/newpic/DSCF0147 copy.jpg",
+        "bytes": 360475,
+        "md5": "62cb2daeffcaf84722cbe8946116a10d",
+        "magic_hex": "ffd8ff",
+        "saved_to": "gold/campaign11-verify/giraffe-sample-DSCF0147_copy.jpg"
+      },
+      "verdict": "REAL \u2014 valid zip, listed + sampled"
+    },
+    "clouded_zip": {
+      "label": "Clouded leopard demo zip",
+      "url": "https://www.conservationresearch.org.uk/Home/ExtractCompare/clouded_leopard/clouded_leopard_demo.zip",
+      "http_status": 200,
+      "bytes": 73152804,
+      "md5_full": "22a5f2dc587e70987ff51fc8c7f1dc87",
+      "magic": "PK",
+      "n_entries": 1094,
+      "n_images": 205,
+      "mdb": [
+        "clouded_leopard_demo/clouded_leopard_demo.mdb"
+      ],
+      "entries_sample": [
+        "clouded_leopard_demo/blank/",
+        "clouded_leopard_demo/blank/a_Dao left flank2p44_FL",
+        "clouded_leopard_demo/blank/a_Dao left flank2p44_HA",
+        "clouded_leopard_demo/blank/Dao_A1p44_FL",
+        "clouded_leopard_demo/clouded_leopard_demo.mdb",
+        "clouded_leopard_demo/download_photos/",
+        "clouded_leopard_demo/download_photos/a_Dao left flank2.JPG",
+        "clouded_leopard_demo/download_photos/a_Dao right flank2.JPG",
+        "clouded_leopard_demo/download_photos/a_Hannibal left flank 3.JPG",
+        "clouded_leopard_demo/download_photos/a_Hannibal left flank.JPG",
+        "clouded_leopard_demo/download_photos/a_Hannibal right flank 3.JPG",
+        "clouded_leopard_demo/download_photos/a_Hannibal right flank.JPG"
+      ],
+      "sample": {
+        "entry": "clouded_leopard_demo/download_photos/try_add.jpg",
+        "bytes": 41304,
+        "md5": "68322037e8a8e83227b2c247d15822c4",
+        "magic_hex": "ffd8ff",
+        "saved_to": "gold/campaign11-verify/clouded-sample-try_add.jpg"
+      },
+      "verdict": "REAL \u2014 valid zip, listed + sampled"
+    },
+    "extractcompare_install_head": {
+      "status": 200,
+      "size": "8441862",
+      "type": "application/zip"
+    },
+    "sealid_etsin": {
+      "status": 200,
+      "bytes": 11984,
+      "snippet": "y fur and low image quality of automatic camera traps all contribute to the difficulty of the re-identification task of Saimaa ringed seals"
+    },
+    "sealid_paper": {
+      "label": "SealID paper PDF (MDPI Sensors 2022)",
+      "url": "https://www.mdpi.com/1424-8220/22/19/7602/pdf",
+      "http_status": 403,
+      "bytes_downloaded": 410,
+      "truncated_at_cap": false,
+      "content_type": "text/html",
+      "error": null,
+      "md5_full": "cf139f223ae2b1567946470af9f08f25",
+      "md5_head1mb": "cf139f223ae2b1567946470af9f08f25",
+      "looks_html": true,
+      "verdict": "PHANTOM \u2014 HTML page, not data"
+    },
+    "monk_cdx": {
+      "collapsed": 177,
+      "ok200": 172,
+      "files": [
+        {
+          "ts": "20200922190656",
+          "url": "http://freqstats.marineland.fr/dl/01-07-2019-Marineland-celebre-la-naissance-dun-bebe-manchot.pdf",
+          "length": "136861"
+        },
+        {
+          "ts": "20250508011025",
+          "url": "http://freqstats.marineland.fr/dl/01-07-2019-Marineland-celebre-la-naissance-dun-bebe-manchot.pdf?_g",
+          "length": "136044"
+        },
+        {
+          "ts": "20240420201136",
+          "url": "http://freqstats.marineland.fr/dl/01-07-2019-Marineland-celebre-la-naissance-dun-bebe-manchot.pdf?_ga=2.15513654.1210359208.1641",
+          "length": "135974"
+        },
+        {
+          "ts": "20240410061523",
+          "url": "http://freqstats.marineland.fr/dl/01-07-2019-Marineland-celebre-la-naissance-dun-bebe-manchot.pdf?_ga=2.15513654.1210359208.1641544481-637316193.1631257845",
+          "length": "136003"
+        },
+        {
+          "ts": "20200922191056",
+          "url": "http://freqstats.marineland.fr/dl/02-02-2018-Marineland-obtient-la-certification-%C2%ABAmerican-Humane%C2%BB-concernant-le-bien-%C3%AAtre-et-les-soins-apport%C3%A9s-aux-animaux.pdf",
+          "length": "207526"
+        },
+        {
+          "ts": "20220602182238",
+          "url": "http://freqstats.marineland.fr/dl/02-06-2022-Marineland-Naissance-bebe-Otarie-Afrique-du-Sud",
+          "length": "608349"
+        },
+        {
+          "ts": "20250112005821",
+          "url": "http://freqstats.marineland.fr/dl/02-11-2022-Remise-en-mer-Calypso",
+          "length": "846682"
+        },
+        {
+          "ts": "20221206110841",
+          "url": "http://freqstats.marineland.fr/dl/03-06-2022-Marineland-Dreamnightatthezoo",
+          "length": "787824"
+        },
+        {
+          "ts": "20220308201157",
+          "url": "http://freqstats.marineland.fr/dl/03-07-2021-Remise-en-mer-Tortue-Emilie.pdf",
+          "length": "807643"
+        },
+        {
+          "ts": "20220701015946",
+          "url": "http://freqstats.marineland.fr/dl/04-04-22-Marineland-SaisonPrintemps.pdf",
+          "length": "436608"
+        },
+        {
+          "ts": "20220308201147",
+          "url": "http://freqstats.marineland.fr/dl/04-06-21-Une-tortue-caouanne-au-CRFS.pdf",
+          "length": "832440"
+        },
+        {
+          "ts": "20200922164133",
+          "url": "http://freqstats.marineland.fr/dl/04_12_2019_Naissance_d_une_portee_de_8_bebes_requins.pdf",
+          "length": "564378"
+        },
+        {
+          "ts": "20250507075426",
+          "url": "http://freqstats.marineland.fr/dl/04_12_2019_Naissance_d_une_portee_de_8_bebes_requins.pdf?_ga=2.737",
+          "length": "564725"
+        },
+        {
+          "ts": "20240411130655",
+          "url": "http://freqstats.marineland.fr/dl/04_12_2019_Naissance_d_une_portee_de_8_bebes_requins.pdf?_ga=2.73773714.1210359208.1641544481-",
+          "length": "564744"
+        },
+        {
+          "ts": "20240423155428",
+          "url": "http://freqstats.marineland.fr/dl/04_12_2019_Naissance_d_une_portee_de_8_bebes_requins.pdf?_ga=2.73773714.1210359208.1641544481-637316193.1631257845",
+          "length": "564759"
+        }
+      ]
+    },
+    "monk_sample": {
+      "label": "Monk seal annual report wb (967472 B CDX)",
+      "url": "https://web.archive.org/web/20220128183711id_/http://freqstats.marineland.fr/dl/Annual-Report-2017-2018-Mediterranean-monk-seal-Program.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 1048576,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "e7c082d197df3b6bafb008c0d96d7561",
+      "md5_head1mb": "31e4abaa2c90004b80f9c4f943eab6b5",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign11-verify/monk-seal-report-2017-2018.pdf"
+    },
+    "noaa_inport_head": {
+      "status": 200,
+      "size": "0",
+      "type": "text/html;charset=UTF-8"
+    },
+    "noaa_inport": {
+      "status": 200,
+      "no_distributions_snippet": "No Distributions available."
+    },
+    "tpwd_pdf": {
+      "label": "TPWD White-tailed Deer Harvest Records / age bulletin (official)",
+      "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_rp_w7000_1135.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 53033,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "e820f394e3568399ac27529d830356c3",
+      "md5_head1mb": "e820f394e3568399ac27529d830356c3",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign11-verify/tpwd-deer-age-bulletin.pdf"
+    },
+    "east_paper": {
+      "label": "East Foundation \u2014 Foley et al. TRW vs CA vs known-age (Wildlife Research 2021)",
+      "url": "https://eastfoundation.net/wp-content/uploads/2024/09/wr21050.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 825781,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "0403094e47b1b9f905edef95b66e9284",
+      "md5_head1mb": "0403094e47b1b9f905edef95b66e9284",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign11-verify/foley-trw-ca-known-age-2021.pdf"
+    },
+    "boone_pdf": {
+      "label": "Boone & Crockett Fair Chase Summer 2008 \u2014 Deer Ages (Severinghaus tradition)",
+      "url": "https://aws.boone-crockett.org/s3fs-public/atoms/files/FC_Summer2008_DeerAges.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 3155455,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "6caceddbc2d2805c23e7c8a1391566de",
+      "md5_head1mb": "20bb70b1b12b90e3b88aef6f502eea8d",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign11-verify/boone-crockett-deer-ages-2008.pdf"
+    },
+    "matson_xlsx": {
+      "label": "Matson's Laboratory \u2014 Biologist Order Form xlsx (live uploads)",
+      "url": "https://matsonslab.com/wp-content/uploads/2025/02/Biologist-Order-Form.xlsx",
+      "http_status": 200,
+      "bytes_downloaded": 30520,
+      "truncated_at_cap": false,
+      "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "error": null,
+      "md5_full": "fdd7972868c7ef020492688c81248814",
+      "md5_head1mb": "fdd7972868c7ef020492688c81248814",
+      "looks_html": false,
+      "zip_entries": [
+        "[Content_Types].xml",
+        "_rels/.rels",
+        "xl/workbook.xml",
+        "xl/_rels/workbook.xml.rels",
+        "xl/worksheets/sheet1.xml",
+        "xl/theme/theme1.xml",
+        "xl/styles.xml",
+        "xl/sharedStrings.xml",
+        "xl/drawings/drawing1.xml",
+        "xl/media/image1.png",
+        "xl/worksheets/_rels/sheet1.xml.rels",
+        "xl/drawings/_rels/drawing1.xml.rels"
+      ],
+      "zip_n_entries": 15,
+      "verdict": "REAL \u2014 valid zip (xlsx/zip family)",
+      "saved_to": "gold/campaign11-verify/matson-order-form.xlsx"
+    },
+    "mn_cdx": {
+      "collapsed": 0,
+      "ok200": 0,
+      "rows": []
+    },
+    "mn_sample": null,
+    "mn_live_head": {
+      "status": 404,
+      "size": "0",
+      "type": null
+    },
+    "rhodis_irf": {
+      "status": 200,
+      "snippet": " These measures significantly&nbsp; expanded the database, which exceeded 180,000 samples by 2024, forming the foundation of national rhino DNA tracking systems used to "
+    },
+    "savetherhino": {
+      "status": 200,
+      "snippet": " These photos and life history are then used in a personal rhino file, which will also be used to record sightings data for each animal over time"
+    },
+    "primnet_paper": {
+      "label": "PrimNet \u2014 Face Recognition: Primates in the Wild (arXiv 1804.08790)",
+      "url": "https://arxiv.org/pdf/1804.08790",
+      "http_status": 200,
+      "bytes_downloaded": 9348378,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "9bfde4871c0d764a46f0f9f86754f67a",
+      "md5_head1mb": "e555cd94987df1e7bea9380ac047df99",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign11-verify/primnet-primates-in-the-wild.pdf"
+    },
+    "jgi": {
+      "status": 200,
+      "snippet": "\u00a0\u00a0The International Union for Conservation of Nature (IUCN) just released the most comprehensive evaluation to date of the eastern gorilla\u2019s population status, including their distribution, ecology, and long-term pro"
+    },
+    "gzgc_head": {
+      "status": 200,
+      "size": "10433199738",
+      "type": "application/x-tar"
+    },
+    "gzgc_page": {
+      "status": 200,
+      "snippet": " A total of 2,056 combined names are released for 6,286 individual zebra and 639 giraffe sightings"
+    }
+  }
+}

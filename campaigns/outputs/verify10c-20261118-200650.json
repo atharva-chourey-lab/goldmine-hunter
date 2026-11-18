@@ -1,0 +1,71 @@
+{
+  "verify10c": {
+    "ingv_dbn_rows": [
+      {
+        "ts": "20220205235455",
+        "url": "http://sismos.rm.ingv.it/images/regridart/500x350/images/approfondimenti/ritaglio_DBN_E_1908122708361A_200.jpg",
+        "length": "101931"
+      }
+    ],
+    "ingv_dbn_sample": {
+      "label": "INGV seismogram crop DBN_E_1908122708361A (via Wayback)",
+      "url": "https://web.archive.org/web/20220205235455id_/http://sismos.rm.ingv.it/images/regridart/500x350/images/approfondimenti/ritaglio_DBN_E_1908122708361A_200.jpg",
+      "http_status": 200,
+      "bytes_downloaded": 101251,
+      "truncated_at_cap": false,
+      "content_type": "image/jpeg",
+      "error": null,
+      "md5_full": "018c3684b3a50b249fac9fddc9a62c85",
+      "md5_head1mb": "018c3684b3a50b249fac9fddc9a62c85",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PNG image",
+      "png": true,
+      "saved_to": "gold/campaign10-verify/ingv-dbn-seismogram-crop.jpg"
+    },
+    "mendeley_files": [
+      {
+        "name": "EuroSeismos D1 D2 D3.zip",
+        "size": 9424531553
+      },
+      {
+        "name": "Readme.zip",
+        "size": 24395157
+      }
+    ],
+    "etheritage": {
+      "status": 200,
+      "content_imgs": [
+        "https://etheritage.ethz.ch/wp-content/uploads/2017/10/etheritage_180x180.png",
+        "https://etheritage.ethz.ch/wp-content/uploads/2024/11/Abb-9-Portrait-Adolf-Jenny-Truempy-840x1200.jpg",
+        "https://etheritage.ethz.ch/wp-content/uploads/2024/11/Abbildung-1-Ansicht-des-Fabrikgelaendes-Daniel-Jenny-Co--1200x600.jpg",
+        "https://etheritage.ethz.ch/wp-content/uploads/2024/11/Abbildung-2-Die-Baende-enthalten-auch-Rezepte-1200x795.jpg",
+        "https://etheritage.ethz.ch/wp-content/uploads/2024/11/Abbildung-4-Handdruckmodel-II-1200x875.jpg",
+        "https://etheritage.ethz.ch/wp-content/uploads/2024/11/Abbildung-5-Variante-eines-fancy-Palmettenmusters-1200x718.jpg",
+        "https://etheritage.ethz.ch/wp-content/uploads/2024/11/Abbildung-6-Muster-Alizarin-Adrianopel-II-1200x778.jpg",
+        "https://etheritage.ethz.ch/wp-content/uploads/2024/11/Abbildung-7-Screenshot-zu-Aj-Truempys-Buecher-als-online-1200x941.jpg"
+      ]
+    },
+    "etheritage_sample": {
+      "label": "ETH e-heritage Truempy sample-book image",
+      "url": "https://etheritage.ethz.ch/wp-content/uploads/2017/10/etheritage_180x180.png",
+      "http_status": 200,
+      "bytes_downloaded": 72763,
+      "truncated_at_cap": false,
+      "content_type": "image/png",
+      "error": null,
+      "md5_full": "50215f173b75f1b46b2f982aa5a2f5ba",
+      "md5_head1mb": "50215f173b75f1b46b2f982aa5a2f5ba",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PNG image",
+      "png": true,
+      "saved_to": "gold/campaign10-verify/truempy-etheritage-etheritage_180x180.png"
+    },
+    "ucalgary_asset": {
+      "status": 403,
+      "image_refs": []
+    },
+    "dass2019_speakers": 61,
+    "lamsas_speakers_links": 1,
+    "gletscher_sitemap_det_refs": 0
+  }
+}

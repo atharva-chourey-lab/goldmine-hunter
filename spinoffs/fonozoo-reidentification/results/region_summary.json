@@ -1,0 +1,79 @@
+{
+ "by_realm": {
+  "Afrotropical (mainland)": {
+   "recordings_all": 4,
+   "firm_recordings": 4,
+   "changed": 0,
+   "changed_pct_of_firm": 0.0,
+   "split_ambiguous": 0,
+   "unresolved": 0,
+   "unchanged": 4
+  },
+  "Indomalayan": {
+   "recordings_all": 10,
+   "firm_recordings": 10,
+   "changed": 3,
+   "changed_pct_of_firm": 30.0,
+   "split_ambiguous": 0,
+   "unresolved": 0,
+   "unchanged": 7
+  },
+  "Madagascar": {
+   "recordings_all": 196,
+   "firm_recordings": 175,
+   "changed": 10,
+   "changed_pct_of_firm": 5.7,
+   "split_ambiguous": 1,
+   "unresolved": 7,
+   "unchanged": 164
+  },
+  "Nearctic": {
+   "recordings_all": 12,
+   "firm_recordings": 12,
+   "changed": 2,
+   "changed_pct_of_firm": 16.7,
+   "split_ambiguous": 0,
+   "unresolved": 0,
+   "unchanged": 10
+  },
+  "Neotropical": {
+   "recordings_all": 390,
+   "firm_recordings": 388,
+   "changed": 119,
+   "changed_pct_of_firm": 30.7,
+   "split_ambiguous": 1,
+   "unresolved": 1,
+   "unchanged": 268
+  },
+  "Palearctic": {
+   "recordings_all": 26,
+   "firm_recordings": 25,
+   "changed": 4,
+   "changed_pct_of_firm": 16.0,
+   "split_ambiguous": 4,
+   "unresolved": 0,
+   "unchanged": 17
+  },
+  "Unassigned": {
+   "recordings_all": 18,
+   "firm_recordings": 11,
+   "changed": 7,
+   "changed_pct_of_firm": 63.6,
+   "split_ambiguous": 0,
+   "unresolved": 0,
+   "unchanged": 4
+  }
+ },
+ "unassigned_genera": {
+  "Ankaratra": 1,
+  "Nidirana": 1,
+  "Buergeria": 1,
+  "": 6,
+  "Dryophytes": 5,
+  "Sylvirana": 1,
+  "Hylarana": 1,
+  "Incilius": 1,
+  "Odorrana": 1
+ },
+ "method": "accepted-genus realm table (see script); genus-level proxy, not recording locality"
+}

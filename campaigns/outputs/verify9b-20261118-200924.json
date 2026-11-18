@@ -1,0 +1,343 @@
+{
+  "verify9b": {
+    "butler2013_raw_retry": {
+      "label": "Butler2013 raw measurements retry (NCEI)",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2013/butler2013-raw.txt",
+      "http_status": 200,
+      "bytes_downloaded": 191038,
+      "truncated_at_cap": false,
+      "content_type": "text/plain",
+      "error": null,
+      "md5_full": "8a7c9c3461300f91322278a8ae78dba5",
+      "md5_head1mb": "8a7c9c3461300f91322278a8ae78dba5",
+      "looks_html": false,
+      "first_bytes_hex": "23204e6f727468204963656c616e6469",
+      "all_blank": false,
+      "verdict": "BINARY \u2014 non-HTML, non-blank"
+    },
+    "butler2013_raw_noaa": {
+      "label": "Butler2013 raw measurements -noaa variant (NCEI)",
+      "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/butler2013/butler2013-raw-noaa.txt",
+      "http_status": null,
+      "bytes_downloaded": 0,
+      "truncated_at_cap": false,
+      "content_type": null,
+      "error": "('Connection broken: IncompleteRead(72000 bytes read, 48284 more expected)', IncompleteRead(72000 bytes read, 48284 more expected))",
+      "verdict": "UNREACHABLE / EMPTY"
+    },
+    "diatoms_images": {
+      "all": [
+        "/favicon.png",
+        "/images/icons/apple-touch-icon.png",
+        "https://assets.diatoms.org/images/species_autecology_images/_max600/Redwater_River.jpg",
+        "https://assets.diatoms.org/images/species_guide_images/_square600/Cymbella_hustedtii_guide.jpg",
+        "https://assets.diatoms.org/images/species_orig_descriptions/_max600/Cymbella_hustedtii_origdesc001.jpg",
+        "https://assets.diatoms.org/images/species_orig_images/_max600/Cymbella_hustedtii_lectotype001.jpg",
+        "https://diatoms.gumlet.io/images/species_lm_images/Cymbella_hustedtii1.jpg",
+        "https://diatoms.gumlet.io/images/species_lm_images/Cymbella_hustedtii2.jpg",
+        "https://diatoms.gumlet.io/images/species_lm_images/Cymbella_hustedtii3.jpg",
+        "https://diatoms.gumlet.io/images/species_lm_images/Cymbella_hustedtii4.jpg",
+        "https://diatoms.gumlet.io/images/species_lm_images/Cymbella_hustedtii5.jpg",
+        "https://diatoms.gumlet.io/images/species_lm_images/Cymbella_hustedtii6.jpg",
+        "https://diatoms.gumlet.io/images/species_lm_images/Cymbella_hustedtii7.jpg",
+        "https://diatoms.gumlet.io/images/species_lm_images/_max600/Cymbella_hustedtii1.jpg",
+        "https://diatoms.gumlet.io/images/species_lm_images/_max600/Cymbella_hustedtii2.jpg",
+        "https://diatoms.gumlet.io/images/species_lm_images/_max600/Cymbella_hustedtii3.jpg",
+        "https://diatoms.gumlet.io/images/species_lm_images/_max600/Cymbella_hustedtii4.jpg",
+        "https://diatoms.gumlet.io/images/species_lm_images/_max600/Cymbella_hustedtii5.jpg",
+        "https://diatoms.gumlet.io/images/species_lm_images/_max600/Cymbella_hustedtii6.jpg",
+        "https://diatoms.gumlet.io/images/species_lm_images/_max600/Cymbella_hustedtii7.jpg"
+      ],
+      "non_furniture": [
+        "https://assets.diatoms.org/images/species_autecology_images/_max600/Redwater_River.jpg",
+        "https://assets.diatoms.org/images/species_guide_images/_square600/Cymbella_hustedtii_guide.jpg",
+        "https://assets.diatoms.org/images/species_orig_descriptions/_max600/Cymbella_hustedtii_origdesc001.jpg",
+        "https://assets.diatoms.org/images/species_orig_images/_max600/Cymbella_hustedtii_lectotype001.jpg",
+        "https://diatoms.gumlet.io/images/species_lm_images/Cymbella_hustedtii1.jpg",
+        "https://diatoms.gumlet.io/images/species_lm_images/Cymbella_hustedtii2.jpg",
+        "https://diatoms.gumlet.io/images/species_lm_images/Cymbella_hustedtii3.jpg",
+        "https://diatoms.gumlet.io/images/species_lm_images/Cymbella_hustedtii4.jpg",
+        "https://diatoms.gumlet.io/images/species_lm_images/Cymbella_hustedtii5.jpg",
+        "https://diatoms.gumlet.io/images/species_lm_images/Cymbella_hustedtii6.jpg"
+      ]
+    },
+    "diatoms_sample": {
+      "label": "diatoms.org Cymbella hustedtii valve image",
+      "url": "https://assets.diatoms.org/images/species_autecology_images/_max600/Redwater_River.jpg",
+      "http_status": 200,
+      "bytes_downloaded": 37014,
+      "truncated_at_cap": false,
+      "content_type": "image/jpeg",
+      "error": null,
+      "md5_full": "94b57681ab39f87fd1ce205c0a6d6274",
+      "md5_head1mb": "94b57681ab39f87fd1ce205c0a6d6274",
+      "looks_html": false,
+      "verdict": "REAL \u2014 JPEG image",
+      "jpeg": true,
+      "saved_to": "gold/campaign9-verify/diatoms-Redwater_River.jpg"
+    },
+    "wsl_tree": {
+      "welcome.html": {
+        "status": 200,
+        "bytes": 6708,
+        "refs": [
+          "authors.html",
+          "css/site.css",
+          "formate.css",
+          "glossary.html",
+          "https://www.wsl.ch/en/",
+          "ident_key.html",
+          "images/flag_gloss.gif",
+          "images/flag_glosson.gif",
+          "images/flag_ident.gif",
+          "images/flag_identon.gif",
+          "images/flag_macro_k.gif",
+          "images/flag_macro_kon.gif",
+          "images/flag_micro_k.gif",
+          "images/flag_micro_kon.gif",
+          "images/flag_prep.gif",
+          "images/flag_prepon.gif",
+          "images/flag_species.gif",
+          "images/flag_specieson.gif",
+          "images/header_tit_wide.png",
+          "images/wsl.gif",
+          "macro.html",
+          "micro.html",
+          "preparation.html",
+          "review.html",
+          "species_list.html"
+        ]
+      },
+      "species_list.html": {
+        "status": 200,
+        "bytes": 1793,
+        "refs": [
+          "css/dendro.css",
+          "css/site.css",
+          "formate.css",
+          "js/dendro.js",
+          "js/species_list.js"
+        ]
+      },
+      "micro.html": {
+        "status": 200,
+        "bytes": 5796,
+        "refs": [
+          "authors.html",
+          "css/site.css",
+          "formate.css",
+          "glossary.html",
+          "https://www.wsl.ch/en/",
+          "ident_key.html",
+          "images/flag_gloss.gif",
+          "images/flag_ident.gif",
+          "images/flag_macro_k.gif",
+          "images/flag_micro_kon.gif",
+          "images/flag_prep.gif",
+          "images/flag_species.gif",
+          "images/flag_wood.gif",
+          "images/header_top_wide.png",
+          "images/wsl.gif",
+          "macro.html",
+          "mic_long.html",
+          "mic_par.html",
+          "mic_pits.html",
+          "mic_por.html",
+          "mic_rad.html",
+          "mic_resin.html",
+          "mic_tang.html",
+          "mic_trach.html",
+          "mic_vess.html",
+          "preparation.html",
+          "species_list.html",
+          "welcome.html"
+        ]
+      },
+      "ident_key.html": {
+        "status": 200,
+        "bytes": 50654,
+        "refs": [
+          "#top",
+          "authors.html",
+          "css/site.css",
+          "formate.css",
+          "glossary.html",
+          "https://www.wsl.ch/en/",
+          "images/arrowtop.gif",
+          "images/flag_gloss.gif",
+          "images/flag_identon.gif",
+          "images/flag_macro_k.gif",
+          "images/flag_micro_k.gif",
+          "images/flag_prep.gif",
+          "images/flag_species.gif",
+          "images/flag_wood.gif",
+          "images/header_top_wide.png",
+          "images/line.gif",
+          "images/wsl.gif",
+          "key.pdf",
+          "macro.html",
+          "mic_pits.html",
+          "mic_resin.html",
+          "mic_tang.html",
+          "mic_trach.html",
+          "mic_vess.html",
+          "micro.html",
+          "preparation.html",
+          "species.html?code=ABAL",
+          "species.html?code=AEHI",
+          "species.html?code=AIAL",
+          "species.html?code=ALGL"
+        ]
+      }
+    },
+    "wsl_cdx": {
+      "collapsed": 58,
+      "ok200": 54,
+      "ok200_html": 17,
+      "ok200_images": 31,
+      "sample_images": [
+        {
+          "ts": "20261012085308",
+          "url": "https://static.wsl.ch/land/products/dendro/images/arrowtop.gif",
+          "length": "809"
+        },
+        {
+          "ts": "20261006195739",
+          "url": "https://static.wsl.ch/land/products/dendro/images/balk.gif",
+          "length": "772"
+        },
+        {
+          "ts": "20261116224544",
+          "url": "https://static.wsl.ch/land/products/dendro/images/balk_tit.gif",
+          "length": "778"
+        },
+        {
+          "ts": "20261023100519",
+          "url": "https://static.wsl.ch/land/products/dendro/images/bark.jpg",
+          "length": "24516"
+        },
+        {
+          "ts": "20261023100519",
+          "url": "https://static.wsl.ch/land/products/dendro/images/conif_h.jpg",
+          "length": "17068"
+        },
+        {
+          "ts": "20261023100519",
+          "url": "https://static.wsl.ch/land/products/dendro/images/dico_ring_h.jpg",
+          "length": "22637"
+        },
+        {
+          "ts": "20261023100519",
+          "url": "https://static.wsl.ch/land/products/dendro/images/dico_semi_h.jpg",
+          "length": "14966"
+        },
+        {
+          "ts": "20261006195739",
+          "url": "https://static.wsl.ch/land/products/dendro/images/flag_feed.gif",
+          "length": "900"
+        },
+        {
+          "ts": "20261006195738",
+          "url": "https://static.wsl.ch/land/products/dendro/images/flag_gloss.gif",
+          "length": "976"
+        },
+        {
+          "ts": "20261023100509",
+          "url": "https://static.wsl.ch/land/products/dendro/images/flag_glosson.gif",
+          "length": "941"
+        }
+      ]
+    },
+    "wsl_image_sample_wb": {
+      "label": "WSL dendro image via Wayback",
+      "url": "https://web.archive.org/web/20261023040011id_/https://static.wsl.ch/land/products/dendro/images/flag_identon.gif",
+      "http_status": 200,
+      "bytes_downloaded": 236,
+      "truncated_at_cap": false,
+      "content_type": "image/gif",
+      "error": null,
+      "md5_full": "b73560c31a7fdb3c62a270abf6dd22b2",
+      "md5_head1mb": "b73560c31a7fdb3c62a270abf6dd22b2",
+      "looks_html": false,
+      "first_bytes_hex": "47494638396168001600910000000000",
+      "all_blank": false,
+      "verdict": "BINARY \u2014 non-HTML, non-blank"
+    },
+    "bloodbook": {
+      "status": 200,
+      "final_url": "https://www.bloodbook.com/world-abo-frequency.html",
+      "bytes": 26084,
+      "text_head": " @font-face{font-family:\"Instrument Serif-82d7b2a963b046a2\";src:url(\"/_astro/fonts/1b9ddf14826d3107.woff2\") format(\"woff2\");font-display:swap;unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-weight:400;font-style:italic;}@font-face{font-family:\"Instrument Serif-82d7b2a963b046a2\";src:url(\"/_astro/fonts/0758a5bd40b322c1.woff2\") format(\"woff2\");font-display:swap;unicode-range:U",
+      "mentions_mourant": false,
+      "mentions_populations": 0
+    },
+    "mourant_head": {
+      "status": null,
+      "error": "HTTPSConnectionPool(host='www.nature.com', port=443): Max retries exceeded with url: /articles/hdy19522.pdf?origin=ppub "
+    },
+    "gordon": {
+      "status": 200,
+      "specimens_snippet": "    The Collection\r\n         \r\n\r\n\n\n\n The Museum has a large and growing collection of approximately 8,000 pathological specimens, all are catalogued.",
+      "restriction_snippet": "ase recording by students, and was appointed lecturer in comparative anatomy at the Royal College of Surgeons, where he restricted himself to four and a half hours sleep in order to dissect animals to enhance his knowledge."
+    },
+    "psmsl_catalogue": {
+      "label": "PSMSL catalogue.dat (cap 3MB)",
+      "url": "https://psmsl.org/data/obtaining/catalogue.dat",
+      "http_status": 200,
+      "bytes_downloaded": 703499,
+      "truncated_at_cap": false,
+      "content_type": null,
+      "error": null,
+      "md5_full": "70726f95da1d31dad29cb31aaf295685",
+      "md5_head1mb": "70726f95da1d31dad29cb31aaf295685",
+      "looks_html": false,
+      "lines_sampled": 15833,
+      "first_line": "                       CATALOGUE OF DATA HELD BY THE PSMSL.",
+      "verdict": "REAL \u2014 decodable text data"
+    },
+    "psmsl_station15": {
+      "status": 200,
+      "data_links": [
+        "../met.monthly.data/15.metdata",
+        "../rlr.annual.data/15.rlrdata",
+        "../rlr.monthly.data/15.rlrdata",
+        "/about_us/news/2010/data_changes.php",
+        "/data/",
+        "/data/bottom_pressure/",
+        "/data/calibrations/",
+        "/data/hf/",
+        "/data/longrecords/",
+        "/data/obtaining/"
+      ]
+    },
+    "aden_calib": {
+      "label": "PSMSL Aden calibrations xls",
+      "url": "https://psmsl.org/data/calibrations/aden/aden_calibrations.xls",
+      "http_status": 200,
+      "bytes_downloaded": 401920,
+      "truncated_at_cap": false,
+      "content_type": "application/vnd.ms-excel",
+      "error": null,
+      "md5_full": "6a6291618011745e03b8acec6071a163",
+      "md5_head1mb": "6a6291618011745e03b8acec6071a163",
+      "looks_html": false,
+      "verdict": "REAL \u2014 OLE2 (legacy .xls)",
+      "ole2": true,
+      "saved_to": "gold/campaign9-verify/psmsl-aden_calibrations.xls"
+    },
+    "ireland_marigram_paper": {
+      "label": "McLoughlin et al. Ireland sea-level preprint PDF (cap 3MB)",
+      "url": "https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6404/egusphere-2025-6404.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 2542402,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "9c2a38c74dff680092b03bafed190be4",
+      "md5_head1mb": "3154e995fe8631cbe805268758ab9af5",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true
+    }
+  }
+}

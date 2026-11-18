@@ -1,0 +1,211 @@
+page,slot,name,bs_id,size,sex,year_raw,year_decoded,scar_count,section_missing,flipper_damage,scar_group,confidence,adjudicated,notes
+2,1,Adam West,67,M,,B84,1984,4,1,0,HIGH,high,0,A: 2 body ovals; tail hole mark; black notch tail edge | B: Black notch at right tail edge
+2,2,Africa,273,L,m,00,2000,5,0,0,HIGH,high,0,A: rake cluster top; triangle column; 2 ovals; tail edge ticks | B: Triangle column counted as 1 series; hatched rake at top counted as 1; ticks on tail counted as 1
+2,3,Alice,395,M,,B04,2004,2,1,0,HIGH,high,0,A: left rake cluster; tail ticks with black notch | B: Hatched rake on left counted as 1 series; black patch at left tail edge
+2,4,Amadeus,645,M,m,10,2010,4,0,0,HIGH,high,0,A: tail marks: line; oval; dash cluster; black dot | B: All marks are on the tail; black dot with arrow counted as 1
+2,5,Amanda,287,M,,B00,2000,7,0,0,HIGH,high,0,A: multiple ovals/dashes/dots; tail cluster | B: Dot column on right counted as 1 series; black scribble on tail counted as 1 but not at edge
+2,6,Amber,286,M,,B00,2000,0,0,0,MID,high,0,A: A1/A3 freeze brands only; no scar marks | B: A3 at head and peduncle is a freeze brand not a scar
+2,7,Amigo,275,M,?,00,2000,7,1,0,HIGH,medium,0,A: rectangular marks; small slashes; black tail edge notches | B: Black dots at tail bottom edge counted as 1 cluster with section missing; small B at left of tail not counted
+2,8,Amy,245,M,,B99,1999,3,1,0,HIGH,high,0,A: central line; tail slash cluster; black tail notch | B: Slash series on left of tail counted as 1; black notch on tail
+2,9,Andy,252,M,,99,1999,6,0,0,HIGH,medium,0,A: dotted rake; oval clusters; long ovals; tail dot; scar grouping ambiguous | B: Hatched diagonal column counted as 1 series; two long vertical scars counted individually
+2,10,Ann,189,L,,96,1996,5,0,0,HIGH,high,0,A: two slash clusters; triangle; tail marks | B: Two slash clusters counted as 1 each
+3,1,Annie,507,M,,07,2007,0,0,0,MID,high,0,A: A6 freeze brands only | B: A6 at head and peduncle is a freeze brand not a scar
+3,2,Ansel,653,M,,10,2010,1,0,0,LOW,high,0,A: single star-shaped mark | B: Single star-shaped scar
+3,3,Anvil,250,M,m,99,1999,3,0,0,HIGH,high,0,A: head line; mid zigzag; tail cluster | B: Cluster of small marks on tail counted as 1
+3,4,Aplin,568,L,,08,2008,5,1,0,HIGH,high,0,A: diagonal slash; tail ovals/dots; black tail notch | B: Black triangles at tail bottom edge counted as 1 cluster with section missing
+3,5,Aqua,719,L,F,11,2011,2,0,0,MID,high,0,A: oval cluster top; rake cluster mid | B: Upper trio of ovals counted as 1 series; dashed-line cluster counted as 1; ID written vertically
+3,6,Arnold,205,M,,97,1997,4,0,0,HIGH,high,0,A: 3 lower ovals; tail cluster
+3,7,Arwen,342,M,,02,2002,4,0,0,HIGH,high,0,A: central line; oval column cluster; small ovals; tail dash | B: Oval column on right counted as 1 series; pair of ovals on left counted as 1 cluster
+3,8,Ash,599,M,,09,2009,3,0,0,HIGH,high,0,A: left mark cluster; vertical lines cluster; tail ticks; 'white' annotation | B: Hatched column on left counted as 1 series; word white written beside ID
+3,9,Axis,573,M,,08,2008,3,0,0,HIGH,medium,0,A: diamond; dash; oval column cluster | B: Small diamond mark near head counted as 1 but may be a freeze brand; oval column on left counted as 1 series; size letter is small m read as M
+3,10,B.J.,717,M,F,,,2,0,0,MID,medium,0,A: no year code visible; feathered mark and diagonal oval | B: No year code written under sketch; only name B.J.
+4,1,Bart,276,S,,00,2000,4,0,0,HIGH,high,0,A: tick pair; overlapping ovals; shaded line; tail dots | B: Dot cluster on tail counted as 1
+4,2,Bartram,128,M,,B91,1991,4,1,0,HIGH,high,0,A: edge rake cluster; tail dots/dash; black tail notch | B: Slash series on left edge counted as 1; black dot at tail bottom edge counted as notch
+4,3,Barry,254,M,,99,1999,4,0,0,HIGH,high,0,A: head oval; 2 triangles; tail cluster | B: Three spaced triangles counted individually; 010 marks on tail counted as 1 cluster
+4,4,Bay,562,M,,08,2008,4,0,0,HIGH,high,0,A: head oval; 3 mid ovals; tail ticks | B: Paired ovals mid-body counted as 1 cluster; ticks on tail counted as 1
+4,5,Bertram,127,M,,B91,1991,3,1,0,HIGH,medium,0,A: 47 freeze brands present; diagonal slash; large black tail notch; tail ovals | B: Number 47 on body is a freeze brand not a scar; black patch at left tail edge
+4,6,Bock,587,M,,08,2008,0,0,0,MID,high,0,A: 95 freeze brands only | B: Number 95 at head and peduncle is a freeze brand not a scar
+4,7,Bodie,646,M,,10,2010,2,0,0,MID,high,0,A: small oval; oval cluster mid | B: Three stacked ovals counted as 1 series
+4,8,BonBon,679,M,F,11,2011,2,0,0,MID,high,0,A: left rake cluster; lower slash cluster; head flat in drawing | B: Hatched slash series on left counted as 1
+4,9,Brecca,632,M,,10,2010,4,0,0,HIGH,medium,0,A: diagonal slash; side circle; tail dot cluster; side annotation 'hole ala 12D' uncertain | B: Small circle on right annotated hole; dot series on tail counted as 1
+4,10,Brianna,524,L,,07,2007,1,0,0,LOW,high,0,A: single crown/Q-shaped mark | B: Single crown-like scar with Q below counted as 1 feature
+5,1,Broz,736,M,,12,2012,5,0,0,HIGH,medium,1,A: ovals and long wavy line; tail ticks and dot | B: Ticks and black dot at tail bottom edge counted as 1 cluster with section missing
+5,2,Brutus,11,L,,70,1970,7,0,0,HIGH,high,0,A: multiple small ovals/slashes; dotted diagonal cluster; tail ticks | B: Dotted diagonal line counted as 1 series; ID is small 11 at lower right
+5,3,C.C.,334,M,,B02,2002,2,0,0,MID,high,0,A: tail figure-8 mark; tail ticks | B: Figure-8 mark on tail plus bottom ticks counted as 1
+5,4,Caleb,655,S,,10,2010,7,0,0,HIGH,medium,0,A: scattered small dots counted individually; tail dot cluster | B: Numerous scattered small dots counted individually; dot count ambiguous; black marks on tail counted as 1 cluster but not a section notch
+5,5,Calista,260,M,,99,1999,4,0,0,HIGH,high,0,A: head dot; slash; large leaf mark; small slash | B: Dots at head counted as 1 cluster
+5,6,Camo,691,L,F,11,2011,6,1,0,HIGH,high,0,A: head mark; crossed slash cluster; 2 large patches; tail black dot and tick | B: Cross-hatch cluster counted as 1; two large grey patches counted individually; black dot at tail edge counted as notch
+5,7,Cedar,613,M,,09,2009,3,0,0,HIGH,medium,1,A: hatched cluster; triangle/dot cluster; tail marks; small word at tail uncertain | B: Hatched cluster on left counted as 1; triangle with oval column on right counted as 1 cluster; small illegible word at lower left of name
+5,8,Ceto,494,M,,06,2006,1,0,0,LOW,high,0,A: tail dotted cluster only | B: Dots and ticks on tail counted as 1 cluster
+5,9,Chad II,650,M,,10,2010,2,0,0,MID,high,0,A: scribble cluster; 3 vertical lines cluster; 'deep' annotation | B: Name written Chad II; three vertical lines counted as 1 series; word deep written vertically at right
+5,10,Chaka,734,L,,12,2012,3,0,0,HIGH,high,0,A: dot pair; triangle; tail oval column cluster and tick | B: Oval column on tail counted as 1 series; dot pair counted as 1 cluster
+6,1,Chekov,453,M,,,,2,1,0,HIGH,medium,0,A: no year code visible; oval column cluster; black tail notch | B: No year code written under sketch; slash and oval column counted as 1 series; black triangle notch on tail
+6,2,Chuck,126,M,,B91,1991,5,0,0,HIGH,medium,1,A: long central mark; 2 slashes; tail dots and black dot | B: Dot cluster on tail counted as 1 plus separate black dot at tail edge as notch
+6,3,Chumly,686,M,?,11,2011,3,0,0,HIGH,medium,1,A: slash; dotted column cluster; tail tick | B: Oval column counted as 1 series; black marks at tail edge counted as 1 cluster with section missing
+6,4,Cinna,185,M,,B96,1996,4,0,0,HIGH,high,0,A: slash; deep horizontal line; 2 ovals; 'deep' annotation | B: Horizontal line annotated deep counted as 1
+6,5,Claudeene,465,M,,05,2005,3,0,0,HIGH,medium,0,A: dash; tail dot cluster; tail U mark and ticks; 'hole' annotation | B: Cluster of small marks on tail counted as 1 plus separate U mark; word hole at tail
+6,6,Cleburne,112,M,,89,1989,4,1,0,HIGH,high,0,A: head oval; rake cluster; diamond; tail dots with black notches | B: Large hatched cluster on left counted as 1; black triangles at tail bottom edge counted as 1 cluster with section missing
+6,7,Cody,137,M,,91,1991,3,1,0,HIGH,high,0,A: horizontal oval; side dots; black shaded tail notch | B: Black triangle at tail bottom-left edge counted as notch
+6,8,Conan,644,S,,10,2010,1,0,0,LOW,high,0,A: tail oval cluster only | B: Row of four ovals on tail counted as 1 series
+6,9,Cookie,696,M,,11,2011,1,0,0,LOW,high,0,A: single black dot on tail | B: Single black dot inside tail; not at edge so section_missing=0
+6,10,Cop,424,M,,04,2004,2,0,0,MID,high,0,A: slash; tail slash cluster | B: Slash cluster on tail counted as 1
+7,1,Cora,163,M,,B94,1994,4,1,0,HIGH,high,0,A: 3 diagonal slashes; tail hole dot; black tail tick | B: Upper slash pair counted as 1 cluster; hole dot on tail plus black notch counted separately
+7,2,Dade,188,L,,96,1996,5,1,0,HIGH,high,0,A: 3 mid marks; tail dot; tail slash cluster; black tail dot at edge | B: Black notch at tail bottom
+7,3,Danny,232,S,,98,1998,2,0,0,MID,high,0,A: long vertical mark; small oval
+7,4,Dante,635,M,,10,2010,2,0,0,MID,medium,0,A: deep slash cluster top; ARA brand letters not counted; tail mark | B: Three deep slashes at top counted as 1 rake; letter-like marks mid-body appear to be a freeze brand and are not counted; black dot on tail counted as 1
+7,5,Debra,174,M,,B95,1995,3,0,0,HIGH,high,0,A: small mark; tail slash and tick cluster | B: Hatch ticks beside tail scar counted with tail scar as 1 cluster
+7,6,Decaf,327,S,m,B02,2002,4,0,0,HIGH,high,0,A: long line; slash; triangle; tail hole dot | B: Hole dot on tail counted as 1
+7,7,Deep Dent,34,L,,79,1979,5,1,0,HIGH,high,0,A: slash; circular dent; loop; tail line cluster and black notches; 'Through Tail' annotation | B: Name written Deep Dent; tail annotated Through Tail; vertical lines on tail counted as 1 series; black marks at tail bottom counted as 1 with section missing
+7,8,Delain,130,M,,B91,1991,3,0,0,HIGH,high,0,A: dash; dotted cluster; tail cluster and black dot | B: Wavy column counted as 1 series; cluster on tail counted as 1
+7,9,Della,296,M,,B01,2001,3,0,0,HIGH,medium,1,A: oval; tail tick cluster; tail mark; 'weak' annotation | B: Wavy marks at left of tail counted as 1 cluster; word weak written at tail
+7,10,Devo,548,M,,08,2008,2,0,0,MID,high,0,A: oval cluster; tail mark | B: Trio of ovals counted as 1 series
+8,1,Doc,10,L,,76,1976,5,0,0,HIGH,medium,1,A: dash; 2 ovals; tail mark cluster | B: ID is 10; black mark at tail bottom-left edge counted as notch
+8,2,Don,149,L,,B93,1993,2,0,0,MID,high,0,A: dotted column cluster; black scribble; 'Fat' annotation by size | B: Size annotated Fat beside L; oval column counted as 1 series
+8,3,Donna,55,L,,B82,1982,4,0,0,HIGH,high,0,A: head oval and line; flag mark; tail slash cluster and dots | B: Cluster of slashes and dots on tail counted as 1
+8,4,Doom,263,M,,B00,2000,0,0,0,MID,high,0,A: 06 brand on body only; no scar marks | B: Number 06 on body appears to be a freeze brand not a scar; no other marks
+8,5,Doug,57,L,,82,1982,7,0,0,HIGH,high,0,A: multiple large patches/slashes; tail mark | B: Year written as 82 without prefix; multiple large scars counted individually
+8,6,Doyle,150,M,,B93,1993,5,0,0,HIGH,high,0,A: slash clusters; tail dot and grey shaded tail patch (not black notch) | B: Grey hatched patch on tail counted as 1 feature but not a black edge notch so section_missing=0
+8,7,Duffy,546,S,,08,2008,2,1,0,HIGH,high,0,A: black tail wedge; tail oval | B: Black notch at left edge of tail
+8,8,Duke,558,M,,08,2008,2,0,0,MID,high,0,A: dotted column cluster; oval pair cluster | B: Oval column counted as 1 series; paired ovals counted as 1 cluster
+8,9,Dynamo,292,M,M,00,2000,4,0,0,HIGH,high,0,A: slash cluster; 2 slashes; tail ticks | B: Slash cluster at upper left counted as 1
+8,10,Easter,146,M,M,B93,1993,4,0,0,HIGH,high,0,A: small mark; slash; white cluster; tail dot cluster; 'white' annotation | B: Word white written beside left edge cluster; tail dot and oval clusters counted as 2 features
+9,1,Eli,729,M,,12,2012,4,0,0,HIGH,high,0,A: top pair + vertical rake column + diagonal cluster; small tail-edge dots | B: pair cluster; dotted column cluster; diagonal cluster; tail ticks
+9,2,Ellen,735,S,,12,2012,2,1,0,HIGH,high,0,A: diagonal scar with 3 small marks = 1 cluster; black tail notch | B: large oval; small oval cluster; black tail blob
+9,3,Elvis,707,M,,12,2012,1,0,0,LOW,high,0,A: head triangle + 2 dots = 1 cluster | B: head triangle and dot cluster only
+9,4,Eon,474,S,F,B06,2006,2,0,0,MID,high,0,A: head oval; tiny tail dot | B: head oval cluster; tail tick
+9,5,Eris,491,L,,06,2006,5,0,0,HIGH,medium,1,A: slash; chevron; right-side column; bottom pair; tail slashes | B: handwritten name looks 'Evis'; typed caption Eris used; slash; arrow mark; dotted column; ovals; tail ticks/black
+9,6,Esso,300,S,m,B01,2001,1,0,0,LOW,high,0,A: paired vertical marks = 1 feature | B: parallel oval pair counted as one cluster
+9,7,Ester,121,M,,B90,1990,6,0,0,HIGH,medium,0,A: multiple head/body slashes and patches; left-edge cluster | B: edge marks; upper slashes; patch; tail marks
+9,8,Eustis,187,S,,B96,1996,4,0,0,HIGH,high,0,A: top pair; long vertical scar; small scar below; tail notches cluster | B: 2 head ovals; long vertical mark; small oval; tail ticks
+9,9,Fisel,518,M,F,07,2007,2,0,0,MID,high,0,A: triangular outline scar; lower peduncle mark | B: triangular mark; wavy lower mark
+9,10,Flash,22,L,m,78,1978,5,0,0,HIGH,medium,1,A: head scribble; right rake column; mid slash; mid column; tail cluster | B: head arrow; column cluster; slash; dot cluster; tail cluster/black ticks
+10,1,Fletch,306,M,,01,2001,4,0,0,HIGH,medium,0,A: left column = 1; right circle; right dots; tail dots; handwritten year overlaps 'hole' annotation | B: dotted column cluster; oval; dots; tail dots; 'hole' annotation at tail
+10,2,Floyd,28,M,,78,1978,2,0,0,MID,high,0,A: side slash cluster; large hatched tail area | B: diagonal oval cluster; large hatched black tail area (not counted as notch)
+10,3,Forge,352,M,,02,2002,2,0,0,MID,high,0,A: diagonal scar; tail rake cluster | B: diagonal slash; tail dot cluster
+10,4,Fran,319,M,,01,2001,4,0,0,HIGH,high,0,A: upper crossed scars = 2 clusters; lower dotted column; tail slashes | B: upper slash/cross cluster; dotted column; tail ticks
+10,5,G.Weasley,311,M,,01,2001,3,0,0,HIGH,high,0,A: name as typed G.Weasley; left horizontal lines = 1; lower cluster; tail dots | B: horizontal line cluster; tail leaf cluster and dots
+10,6,Gaia,739,M,,12,2012,2,1,0,HIGH,high,0,A: right-side cluster; black tail-edge notch | B: long/oval cluster; dash; black tail notch
+10,7,Galadriel,344,M,,02,2002,4,0,0,HIGH,high,0,A: 3 body slashes; tail mark; 'hole' annotated at tail | B: 2 upper slashes; lower slash; tail tick and hole dot
+10,8,Gator,681,S,M,11,2011,2,0,0,MID,high,0,A: upper scribbled cluster = 1; lower oval column = 1 | B: scribble cluster mid; oval column cluster
+10,9,Georgia,196,L,,96,1996,5,0,0,HIGH,medium,0,A: scattered small scars incl '65'/'59'-like marks at head counted within clusters; ~6 discrete marks | B: 65/59 brands not counted; 4 small body slashes; tail arrow mark
+10,10,Ginger,654,L,,10,2010,2,0,0,MID,high,0,A: vertical body scar; tail hole dot annotated 'hole' | B: long vertical mark; tail hole dot
+11,1,Harley,86,M,,85,1985,3,0,0,HIGH,high,0,A: left pair; right star mark; tail cluster | B: 2 upper slashes; star mark; tail cluster
+11,2,Hogan,135,L,,91,1991,6,1,0,HIGH,high,0,A: 2 hatched scars; slash; crown mark; side slash; tail dots + black notch; 'hole' annotated | B: 2 hatched ovals; slash; crown mark; side slash; tail dots and black notch; 'hole' annotation
+11,3,HomerII,458,S,,05,2005,1,1,0,HIGH,high,0,A: name typed HomerII; large black tail loss | B: large black shaded tail area counted as one feature with section missing
+11,4,Honey,727,M,,12,2012,3,1,0,HIGH,high,0,A: 'Fat' noted at top; long slash with 2 ovals = 1 cluster plus separate count split as 2; black tail-edge notch | B: long oval with 2 small ovals; black tail edge wedge; 'Fat' annotation
+11,5,Hood,114,M,,89,1989,3,0,0,HIGH,high,0,A: centre dot; tail scar; tail notches cluster | B: small loop; tail shape; tail tick cluster
+11,6,Howey,14,L,,71,1971,1,1,0,HIGH,high,0,A: tail cluster only; black tail triangle = section missing | B: tail cluster with black triangle at edge
+11,7,Huss,373,M,F,03,2003,4,0,0,HIGH,high,0,A: top cluster; long slash; peduncle horizontal lines = 1; tail marks | B: top cluster; long diagonal; horizontal line cluster; tail cluster
+11,8,Icarus,522,M,,06,2006,2,1,0,HIGH,low,0,A: year handwritten faint - reads 06; body slash; black tail notch | B: year code illegible - handwritten looks like 'soc'; best reading 06; diagonal oval; black tail triangle
+11,9,Ike,619,M,,09,2009,3,0,0,HIGH,high,0,A: left slashes = 2 clusters; right oval column = 1; tail marks | B: left slash cluster; right oval column cluster; tail ticks
+11,10,Irvin,728,M,,12,2012,3,0,0,HIGH,high,0,A: left 'deep' slashes = 1; lower V scar; tail hole/dots | B: deep slash cluster; triangle and oval; tail dot cluster; 'hole' annotation
+12,1,Ishmael,60,L,,82,1982,4,0,0,HIGH,high,0,A: top cluster; mid slash; side mark; tail cluster | B: top oval/slash cluster; mid slash; side ticks; tail scribble cluster
+12,2,Jackie,662,M,,11,2011,1,0,0,LOW,medium,0,A: 3 close slashes counted as 1 strike cluster; 'L1' texts on body not scars | B: L1 freeze brands not counted; mid slash cluster only
+12,3,Jamie,448,M,,05,2005,4,0,0,HIGH,medium,1,A: flipper drawn plain - no damage marks so flipper_damage=0; upper clusters; tail notches | B: flipper drawn top right without marks (flipper_damage=0); head dot cluster; body oval clusters; tail ticks
+12,4,Janice,332,M,,B02,2002,3,0,1,HIGH,medium,1,A: flipper drawn with stripe = damaged; left slashes; long black slash; small black peduncle notch | B: flipper drawn with diagonal mark; long vertical mark; diagonal cluster; black tail dot
+12,5,Jazz,601,M,F,09,2009,2,1,0,HIGH,high,0,A: 'deep' slashes = 1 cluster; tail dots + black notch | B: deep slash cluster; tail dot; black tail notch and ticks
+12,6,Jessica,131,L,,B91,1991,1,0,1,LOW,medium,0,A: year reads B91 (written 691-like); body oval scar; both flippers drawn with band marks = flipper damage | B: both flippers drawn with dark bands; single body oval
+12,7,Jethro,154,M,,B93,1993,3,1,0,HIGH,medium,1,A: small triangle; side 'healed' slashes = 1; black tail edge | B: triangle; slash cluster ('bad' annotation); tail black ticks
+12,8,Jim,246,M,,B99,1999,2,0,0,MID,medium,1,A: dotted patch scar; black tail notch | B: mid patch; black tail dot
+12,9,Jocie,515,M,,07,2007,1,0,0,LOW,high,0,A: single slash cluster on right side | B: single slash cluster
+12,10,Joe,145,M,,92,1992,2,0,0,MID,high,0,A: body slash; tail hole marks annotated 'hole healed' | B: diagonal mark; tail cross/black dot cluster; 'hole healed' annotation
+13,1,Juan,168,S,,B95,1995,5,0,0,HIGH,high,0,A: head mark; 2 mid ovals; tail slash; tail oval column = 1 | B: head slash; 2 ovals; tail slash and oval column cluster
+13,2,Julie,118,L,,B90,1990,4,0,0,HIGH,high,0,A: slash; 2 small ovals; crossed-slash cluster | B: upper marks; crossed slash cluster lower
+13,3,Kathy,705,L,,11,2011,2,0,0,MID,high,0,A: top scar with 2 ticks = 1; tail slashes | B: oval/line cluster; tail slash cluster
+13,4,Kirsten,550,M,,08,2008,3,0,0,HIGH,high,0,A: left rake cluster; mid slash; lower double mark | B: left edge cluster; slash; lower marks
+13,5,Koko,571,L,,08,2008,4,0,0,HIGH,high,0,A: head mark; mid oval column = 1; lower lined scar; tail mark | B: top cluster; oval column cluster; line cluster; tail curl mark
+13,6,Lacy,262,M,,B00,2000,6,0,0,HIGH,medium,0,A: multiple small side marks both sides; tail dot | B: left marks; right dash/D cluster; lower dash; tail black dot; grouping ambiguous
+13,7,Lance,172,M,,B95,1995,6,0,0,HIGH,high,0,A: head slash + dot; 2 mid slashes; tail line cluster; peduncle mark | B: head slash and dot; 3 mid slashes; tail cluster
+13,8,Law,204,L,F,B97,1997,4,0,0,HIGH,high,0,A: 4 scattered small scars | B: 2 head marks; oval; lower slash
+13,9,Lenny,25,M,,B78,1978,3,0,0,HIGH,high,0,A: upper V slashes = 1 cluster; lower triangle; tail notches cluster | B: V-shaped cluster; triangle; tail tick cluster
+13,10,Liege,147,L,,B93,1993,3,1,0,HIGH,medium,1,A: lower dotted/slash cluster; large black tail patch at edge | B: lower mark cluster; P-shaped marks; black oval patch on tail (interior - not edge notch)
+14,1,Lil'Joe,664,L,,11,2011,0,0,0,MID,high,0,A: name typed Lil'Joe handwritten Lill Joe; 'R5'/'RS' texts on body are not scars - no scar marks | B: R5 freeze brands only; no scar marks
+14,2,Lillith,98,L,,B88,1988,3,0,1,HIGH,medium,1,A: flipper drawn plain = no damage; mid crossed cluster; tail lines | B: flipper top right with bands; 35 brands not counted; mid slash/patch cluster; tail ticks
+14,3,Lilly,4,L,,74,1974,7,0,1,HIGH,medium,0,A: flipper drawn with dot mark = damaged; many small body marks; 'holes' annotated at tail | B: flippers both sides with marks; heart mark; ovals/dots; lower cluster; tail dots; scar grouping complex
+14,4,Loden,355,M,?,02,2002,1,1,0,HIGH,high,0,A: sex (?) at lower-left; black tail patch only | B: black shaded tail corner only
+14,5,Lola,73,L,,B85,1985,3,1,0,HIGH,high,0,A: body slash; small dot; black tail loss | B: slash; small marks; black tail cluster at edge
+14,6,Lucille,37,L,,B80,1980,5,0,0,HIGH,medium,0,A: 5 scattered scars; small flipper-like mark at side drawn plain | B: small flipper-like 'II' mark at right edge without clear damage (flipper_damage=0); slashes/ovals; tail marks
+14,7,Lucretia,120,L,,B90,1990,5,0,0,HIGH,high,0,A: top rake; 3 dots/ovals; lower slashes = 1; side hole dot | B: rake cluster; scattered ovals; long mark cluster; hole dot
+14,8,Luke,111,M,,B89,1989,2,1,0,HIGH,medium,0,A: ID written vertically as 111 beside peduncle; tail black notch + central triangle | B: tail black triangle at bottom edge and black dot
+14,9,Lunatic,63,M,,B83,1983,3,0,0,HIGH,high,0,A: body slash; peduncle grid scar; tail slash cluster | B: slash; peduncle grid cluster; tail slash cluster
+14,10,Mangle,203,M,,97,1997,5,0,1,HIGH,medium,1,A: flipper drawn with dots = damaged; body dots/slashes; tail marks | B: flipper left with dots; dot cluster; oval/slash; tail cluster with black dot at edge
+15,1,Major,456,M,F,05,2005,3,0,0,HIGH,medium,1,A: long central scar with oval column = 1 cluster; lower scribble cluster | B: oval column cluster; long central line; lower scribble cluster
+15,2,Marge,733,M,F,12,2012,3,0,0,HIGH,medium,1,A: sex F written without parentheses; 3 parallel slashes = 1 rake + side tick column = 1; black tail dots at edge | B: sex 'F' written without parentheses; parallel slash cluster; tick cluster; tail dots
+15,3,Margarito,71,M,,B84,1984,3,0,0,HIGH,high,0,A: large slash; small slash; tail marks cluster | B: small flipper top left without marks (flipper_damage=0); oval; slash; tail dot/tick cluster
+15,4,Marnie,559,M,,08,2008,1,0,0,LOW,high,0,A: cluster of 4 ovals on side = 1 feature; 'un...self' annotation at side | B: single oval cluster left side
+15,5,Megan,475,M,,06,2006,3,0,0,HIGH,medium,1,A: dot cluster; dark slash | B: dot cluster; small oval; thick slash
+15,6,Merlin,19,L,,70,1970,5,0,0,HIGH,high,0,A: head cluster; 2 mid clusters; side scribble; tail cluster | B: head mark clusters; mid slash/dot cluster; side cluster; tail scribble cluster
+15,7,Micanopy,421,M,?,,,3,1,0,HIGH,medium,1,A: no year code written - name only; sex (?) ; top marks; lower slash; tail notches cluster | B: no year code visible; top dot cluster; slash; black tail edge humps
+15,8,Michelle,153,L,,B93,1993,3,0,0,HIGH,high,0,A: central rake scar = 1; 2 lower dots | B: comb cluster; 2 lower dots
+15,9,Milford,220,M,,B98,1998,3,0,0,HIGH,medium,1,A: side slash cluster at peduncle; tail marks | B: lower slash cluster; tail marks and dot
+15,10,Millie,133,VL,,91,1991,4,1,0,HIGH,medium,0,A: size written VL (very large?) not S/M/L; extra '8' written above ID 133; head mark; deep slash cluster; black tail patch + dots | B: size written 'VL' (very large) not S/M/L; head bow mark; deep slash cluster; 8 mark; black tail area and dots
+16,1,Mona,285,M,,00,2000,4,1,0,HIGH,high,0,A: Column of ovals on left counted as 1 series; black notch at tail tip | B: top slash; mid slash; left oval column = 1; small black tail-edge dot
+16,2,Monica,499,M,,06,2006,5,1,0,HIGH,high,0,A: Column series counted as 1; black notch at tail bottom | B: top slash; scribble; mid slash; lower column+scribble = 1; black tail notch
+16,3,MooShoo,668,S,,10,2010,3,0,0,HIGH,high,0,A: Word white written at left tail edge; hatch ladder mid-body counted as 1 | B: head dots; ladder scar; side 'white' mark
+16,4,Mossback,216,M,,B78,1978,1,0,1,LOW,high,0,A: Flippers drawn both sides; left flipper bears stripe marks so flipper_damage=1; flipper marks not counted in scar_count | B: body slash; left flipper striped = damaged; right flipper plain
+16,5,Milton,82,L,,85,1985,4,0,0,HIGH,high,0,A: Small black dots at tail tip counted as 1 feature; not a section notch; Milton appears last in top row out of alphabetical order | B: typed order on page puts Milton in slot 5 top row after Mossback; 2 slashes; horizontal scar; dot + tail dots
+16,6,Nato,720,M,,11,2011,4,1,0,HIGH,medium,1,A: Black wedges at tail bottom edge; small ovals on tail counted individually | B: upper slash cluster; tail dots + notch cluster
+16,7,Necro,659,M,,10,2010,2,0,0,MID,high,0,A: Long vertical scar on right side plus arc mark on tail | B: long side line scar; tail curve mark
+16,8,Nick,,M,,78,1978,7,1,0,HIGH,low,1,A: No ID number visible on sketch; word hole at lower left of tail; flipper drawn at upper right without marks so flipper_damage=0; tail mark cluster ambiguous | B: ID number not legible/visible at lower-right in image; scattered body marks + tail cluster incl black notch but section not clearly a missing section - counted in scars; 'hole' annotated
+16,9,NoTail,65,L,m,83,1983,5,1,0,HIGH,high,0,A: Entire tail hatched black indicating tail missing | B: name typed NoTail; 4 body ovals; entire tail cross-hatched = section missing
+16,10,Nyx,478,M,,06,2006,3,1,0,HIGH,medium,1,A: Thick black mark at tail tip counted as notch | B: side small slash; lower slash; tail split mark
+17,1,Obama,661,S,,B10,2010,1,1,0,HIGH,medium,0,A: Single black notch on tail | B: year prefix small - reads B10; black tail notch only
+17,2,O'Shea,110,M,,B89,1989,4,0,0,HIGH,high,0,A: Mid-body slash and triangle counted as 1 tight cluster | B: head dot; mid slash cluster; tail marks = 2
+17,3,Paddy Doyle,13,L,,71,1971,4,0,0,HIGH,high,0,A: Rake cluster on right counted as 1; three scattered dots on tail counted individually | B: typed PaddyDoyle; head notch; slash; rake cluster; tail dots
+17,4,Patrick,94,M,,87,1987,2,0,0,MID,medium,1,A: Flipper drawn at upper left with a small mark resembling a numeral; flipper_damage=0; unexplained 10 written on tail; hole dot on tail | B: extra '10' written left of ID 94 - ID taken as 94; head dot; flipper with mark = damaged; tail hole notch
+17,5,Peaches,213,M,M,B98,1998,3,0,0,HIGH,medium,1,A: Long diagonal annotated deep; small black dot at tail tip not counted as section | B: sex (M) at lower-left; 'deep' long slash; tail marks
+17,6,Pear,667,S,m,B10,2010,1,0,0,LOW,high,0,A: Paired vertical marks on left counted as 1 cluster | B: V-shaped scar + line = 1 cluster
+17,7,Pedro,388,M,,03,2003,1,0,0,LOW,high,0,A: Three parallel diagonals counted as 1 rake feature | B: 3 parallel slashes = 1 rake cluster
+17,8,Peekaboo,228,M,,B99,1999,3,1,0,HIGH,medium,1,A: Black triangle at tail bottom edge counted as notch | B: body oval; tail mark cluster
+17,9,Peter,555,S,,08,2008,1,0,0,LOW,high,0,A: Single elongated mark cluster at left peduncle | B: single lower side mark pair = 1
+17,10,Phalcon,227,L,,B99,1999,1,0,0,LOW,high,0,A: Column of four ovals counted as 1 series | B: column of 4 ovals = 1 feature
+18,1,Phillip,53,M,,B82,1982,3,0,0,HIGH,medium,1,A: Row of small arcs on tail counted as 1 series | B: dot + slash = 1 cluster; tail notch cluster
+18,2,Phyllis,107,L,,88,1988,5,0,0,HIGH,high,0,A: Two ladder clusters and one horizontal-line cluster each counted as 1 | B: oval; slash; 2 ladder/line clusters; tail patch
+18,3,Phud,100,M,m,B88,1988,7,0,0,HIGH,medium,1,A: Numerous scattered small ovals counted individually | B: long slash; 2 mid oval clusters; lower ovals; tail dot
+18,4,Pistachio,303,M,m,01,2001,1,0,0,LOW,high,0,A: Series of vertical black bars on tail counted as 1 feature | B: tail stripe cluster only = 1
+18,5,Plum,674,M,?,11,2011,2,0,0,MID,medium,0,A: ID number overwritten and messy; best reading 674 | B: ID overwritten - best reading 674 (2674-like overwrite); body slash; peduncle scribble
+18,6,Poe,58,L,,81,1981,3,0,0,HIGH,high,0,A: Circular burst scar upper body counted as 1 | B: sunburst scar; side mark; tail mark + dots
+18,7,Pogo,594,S,,09,2009,4,0,0,HIGH,medium,1,B: upper slash cluster; tail black cluster
+18,8,Pond,449,M,?,05,2005,3,0,0,HIGH,high,0,A: Feathered central scar counted as 1 | B: sex (?) bracketed; head dot; feathered slash; side oval
+18,9,Potsy,575,M,,08,2008,2,0,0,MID,high,0,A: Upper trio and lower quartet of ovals each counted as 1 series; size letter is small m read as M | B: size written small m; upper tick cluster; lower oval column = 1
+18,10,Potter,309,S,,01,2001,3,0,0,HIGH,high,0,A: Open triangle at right body edge counted as feature but not a tail section notch | B: long slash; side triangle mark; tail arrow mark
+19,1,Precious,140,L,F,B92,1992,4,0,0,HIGH,high,0,A: Row of ovals on tail counted as 1 series | B: upper dots/slashes = 2; tail oval + oval column = 2 clusters counted as tail features
+19,2,Proust,457,M,,05,2005,2,0,0,MID,high,0,A: Faint small marks on tail counted as 1 cluster | B: head dot; tail tick cluster
+19,3,Rain,390,M,F,03,2003,4,0,0,HIGH,medium,1,A: Triangular notch at tail bottom edge | B: year reads 03 (could be 07); head dot; body slash; lower oval; tail marks
+19,4,Rhus,604,M,,09,2009,5,0,0,HIGH,medium,1,A: Black triangle at right tail edge | B: head slash + dot; long shaded slash; tail dots/notch
+19,5,Robin,35,L,,B80,1980,8,1,0,HIGH,medium,1,A: Word hole written at right of tail; black notches on tail counted as 1 cluster | B: head circle; slash + horizontal = 2; dotted column; tail cluster; 'hole' annotated
+19,6,Rocket,443,S,m,B05,2005,0,0,0,MID,high,0,A: A7 at head and peduncle is a freeze brand not a scar | B: 'A7' texts on body are ID marks not scars - no scar features
+19,7,Rocky,626,S,,10,2010,3,0,0,HIGH,high,0,A: Three horizontal ovals on tail counted as 1 series | B: year written superscript 10; eye-shaped slash; tail triangle; tail oval column = 1
+19,8,Rollo,521,S,,B07,2007,3,0,0,HIGH,medium,0,A: Year code overwritten; best reading B07 | B: year B07 with overwrite on last digit; upper triangles/slash = 2; tail heart + notch
+19,9,Royal,513,S,,07,2007,3,0,0,HIGH,medium,1,A: Cluster of small ovals at peduncle counted as multiple discrete marks | B: body oval; peduncle/tail small oval cluster = 1
+19,10,Rusty,630,M,,10,2010,1,0,0,LOW,high,0,B: single oval scar
+20,1,Sailor,244,S,,B99,1999,2,0,0,MID,high,0,A: Hole dot on tail annotated hole | B: tail hole dot annotated 'hole'; tail slash
+20,2,Sawyer,431,S,M,04,2004,3,0,0,HIGH,medium,1,A: Column of ovals counted as 1 series | B: sex (M); oval column = 1; tail dash + marks
+20,3,Shane II,682,S,,09,2009,3,1,0,HIGH,high,0,A: Name written Shane II; black notch at left tail edge | B: typed ShaneII; upper cluster; lower cluster; small black tail notch
+20,4,Sharkbait,623,S,,08,2008,5,1,0,HIGH,high,0,A: Ladder cluster counted as 1; black semicircle notch on tail | B: 2 top tick clusters; ladder scar; lower triangle column; black tail notch
+20,5,Sharkbite,658,M,,10,2010,3,1,0,HIGH,high,0,A: Three curved scars counted as 1 rake cluster; black notch on tail | B: slash cluster; peduncle tick cluster; black tail notch
+20,6,Sharon,629,S,,10,2010,3,0,0,HIGH,medium,1,A: Black wedge at left tail edge | B: body slash; tail slash cluster
+20,7,Sly,207,M,,97,1997,2,0,0,MID,medium,0,A: ID 207 written mid-sketch beside dent annotation rather than at lower right; two black dent triangles at right edge counted as 1 cluster; hole triangle on tail | B: ID 207 written mid-right beside peduncle; 'dent' triangles = 1; tail hole triangle
+20,8,Snorty,336,M,M,B02,2002,1,0,0,LOW,medium,0,A: Column of six ovals counted as 1 series; year code overwritten; best reading B02 | B: sex (M); column of ovals = 1 feature
+20,9,Spin,280,M,m,00,2000,2,0,0,MID,high,0,B: sex (m); side tick; tail slashes
+20,10,Splash,697,S,m,11,2011,3,0,0,HIGH,medium,1,A: Horizontal lines on tail counted as 1 series | B: sex (m); body slash; tail oval + line cluster
+21,1,Swale,676,M,?,11,2011,3,0,0,HIGH,medium,1,A: Handwritten name Swale with year 11; tail annotated Folded; tail slash cluster counted as 1 | B: typed Swale handwritten Swale11 - no year digits separate from name; year taken as 11; sex (?) ; slash; tail Y mark + folded edge cluster
+21,2,Swanny,680,M,F,11,2011,3,0,0,HIGH,high,0,A: Words Fresh scars written along left side | B: 'Fresh scars' annotated; slash; oval pair = 1; triangle cluster = 1
+21,3,Tasha,648,M,,10,2010,3,0,0,HIGH,medium,1,A: Column of three ovals counted as 1 series | B: oval column = 1; tail dot + notches
+21,4,Tia,523,M,,07,2007,4,0,0,HIGH,high,0,A: Top rake annotated Indent counted as 1; dotted oval on left counted as 1; right dot column as 1 series | B: head rake cluster annotated; oval cluster; side dots; tail ticks
+21,5,Toma,563,S,,08,2008,2,1,0,HIGH,high,0,A: Black patches at tail left edge and bottom counted as 2 features; section missing set | B: upper slash cluster = 1; black tail patches = 1 feature with section missing
+21,6,Trap,389,S,m,03,2003,3,1,0,HIGH,high,0,A: Black marks at tail bottom edge counted as notch plus separate triangle | B: sex (M) capital in image; head dot; body slash; tail notches incl black patch
+21,7,Tsar,602,M,,09,2009,3,1,0,HIGH,high,0,A: Word deep written at right; black triangle notch at tail bottom | B: head slash; lower slash cluster 'deep'; small black tail notch
+21,8,Tupelo,610,M,,09,2009,4,1,0,HIGH,high,0,A: Top vertical-line series counted as 1; black notch at left tail edge | B: head tick cluster; long side slash; waist paired scars = 1; black tail notch
+21,9,Turtle,444,S,m,05,2005,0,0,0,MID,high,0,A: A3 at head and peduncle is a freeze brand not a scar | B: sex (M); 'A3' texts on body are ID marks not scars - no scar features
+21,10,Una,447,M,,05,2005,2,0,0,MID,medium,1,A: A5 is a freeze brand not a scar; small marks on tail counted; black mark at tail bottom-left edge counted as notch | B: tail dot/notch cluster only; 'A5' texts are ID marks not scars
+22,1,Volusia,624,S,,B09,2009,2,1,0,HIGH,medium,1,A: Column of three ovals counted as 1 series; small black dot at tail edge not counted as section | B: oval column = 1; small black tail-edge dot
+22,2,Wanda,190,L,,96,1996,6,1,0,HIGH,medium,1,A: Black patch at right tail edge | B: rake; slash; 2 small marks; oval; tail cluster
+22,3,Wes,339,M,,B01,2001,1,1,0,HIGH,high,0,A: Black tail-edge marks annotated Natural counted as 1 feature with section missing | B: black tail cluster annotated 'Natural'
+22,4,Wescot,592,S,,B08,2008,1,0,0,LOW,medium,0,A: Small square mark at head counted as 1 but may be a freeze brand | B: single small square mark at head
+22,5,W. Hartley II,64,L,,R83,1983,2,1,0,HIGH,medium,1,A: R-prefixed year code as written; marks at head appear to be a freeze brand and are not counted; column of ovals counted as 1 series; two black triangles on tail counted as 1 cluster | B: typed W.HartleyII; head mark; oval column = 1; tail triangles cluster
+22,6,Whiskers,181,M,,B96,1996,2,1,0,HIGH,high,0,A: Black notch cluster at tail bottom-left | B: body slash; black tail notch
+22,7,White Eye,366,S,F,03,2003,3,0,0,HIGH,high,0,A: Black triangle inside tail not at edge so section_missing=0 | B: name two words as typed White Eye; head dots; teardrop scar; tail marks
+22,8,Wiggan,556,M,,08,2008,2,0,0,MID,high,0,A: Lower scar annotated deep | B: irregular patch scar; 'deep' slash
+22,9,Yew,600,M,,09,2009,2,0,0,MID,high,0,A: Column of small ovals at left edge counted as 1 series | B: body slash; side oval column = 1
+22,10,Zeb,362,S,,B03,2003,4,1,0,HIGH,high,0,A: Black notch at left tail edge; lower diagonal pair counted as 1 cluster | B: head slash; body rectangular scar; lower slash+dot; black tail notch

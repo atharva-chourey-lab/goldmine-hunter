@@ -1,0 +1,301 @@
+{
+  "verify10b": {
+    "ingv_storing_img_dirs": {
+      "/cfti/cfti5/images": 45,
+      "/cft/img": 35,
+      "/tmp": 35,
+      "/es_web/flags": 29,
+      "/cfti4med/images/icon_set_explorer": 21,
+      "/letters/Images": 21,
+      "/cfti4med/images": 20,
+      "/cfti/cfti5/images/HELP": 19,
+      "/cft/maps/images": 17,
+      "/tromos": 15
+    },
+    "ingv_sismos_cdx": {
+      "collapsed": 30,
+      "ok200": 25,
+      "files": [
+        {
+          "ts": "20110827085056",
+          "url": "http://sismos.rm.ingv.it/folder_with_photo/photo2.jpg",
+          "length": "31084"
+        },
+        {
+          "ts": "20210417175121",
+          "url": "http://sismos.rm.ingv.it/images/BannerSISMOS-2015.jpg",
+          "length": "61777"
+        },
+        {
+          "ts": "20190928130605",
+          "url": "http://sismos.rm.ingv.it/images/BannerSISMOS-2015_mobile.jpg",
+          "length": "8964"
+        },
+        {
+          "ts": "20190928130610",
+          "url": "http://sismos.rm.ingv.it/images/BannerSISMOS-2017.jpg",
+          "length": "61465"
+        },
+        {
+          "ts": "20220306124352",
+          "url": "http://sismos.rm.ingv.it/images/bollettini/map2.jpg",
+          "length": "126590"
+        },
+        {
+          "ts": "20070630200033",
+          "url": "http://sismos.rm.ingv.it/images/engflag2.jpg",
+          "length": "1044"
+        },
+        {
+          "ts": "20070630200103",
+          "url": "http://sismos.rm.ingv.it/images/itaflag2.jpg",
+          "length": "668"
+        },
+        {
+          "ts": "20190928130610",
+          "url": "http://sismos.rm.ingv.it/images/jsn_is_thumbs/images/news/Collage-Bollettini.jpg",
+          "length": "9894"
+        },
+        {
+          "ts": "20190928130611",
+          "url": "http://sismos.rm.ingv.it/images/jsn_is_thumbs/images/news/Firme.jpg",
+          "length": "2804"
+        },
+        {
+          "ts": "20070630200120",
+          "url": "http://sismos.rm.ingv.it/images/LogoNeries.jpg",
+          "length": "23332"
+        },
+        {
+          "ts": "20190928130615",
+          "url": "http://sismos.rm.ingv.it/images/news/Collage-Bollettini.jpg",
+          "length": "128624"
+        },
+        {
+          "ts": "20190928130615",
+          "url": "http://sismos.rm.ingv.it/images/news/Firme.jpg",
+          "length": "227447"
+        },
+        {
+          "ts": "20201117003625",
+          "url": "http://sismos.rm.ingv.it/images/news/Lettere/Collage%20lettere.jpg",
+          "length": "805974"
+        },
+        {
+          "ts": "20220205235455",
+          "url": "http://sismos.rm.ingv.it/images/regridart/500x350/images/approfondimenti/ritaglio_DBN_E_1908122708361A_200.jpg",
+          "length": "101931"
+        },
+        {
+          "ts": "20220205230849",
+          "url": "http://sismos.rm.ingv.it/images/regridart/500x350/images/news/Bollettini/Collage-Bollettini.jpg",
+          "length": "52436"
+        },
+        {
+          "ts": "20201113130304",
+          "url": "http://sismos.rm.ingv.it/images/regridart/500x350/images/news/Lettere/Collage%20lettere.jpg",
+          "length": "51015"
+        },
+        {
+          "ts": "20070729025002",
+          "url": "http://sismos.rm.ingv.it/images/Scritta-SISMOS.jpg",
+          "length": "7946"
+        },
+        {
+          "ts": "20110827085252",
+          "url": "http://sismos.rm.ingv.it/portal_css/qPloneSkinSchools/bannerMalletLab.jpg",
+          "length": "155108"
+        },
+        {
+          "ts": "20110827083621",
+          "url": "http://sismos.rm.ingv.it/sismos/folder_with_photo/photo4.jpg",
+          "length": "26611"
+        },
+        {
+          "ts": "20201114235528",
+          "url": "http://sismos.rm.ingv.it/templates/g5_helium/custom/images/BannerSISMOS-2019-2000px.jpg",
+          "length": "156620"
+        }
+      ]
+    },
+    "ingv_preview_wb_sample": {
+      "label": "INGV seismogram preview via Wayback (photo2.jpg)",
+      "url": "https://web.archive.org/web/20110827085056id_/http://sismos.rm.ingv.it/folder_with_photo/photo2.jpg",
+      "http_status": 200,
+      "bytes_downloaded": 30550,
+      "truncated_at_cap": false,
+      "content_type": "image/jpeg",
+      "error": null,
+      "md5_full": "f4770f99e2201e820b16660ef856cf77",
+      "md5_head1mb": "f4770f99e2201e820b16660ef856cf77",
+      "looks_html": false,
+      "verdict": "REAL \u2014 JPEG image",
+      "jpeg": true,
+      "saved_to": "gold/campaign10-verify/ingv-preview-photo2.jpg"
+    },
+    "aiatsis_wb": {
+      "hercus_l09_finding_aid.pdf": {
+        "label": "AIATSIS hercus_l09_finding_aid.pdf via Wayback",
+        "url": "https://web.archive.org/web/20160507131830id_/http://aiatsis.gov.au/sites/default/files/catalogue_resources/HERCUS_L09_finding_aid.pdf",
+        "http_status": 200,
+        "bytes_downloaded": 139458,
+        "truncated_at_cap": false,
+        "content_type": "application/pdf",
+        "error": null,
+        "md5_full": "9563d368d4f350d4e0330eba1ec8d1e4",
+        "md5_head1mb": "9563d368d4f350d4e0330eba1ec8d1e4",
+        "looks_html": false,
+        "verdict": "REAL \u2014 PDF",
+        "pdf": true,
+        "saved_to": "gold/campaign10-verify/aiatsis-hercus_l09_finding_aid.pdf"
+      },
+      "breen_g11_finding_aid.pdf": {
+        "label": "AIATSIS breen_g11_finding_aid.pdf via Wayback",
+        "url": "https://web.archive.org/web/20160517025523id_/http://aiatsis.gov.au/sites/default/files/catalogue_resources/BREEN_G11_finding_aid.pdf",
+        "http_status": 200,
+        "bytes_downloaded": 201611,
+        "truncated_at_cap": false,
+        "content_type": "application/pdf",
+        "error": null,
+        "md5_full": "634c638fb5ec178a55f0829443025dde",
+        "md5_head1mb": "634c638fb5ec178a55f0829443025dde",
+        "looks_html": false,
+        "verdict": "REAL \u2014 PDF",
+        "pdf": true,
+        "saved_to": "gold/campaign10-verify/aiatsis-breen_g11_finding_aid.pdf"
+      }
+    },
+    "mendeley_variants": {
+      "https://data.mendeley.com/public-api/datasets/gvxmng6644": {
+        "status": 200,
+        "n_files": 2,
+        "names": [
+          "EuroSeismos D1 D2 D3.zip",
+          "Readme.zip"
+        ]
+      }
+    },
+    "mendeley_sample": {
+      "label": "Mendeley file (Readme.zip)",
+      "url": "https://data.mendeley.com/public-files/datasets/gvxmng6644/files/13afcd86-8659-48c4-8d4a-25b65ee96dd9/file_downloaded",
+      "http_status": 200,
+      "bytes_downloaded": 6029312,
+      "truncated_at_cap": true,
+      "content_type": "application/zip",
+      "error": null,
+      "md5_full": null,
+      "md5_head1mb": "21ea26cb279ae19e29a05f9f17ffd161",
+      "looks_html": false,
+      "verdict": "PK MAGIC but zip unreadable (truncated?): File is not a zip file",
+      "pk_magic": true
+    },
+    "truempy_hrefs": [
+      "/",
+      "/assets/app-ZU-Te-ix.css",
+      "/assets/en-fvQsyroY.js",
+      "/assets/vue-B7TMN6qn.css",
+      "/assets/vue.BHyNcdic-CUwbBahA.js",
+      "/en",
+      "/en/about",
+      "/en/discover",
+      "/en/impressum",
+      "/en/volumes/1",
+      "/en/volumes/10",
+      "/en/volumes/11",
+      "/en/volumes/12",
+      "/en/volumes/13",
+      "/en/volumes/16",
+      "/en/volumes/17",
+      "/en/volumes/18",
+      "/en/volumes/2",
+      "/en/volumes/21",
+      "/en/volumes/3",
+      "/en/volumes/4",
+      "/en/volumes/5",
+      "/en/volumes/6",
+      "/en/volumes/7",
+      "/en/volumes/8",
+      "/en/volumes/9",
+      "/favicon-128.png",
+      "/favicon-16.jpg",
+      "/favicon-180.png",
+      "/favicon-32.jpg",
+      "/favicon-512.png",
+      "/favicon-96.png",
+      "/favicon.ico",
+      "/manifest.webmanifest",
+      "https://chab.ethz.ch",
+      "https://ethz.ch",
+      "https://truempy-druckmuster.ethz.ch"
+    ],
+    "truempy_items": [
+      {
+        "url": "https://truempy-druckmuster.ethz.ch/en/volumes/1",
+        "status": 200,
+        "imgs": [
+          "/assets/titel_sammlung2-B2e0L7Mx.png"
+        ]
+      }
+    ],
+    "truempy_item_sample": {
+      "label": "Truempy sample-book page image",
+      "url": "https://truempy-druckmuster.ethz.ch/assets/titel_sammlung2-B2e0L7Mx.png",
+      "http_status": 200,
+      "bytes_downloaded": 88095,
+      "truncated_at_cap": false,
+      "content_type": "image/png",
+      "error": null,
+      "md5_full": "6a6a412d5c475ca7278b9405d184e333",
+      "md5_head1mb": "6a6a412d5c475ca7278b9405d184e333",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PNG image",
+      "png": true,
+      "saved_to": "gold/campaign10-verify/truempy-page-titel_sammlung2-B2e0L7Mx.png"
+    },
+    "rr_hrefs": [
+      "/boxes/experimental",
+      "/record?archive=experimental&doback=1&id=00AE51777A934367",
+      "/record?archive=experimental&doback=1&id=014F73E6242BE1F0",
+      "/record?archive=experimental&doback=1&id=0406621240CEBE9C",
+      "/record?archive=experimental&doback=1&id=04FA9DD4F29A1D5B",
+      "/record?archive=experimental&doback=1&id=05339CCC0B9B220E",
+      "/record?archive=experimental&doback=1&id=08BCBFD68AF048FF",
+      "/record?archive=experimental&doback=1&id=099051EE6BEA8AE2",
+      "/record?archive=experimental&doback=1&id=0A88C1B5A850AFB7",
+      "/record?archive=experimental&doback=1&id=0B1175D1321279BD",
+      "/record?archive=experimental&doback=1&id=0BE3D7BD3EEED1A7",
+      "/record?archive=experimental&doback=1&id=0BF636D111F0D5AF",
+      "/record?archive=experimental&doback=1&id=0F618756CA4AAB6C",
+      "/record?archive=experimental&doback=1&id=102050BA86A2B1FB",
+      "/record?archive=experimental&doback=1&id=10890C2108EAC1B2",
+      "/record?archive=experimental&doback=1&id=144F67EEE243DA15",
+      "/record?archive=experimental&doback=1&id=15053F2A62DB9587",
+      "/record?archive=experimental&doback=1&id=15B1E2795CC5CF55",
+      "/record?archive=experimental&doback=1&id=15E6559624E1B79F",
+      "/record?archive=experimental&doback=1&id=172B13F27F30EC53",
+      "/record?archive=experimental&doback=1&id=18C2C3E1D5603AB5",
+      "/record?archive=experimental&doback=1&id=1B2D6614727AD1E9",
+      "/record?archive=experimental&doback=1&id=1C8EF0134656565A",
+      "/record?archive=experimental&doback=1&id=1DA98040C9A9DCDF",
+      "/record?archive=experimental&doback=1&id=1DBDACD105303E53",
+      "/record?archive=experimental&doback=1&id=1E6155918607F249",
+      "/record?archive=experimental&doback=1&id=21A2BB298E018BCB",
+      "/record?archive=experimental&doback=1&id=21AA6696339CC3E0",
+      "/record?archive=experimental&doback=1&id=229B17EB91FFEDF1",
+      "/record?archive=experimental&doback=1&id=23875B69C114E128"
+    ],
+    "lac_central_head": {
+      "status": null,
+      "error": "HTTPSConnectionPool(host='central.bac-lac.gc.ca', port=443): Read timed out. (read timeout=30)"
+    },
+    "lac_central": {
+      "status": null,
+      "image_refs": []
+    },
+    "dass_txt_head": {
+      "status": 200,
+      "lines_in_200kb": 2006,
+      "first_line": "025:  {X} {B} {X} {X} Ambulance there Highway man\r"
+    }
+  }
+}

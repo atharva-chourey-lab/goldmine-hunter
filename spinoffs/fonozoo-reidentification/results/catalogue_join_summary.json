@@ -1,0 +1,105 @@
+{
+ "catalogue_records": 3618,
+ "catalogue_unique_names": 319,
+ "catalogue_records_with_country": 3210,
+ "catalogue_records_with_province": 3183,
+ "catalogue_records_with_locality": 528,
+ "catalogue_records_with_recordist": 3493,
+ "catalogue_records_with_any_date": 0,
+ "accession_join_test": {
+  "hit": 1,
+  "mismatch": 4,
+  "ref_absent": 113,
+  "mismatches": [
+   [
+    "2634Oreobates heterodactylus.mp3",
+    "Eleutherodactylus heterodactylus"
+   ],
+   [
+    "5134Rhinella marina.mp3",
+    "Anura spp."
+   ],
+   [
+    "5179Eleutherodactylus reichlei.mp3",
+    "Anura spp."
+   ],
+   [
+    "5246Oreobates madidi.mp3",
+    "Anura spp."
+   ]
+  ]
+ },
+ "firm_web_names": 561,
+ "firm_web_names_with_catalogue_envelope": 136,
+ "firm_web_recordings": 636,
+ "firm_web_recordings_with_catalogue_envelope": 163,
+ "recordings_with_envelope_country": 159,
+ "split_envelopes": {
+  "Bufo viridis": {
+   "n_records": 3,
+   "countries": [
+    "ES"
+   ],
+   "provinces": [
+    "Islas Baleares",
+    "Mallorca"
+   ],
+   "localities": [
+    "Cap Blanc"
+   ],
+   "recordists": [
+    "Rafael M\u00e1rquez",
+    "Rafael M\u00e1rquez, Miguel Lizana"
+   ]
+  },
+  "Hyla arborea": {
+   "n_records": 118,
+   "countries": [
+    "ES",
+    "PT"
+   ],
+   "provinces": [
+    "Coimbra",
+    "Portalegre",
+    "Salamanca",
+    "\u00c1vila"
+   ],
+   "localities": [
+    "Candeleda",
+    "El Cabaco"
+   ],
+   "recordists": [
+    "Rafael M\u00e1rquez"
+   ]
+  },
+  "Rana temporaria": {
+   "n_records": 0,
+   "countries": [],
+   "provinces": [],
+   "localities": [],
+   "recordists": []
+  },
+  "Bufo granulosus": {
+   "n_records": 0,
+   "countries": [],
+   "provinces": [],
+   "localities": [],
+   "recordists": []
+  },
+  "Mantidactylus betsileanus": {
+   "n_records": 10,
+   "countries": [
+    "MG"
+   ],
+   "provinces": [
+    "Andasibe",
+    "Mandraka"
+   ],
+   "localities": [],
+   "recordists": [
+    "Miguel Vences & Frank Glaw",
+    "R. Blommers-Schloesser"
+   ]
+  }
+ }
+}

@@ -63,3 +63,75 @@ Sample files downloaded during campaign verification passes are NOT redistribute
 | smc-scarsheet-mail.pdf | 481180 | `c2abc9b134530d20e42aa2dc85c8783d` |
 | zsi-hair-records-112-02.pdf | 406193 | `a2cd46fbe14f2c6f9b9c3b0ccc43b65c` |
 
+
+## gold/campaign9-verify
+
+| File | Bytes | md5 |
+|---|---|---|
+| comper-evidence.json | 5088 | `54c47af31e70dd52732bd66b65d9a21b` |
+| diatoms-Cymbella_hustedtii1.jpg | 24311 | `ad4f5d12aed590fd2969147c0060a056` |
+| diatoms-Redwater_River.jpg | 37014 | `94b57681ab39f87fd1ce205c0a6d6274` |
+| insidewood-ModernWoodDataSheet.xlsx | 14558 | `f3db9623dfc2374aba6b0ed1f4898dbe` |
+| labcop-beaks-2022.pdf | 336891 | `4ffb826da2bfa78424aa2f2d9561a880` |
+| psmsl-15.rlrdata | 39468 | `691b090c7605e24cc38f3c3f423c6c01` |
+| psmsl-aden_calibrations.xls | 401920 | `6a6291618011745e03b8acec6071a163` |
+| wsl-species_list.js | 4132 | `0b178712b05eac0ce056f350c1757ffd` |
+
+## gold/campaign10-verify
+
+| File | Bytes | md5 |
+|---|---|---|
+| aiatsis-breen_g11_finding_aid.pdf | 201611 | `634c638fb5ec178a55f0829443025dde` |
+| aiatsis-hercus_l09_finding_aid.pdf | 139458 | `9563d368d4f350d4e0330eba1ec8d1e4` |
+| gletscher-icon_allalingletscher.jpg | 6616 | `145bc02441d5bae162239289dbf6c628` |
+| gletscher-icon_anungletscher.jpg | 10082 | `a0725cb7af0142b91b1a6360db14cc47` |
+| gletscher-rhone-Rhonegletscher_Stao01_2007_06.jpg | 102687 | `1af6a2c107142e415663b5c6697c5d2e` |
+| igy-satellite-report-4.pdf | 1769151 | `946c4ad3b68065849e7dda359936f896` |
+| ingv-dbn-seismogram-crop.jpg | 101251 | `018c3684b3a50b249fac9fddc9a62c85` |
+| ingv-preview-photo2.jpg | 30550 | `f4770f99e2201e820b16660ef856cf77` |
+| la32-https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d61ee04-bb0d-46e6-a60b-d99750428ef0%2Fapple-touch-icon-180x180.png | 9800 | `3dcd7f487fb83824b1c5f474e67f158b` |
+| lap-inf001-tape1-meta.txt | 1250 | `8cd21fbb34e5ff0d8f7d26ce5c91ef09` |
+| lap-inf001.xlsx | 23059 | `01e1b2b8a96fc9dc55782b2f0f7b56e8` |
+| lap-inf001.xml | 43293 | `817b012076913f14841dcde52770214a` |
+| lap-sed-kindling-full.csv | 8061 | `aa8fc052db8d31a3c37b8b2f3c643d07` |
+| rr-RR-512x512.png | 101581 | `8e1b466e3895d9a85599e4cd896d2e55` |
+| sia-moonwatch-ru255-finding-aid.pdf | 199370 | `99013756cac90878371cbee5f8bbfcb2` |
+| toronto-prices-current-djvu.txt | 8286 | `53a9febe81f8bc4c22e4f02c21d91c52` |
+| truempy-etheritage-etheritage_180x180.png | 72763 | `50215f173b75f1b46b2f982aa5a2f5ba` |
+| truempy-favicon_2-alpha_s-BdKqybr8.png | 343713 | `d1f92dfa38a63f328c96a0b9ffd73da2` |
+| truempy-page-titel_sammlung2-B2e0L7Mx.png | 88095 | `6a6a412d5c475ca7278b9405d184e333` |
+| usgs-Grn_NMor_Huntington_UM486-XII_114-007_cr_L.jpg | 115675 | `6ca1f47223f35eb897d6da80a2cb7496` |
+| weebly-photo-finish.pdf | 51886 | `0475c282771b76498388917953b60262` |
+
+## gold/campaign11-verify
+
+| File | Bytes | md5 |
+|---|---|---|
+| boone-crockett-deer-ages-2008.pdf | 3155455 | `6caceddbc2d2805c23e7c8a1391566de` |
+| clouded-sample-try_add.jpg | 41304 | `68322037e8a8e83227b2c247d15822c4` |
+| foley-trw-ca-known-age-2021.pdf | 825781 | `0403094e47b1b9f905edef95b66e9284` |
+| giraffe-sample-DSCF0147_copy.jpg | 360475 | `62cb2daeffcaf84722cbe8946116a10d` |
+| leopard-sample-BDL-104_53.jpg | 15191 | `8e414e30f7b428d9645e22e84a5201e2` |
+| matson-order-form.xlsx | 30520 | `fdd7972868c7ef020492688c81248814` |
+| monk-seal-report-2017-2018.pdf | 1048576 | `e7c082d197df3b6bafb008c0d96d7561` |
+| primnet-primates-in-the-wild.pdf | 9348378 | `9bfde4871c0d764a46f0f9f86754f67a` |
+| sealid-arxiv-2206.02260.pdf | 10746065 | `73638285fea3f4a3226947bbab179c35` |
+| tiger-sample-040726_98.jpg | 8119 | `cdad867c7b3b49caadcddaf9910dc0e9` |
+| tpwd-deer-age-bulletin.pdf | 53033 | `e820f394e3568399ac27529d830356c3` |
+| zebra-sample-3_L24.jpg | 32892 | `d4daebed7744f7e64d5ec216ef1369b1` |
+
+## gold/campaign12-verify
+
+| File | Bytes | md5 |
+|---|---|---|
+| amherst-tracks-scat.pdf | 3425108 | `a18c578f62ff5c80fd65b086de40495c` |
+| cites-pangolin-wb.pdf | 1328974 | `46989cfadb549f8704171b85b8852ff8` |
+| ijbm-atd-2023.pdf | 561584 | `d66ede950e16330aa11356e66a49ea92` |
+| kelly-cheetah-2001.pdf | 262988 | `ede0700c3269d8bfadf4f2079b7d11dc` |
+| marameru-2022.pdf | 8049538 | `333c4d8845fd0089d2c9da2d9444f471` |
+| nasa-snow-tracks-guide.pdf | 1204031 | `98abda1b3bbbcd2ea6186057ce8b7f0a` |
+| pachyderm-whoswho.pdf | 3665008 | `4e0eeefd03f8bf8c02b2084ed6313671` |
+| puns-preprint.pdf | 758358 | `a8baf6957968800d771e87ab58cc5e63` |
+| turkish-atd-1970.pdf | 921950 | `65946c224532dad75fcd19b93f3d8708` |
+| wisconsin-wolf-2026.pdf | 3821391 | `482b49a25cd9780f6735b9831cc52f88` |
+| wti-seizure-guide.pdf | 13586838 | `bd2e3db9148cd8beadd0f4f6dc587533` |

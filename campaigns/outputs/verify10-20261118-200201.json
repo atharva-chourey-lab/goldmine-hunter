@@ -1,0 +1,996 @@
+{
+  "verify10": {
+    "gletscher_index": {
+      "status": 200,
+      "n_image_refs": 52,
+      "refs": [
+        "../Images/Thumbs/icon_allalingletscher.jpg",
+        "../Images/Thumbs/icon_anungletscher.jpg",
+        "../Images/Thumbs/icon_baechigletscher.jpg",
+        "../Images/Thumbs/icon_bluemlisalpgletscher.jpg",
+        "../Images/Thumbs/icon_chaltwassergletscher.jpg",
+        "../Images/Thumbs/icon_chuebodengletscher.jpg",
+        "../Images/Thumbs/icon_doldenhorngletscher.jpg",
+        "../Images/Thumbs/icon_driestgletscher.jpg",
+        "../Images/Thumbs/icon_eigergletscher.jpg",
+        "../Images/Thumbs/icon_feegletscher.jpg",
+        "../Images/Thumbs/icon_fieschergletscher.jpg",
+        "../Images/Thumbs/icon_fieschergletscher_grindelwald.jpg",
+        "../Images/Thumbs/icon_findelgletscher.jpg",
+        "../Images/Thumbs/icon_furgggletscher.jpg",
+        "../Images/Thumbs/icon_gamchigletscher.jpg",
+        "../Images/Thumbs/icon_glacier_du_wildhorn.jpg",
+        "../Images/Thumbs/icon_gornergletscher.jpg",
+        "../Images/Thumbs/icon_grenzgletscher.jpg",
+        "../Images/Thumbs/icon_griesgletscher.jpg",
+        "../Images/Thumbs/icon_grosser_aletschgletscher.jpg"
+      ]
+    },
+    "gletscher_samples": [
+      {
+        "label": "gletschervergleiche image",
+        "url": "https://gletschervergleiche.ch/../Images/Thumbs/icon_allalingletscher.jpg",
+        "http_status": 200,
+        "bytes_downloaded": 6616,
+        "truncated_at_cap": false,
+        "content_type": "image/jpeg",
+        "error": null,
+        "md5_full": "145bc02441d5bae162239289dbf6c628",
+        "md5_head1mb": "145bc02441d5bae162239289dbf6c628",
+        "looks_html": false,
+        "verdict": "REAL \u2014 JPEG image",
+        "jpeg": true,
+        "saved_to": "gold/campaign10-verify/gletscher-icon_allalingletscher.jpg"
+      },
+      {
+        "label": "gletschervergleiche image",
+        "url": "https://gletschervergleiche.ch/../Images/Thumbs/icon_anungletscher.jpg",
+        "http_status": 200,
+        "bytes_downloaded": 10082,
+        "truncated_at_cap": false,
+        "content_type": "image/jpeg",
+        "error": null,
+        "md5_full": "a0725cb7af0142b91b1a6360db14cc47",
+        "md5_head1mb": "a0725cb7af0142b91b1a6360db14cc47",
+        "looks_html": false,
+        "verdict": "REAL \u2014 JPEG image",
+        "jpeg": true,
+        "saved_to": "gold/campaign10-verify/gletscher-icon_anungletscher.jpg"
+      }
+    ],
+    "gletscher_rhone": {
+      "status": 200,
+      "n_image_refs": 32,
+      "refs": [
+        "../Images/CompareS/Rhonegletscher_Stao01_2007_06.jpg",
+        "../Images/CompareS/Rhonegletscher_Stao01_2025_07.jpg",
+        "../Images/CompareS/Rhonegletscher_Stao10_2019_07.jpg",
+        "../Images/CompareS/Rhonegletscher_Stao10_2026_08.jpg",
+        "../Images/CompareS/Rhonegletscher_Stao11_2009_08.jpg",
+        "../Images/CompareS/Rhonegletscher_Stao11_2023_09.jpg",
+        "../Images/CompareS/Rhonegletscher_Stao14_2008_06.jpg",
+        "../Images/CompareS/Rhonegletscher_Stao14_2023_07.jpg",
+        "../Images/CompareS/Rhonegletscher_Stao16_2022_07.jpg",
+        "../Images/CompareS/Rhonegletscher_Stao16_2026_08.jpg",
+        "../Images/CompareS/Rhonegletscher_Stao17_2005_10.jpg",
+        "../Images/CompareS/Rhonegletscher_Stao17_2025_10.jpg"
+      ]
+    },
+    "gletscher_rhone_sample": {
+      "label": "gletschervergleiche Rhone image",
+      "url": "https://gletschervergleiche.ch/../Images/CompareS/Rhonegletscher_Stao01_2007_06.jpg",
+      "http_status": 200,
+      "bytes_downloaded": 102687,
+      "truncated_at_cap": false,
+      "content_type": "image/jpeg",
+      "error": null,
+      "md5_full": "1af6a2c107142e415663b5c6697c5d2e",
+      "md5_head1mb": "1af6a2c107142e415663b5c6697c5d2e",
+      "looks_html": false,
+      "verdict": "REAL \u2014 JPEG image",
+      "jpeg": true,
+      "saved_to": "gold/campaign10-verify/gletscher-rhone-Rhonegletscher_Stao01_2007_06.jpg"
+    },
+    "usgs": {
+      "status": 200,
+      "candidates": [
+        "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/masonry/public/thumbnails/image/Grn_NMor_Huntington_UM486-XII_114-007_cr_L.jpg?itok=urQxXF9P",
+        "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/masonry/public/thumbnails/image/Grn_Nmoraine2008_McKeon_cr_BW_L.jpg?itok=hbfihBJ8",
+        "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/masonry/public/thumbnails/image/Grn_Nmoraine2008_McKeon_cr_L.jpg?itok=yHeiCm5N"
+      ]
+    },
+    "usgs_sample": {
+      "label": "USGS Grinnell repeat photo",
+      "url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/masonry/public/thumbnails/image/Grn_NMor_Huntington_UM486-XII_114-007_cr_L.jpg?itok=urQxXF9P",
+      "http_status": 200,
+      "bytes_downloaded": 115675,
+      "truncated_at_cap": false,
+      "content_type": "image/jpeg",
+      "error": null,
+      "md5_full": "6ca1f47223f35eb897d6da80a2cb7496",
+      "md5_head1mb": "6ca1f47223f35eb897d6da80a2cb7496",
+      "looks_html": false,
+      "verdict": "REAL \u2014 JPEG image",
+      "jpeg": true,
+      "saved_to": "gold/campaign10-verify/usgs-Grn_NMor_Huntington_UM486-XII_114-007_cr_L.jpg"
+    },
+    "ingv_pra": {
+      "status": 200,
+      "image_refs": [
+        "floppyA.gif",
+        "http://sismos.rm.ingv.it/~hsds/JPG/1925/07/PRA_N_1925070608321A.jpg",
+        "http://sismos.rm.ingv.it/~hsds/JPG/1925/07/PRA_Z_1925070608321A.jpg",
+        "http://sismos.rm.ingv.it/~hsds/JPG/1926/01/PRA_N_1926010109131A.jpg",
+        "http://sismos.rm.ingv.it/~hsds/JPG/1926/01/PRA_Z_1926010109131A.jpg",
+        "http://sismos.rm.ingv.it/~hsds/JPG/1926/06/PRA_E_1926062608191A.jpg",
+        "http://sismos.rm.ingv.it/~hsds/JPG/1926/06/PRA_N_1926062608191A.jpg",
+        "http://sismos.rm.ingv.it/~hsds/JPG/1926/08/PRA_E_1926083008011A.jpg",
+        "http://sismos.rm.ingv.it/~hsds/JPG/1926/08/PRA_N_1926083008011A.jpg",
+        "http://sismos.rm.ingv.it/~hsds/JPG/1926/12/PRA_E_1926121708421A.jpg",
+        "http://sismos.rm.ingv.it/~hsds/JPG/1926/12/PRA_N_1926121708421A.jpg",
+        "http://sismos.rm.ingv.it/~hsds/JPG/1927/02/PRA_E_1927021308521A.jpg",
+        "http://sismos.rm.ingv.it/~hsds/JPG/1927/02/PRA_N_1927021308521A.jpg",
+        "http://sismos.rm.ingv.it/~hsds/JPG/1927/06/PRA_E_1927060508261A.jpg",
+        "http://sismos.rm.ingv.it/~hsds/JPG/1927/06/PRA_N_1927060508261A.jpg"
+      ],
+      "hrefs_sample": [
+        "../events/28444map.html",
+        "../events/29721map.html",
+        "../events/29727map.html",
+        "../events/29745map.html",
+        "../events/29754map.html",
+        "../events/30094map.html",
+        "../events/30838map.html",
+        "../events/31093map.html",
+        "../events/31316map.html",
+        "../events/32283map.html",
+        "../events/32584map.html",
+        "../events/32963map.html",
+        "../events/33292map.html",
+        "../events/60221map.html",
+        "../events/60231map.html",
+        "../events/60236map.html",
+        "../events/60239map.html",
+        "../events/60242map.html",
+        "../events/60247map.html",
+        "../events/60248map.html"
+      ]
+    },
+    "ingv_samples": [
+      {
+        "label": "INGV EuroSeismos preview (PRA)",
+        "url": "http://storing.ingv.it/es_web/Data/oss/floppyA.gif",
+        "http_status": 200,
+        "bytes_downloaded": 256,
+        "truncated_at_cap": false,
+        "content_type": "image/gif",
+        "error": null,
+        "md5_full": "053b03a83c5ee387dd8016a030c01a41",
+        "md5_head1mb": "053b03a83c5ee387dd8016a030c01a41",
+        "looks_html": false,
+        "first_bytes_hex": "47494638396118001900b30000ff0e19",
+        "all_blank": false,
+        "verdict": "BINARY \u2014 non-HTML, non-blank"
+      },
+      {
+        "label": "INGV EuroSeismos preview (PRA)",
+        "url": "http://sismos.rm.ingv.it/~hsds/JPG/1925/07/PRA_N_1925070608321A.jpg",
+        "http_status": null,
+        "bytes_downloaded": 0,
+        "truncated_at_cap": false,
+        "content_type": null,
+        "error": "HTTPConnectionPool(host='hatch-egress-proxy', port=3128): Max retries exceeded with url: http://sismos.rm.ingv.it/~hsds/JPG/1925/07/PRA_N_1925070608321A.jpg (Ca",
+        "verdict": "UNREACHABLE / EMPTY"
+      }
+    ],
+    "ingv_cdx_images": {
+      "collapsed": 484,
+      "ok200": 378,
+      "files": [
+        {
+          "ts": "20191001103922",
+          "url": "http://storing.ingv.it/biographies/PCaloi/logoup.gif",
+          "length": "22478"
+        },
+        {
+          "ts": "20191001103932",
+          "url": "http://storing.ingv.it/biographies/PCaloi/menu%20scritte.gif",
+          "length": "14756"
+        },
+        {
+          "ts": "20220618175033",
+          "url": "http://storing.ingv.it/bulletins/map2.jpg",
+          "length": "126596"
+        },
+        {
+          "ts": "20060507123800",
+          "url": "http://storing.ingv.it/cft/img/A1.gif",
+          "length": "2313"
+        },
+        {
+          "ts": "20060507123806",
+          "url": "http://storing.ingv.it/cft/img/AvComm.gif",
+          "length": "1694"
+        },
+        {
+          "ts": "20060507123826",
+          "url": "http://storing.ingv.it/cft/img/B0.gif",
+          "length": "1708"
+        },
+        {
+          "ts": "20060507115824",
+          "url": "http://storing.ingv.it/cft/img/bck_cat.gif",
+          "length": "348"
+        },
+        {
+          "ts": "20060507123745",
+          "url": "http://storing.ingv.it/cft/img/C0.gif",
+          "length": "1717"
+        },
+        {
+          "ts": "20060507123731",
+          "url": "http://storing.ingv.it/cft/img/C1.gif",
+          "length": "1844"
+        },
+        {
+          "ts": "20060507123636",
+          "url": "http://storing.ingv.it/cft/img/C2.gif",
+          "length": "2346"
+        },
+        {
+          "ts": "20060507123626",
+          "url": "http://storing.ingv.it/cft/img/C3.gif",
+          "length": "1786"
+        },
+        {
+          "ts": "20060507123820",
+          "url": "http://storing.ingv.it/cft/img/C4.gif",
+          "length": "2630"
+        },
+        {
+          "ts": "20060507123619",
+          "url": "http://storing.ingv.it/cft/img/C5.gif",
+          "length": "1727"
+        },
+        {
+          "ts": "20060507123725",
+          "url": "http://storing.ingv.it/cft/img/C6.gif",
+          "length": "2244"
+        },
+        {
+          "ts": "20060507123752",
+          "url": "http://storing.ingv.it/cft/img/C7.gif",
+          "length": "1891"
+        },
+        {
+          "ts": "20060507123644",
+          "url": "http://storing.ingv.it/cft/img/C9.gif",
+          "length": "1706"
+        },
+        {
+          "ts": "20060507123834",
+          "url": "http://storing.ingv.it/cft/img/CA.gif",
+          "length": "1833"
+        },
+        {
+          "ts": "20060507120226",
+          "url": "http://storing.ingv.it/cft/img/circsel.gif",
+          "length": "1356"
+        },
+        {
+          "ts": "20060507123706",
+          "url": "http://storing.ingv.it/cft/img/D0.gif",
+          "length": "1665"
+        },
+        {
+          "ts": "20060507120249",
+          "url": "http://storing.ingv.it/cft/img/date.gif",
+          "length": "751"
+        },
+        {
+          "ts": "20060507123659",
+          "url": "http://storing.ingv.it/cft/img/E0.gif",
+          "length": "1653"
+        },
+        {
+          "ts": "20060507115900",
+          "url": "http://storing.ingv.it/cft/img/earth_subm.gif",
+          "length": "2215"
+        },
+        {
+          "ts": "20060507115909",
+          "url": "http://storing.ingv.it/cft/img/earthcat.gif",
+          "length": "1823"
+        },
+        {
+          "ts": "20060507120303",
+          "url": "http://storing.ingv.it/cft/img/earthsel.gif",
+          "length": "2078"
+        },
+        {
+          "ts": "20060507123651",
+          "url": "http://storing.ingv.it/cft/img/F1.gif",
+          "length": "2326"
+        }
+      ]
+    },
+    "mendeley": {
+      "api_status": 200,
+      "files": []
+    },
+    "moonwatch_finding_aid": {
+      "label": "SIA Moonwatch Division finding aid (RU 255)",
+      "url": "https://sirismm.si.edu/EADpdfs/SIA.FARU0255.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 199370,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "99013756cac90878371cbee5f8bbfcb2",
+      "md5_head1mb": "99013756cac90878371cbee5f8bbfcb2",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign10-verify/sia-moonwatch-ru255-finding-aid.pdf"
+    },
+    "moonwatch_igy_report": {
+      "label": "IGY Satellite Report No.4 (Moonwatch Catalogue)",
+      "url": "https://noaadata.apps.nsidc.org/NOAA/G02201/IPY_Pub_017_20100728/DAHLI_IPY017_0387.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 1769151,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "946c4ad3b68065849e7dda359936f896",
+      "md5_head1mb": "a3f22d2ae03322ce5c50f01289eac235",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign10-verify/igy-satellite-report-4.pdf"
+    },
+    "smg": {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co51466/indicator-diagram": {
+        "status": 403,
+        "n_images": 0,
+        "refs": []
+      },
+      "https://collection.sciencemuseumgroup.org.uk/objects/co84161": {
+        "status": 403,
+        "n_images": 0,
+        "refs": []
+      }
+    },
+    "rollsroyce": {
+      "status": 200,
+      "image_refs": [
+        "/graphics/RR-512x512.png"
+      ]
+    },
+    "rollsroyce_sample": {
+      "label": "Rolls-Royce archive scan",
+      "url": "https://archive.rollsroyces.org/graphics/RR-512x512.png",
+      "http_status": 200,
+      "bytes_downloaded": 101581,
+      "truncated_at_cap": false,
+      "content_type": "image/png",
+      "error": null,
+      "md5_full": "8e1b466e3895d9a85599e4cd896d2e55",
+      "md5_head1mb": "8e1b466e3895d9a85599e4cd896d2e55",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PNG image",
+      "png": true,
+      "saved_to": "gold/campaign10-verify/rr-RR-512x512.png"
+    },
+    "truempy": {
+      "status": 200,
+      "image_refs": [
+        "/assets/favicon_2-alpha_s-BdKqybr8.png",
+        "/assets/titel_sammlung2-B2e0L7Mx.png",
+        "/favicon-128.png",
+        "/favicon-16.jpg",
+        "/favicon-180.png",
+        "/favicon-32.jpg",
+        "/favicon-512.png",
+        "/favicon-96.png"
+      ],
+      "itemish_hrefs": [
+        "/en/volumes/1",
+        "/en/volumes/10",
+        "/en/volumes/11",
+        "/en/volumes/12",
+        "/en/volumes/13",
+        "/en/volumes/16",
+        "/en/volumes/17",
+        "/en/volumes/18",
+        "/en/volumes/2",
+        "/en/volumes/21",
+        "/en/volumes/3",
+        "/en/volumes/4"
+      ]
+    },
+    "truempy_sample": {
+      "label": "Truempy catalog image",
+      "url": "https://truempy-druckmuster.ethz.ch/assets/favicon_2-alpha_s-BdKqybr8.png",
+      "http_status": 200,
+      "bytes_downloaded": 343713,
+      "truncated_at_cap": false,
+      "content_type": "image/png",
+      "error": null,
+      "md5_full": "d1f92dfa38a63f328c96a0b9ffd73da2",
+      "md5_head1mb": "d1f92dfa38a63f328c96a0b9ffd73da2",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PNG image",
+      "png": true,
+      "saved_to": "gold/campaign10-verify/truempy-favicon_2-alpha_s-BdKqybr8.png"
+    },
+    "aiatsis": {
+      "hercus_l09": {
+        "label": "AIATSIS finding aid hercus_l09",
+        "url": "https://aiatsis.gov.au/sites/default/files/catalogue_resources/hercus_l09_finding_aid.pdf",
+        "http_status": null,
+        "bytes_downloaded": 0,
+        "truncated_at_cap": false,
+        "content_type": null,
+        "error": "(\"Connection broken: InvalidChunkLength(got length b'', 0 bytes read)\", InvalidChunkLength(got length b'', 0 bytes read))",
+        "verdict": "UNREACHABLE / EMPTY"
+      },
+      "breen_g11": {
+        "label": "AIATSIS finding aid breen_g11",
+        "url": "https://aiatsis.gov.au/sites/default/files/catalogue_resources/breen_g11_finding_aid.pdf",
+        "http_status": null,
+        "bytes_downloaded": 0,
+        "truncated_at_cap": false,
+        "content_type": null,
+        "error": "(\"Connection broken: InvalidChunkLength(got length b'', 0 bytes read)\", InvalidChunkLength(got length b'', 0 bytes read))",
+        "verdict": "UNREACHABLE / EMPTY"
+      },
+      "oates_l02": {
+        "label": "AIATSIS finding aid oates_l02",
+        "url": "https://aiatsis.gov.au/sites/default/files/catalogue_resources/oates_l02_finding_aid.pdf",
+        "http_status": null,
+        "bytes_downloaded": 0,
+        "truncated_at_cap": false,
+        "content_type": null,
+        "error": "(\"Connection broken: InvalidChunkLength(got length b'', 0 bytes read)\", InvalidChunkLength(got length b'', 0 bytes read))",
+        "verdict": "UNREACHABLE / EMPTY"
+      }
+    },
+    "aiatsis_cdx": {
+      "collapsed": 1654,
+      "ok200_pdfs": 1384,
+      "files": [
+        {
+          "ts": "20150424074521",
+          "url": "http://aiatsis.gov.au/sites/default/files/catalogue_resources/18749.pdf",
+          "length": "1439378"
+        },
+        {
+          "ts": "20150424074518",
+          "url": "http://aiatsis.gov.au/sites/default/files/catalogue_resources/18787.pdf",
+          "length": "1088087"
+        },
+        {
+          "ts": "20150424074547",
+          "url": "http://aiatsis.gov.au/sites/default/files/catalogue_resources/18789.pdf",
+          "length": "665907"
+        },
+        {
+          "ts": "20150424074515",
+          "url": "http://aiatsis.gov.au/sites/default/files/catalogue_resources/18795.pdf",
+          "length": "573171"
+        },
+        {
+          "ts": "20150424074451",
+          "url": "http://aiatsis.gov.au/sites/default/files/catalogue_resources/18801.pdf",
+          "length": "561983"
+        },
+        {
+          "ts": "20150424074526",
+          "url": "http://aiatsis.gov.au/sites/default/files/catalogue_resources/20372.pdf",
+          "length": "1014534"
+        },
+        {
+          "ts": "20150424074530",
+          "url": "http://aiatsis.gov.au/sites/default/files/catalogue_resources/20373.pdf",
+          "length": "381709"
+        },
+        {
+          "ts": "20150424074543",
+          "url": "http://aiatsis.gov.au/sites/default/files/catalogue_resources/20374.pdf",
+          "length": "810620"
+        },
+        {
+          "ts": "20150424074540",
+          "url": "http://aiatsis.gov.au/sites/default/files/catalogue_resources/20375.pdf",
+          "length": "789714"
+        },
+        {
+          "ts": "20150424074443",
+          "url": "http://aiatsis.gov.au/sites/default/files/catalogue_resources/20663.pdf",
+          "length": "4604656"
+        },
+        {
+          "ts": "20150424074505",
+          "url": "http://aiatsis.gov.au/sites/default/files/catalogue_resources/20713.pdf",
+          "length": "1841918"
+        },
+        {
+          "ts": "20150424074510",
+          "url": "http://aiatsis.gov.au/sites/default/files/catalogue_resources/20713a.pdf",
+          "length": "901940"
+        },
+        {
+          "ts": "20150424074454",
+          "url": "http://aiatsis.gov.au/sites/default/files/catalogue_resources/20782.pdf",
+          "length": "7413103"
+        },
+        {
+          "ts": "20150424074437",
+          "url": "http://aiatsis.gov.au/sites/default/files/catalogue_resources/21005.pdf",
+          "length": "4298037"
+        },
+        {
+          "ts": "20260102001130",
+          "url": "https://aiatsis.gov.au/sites/default/files/catalogue_resources/21005a.pdf",
+          "length": "6048609"
+        },
+        {
+          "ts": "20240612164636",
+          "url": "https://aiatsis.gov.au/sites/default/files/catalogue_resources/21463.pdf",
+          "length": "1192406"
+        },
+        {
+          "ts": "20231013205702",
+          "url": "https://aiatsis.gov.au/sites/default/files/catalogue_resources/21470.pdf",
+          "length": "398950"
+        },
+        {
+          "ts": "20240426081211",
+          "url": "https://aiatsis.gov.au/sites/default/files/catalogue_resources/21604.pdf",
+          "length": "399850"
+        },
+        {
+          "ts": "20260103024039",
+          "url": "https://aiatsis.gov.au/sites/default/files/catalogue_resources/22813.pdf",
+          "length": "604413"
+        },
+        {
+          "ts": "20220228222834",
+          "url": "https://aiatsis.gov.au/sites/default/files/catalogue_resources/22818.pdf",
+          "length": "1266919"
+        },
+        {
+          "ts": "20251206185422",
+          "url": "https://aiatsis.gov.au/sites/default/files/catalogue_resources/22926.pdf",
+          "length": "1359277"
+        },
+        {
+          "ts": "20220302220318",
+          "url": "https://aiatsis.gov.au/sites/default/files/catalogue_resources/23857.pdf",
+          "length": "758238"
+        },
+        {
+          "ts": "20251207042516",
+          "url": "https://aiatsis.gov.au/sites/default/files/catalogue_resources/24630.pdf",
+          "length": "1761293"
+        },
+        {
+          "ts": "20251206211206",
+          "url": "https://aiatsis.gov.au/sites/default/files/catalogue_resources/24850.pdf",
+          "length": "1679631"
+        },
+        {
+          "ts": "20170818155616",
+          "url": "http://aiatsis.gov.au/sites/default/files/catalogue_resources/25132.pdf",
+          "length": "1392447"
+        }
+      ]
+    },
+    "anla_xml": {
+      "label": "ANLA result.xml (interface check)",
+      "url": "https://www.uaf.edu/anla/result.xml?searchId=&form.searchId;",
+      "http_status": 404,
+      "bytes_downloaded": 31276,
+      "truncated_at_cap": false,
+      "content_type": "text/html; charset=UTF-8",
+      "error": null,
+      "md5_full": "de7aac2c32dc0542b78e56773794de1e",
+      "md5_head1mb": "de7aac2c32dc0542b78e56773794de1e",
+      "looks_html": true,
+      "verdict": "PHANTOM \u2014 HTML page, not data"
+    },
+    "lap": {
+      "project_folders": [
+        "AUG/",
+        "Atlanta%20Survey/",
+        "CANADA/",
+        "DASS/",
+        "DASS2019/",
+        "GDS/",
+        "GULLAH/",
+        "LAGS/",
+        "LAMSAS/",
+        "LAMSASII/",
+        "LANCS/",
+        "LANE/",
+        "LAO/",
+        "LAPC/",
+        "LAPNW/",
+        "LAUMW/",
+        "LAWS/",
+        "LPSK/",
+        "ROSWELL/",
+        "SED/",
+        "SENG/",
+        "VIRGINIA/",
+        "XML%20master/"
+      ],
+      "lags_speaker_folders": 1082,
+      "lags_sample_folder": [
+        "LAGS(INF001)/",
+        "LAGS(INF002)/",
+        "LAGS(INF003)/"
+      ],
+      "inf001_xlsx": {
+        "label": "LAGS INF001 informant spreadsheet",
+        "url": "https://www.lap.uga.edu/Projects/LAGS/Speakers/LAGS(INF001)/LAGS(INF001).xlsx",
+        "http_status": 200,
+        "bytes_downloaded": 23059,
+        "truncated_at_cap": false,
+        "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "error": null,
+        "md5_full": "01e1b2b8a96fc9dc55782b2f0f7b56e8",
+        "md5_head1mb": "01e1b2b8a96fc9dc55782b2f0f7b56e8",
+        "looks_html": false,
+        "zip_entries": [
+          "[Content_Types].xml",
+          "_rels/.rels",
+          "xl/_rels/workbook.xml.rels",
+          "xl/workbook.xml",
+          "xl/theme/theme1.xml",
+          "xl/worksheets/_rels/sheet1.xml.rels",
+          "xl/worksheets/sheet2.xml",
+          "xl/worksheets/sheet3.xml",
+          "xl/worksheets/sheet1.xml",
+          "xl/sharedStrings.xml",
+          "xl/styles.xml",
+          "xl/tables/table1.xml"
+        ],
+        "zip_n_entries": 15,
+        "verdict": "REAL \u2014 valid zip (xlsx/zip family)",
+        "saved_to": "gold/campaign10-verify/lap-inf001.xlsx"
+      },
+      "inf001_xml": {
+        "label": "LAGS INF001 informant XML",
+        "url": "https://www.lap.uga.edu/Projects/LAGS/Speakers/LAGS(INF001)/LAGS(INF001).xml",
+        "http_status": 200,
+        "bytes_downloaded": 43293,
+        "truncated_at_cap": false,
+        "content_type": "application/xml",
+        "error": null,
+        "md5_full": "817b012076913f14841dcde52770214a",
+        "md5_head1mb": "817b012076913f14841dcde52770214a",
+        "looks_html": false,
+        "lines_sampled": 88,
+        "first_line": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\r",
+        "verdict": "REAL \u2014 decodable text data",
+        "saved_to": "gold/campaign10-verify/lap-inf001.xml"
+      },
+      "inf001_mp3": {
+        "label": "LAGS INF001 tape1 seg01 'Wild Animals' mp3 (cap 4MB)",
+        "url": "https://www.lap.uga.edu/Projects/LAGS/Speakers/LAGS(INF001)/Audio/LAGS(INF001)1/LAGS(INF001)1%2001%20Wild%20Animals.mp3",
+        "http_status": 200,
+        "bytes_downloaded": 4063232,
+        "truncated_at_cap": true,
+        "content_type": "audio/mpeg",
+        "error": null,
+        "md5_full": null,
+        "md5_head1mb": "9b79ede631550d597ef30142298d7f6b",
+        "looks_html": false,
+        "verdict": "REAL \u2014 MP3 audio (ID3/frame-sync magic)",
+        "mp3": true
+      },
+      "inf001_meta": {
+        "label": "LAGS INF001 tape1 meta.txt",
+        "url": "https://www.lap.uga.edu/Projects/LAGS/Speakers/LAGS(INF001)/Audio/LAGS(INF001)1/LAGS(INF001)1meta.txt",
+        "http_status": 200,
+        "bytes_downloaded": 1250,
+        "truncated_at_cap": false,
+        "content_type": "text/plain",
+        "error": null,
+        "md5_full": "8cd21fbb34e5ff0d8f7d26ce5c91ef09",
+        "md5_head1mb": "8cd21fbb34e5ff0d8f7d26ce5c91ef09",
+        "looks_html": false,
+        "lines_sampled": 27,
+        "first_line": "I. Informant number: LAGS(INF001)\r",
+        "verdict": "REAL \u2014 decodable text data",
+        "saved_to": "gold/campaign10-verify/lap-inf001-tape1-meta.txt"
+      },
+      "dass_full_txt": {
+        "label": "DASS2019 full corpus txt (head, cap 2MB)",
+        "url": "https://www.lap.uga.edu/Projects/DASS2019/Full_Corpus/DASS_full.txt",
+        "http_status": 200,
+        "bytes_downloaded": 2031616,
+        "truncated_at_cap": true,
+        "content_type": "text/plain",
+        "error": null,
+        "md5_full": null,
+        "md5_head1mb": "7159b518367b82876d4d14b80f648869",
+        "looks_html": false,
+        "first_bytes_hex": "3032353a20207b587d207b427d207b58",
+        "all_blank": false,
+        "verdict": "BINARY \u2014 non-HTML, non-blank"
+      },
+      "sed_kindling_csv": {
+        "label": "LAP-hosted SED kindling full dataset csv",
+        "url": "https://www.lap.uga.edu/Projects/SED/SED_kindling_fulldataset.csv",
+        "http_status": 200,
+        "bytes_downloaded": 8061,
+        "truncated_at_cap": false,
+        "content_type": "text/csv",
+        "error": null,
+        "md5_full": "aa8fc052db8d31a3c37b8b2f3c643d07",
+        "md5_head1mb": "aa8fc052db8d31a3c37b8b2f3c643d07",
+        "looks_html": false,
+        "lines_sampled": 439,
+        "first_line": "\ufeffInformant,kindling, \r",
+        "verdict": "REAL \u2014 decodable text data",
+        "saved_to": "gold/campaign10-verify/lap-sed-kindling-full.csv"
+      },
+      "cdx_mp3": {
+        "collapsed": 6,
+        "ok200": 6,
+        "files": [
+          {
+            "ts": "20221006172624",
+            "url": "http://www.lap.uga.edu/Projects/LAGS/Speakers/LAGS(INF066B)/Audio/LAGS(INF066B)4/LAGS(INF066B)4%2011%20Verbs_Modals.mp3",
+            "length": "2625948"
+          },
+          {
+            "ts": "20221006150525",
+            "url": "http://www.lap.uga.edu/Projects/LAGS/Speakers/LAGS(INF232)/Audio/LAGS(INF232)3/LAGS(INF232)3%2013%20Verbs_Modals.mp3",
+            "length": "4183538"
+          },
+          {
+            "ts": "20250228133346",
+            "url": "https://www.lap.uga.edu/Projects/LAGS/Speakers/LAGS(INF479)/Audio/LAGS(INF479)1/LAGS(INF479)1%2001%20Names,%20Titles%20and%20Occupations.mp3",
+            "length": "3669013"
+          },
+          {
+            "ts": "20250228133403",
+            "url": "https://www.lap.uga.edu/Projects/LAGS/Speakers/LAGS(INF482)/Audio/LAGS(INF482)1/LAGS(INF482)1%2001%20Non-Interview.mp3",
+            "length": "4088373"
+          },
+          {
+            "ts": "20240910184807",
+            "url": "https://www.lap.uga.edu/Projects/ROSWELL/Speakers/ROSWELL(INF001)/Audio/ROSWELL(INF001)1/ROSWELL(INF001)1%2010%20Historical%20Events.mp3",
+            "length": "4357378"
+          },
+          {
+            "ts": "20240910205232",
+            "url": "https://www.lap.uga.edu/Projects/ROSWELL/Speakers/ROSWELL(INF001)/Audio/ROSWELL(INF001)1/ROSWELL(INF001)1%2012%20Buildings.mp3",
+            "length": "4332116"
+          }
+        ]
+      },
+      "cdx_xlsx": {
+        "collapsed": 36,
+        "ok200": 35,
+        "files": [
+          {
+            "ts": "20130126045625",
+            "url": "http://www.lap.uga.edu:80/Projects/allprojects.xlsx",
+            "length": "6394"
+          },
+          {
+            "ts": "20250412050540",
+            "url": "https://www.lap.uga.edu/Projects/DASS2019/Info/DASS_demographic_information.xlsx",
+            "length": "29720"
+          },
+          {
+            "ts": "20250412050837",
+            "url": "https://www.lap.uga.edu/Projects/DASS2019/Info/DASS_narratives_topics.xlsx",
+            "length": "126934"
+          },
+          {
+            "ts": "20250412052918",
+            "url": "https://www.lap.uga.edu/Projects/DASS2019/Info/metadata.xlsx",
+            "length": "16638"
+          },
+          {
+            "ts": "20191019185542",
+            "url": "http://www.lap.uga.edu:80/Projects/LAGS/Information/LAGS-Bio-Spreadsheet.xlsx",
+            "length": "115772"
+          },
+          {
+            "ts": "20130126045456",
+            "url": "http://www.lap.uga.edu:80/Projects/LAGS/Speakers/LAGS(INF001)/LAGS(INF001).xlsx",
+            "length": "19392"
+          },
+          {
+            "ts": "20180202003518",
+            "url": "http://www.lap.uga.edu:80/Projects/LAGS/Speakers/LAGS(INF002)/LAGS(INF002).xlsx",
+            "length": "16417"
+          },
+          {
+            "ts": "20180202002622",
+            "url": "http://www.lap.uga.edu:80/Projects/LAGS/Speakers/LAGS(INF003)/LAGS(INF003).xlsx",
+            "length": "19614"
+          },
+          {
+            "ts": "20191021013345",
+            "url": "http://www.lap.uga.edu:80/Projects/LAGS/Speakers/LAGS(INF010)/LAGS(INF010).xlsx",
+            "length": "18868"
+          },
+          {
+            "ts": "20191019121106",
+            "url": "http://www.lap.uga.edu:80/Projects/LAGS/Speakers/LAGS(INF011)/LAGS(INF011).xlsx",
+            "length": "18883"
+          },
+          {
+            "ts": "20191021002148",
+            "url": "http://www.lap.uga.edu:80/Projects/LAGS/Speakers/LAGS(INF016)/LAGS(INF016).xlsx",
+            "length": "21586"
+          },
+          {
+            "ts": "20191022031001",
+            "url": "http://www.lap.uga.edu:80/Projects/LAGS/Speakers/LAGS(INF155)/LAGS(INF155).xlsx",
+            "length": "17584"
+          },
+          {
+            "ts": "20191021014004",
+            "url": "http://www.lap.uga.edu:80/Projects/LAGS/Speakers/LAGS(INF362)/LAGS(INF362).xlsx",
+            "length": "13159"
+          },
+          {
+            "ts": "20191019191823",
+            "url": "http://www.lap.uga.edu:80/Projects/LAGS/Speakers/LAGS(INF565)/LAGS(INF565).xlsx",
+            "length": "23860"
+          },
+          {
+            "ts": "20191021033652",
+            "url": "http://www.lap.uga.edu:80/Projects/LAGS/Speakers/LAGS(INF567)/LAGS(INF567).xlsx",
+            "length": "13811"
+          },
+          {
+            "ts": "20191019191045",
+            "url": "http://www.lap.uga.edu:80/Projects/LAGS/Speakers/LAGS(INF567A)/LAGS(INF567A).xlsx",
+            "length": "11099"
+          },
+          {
+            "ts": "20191021002223",
+            "url": "http://www.lap.uga.edu:80/Projects/LAGS/Speakers/LAGS(INF586)/LAGS(INF586).xlsx",
+            "length": "15825"
+          },
+          {
+            "ts": "20191019191110",
+            "url": "http://www.lap.uga.edu:80/Projects/LAGS/Speakers/LAGS(INF660)/LAGS(INF660).xlsx",
+            "length": "22479"
+          },
+          {
+            "ts": "20191019191140",
+            "url": "http://www.lap.uga.edu:80/Projects/LAGS/Speakers/LAGS(INF717A)/LAGS(INF717A).xlsx",
+            "length": "12079"
+          },
+          {
+            "ts": "20130125170514",
+            "url": "http://www.lap.uga.edu:80/Projects/LAGS/Speakers/LAGS(INF911)/LAGS(INF911).xlsx",
+            "length": "17472"
+          }
+        ]
+      }
+    },
+    "toronto_pdf": {
+      "label": "Toronto Trade Circular and Prices Current PDF (archive.org)",
+      "url": "https://archive.org/download/torontotradecirc00unse/torontotradecirc00unse.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 238529,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "c655769356821bce6c9631c5bed3b427",
+      "md5_head1mb": "c655769356821bce6c9631c5bed3b427",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true
+    },
+    "toronto_djvu_txt": {
+      "label": "Toronto Prices Current djvu text (head)",
+      "url": "https://archive.org/download/torontotradecirc00unse/torontotradecirc00unse_djvu.txt",
+      "http_status": 200,
+      "bytes_downloaded": 8286,
+      "truncated_at_cap": false,
+      "content_type": "text/plain; charset=utf-8",
+      "error": null,
+      "md5_full": "53a9febe81f8bc4c22e4f02c21d91c52",
+      "md5_head1mb": "53a9febe81f8bc4c22e4f02c21d91c52",
+      "looks_html": false,
+      "lines_sampled": 505,
+      "first_line": "TORONTO,  THURSDAY.  DECEMlER  24,  1838. ",
+      "verdict": "REAL \u2014 decodable text data",
+      "saved_to": "gold/campaign10-verify/toronto-prices-current-djvu.txt"
+    },
+    "bna_pdf": {
+      "label": "British Packet 1845-10-04 text PDF (Prices Current inside, cap 6MB)",
+      "url": "https://archive.org/download/BNA_S001219212_18451004N0998/BNA_S001219212_18451004N0998_text.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 1645069,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "ebfd02f6d3ca3a9f7cb2269a6a84dbe6",
+      "md5_head1mb": "01a9291094f7178c15c6c72e4576a687",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true
+    },
+    "lac": {
+      "status": null,
+      "image_refs": [],
+      "ecopy_refs": []
+    },
+    "ucalgary": {
+      "status": 200,
+      "fip_links": [
+        "https://digitalcollections.ucalgary.ca/CS.aspx?VP3=LoginRegistration&amp;L=True&amp;R=False",
+        "https://digitalcollections.ucalgary.ca/asset-management/2R3BF1R1NHI4M",
+        "https://digitalcollections.ucalgary.ca/asset-management/2R3BF1R8IFA2O",
+        "https://digitalcollections.ucalgary.ca/asset-management/2R3BF1R8IFIFI",
+        "https://digitalcollections.ucalgary.ca/asset-management/2R3BF1R8J41FV",
+        "https://digitalcollections.ucalgary.ca/asset-management/2R3BF1R8J42AN",
+        "https://digitalcollections.ucalgary.ca/asset-management/2R3BF1R8J46P0",
+        "https://digitalcollections.ucalgary.ca/asset-management/2R3BF1R8J47TH",
+        "https://digitalcollections.ucalgary.ca/asset-management/2R3BF1R8J4MBC",
+        "https://digitalcollections.ucalgary.ca/asset-management/2R3BF1R8J4NDY",
+        "https://digitalcollections.ucalgary.ca/asset-management/2R3BF1R8J4S2J",
+        "https://digitalcollections.ucalgary.ca/asset-management/2R3BF1R8J4UH3",
+        "https://digitalcollections.ucalgary.ca/asset-management/2R3BF1R8J80PG",
+        "https://digitalcollections.ucalgary.ca/asset-management/2R3BF1R8J81EV",
+        "https://digitalcollections.ucalgary.ca/asset-management/2R3BF1R8J82VN"
+      ]
+    },
+    "weebly_pdf": {
+      "label": "Weebly 'Photo Finish' PDF",
+      "url": "https://licksmacenre.weebly.com/uploads/1/4/8/7/148708983/photo-finish.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 51886,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "0475c282771b76498388917953b60262",
+      "md5_head1mb": "0475c282771b76498388917953b60262",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign10-verify/weebly-photo-finish.pdf"
+    },
+    "la32": {
+      "status": 200,
+      "image_refs": [
+        "https://substackcdn.com/image/fetch/$s_!0l7r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d61ee04-bb0d-46e6-a60b-d99750428ef0%2Fapple-touch-icon-180x180.png",
+        "https://substackcdn.com/image/fetch/$s_!46aA!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf6e2a04-5ed8-4b59-b00d-c42eaccd8917_774x774.png",
+        "https://substackcdn.com/image/fetch/$s_!5yHR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d61ee04-bb0d-46e6-a60b-d99750428ef0%2Fapple-touch-icon-144x144.png",
+        "https://substackcdn.com/image/fetch/$s_!AG9v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d61ee04-bb0d-46e6-a60b-d99750428ef0%2Ffavicon-48x48.png",
+        "https://substackcdn.com/image/fetch/$s_!AIhR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F821fcbe5-f866-4191-bdec-c609b08f0d42_742x559.jpeg",
+        "https://substackcdn.com/image/fetch/$s_!AIhR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F821fcbe5-f866-4191-bdec-c609b08f0d42_742x559.jpeg",
+        "https://substackcdn.com/image/fetch/$s_!AZ8C!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19893e6e-8895-44e2-9e78-1d7738884982_1500x1166.jpeg",
+        "https://substackcdn.com/image/fetch/$s_!AZ8C!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19893e6e-8895-44e2-9e78-1d7738884982_1500x1166.jpeg"
+      ]
+    },
+    "la32_sample": {
+      "label": "LA32 1932 finish image",
+      "url": "https://substackcdn.com/image/fetch/$s_!0l7r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d61ee04-bb0d-46e6-a60b-d99750428ef0%2Fapple-touch-icon-180x180.png",
+      "http_status": 200,
+      "bytes_downloaded": 9800,
+      "truncated_at_cap": false,
+      "content_type": "image/jpeg",
+      "error": null,
+      "md5_full": "3dcd7f487fb83824b1c5f474e67f158b",
+      "md5_head1mb": "3dcd7f487fb83824b1c5f474e67f158b",
+      "looks_html": false,
+      "verdict": "REAL \u2014 JPEG image",
+      "jpeg": true,
+      "saved_to": "gold/campaign10-verify/la32-https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d61ee04-bb0d-46e6-a60b-d99750428ef0%2Fapple-touch-icon-180x180.png"
+    }
+  }
+}

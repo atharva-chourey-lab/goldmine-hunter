@@ -144,3 +144,163 @@ waiting to happen, and it happens. Where it cannot ingest
 it (sketches, ink prints on cards, audio on a fonoteca's
 own site), the copy stays stranded. Future scoring should
 add a medium-mismatch test beside the loose-file test.
+
+---
+
+# Calibration — Campaign 12 (Mammal Wave 4, 7/10 batch part 1) vs the mammal-grain registry (2026-11-18)
+
+The first ten unfired 7s were fired. Score vs outcome:
+
+| Niche | Score (pre-C12) | Campaign 12 outcome | Verdict on the score |
+|---|---|---|---|
+| primate-palm-sole-dermatoglyphics | 7 | KILL — paper-only (journal PDFs verified; comparison already published 1970 + 2023) | Premise false: no archive, and the un-run comparison had in fact been run. **7 → 5, applied.** |
+| paw-pad-ridge-patterns | 7 | INVENTORY (Murie full text + Amherst sheet, published) | Guides predicted; archive never existed as files. **7 → 6, applied.** |
+| bear-paw-mensuration | 7 | INVENTORY (Hokkaido formal data paper) + KILL (harvest ledgers) | The designed series is formal; the ledger half is paper. **7 → 6, applied.** |
+| canid-track-size-archives | 7 | INVENTORY (NASA ORNL DAAC 2188) + KILL (agency tables) | Measurement-level data exists — in the formal archive. **7 → 6, applied.** |
+| snow-track-gait-archives | 7 | INVENTORY (same NASA deposit) + KILL/custody (Luke triangles) | Flagship is an institute programme publishing counts, not gait files. **7 → 6, applied.** |
+| elephant-tusk-patterns | 7 | KILL — custody (Who's Who database field) | A field inside a database is not a file archive. **7 → 6, applied.** |
+| cheetah-spot-patterns | 7 | INVENTORY (Kelly 2001, Mara-Meru 2022) + custody (photo albums) | Literature public, albums custodial — the C7 pattern at 7. **7 → 6, applied.** |
+| snow-leopard-rosettes | 7 | KILL — custody (PAWS programme libraries, location-sensitive) | Rich and hunter-proof by design. **7 → 6, applied.** |
+| painted-dog-coat-patterns | 7 | KILL — custody (park name-books) | Exactly as carded, which is the problem: carded custody is still custody. **7 → 6, applied.** |
+| pangolin-scale-patterns | 7 | KILL — premise falsified (PUNS: notching, not pattern archives) | No individual pattern archive is kept. **7 → 5, applied.** |
+
+Adjustments applied to `mammal_niches.json` (new `score`, old
+kept as `score_pre_campaign12`, reason in
+`calibration_2026_11_18_campaign12` per niche).
+
+**Pattern update, fourth mammal wave:** the 7-band adds a
+third failure shape beside infrastructure and custody — the
+*already-run comparison* (palm/sole atd was graded against
+karyotypes by its own literature in 1970) and the *formal
+deposit of exactly the imagined data* (NASA's snow-track
+CSVs). At 7, a niche can be scientifically real, measurably
+comparable, and still worth zero to the hunter because
+someone — the field itself, or an archive — already did the
+join. The medium-mismatch test from Campaign 8 stands: none
+of these ten had a medium the formal system cannot ingest.
+
+---
+
+# Calibration — Campaign 11 (Mammal Wave 3) vs the mammal-grain registry (2026-11-18)
+
+(Appended after Campaign 12's section — the parallel waves
+landed out of numeric order; nothing above was altered.)
+
+All nine unfired 8s were fired. Score vs outcome:
+
+| Niche | Score (pre-C11) | Campaign 11 outcome | Verdict on the score |
+|---|---|---|---|
+| rhino-ear-notch-horn-profiles | 8 | KILL for recovery — custody (per-reserve personal files; RhODIS forensic, 180,000+ samples) | Anti-poaching custody by design; the niche is hunter-proof exactly as the elephant-ear niche was. **8 → 6, applied.** |
+| pinniped-pelage-patterns | 8 | **SILVER** (SealID, DOI dataset) + INVENTORY (monk-seal report) + custody (NOAA, Cap Blanc slides) | Flagship published itself whole; the rest is custody. Silver ceiling. **8 → 7, applied.** |
+| tiger-stripe-catalogues | 8 | KILL for recovery — national custody (NTCA/WII) + INVENTORY (ExtractCompare demo) | Counts published, stripes sealed; the card said so and the wave confirmed it at full price. **8 → 6, applied.** |
+| leopard-jaguar-rosettes | 8 | KILL (field catalogues) + INVENTORY (demos) + Wildbook custody fraction | Study-shaped custody as carded; long-tail thesis sets remain unprobed one by one. **8 → 7, applied.** |
+| zebra-stripe-patterns | 8 | **SILVER** (GZGC) + INVENTORY (demo) + KILL (drawn-code era = paper) | Public layer is two deliberate releases; the historical layer is paper. **8 → 7, applied.** |
+| giraffe-coat-patterns | 8 | **SILVER** (GZGC subset) + INVENTORY (demo) + platform custody (GiraffeSpotter) | The Juneau/Wildbook pattern, third coat niche running. **8 → 7, applied.** |
+| tooth-wear-age-charts | 8 | **SILVER** (agency chart stack) — comparison already published (Foley et al. 2021) | The two-rulers audit the card imagines was run by the field itself, on known-age animals. **8 → 7, applied.** |
+| cementum-annuli-tooth-archives | 8 | KILL for recovery — service-industry custody (Matson's) + INVENTORY (lab web surface) | A lab that sells ages files nothing; the one loose report is 404 and unarchived. **8 → 6, applied.** |
+| primate-face-pattern-archives | 8 | INVENTORY (ChimpFace paper/dataset) + custody (Gombe/JGI site archives) | ML scraped its own set rather than joining the sites' portraits — the card's sentence, confirmed. **8 → 7, applied.** |
+
+Adjustments applied to `mammal_niches.json` (new `score`, old
+kept as `score_pre_campaign11`, reason in
+`calibration_2026_11_18_campaign11` per niche).
+
+**Pattern update, this wave:** Campaign 8's closing note
+discounted this whole block in advance ("all platform-era
+photo-ID") and Wave 3 paid a full wave to confirm it — the
+coat-pattern world professionalised earliest and most
+completely of any mammal system yet hunted (Wildbook,
+national archives, forensic law-enforcement custody). Two
+refinements worth keeping: (1) the ExtractCompare demos are a
+new provenance shade — the Fonozoo *shape* (loose files, old
+site, one small keeper) carrying deliberate-publication
+*intent*, and under the fixed grades intent is the line:
+same shape, INVENTORY not GOLD. Future scoring should ask
+not only "loose files?" but "loose *working* files, or a
+showcase?" (2) The teeth niches repeat Campaign 12's
+already-run-comparison shape from the other side: tooth-wear
+vs cementum vs known age is a *settled* two-rulers literature
+(Foley 2021), so both teeth niches' headline comparisons
+were dead before firing — a pre-flight literature check for
+"has the comparison been run?" would have killed both cards
+on paper.
+
+
+---
+
+# Calibration — Campaign 10 (Broad Wave 2B) vs the broad registry (2026-11-18)
+
+| Niche | Score (pre-C10) | Campaign 10 outcome | Verdict on the score |
+|---|---|---|---|
+| glacier-repeat-photos | 8 | **SILVER** — 61 glaciers of verified repeat pairs on a living personal site; USGS (58 pairs) + NSIDC (45 sets) formal; terminus-vs-GLAMOS comparison un-run but on published-by-design data | **8 → 7.** The material was exactly as scored; the strandedness was not — the field publishes its pairs where its owners keep them. |
+| paper-seismograms | 8 | **INVENTORY** — SISMOS/EuroSeismos is a formal archive (registration tiers); previews verified, preview tree uncaptured by Wayback and its host unreachable; Romanian set a 9.4 GB formal deposit | **8 → 7.** What looked like a static loose pile was the free tier of a running archive. |
+| moonwatch-satellite-cards | 8 | **KILL** — ~400,000 cards are 24 cu ft of paper in Smithsonian custody; only the finding aid + a 1958 published catalogue exist as files | **8 → 5.** The koala class again: a perfect fidelity card whose population never became files. |
+| steam-engine-indicator-cards | 8 | **KILL** — single-object museum records; the one scan archive's "indicator cards" are orders for blank card stock; measured populations are paper bundles | **8 → 6.** Cards survive as objects, not as a population with a surface. |
+| dye-sample-books | 8 | **SILVER** — Trümpy: 17 volumes digitised + transcribed in ETH's own online catalog; Yale's recipe books catalogue-only | **8 → 7.** Best object real, and published by design — silver ceiling. |
+| endangered-language-tape-shelves | 8 | **SILVER** — 1,384 status-200 AIATSIS finding-aid PDFs (the shelf list itself) sample-verified; tapes community-restricted custody via PARADISEC | **8 stands, ceiling silver.** The register is the data (Barts class) — scored right, capped by design. |
+| dialect-survey-recordings | 8 | **GOLD** — 1,082 LAGS informant folders (audio + transcription + bio per folder) loose on the project's former-host site; every formal product covers 64 of 914 informants; full-pile audit un-run; minted as lags-transcription-audit | **8 → 9.** Under-scored: a complete comparable set whose medium no formal archive ingests beyond a 7% curated sample. |
+| commodity-price-currents | 8 | **INVENTORY** — real Prices Current pages verified inside formal archive.org newspaper deposits; single issues, no port pile | **8 → 7.** The unit is everywhere; the comparable set is behind newspaper-corpus walls. |
+| fire-insurance-plans | 8 | **INVENTORY (unsampled)** — LAC/UCalgary digitisation documented (64–81 objects per Goad volume) but every sheet surface blocked this client; authoritative catalogue itself undigitised | **8 → 7.** Probably a silver the client couldn't reach; graded on what was verified. |
+| photo-finish-film-strips | 8 | **KILL** — no strip archive on the web; the niche-named PDF is a school compilation of Wikipedia text; strips are federation/timing custody | **8 → 6.** A niche whose web presence is writing about the objects. |
+
+**Wave verdict: 1 GOLD, 3 SILVER, 3 INVENTORY, 3 KILL from
+ten 8s.** The 8-band is behaving like the 9-band did: most
+scores are one notch optimistic, and the gold came from the
+niche whose score was one notch *pessimistic*.
+
+**The refinement this wave adds:** the two archive-shaped
+outcomes split on *coverage*, not custody. SISMOS covers
+its whole seismogram population (formal archive → no gold),
+while LAP's formal products cover 64 of 914 interviews —
+**a formal archive that ingests only a sample leaves the
+rest of the pile stranded**, and the sample's existence is
+camouflage: DASS2019's polish made the full pile look
+"done" for a decade. Test for future cards: *what fraction
+of the population did the formal product actually take?*
+
+Second instance of the camouflage pattern, inverted:
+Trümpy's catalog and the glacier site are complete
+publications (silver ceilings, honestly), while Moonwatch
+and the steam cards repeat the standing law — a fidelity
+card can be perfect and the population still paper.
+
+---
+
+# Calibration — Campaign 9 (Broad Wave 2A) vs the broad registry (2026-11-18)
+
+The broad registry's unfired 8/10 band was fired, all nine
+niches. Score vs outcome, per niche:
+
+| Niche | Registry score | Campaign 9 outcome | Verdict on the score |
+|---|---|---|---|
+| cephalopod-beaks | 8 | KILL for recovery (BAS guide = published book, INVENTORY; LABCOP 562-beak collection = physical, paper-described) | The measurement piles are printed guide tables and thesis appendices, never web files; the collections are jars. **8 → 6, applied.** |
+| bivalve-shell-rings | 8 | INVENTORY (Butler Arctica directories in NOAA NCEI formal paleo archive; sclerochronology.org no surface) | Material and loose-.txt hosting predicted, but the host is the formal archive itself — the Harpenden pattern. **8 → 7, applied.** |
+| bird-egg-collections | 8 | INVENTORY (GBIF/Arctos DwC-A sets) + KILL/custody (WFVZ by-request; Denny internal database) | The field publishes through GBIF by design; the largest collection is custody. **8 → 7, applied.** |
+| seed-bank-germination-vintages | 8 | KILL (AGG 24k-observation panel exists only as its 2026 paper; Genesys = platform; GGCE = internal software) | The built-in time series is real and entirely internal — genebank infrastructure is the niche's story. **8 → 6, applied.** |
+| diatom-type-slides | 8 | INVENTORY (diatoms.org curated imagery) + KILL (legacy diatom.ansp.org: 7,964 status-200 captures, zero data files; herbarium on OMERO platform) | The personal-database era ended in platforms and a curated flora. **8 → 7, applied.** |
+| wood-anatomy-xylarium | 8 | **SILVER (small)** (WSL static dendro key, frozen published surface) + INVENTORY (InsideWood templates; the joined DB itself) | The one niche whose old-site lead was real — and it is a maintained publication, silver ceiling, exactly as the guard-hair stack priced it. **8 → 7, applied.** |
+| blood-group-surveys | 8 | KILL (BloodBook rebuilt — its ABO page carries no table today; AFND formal; Mourant = books) | The loose compilation existed and was rebuilt away; the underlying tables were never files. **8 → 6, applied.** |
+| pathology-museum-jars | 8 | KILL/custody (Gordon: 8,000 specimens, internal catalogue, no file surface) | Teaching-museum catalogues are internal systems by design. **8 → 6, applied.** |
+| tide-marigrams | 8 | INVENTORY (PSMSL service files) + KILL for scans (field's own data archaeology, published 2026) | PSMSL consolidated the numbers *and* the owners are digitising the rolls themselves. **8 → 7, applied.** |
+
+Adjustments applied to `niches.json` (new `score`, old kept
+as `score_pre_campaign9`, reason in
+`calibration_2026_11_18_campaign9` per niche). Same tooling
+debt as before: `build_niches.py` still carries pre-campaign
+scores; `niches.json` as amended is the source of truth.
+
+**Pattern update, fourth registry wave:** the 8-band went
+0-for-9 on gold, and the reason is uniform — at this score
+level every niche has already acquired its infrastructure
+(formal archive, joined database, platform, internal
+catalogue, or the field's own digitisation programme). The
+two leads that looked loose-file-shaped at discovery
+(woodanatomy.ch, BloodBook) had both been *absorbed* —
+redirected into a maintained static publication, rebuilt
+into a modern site that dropped the table. That adds a
+third test beside loose-file hosting and medium-mismatch:
+**absorption** — an old site that still resolves may have
+been quietly adopted by its institution, and an adopted
+site publishes by design. What has paid, four times now
+(Brain Catalogue, Maddison, Fonozoo, Manatee), is a site
+nobody adopted: still on its original host, in its original
+form, in a medium the formal system does not ingest.

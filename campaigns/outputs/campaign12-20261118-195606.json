@@ -1,0 +1,468 @@
+{
+  "campaign12_mammal4": [
+    {
+      "niche": "primate-palm-sole-dermatoglyphics",
+      "label": "Turkish J Pediatrics \u2014 Down syndrome dermatoglyphics PDF (journal site)",
+      "url": "https://turkjpediatr.org/article/download/4340/4948/48939",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "primate-palm-sole-dermatoglyphics",
+      "label": "Int J Biomedicine \u2014 Kosova atd comparison PDF",
+      "url": "https://www.ijbm.org/articles/i51/ijbm_13(3)_oa15.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "paw-pad-ridge-patterns",
+      "label": "Murie Peterson Field Guide full text (archive.org)",
+      "url": "https://dn720005.ca.archive.org/0/items/peterson-field-guide-animal-tracks/Peterson%20Field%20Guide%20Animal%20Tracks_djvu.txt",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "paw-pad-ridge-patterns",
+      "label": "Amherst \u2014 Tracks and Scat Identification sheet PDF",
+      "url": "https://cpb-us-w2.wpmucdn.com/wordpress.amherst.edu/dist/3/137/files/2020/03/Track-and-Scat-Identification-1.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "bear-paw-mensuration",
+      "label": "Virginia DWR \u2014 judging age/sex of black bears (paw-width rule)",
+      "url": "https://dwr.virginia.gov/blog/how-to-judge-the-age-and-sex-of-black-bears/",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "bear-paw-mensuration",
+      "label": "Ecological Research \u2014 Hokkaido brown bear 40yr field-sign data paper",
+      "url": "https://esj-journals.onlinelibrary.wiley.com/doi/10.1111/1440-1703.70054",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "canid-track-size-archives",
+      "label": "Wisconsin DNR wolf monitoring report PDF (preprod host)",
+      "url": "https://preprod-wpr-main.pantheonsite.io/wp-content/uploads/2026/09/2026-Annual-Wolf-Report_July2026.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "canid-track-size-archives",
+      "label": "NASA Snow Wildlife Tracks \u2014 data.gov catalogue page (ORNL DAAC 2188)",
+      "url": "https://catalog.data.gov/dataset/snow-properties-and-wildlife-tracks-in-washington-and-alaska",
+      "pages": 7,
+      "unique_data_files": 1,
+      "images": 26,
+      "top": [
+        {
+          "name": "Snow_Wildlife_Tracks_AK_WA_2188.zip",
+          "url": "https://data.ornldaac.earthdata.nasa.gov/protected/bundle/Snow_Wildlife_Tracks_AK_WA_2188.zip",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "snow-track-gait-archives",
+      "label": "Natural Resources Institute Finland (Luke) \u2014 wildlife triangle host",
+      "url": "https://www.luke.fi/en",
+      "pages": 12,
+      "unique_data_files": 0,
+      "images": 120,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "snow-track-gait-archives",
+      "label": "NASA Earthdata \u2014 Snow Wildlife Tracks AK/WA catalogue",
+      "url": "https://www.earthdata.nasa.gov/data/catalog/ornl-cloud-snow-wildlife-tracks-ak-wa-2188-1",
+      "pages": 1,
+      "unique_data_files": 0,
+      "images": 23,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "elephant-tusk-patterns",
+      "label": "ElephantVoices (Gorongosa Who's Who custody surface)",
+      "url": "https://www.elephantvoices.org/",
+      "pages": 12,
+      "unique_data_files": 1,
+      "images": 87,
+      "top": [
+        {
+          "name": "7c052b7919ae79977ed401a5f6e0f81ebcda0237.mp4",
+          "url": "https://cdn.sanity.io/files/1367lwmq/production/7c052b7919ae79977ed401a5f6e0f81ebcda0237.mp4",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 20,
+      "wayback_data_files_raw": 29,
+      "wayback_sets_status200": {
+        "//audio": 19,
+        "/audio": 1
+      },
+      "wayback_top": [
+        {
+          "name": "Talking_Animals_Audio_Archive_Joyce_Poole.mp3",
+          "url": "http://www.elephantvoices.org//audio/Talking_Animals_Audio_Archive_Joyce_Poole.mp3",
+          "first_capture": "20120204202216",
+          "status": "200"
+        },
+        {
+          "name": "204_NGW_092708_Hr2_SegA.mp3",
+          "url": "http://www.elephantvoices.org//audio/204_NGW_092708_Hr2_SegA.mp3",
+          "first_capture": "20120204202545",
+          "status": "200"
+        },
+        {
+          "name": "204_NGW_092708_Hr2_SegB.mp3",
+          "url": "http://www.elephantvoices.org//audio/204_NGW_092708_Hr2_SegB.mp3",
+          "first_capture": "20120204202317",
+          "status": "200"
+        },
+        {
+          "name": "B2611643_48.mp3",
+          "url": "http://www.elephantvoices.org//audio/B2611643_48.mp3",
+          "first_capture": "20120124053226",
+          "status": "200"
+        },
+        {
+          "name": "B3711329_48.mp3",
+          "url": "http://www.elephantvoices.org//audio/B3711329_48.mp3",
+          "first_capture": "20120124040159",
+          "status": "200"
+        },
+        {
+          "name": "B3903431_top.mp3",
+          "url": "http://www.elephantvoices.org//audio/B3903431_top.mp3",
+          "first_capture": "20120204202059",
+          "status": "200"
+        },
+        {
+          "name": "B4604247_48.mp3",
+          "url": "http://www.elephantvoices.org//audio/B4604247_48.mp3",
+          "first_capture": "20120127032828",
+          "status": "200"
+        },
+        {
+          "name": "c1900510_48series.mp3",
+          "url": "http://www.elephantvoices.org//audio/c1900510_48series.mp3",
+          "first_capture": "20120127063526",
+          "status": "200"
+        },
+        {
+          "name": "C2303017_48.mp3",
+          "url": "http://www.elephantvoices.org//audio/C2303017_48.mp3",
+          "first_capture": "20120127041156",
+          "status": "200"
+        },
+        {
+          "name": "C2403916_48.mp3",
+          "url": "http://www.elephantvoices.org//audio/C2403916_48.mp3",
+          "first_capture": "20120127053640",
+          "status": "200"
+        },
+        {
+          "name": "C2700009_48.mp3",
+          "url": "http://www.elephantvoices.org//audio/C2700009_48.mp3",
+          "first_capture": "20120127051006",
+          "status": "200"
+        },
+        {
+          "name": "C2701253_48.mp3",
+          "url": "http://www.elephantvoices.org//audio/C2701253_48.mp3",
+          "first_capture": "20120127033425",
+          "status": "200"
+        },
+        {
+          "name": "C2900413_bottom.mp3",
+          "url": "http://www.elephantvoices.org//audio/C2900413_bottom.mp3",
+          "first_capture": "20120204202107",
+          "status": "200"
+        },
+        {
+          "name": "echos_lets_go.mp3",
+          "url": "http://www.elephantvoices.org/audio/echos_lets_go.mp3",
+          "first_capture": "20160822055303",
+          "status": "200"
+        },
+        {
+          "name": "elephantvoices_elebeats_1_4mb.mp3",
+          "url": "http://www.elephantvoices.org//audio/elephantvoices_elebeats_1_4mb.mp3",
+          "first_capture": "20120206123830",
+          "status": "200"
+        },
+        {
+          "name": "ngwkd1213_hour2_seg1_cb1335378891.mp3",
+          "url": "http://www.elephantvoices.org//audio/ngwkd1213_hour2_seg1_cb1335378891.mp3",
+          "first_capture": "20120730050307",
+          "status": "200"
+        },
+        {
+          "name": "nrk_P2_elefanter_JPandPG1June2012.mp3",
+          "url": "http://www.elephantvoices.org//audio/nrk_P2_elefanter_JPandPG1June2012.mp3",
+          "first_capture": "20120722141426",
+          "status": "200"
+        },
+        {
+          "name": "poole_elephantvoices.mp3",
+          "url": "http://www.elephantvoices.org//audio/poole_elephantvoices.mp3",
+          "first_capture": "20120204202122",
+          "status": "200"
+        },
+        {
+          "name": "swradio_africa_210510.mp3",
+          "url": "http://www.elephantvoices.org//audio/swradio_africa_210510.mp3",
+          "first_capture": "20120204202404",
+          "status": "200"
+        },
+        {
+          "name": "verdt_aavite_poole_251007.mp3",
+          "url": "http://www.elephantvoices.org//audio/verdt_aavite_poole_251007.mp3",
+          "first_capture": "20120204202731",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "elephant-tusk-patterns",
+      "label": "Pachyderm \u2014 Who's Who & Whereabouts system paper PDF (tusk attributes)",
+      "url": "https://Pachydermjournal.org/index.php/pachyderm/article/download/482/498",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "cheetah-spot-patterns",
+      "label": "Kelly personal site \u2014 Serengeti cheetah computer-aided ID paper PDF (mjkelly.info)",
+      "url": "http://mjkelly.info/ewExternalFiles/computeraid.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 1,
+      "wayback_data_files_raw": 2,
+      "wayback_sets_status200": {
+        "/IndexPhotos": 1
+      },
+      "wayback_top": [
+        {
+          "name": "Puma.mov",
+          "url": "http://mjkelly.info/IndexPhotos/Puma.mov",
+          "first_capture": "20140521115246",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "cheetah-spot-patterns",
+      "label": "Mara-Meru Cheetah Project Annual Report 2022 PDF (Roman Wildlife Foundation)",
+      "url": "https://romanwildlifefoundation.com/files/uploads/annual-report-2022.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "snow-leopard-rosettes",
+      "label": "Snow Leopard Trust (snowleopard.org \u2014 PAWS / Ghost Trackers)",
+      "url": "https://snowleopard.org/the-ghost-trackers-how-indigenous-women-are-leading-snow-leopard-conservation-in-the-himalayas/",
+      "pages": 12,
+      "unique_data_files": 4,
+      "images": 52,
+      "top": [
+        {
+          "name": "3501.mp4",
+          "url": "https://snowleopard.org/wp-content/uploads/2025/11/3501.mp4",
+          "score": 6
+        },
+        {
+          "name": "3509.mp4",
+          "url": "https://snowleopard.org/wp-content/uploads/2025/11/3509.mp4",
+          "score": 6
+        },
+        {
+          "name": "3607.mp4",
+          "url": "https://snowleopard.org/wp-content/uploads/2025/11/3607.mp4",
+          "score": 6
+        },
+        {
+          "name": "work-time-lapse.mp4",
+          "url": "http://snowleopard.org/wp-content/uploads/2025/11/work-time-lapse.mp4",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 1,
+      "wayback_data_files_raw": 19,
+      "wayback_sets_status200": {
+        "/": 1
+      },
+      "wayback_top": [
+        {
+          "name": "attachment-sitemap3.xml",
+          "url": "https://snowleopard.org/attachment-sitemap3.xml",
+          "first_capture": "20251015105613",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "painted-dog-coat-patterns",
+      "label": "Endangered Wildlife Trust (Kruger wild-dog monitoring surface)",
+      "url": "https://ewt.org.za/",
+      "pages": 1,
+      "unique_data_files": 0,
+      "images": 11,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "painted-dog-coat-patterns",
+      "label": "Painted Dog Conservation (painteddog.org)",
+      "url": "https://www.painteddog.org/",
+      "pages": 12,
+      "unique_data_files": 0,
+      "images": 97,
+      "top": [],
+      "wayback_data_files_status200": 4,
+      "wayback_data_files_raw": 16,
+      "wayback_sets_status200": {
+        "/": 2,
+        "/MS_reports_files": 1,
+        "/WB_Main_files": 1
+      },
+      "wayback_top": [
+        {
+          "name": "filelist.xml",
+          "url": "http://painteddog.org/MS_reports_files/filelist.xml",
+          "first_capture": "20060927203757",
+          "status": "200"
+        },
+        {
+          "name": "sitemap.xml",
+          "url": "https://www.painteddog.org/sitemap.xml",
+          "first_capture": "20220721030920",
+          "status": "200"
+        },
+        {
+          "name": "filelist.xml",
+          "url": "http://painteddog.org/WB_Main_files/filelist.xml",
+          "first_capture": "20060927203839",
+          "status": "200"
+        },
+        {
+          "name": "robots.txt",
+          "url": "http://www.painteddog.org:80/robots.txt",
+          "first_capture": "20030211195610",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "pangolin-scale-patterns",
+      "label": "PUNS preprint PDF (EcoEvoRxiv \u2014 programme marking systems survey)",
+      "url": "https://ecoevorxiv.org/repository/object/6274/download/12204/",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "pangolin-scale-patterns",
+      "label": "CITES CoP18 \u2014 IUCN Pangolin SG monitoring methods PDF",
+      "url": "https://cites.org/sites/default/files/eng/cop/18/inf/P-CoP18-Inf-075.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "pangolin-scale-patterns",
+      "label": "WTI Wildlife ID & Post-Seizure Guide PDF (pangolin scale ID)",
+      "url": "https://www.wti.org.in/wp-content/uploads/2026/03/SPECIES-ID-POST-IDENTIFICATION-GUIDE.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    }
+  ]
+}

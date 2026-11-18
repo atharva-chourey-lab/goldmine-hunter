@@ -1,0 +1,60 @@
+{
+ "verify11b": {
+  "sealid_arxiv": {
+   "label": "SealID paper (arXiv 2206.02260, same work as Sensors 2022)",
+   "url": "https://arxiv.org/pdf/2206.02260",
+   "http_status": 200,
+   "bytes_downloaded": 10746065,
+   "truncated_at_cap": false,
+   "content_type": "application/pdf",
+   "error": null,
+   "md5_full": "73638285fea3f4a3226947bbab179c35",
+   "md5_head1mb": "1341c8cb4800a058171bad74cb1b9846",
+   "looks_html": false,
+   "verdict": "REAL \u2014 PDF",
+   "pdf": true,
+   "saved_to": "gold/campaign11-verify/sealid-arxiv-2206.02260.pdf"
+  },
+  "monk_integrity": {
+   "path": "gold/campaign11-verify/monk-seal-report-2017-2018.pdf",
+   "bytes_on_disk": 1048576,
+   "has_eof_marker": false,
+   "page_markers": 0,
+   "note": "PyPDF2 unavailable in this env; EOF + page-marker check only"
+  },
+  "mn_variants": {
+   "www.leg.mn.gov/docs/2013/other/C130010.pdf": {
+    "collapsed": 0,
+    "ok200": 0,
+    "hits": 0,
+    "rows": []
+   },
+   "leg.mn.gov/docs/2013/other/*": {
+    "collapsed": 255,
+    "ok200": 250,
+    "hits": 0,
+    "rows": []
+   }
+  },
+  "giraffespotter": {
+   "status": 200,
+   "snippet": "Before(j, f);\n        })(window, document, 'script', 'dataLayer', 'GTM-TCVCL7X3'); \n       \n\n       Wildbook for Giraffe \n       \n       \n       \n       \n       \n       \n       \n       \n       \n      \n       \n       \n       \n   "
+  },
+  "matson_campaign": {
+   "wayback200": 16,
+   "sets": {
+    "/": 8,
+    "/wp-content/uploads/2016/02": 2,
+    "/images/cementum-aging": 1,
+    "/wp-content/uploads/2021/09": 1,
+    "/wp-content/uploads/2021/10": 1,
+    "/wp-content/uploads/2024/03": 1,
+    "/wp-content/uploads/2025/02": 1,
+    "/wp-includes": 1
+   },
+   "top": [
+    "Biologist-Order-Form.xlsx"
+   ]
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+  "verify12b": {
+    "nasa_bundle": {
+      "label": "NASA Snow Wildlife Tracks bundle zip (ORNL DAAC 2188)",
+      "url": "https://data.ornldaac.earthdata.nasa.gov/protected/bundle/Snow_Wildlife_Tracks_AK_WA_2188.zip",
+      "http_status": 401,
+      "bytes_downloaded": 27,
+      "truncated_at_cap": false,
+      "content_type": "text/html; charset=utf-8",
+      "error": null,
+      "md5_full": "e31692ed41a407435d20c100e05c4b83",
+      "md5_head1mb": "e31692ed41a407435d20c100e05c4b83",
+      "looks_html": false,
+      "verdict": "PK MAGIC but zip unreadable (truncated?): File is not a zip file",
+      "pk_magic": true
+    },
+    "cites_cdx200": 1,
+    "cites_wb": {
+      "label": "CITES pangolin methods via Wayback",
+      "url": "https://web.archive.org/web/https://cites.org/sites/default/files/eng/cop/18/inf/P-CoP18-Inf-075.pdfid_/20220121230948",
+      "http_status": 404,
+      "bytes_downloaded": 4757,
+      "truncated_at_cap": false,
+      "content_type": "text/html",
+      "error": null,
+      "md5_full": "525486456065b22815e72c97a30f7442",
+      "md5_head1mb": "525486456065b22815e72c97a30f7442",
+      "looks_html": true,
+      "verdict": "PHANTOM \u2014 HTML page, not data"
+    }
+  }
+}

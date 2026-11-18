@@ -1,0 +1,17 @@
+{
+  "verify12c_cites": {
+    "label": "CITES pangolin methods via Wayback id_",
+    "url": "https://web.archive.org/web/20220121230948id_/https://cites.org/sites/default/files/eng/cop/18/inf/P-CoP18-Inf-075.pdf",
+    "http_status": 200,
+    "bytes_downloaded": 1328974,
+    "truncated_at_cap": false,
+    "content_type": "application/pdf",
+    "error": null,
+    "md5_full": "46989cfadb549f8704171b85b8852ff8",
+    "md5_head1mb": "c8ed790d5151b011a2b94d111674b4e3",
+    "looks_html": false,
+    "verdict": "REAL \u2014 PDF",
+    "pdf": true,
+    "saved_to": "gold/campaign12-verify/cites-pangolin-wb.pdf"
+  }
+}

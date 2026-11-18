@@ -1,0 +1,320 @@
+catalogue_name,n_records,countries,provinces,n_with_locality,recordists
+afrixalus fulvovitattus,1,GQ,Monte Allen,0,Ignacio de la Riva
+afrixalus paradorsalis,7,GQ,Bioko;Monte Allen,0,Ignacio de la Riva;Santiago Castroviejo Fisher
+aglyptodactylus laticeps,2,MG,Kirindy,0,Miguel Vences & Frank Glaw
+aglyptodactylus madagascariensis,14,MG,Andasibe;Andringitra-Ambalamarina;Maharira,0,Miguel Vences & Frank Glaw;R. Blommers-Schloesser
+aglyptodactylus securifer,14,MG,Campement des Anglais;Kirindy type locality,13,Julian Glos;Miguel Vences & Frank Glaw
+aglyptodactylus sp.,8,MG,Andohahela;Fort Dauphin,0,Miguel Vences & Frank Glaw
+alexteroon obstetricans,1,GQ,Monte Allen,0,Ignacio de la Riva
+alytes cisternasii,69,ES;PT;US,Alto Alentejo;Badajoz;Chicago;Madrid,66,Rafael Márquez
+alytes dickhilleni,7,ES,Jaén;Sierra Nevada,5,"Rafael Márquez, Jaime Bosch"
+alytes muletensis,56,ES;GB,Inglaterra;Islas Baleares;Mallorca,54,Miguel Lizana;Rafael Márquez
+alytes obstetricans,33,ES,Madrid;Pirineos;Zamora,33,"José Luis Álvarez;Rafael Márquez;Rafael Márquez, Jaime Bosch;Rafael Márquez, José Luis Álvarez"
+alytes sp.,5,ES,Alicante;Salamanca,4,"Rafael Márquez;Rafael Márquez, Jaime Bosch"
+alytes spp.,6,,,0,
+amnirana albolabris,1,GQ,Bioko,0,Santiago Castroviejo Fisher
+amphibia spp.,2,CO,Bogotá,2,Rafael Márquez
+anodonthyla boulengeri,17,MG,Ambohitsara;Andasibe;Ankeniheny;Nosy Boraha;Nosy Mangabe;Ranomafana,1,Miguel Vences & Frank Glaw
+anodonthyla moramora,8,MG,Ranomafana;Vohiparara;Vohiparara bridge,0,Miguel Vences & Frank Glaw
+anodonthyla nigrigularis,9,MG,Andohahela;Manantantely;Pic St. Louis,0,Miguel Vences & Frank Glaw
+anodonthyla sp.,11,MG,Ambohitantely;Maharira;Ranomafana,0,Miguel Vences & Frank Glaw
+anura spp.,271,BO;ES;MG;MR;PT,Aleg;Ambalamarina;Andapa;Andasibe;Ankarafantsika;Ankeniheny;Antsirasira;Campamento de Guanchaca;Fort Dauphin;Kirindy;Madrid;Maharira;Montagne d'Ambre;Nahampoana;Nosy Be;Paço da Quinta;Ranomafana;Salamanca;Tolagnaro;Vevembe;Ávila,5,"Jaime Bosch;José Manuel Padial;Miguel Lizana;Miguel Vences & Frank Glaw;Rafael Márquez;Rafael Márquez, Santiago Martínez de Orense"
+batrachyla antartandica,5,CL,Caleta Gonzalo;La Picada;Parque Nacional Alerce Costero,0,Rafael Márquez
+batrachyla leptopus,7,CL,Caleta Gonzalo;Parque Nacional Alerce Costero,0,Rafael Márquez
+bombina bombina,42,,,0,
+bombina spp.,24,,,0,
+bombina variegata,41,,,0,
+boophis albilabris,10,MG,Andapa;Anjanaharibe;Benavony,0,Miguel Vences & Frank Glaw
+boophis albipunctatus,3,MG,Nahampoana,0,Miguel Vences & Frank Glaw
+boophis andohahela,9,MG,Andohahela;Ranomafana;Vevembe,0,Miguel Vences & Frank Glaw
+boophis andreonei,9,MG,Benavony;Camp Norbert,0,Miguel Vences & Frank Glaw
+boophis anjanaharibeensis,2,MG,Marojejy,0,Miguel Vences & Frank Glaw
+boophis ankaratra,28,MG,Ambalamarina;Ambohitantely;Col des Tapias;Itremo;Mandraka;Manjakatompo,2,Denis Vallan;Miguel Vences & Frank Glaw
+boophis blommersae,19,MG,Andampy;Manarikoba forest (Camp 0);Montagne d'Ambre,0,Miguel Vences & Frank Glaw
+boophis boehmei,25,MG,Anala;Andasibe;Ankeniheny;Ranomafana;Vohiparara bridge,0,Miguel Vences & Frank Glaw
+boophis bottae,24,MG,Andasibe;Vohiparara,0,Miguel Vences & Frank Glaw
+boophis brachychir,18,MG,Andampy;Benavony;Camp Norbert;Montagne d'Ambre,0,Miguel Vences & Frank Glaw
+boophis burgeri,11,MG,Andasibe,0,Miguel Vences & Frank Glaw
+boophis douliot,2,MG,Fort Dauphin,0,Miguel Vences & Frank Glaw
+boophis doulioti,10,MG,Ampijoroa;Fort Dauphin;Kirindy;Ranohira,3,Miguel Vences & Frank Glaw;R. Blommers-Schloesser
+boophis elenae,5,MG,Andasibe;Maharira,0,Miguel Vences & Frank Glaw
+boophis englaenderi,5,MG,Andrakata;Marojezy,0,Miguel Vences & Frank Glaw
+boophis erythrodactylus,10,MG,Mandraka,0,Miguel Vences & Frank Glaw;R. Blommers-Schloesser
+boophis feonnyala,3,MG,Andasibe,0,Miguel Vences & Frank Glaw
+boophis goudoti,2,,,0,R. Blommers-Schloesser
+boophis granulosus,2,MG,Andasibe,0,Miguel Vences & Frank Glaw
+boophis guibei,1,MG,Maharira,0,Miguel Vences & Frank Glaw
+boophis haematopus,4,MG,Nahampoana,0,Miguel Vences & Frank Glaw
+boophis idae,14,MG,Andasibe,0,Miguel Vences & Frank Glaw
+boophis jaegeri,14,MG,Berara;Nosy Be,0,Miguel Vences & Frank Glaw
+boophis laurenti,3,MG,Cuvette Boby,3,Miguel Vences & Frank Glaw
+boophis liami,15,MG,Ranomena;Vohidrazana,0,Miguel Vences & Frank Glaw
+boophis lichenoides,4,MG,Camp II,4,Franco Andreone
+boophis luteus,34,MG,Anala;Andasibe;Andohahela;Ankeniheny;Isalo;Mandraka;Pic St. Louis;Ranomafanakely;Tolagnaro;Vohidrazana,3,Miguel Vences & Frank Glaw;R. Blommers-Schloesser
+boophis madagascariensis,15,MG,Anala;Andasibe;Ifanadiana-Tlongoin;Manombo;Ranomafana,0,Miguel Vences & Frank Glaw;R. Blommers-Schloesser
+boophis majori,6,MG,Andringitra-Ambalamarina;Maharira,0,Miguel Vences & Frank Glaw
+boophis mandraka,6,MG,Mandraka,0,Miguel Vences & Frank Glaw;R. Blommers-Schloesser
+boophis marojezensis,43,MG,Ambanizana;Anala;Antsahamanara (Camp 1);Camp Simpona;Manarikoba forest (Camp 1);Marojejy;Marojezy;Ranomafana;Vohidrazana;Vohiparara,5,Franco Andreone;Miguel Vences & Frank Glaw
+boophis microtympanum,17,MG,Ambalamarina-Sendrisoa;Ankararatra;Ankaratra;Antoetra;Manjakatompo,10,Miguel Vences & Frank Glaw;R. Blommers-Schloesser
+boophis miniatus,4,MG,Pic St. Louis,0,Miguel Vences & Frank Glaw
+boophis occidentalis,2,MG,Berara,0,Miguel Vences & Frank Glaw
+boophis opisthodon,4,MG,Ifanadiana-Tlongoin;Tolagnaro,0,Miguel Vences & Frank Glaw
+boophis pauliani,2,MG,Andasibe,0,Miguel Vences & Frank Glaw
+boophis periegetes,2,MG,Ranomafana,0,Miguel Vences & Frank Glaw
+boophis picturatus,14,MG,Anala;Vohiparara,0,Miguel Vences & Frank Glaw
+boophis pyrrhus,19,MG,Ambohitsara;Anala;Andasibe;Ifanadiana-Tlongoin;Vevembe,1,Miguel Vences & Frank Glaw
+boophis rappiodes,9,MG,Andasibe;Nahampoana,0,Miguel Vences & Frank Glaw
+boophis reticulatus,10,MG,Anala,0,Miguel Vences & Frank Glaw
+boophis rufioculis,12,MG,Anala;Manarikoba forest (Camp 1),0,Miguel Vences & Frank Glaw
+boophis schuboeae,4,MG,Ranomafana;Vohiparara,0,Miguel Vences & Frank Glaw
+boophis septentrionalis,5,MG,Les Roussettes;Marojejy;Montagne d'Ambre,0,Miguel Vences & Frank Glaw
+boophis sibilans,14,MG,Andasibe,0,Miguel Vences & Frank Glaw
+boophis solomaso,3,MG,Analambalaotra,3,Denis Vallan
+boophis sp.,183,MG,Ambalamarina;Ambohitantely;Anala;Andapa;Andasibe;Andohahela;Andringitra-Ambalamarina;Ankeniheny;Antsahamanara (Camp 1);Berara;Camp 0;Camp 1;Camp Norbert;Camp Simpona;Les Roussettes;Maharira;Manarikoba forest (Camp 1);Mandraka;Marojejy;Marojejy (Camp III);Marojezy;Montagne d'Ambre;Ranomafana;Ranomafanakely;Tolongoina;Vohidrazana;Vohiparara;Vohiparara bridge,23,Miguel Vences & Frank Glaw
+boophis tasymena,21,MG,Anala;Andasibe;Vohiparara,0,Miguel Vences & Frank Glaw
+boophis tephraeomystax,24,MG,Andasibe;Maroantsetra;Nosy Be;Ranomafana;Sambava,0,Miguel Vences & Frank Glaw
+boophis viridis,14,MG,Andasibe,0,Miguel Vences & Frank Glaw
+boophis vittatus,22,MG,Camp 0;Camp 1;Manarikoba forest (Camp 1);Marojejy (Camp III),0,Miguel Vences & Frank Glaw
+boophis xerophilus,8,MG,Kirindy,0,Miguel Vences & Frank Glaw
+bufo arenarum,3,AR,Tucumán,0,Rafael Márquez
+bufo bufo,3,ES,Salamanca;Ávila,3,Rafael Márquez
+bufo calamita,34,ES;PT,Alentejo;Almería;Salamanca;Ávila,33,Miguel Lizana;Rafael Márquez
+bufo camerunensis,2,GQ,Bioko;Monte Allen,0,Ignacio de la Riva;Santiago Castroviejo Fisher
+bufo marinus,1,BO,Valle del Sajta,0,Ignacio de la Riva
+bufo poeppiggii,2,BO,Provincia de Carrasco (Dpto. Cochabamba),2,Jaime Bosch
+bufo poeppigii,1,BO,Camino de Charazani,0,Jaime Bosch
+bufo regularis,5,CI,Parque Nacional La Comoé,0,"Rafael Márquez, Jaime Bosch"
+bufo sp.,3,AR,Maipú;Mendoza,0,Rafael Márquez
+bufo spinosus,1,AR,Ñacuñán,0,Rafael Márquez
+bufo typhonius,2,BO,Santa Cruz,0,Jaime Bosch
+bufo viridis,3,ES,Islas Baleares;Mallorca,2,"Rafael Márquez;Rafael Márquez, Miguel Lizana"
+bufo xeros,1,MR,Nouakchott,0,Rafael Márquez
+chiromantis rufescens,2,GQ,Bioko;Monte Allen,0,Ignacio de la Riva;Santiago Castroviejo Fisher
+chiromantis sp.,1,GQ,Bioko,0,Santiago Castroviejo Fisher
+colostethus sp.,4,CO,Bogotá,4,Rafael Márquez
+colosthetus marchesianus,1,BO,Cuzco Amazónico,0,Ignacio de la Riva
+cophyla berara,8,MG,Berara,0,Miguel Vences & Frank Glaw
+cophyla phyllodactyla,16,MG,Benavony;Camp 1;Lokobe;Nosy Be,1,Miguel Vences & Frank Glaw
+cophyla sp.,8,MG,Sambava,0,Miguel Vences & Frank Glaw
+crinia signifera,2,AU,Katoomba,0,Rafael Márquez
+dendrobates auratus,2,ES,Madrid,0,Javier Santos
+dimorphognathus africanus,1,GQ,Monte Allen,0,Ignacio de la Riva
+dyscophus guineti,6,MG,,0,Miguel Vences & Frank Glaw
+dyscophus insularis,6,MG,Kirindy,0,Miguel Vences & Frank Glaw
+dyscophus sp.,1,MG,Andasibe,0,Miguel Vences & Frank Glaw
+edalorhina perezi,2,BO,Cuzco Amazónico,0,Ignacio de la Riva
+elachistocleis ovalis,1,VE,Estado de Apure,1,Santiago Castroviejo Fisher
+eleutherodactylus cochrani,3,PR,San Juan,0,Rafael Márquez
+eleutherodactylus coqui,90,PR,El Yunque;Mayagüez;San Juan,0,Rafael Márquez
+eleutherodactylus cruralis,1,BO,Camino de Charazani,0,Jaime Bosch
+eleutherodactylus fenestratus,3,BO,Cuzco Amazónico;Masicurí,0,Ignacio de la Riva
+eleutherodactylus gryllus,1,PR,El Yunque,0,Rafael Márquez
+eleutherodactylus hedricki,3,PR,El Yunque,0,Rafael Márquez
+eleutherodactylus heterodactylus,1,,,0,José Manuel Padial
+eleutherodactylus ibischi,2,BO,Masicurí,0,Ignacio de la Riva
+eleutherodactylus madidi,1,,,0,José Manuel Padial
+eleutherodactylus platydactylus,2,BO,Pueblo de Apolo;San Juan del Potrero,0,Ignacio de la Riva;Jaime Bosch
+eleutherodactylus portorricensis,4,PR,El Yunque,0,Rafael Márquez
+eleutherodactylus sp,1,BO,Masicurí,0,Ignacio de la Riva
+eleutherodactylus toftae,1,BO,Cuzco Amazónico,0,Ignacio de la Riva
+epidedobates bolivianus,2,BO,Camino de Charazani,0,Jaime Bosch
+epidedobates pictus,3,BO,Cuzco Amazónico,0,Ignacio de la Riva
+eupsophus calcaratus,44,CL,La Picada,12,Mario Penna;Rafael Márquez
+eupsophus emiliopugini,15,CL,La Picada,0,Rafael Márquez
+eupsophus griseus,1,CL,La Picada,0,Rafael Márquez
+eupsophus roseus,33,CL,Lago Tinquilco,0,Rafael Márquez
+eupsophus sp.,8,CL,La Picada,0,Rafael Márquez
+heterixalus alboguttatus,12,MG,Ranomafana,0,Miguel Vences & Frank Glaw
+heterixalus andrakata,24,MG,Andrakata;Montagne des Francais;Sambava,0,Miguel Vences & Frank Glaw
+heterixalus betsileo,24,MG,Ambalamarina;Ambohitantely;Andasibe;Antananarivo;Manjakatompo;Tsimbazaza,2,Miguel Vences & Frank Glaw;R. Blommers-Schloesser
+heterixalus boettgeri,7,MG,Tolagnaro,0,Miguel Vences & Frank Glaw
+heterixalus carbonei,9,MG,Gite d'Etape;Montagne d'Ambre;Tsingy de Bemaraha,2,Miguel Vences & Frank Glaw;R. Jesu & G. Schimmenti
+heterixalus luteostriatus,15,MG,Ankarafantsika;Ranohira,10,Miguel Vences & Frank Glaw
+heterixalus madagascariensis,19,MG,Sambava;Vohidrazana,0,Miguel Vences & Frank Glaw;R. Blommers-Schloesser
+heterixalus punctatus,7,MG,Andasibe;Sambava,0,Miguel Vences & Frank Glaw
+heterixalus rutenbergi,4,MG,Ambohitantely,0,Miguel Vences & Frank Glaw
+heterixalus sp.,6,MG,Andasibe;Anjanaharibe;Sambava,0,Miguel Vences & Frank Glaw
+heterixalus tricolor,4,MG,Ankarafantsika;Nosy Be,0,Miguel Vences & Frank Glaw
+heterixalus variabilis,4,MG,Ambilobe;Antsirasira,0,Miguel Vences & Frank Glaw
+hyla albopunctata,1,BO,Campamento de Guanchaca,0,Jaime Bosch
+hyla arborea,118,ES;PT,Coimbra;Portalegre;Salamanca;Ávila,56,Rafael Márquez
+hyla armata,2,BO,,0,Jaime Bosch
+hyla balzani,2,BO,Camino de Charazani;Caranavi,0,Jaime Bosch
+hyla eximia,1,MX,Nevado de Toluca,1,Georgina Cortés Soto
+hyla koechlini,2,BO,Cuzco Amazónico,0,Ignacio de la Riva
+hyla labialis,6,CO,Páramo de Chingaza,0,Rafael Márquez
+hyla lanciformis,2,BO,Campamento de Guanchaca;Valle del Sajta,0,Ignacio de la Riva;Jaime Bosch
+hyla marianitae,1,BO,Río Caraguas,0,Ignacio de la Riva
+hyla meridionalis,74,ES;PT,Alentejo;Paço da Quinta;Portalegre;Ávila,12,Rafael Márquez
+hyla microcephala,1,VE,Estado de Apure,1,Santiago Castroviejo Fisher
+hyla minuta,4,BO,Camino de Charazani;Pueblo de Apolo,0,Jaime Bosch
+hyla nana,1,BO,Caranavi,0,
+hyla plicata,1,MX,Nevado de Toluca,1,Georgina Cortés Soto
+hyla pulchela,2,AR,Tucumán,0,Rafael Márquez
+hyla raniceps,2,BO,Santa Cruz,0,Jaime Bosch
+hyla rhodopepla,2,BO,Valle del Sajta,0,Ignacio de la Riva
+hyla walphordi,2,BO,Campamento de Guanchaca,0,Jaime Bosch
+hylorina sylvatica,3,CL,Caleta Gonzalo;La Picada,0,Rafael Márquez
+hyperolius concolor,3,CI,Sassandra,3,"Rafael Márquez, Jaime Bosch"
+hyperolius ocellatus,6,GQ,Bioko;Monte Allen,0,Ignacio de la Riva;Santiago Castroviejo Fisher
+hyperolius sylvaticus,2,CI,Sassandra,2,"Rafael Márquez, Jaime Bosch"
+hyperolius tuberculatus,1,GQ,Monte Allen,0,Ignacio de la Riva
+laliostoma labrosum,3,MG,Tolagnaro;Toliara,0,Miguel Vences & Frank Glaw
+leptodactylodon albiventris,2,GQ,Monte Allen,0,Ignacio de la Riva
+leptodactylus bolivianus,1,BO,Pueblo de Apolo,0,Jaime Bosch
+leptodactylus chaquensis,3,BO,Santa Cruz,0,Jaime Bosch;José Manuel Padial
+leptodactylus elenae,2,BO,Concepción,0,Ignacio de la Riva;José Manuel Padial
+leptodactylus fuscus,4,AR;BO,Santa Cruz;Tucumán;Valle del Sajta,0,Ignacio de la Riva;Jaime Bosch;Rafael Márquez
+leptodactylus griseigularis,1,BO,Caranavi,0,
+leptodactylus mystaceus,1,BO,Cuzco Amazónico,0,Ignacio de la Riva
+leptodactylus podicipinus,2,BO,Valle del Sajta,0,Ignacio de la Riva
+leptodactylus poecilochilus,1,VE,Estado de Apure,1,Santiago Castroviejo Fisher
+leptodactylus pranni,1,CO,Bogotá,1,Rafael Márquez
+leptodactylus rhodonotus,3,BO,Camino de Charazani,0,Jaime Bosch
+leptodactylus sp.,3,CO;VE,Bogotá;Estado de Apure,3,Rafael Márquez;Santiago Castroviejo Fisher
+leptopelis aubryi,1,GQ,Monte Allen,0,Ignacio de la Riva
+mantella aurantiaca,6,MG,Torotorofotsy,0,G. Peters;Miguel Vences & Frank Glaw
+mantella baroni,11,MG,Anala;Ankeniheny;Mantady,0,G. Peters;Miguel Vences & Frank Glaw
+mantella bernhardi,3,MG,Manombo;Marozevo,0,Miguel Vences & Frank Glaw
+mantella betsileo,5,MG,Ampasindava;Nosy Be,2,Miguel Vences & Frank Glaw
+mantella crocea,3,MG,,0,Miguel Vences & Frank Glaw
+mantella haraldmeieri,4,MG,Nahampoana,0,Miguel Vences & Frank Glaw
+mantella laevigata,13,MG,Marojejy (Camp III);Marojezy;Nosy Mangabe,0,Miguel Vences & Frank Glaw
+mantella milotympanum,4,MG,Fierenana,0,Miguel Vences & Frank Glaw
+mantella nigricans,4,MG,Marojejy (Camp III),0,Miguel Vences & Frank Glaw
+mantella sp.,6,MG,Kirindy;Tranomaro,0,Miguel Vences & Frank Glaw
+mantella wittei,1,MG,Ambanja,0,Miguel Vences & Frank Glaw
+mantidactylus aglavei,18,MG,Anala;Andasibe;Ankeniheny;Marojejy (Camp III);Vohiparara,0,Miguel Vences & Frank Glaw
+mantidactylus albofrenatus,15,MG,Anala;Andasibe,0,Miguel Vences & Frank Glaw
+mantidactylus alutus,17,MG,Ambohitantely;Antoetra;Manjakatompo,0,Miguel Vences & Frank Glaw;R. Blommers-Schloesser
+mantidactylus ambohitra,10,MG,Camp 1;Gite d'Etape,3,Miguel Vences & Frank Glaw
+mantidactylus argenteus,7,MG,Anala,0,Miguel Vences & Frank Glaw
+mantidactylus asper,24,MG,Ankeniheny;Mandraka;Mantady,0,Miguel Vences & Frank Glaw;R. Blommers-Schloesser
+mantidactylus bellyi,15,MG,Montagne d'Ambre,0,Miguel Vences & Frank Glaw
+mantidactylus betsileanus,10,MG,Andasibe;Mandraka,0,Miguel Vences & Frank Glaw;R. Blommers-Schloesser
+mantidactylus bicalcaratus,5,,,0,R. Blommers-Schloesser
+mantidactylus blanci,14,MG,Andringitra-Ambalamarina;Vohiparara,0,Miguel Vences & Frank Glaw
+mantidactylus blommersae,26,MG,Anala;Andasibe;Anjanaharibe;Ankeniheny;Ranomafana;Vevembe;Vohiparara,0,Miguel Vences & Frank Glaw
+mantidactylus boulengeri,14,MG,Anala;Andasibe;Ankeniheny;Nosy Mangabe;Tolongoina,0,Miguel Vences & Frank Glaw
+mantidactylus brevipalmatus,9,MG,Antoetra,0,Miguel Vences & Frank Glaw;R. Blommers-Schloesser
+mantidactylus brunae,3,MG,Eminiminy-Isaka,0,Franco Andreone
+mantidactylus charlotteae,5,,,0,R. Blommers-Schloesser
+mantidactylus cornutus,7,MG,Anala;Andasibe,0,Miguel Vences & Frank Glaw
+mantidactylus corvus,7,MG,Isalo;Tana,0,Miguel Vences & Frank Glaw
+mantidactylus decaryi,8,MG,Vohiparara;Vondrozo,0,Miguel Vences & Frank Glaw
+mantidactylus delormei,11,MG,Andringitra-Ambalamarina;Maharira,0,Miguel Vences & Frank Glaw
+mantidactylus depressiceps,2,MG,Ranomafana,0,Miguel Vences & Frank Glaw
+mantidactylus domerguei,17,MG,Ambohitantely;Andringitra Plateau Andohariana;Andringitra-Ambalamarina;Ankeniheny;Manjakatompo;Torotorofotsy,0,Miguel Vences & Frank Glaw
+mantidactylus eiselti,10,MG,Andasibe;Mantady,0,Miguel Vences & Frank Glaw
+mantidactylus elegans,4,MG,Cuvette Boby,4,Miguel Vences & Frank Glaw
+mantidactylus enki,7,MG,Maharira;Ranomafana;Vohiparara,0,Miguel Vences & Frank Glaw
+mantidactylus femoralis,7,MG,Nahampoana,0,Miguel Vences & Frank Glaw
+mantidactylus fimbriatus,14,MG,Andasibe;Camp Simpona;Marojejy (Camp III),2,Miguel Vences & Frank Glaw
+mantidactylus grandidieri,2,MG,Tolagnaro,0,Miguel Vences & Frank Glaw
+mantidactylus grandisonae,14,MG,Andasibe;Ankeniheny,0,Miguel Vences & Frank Glaw
+mantidactylus granulatus,22,MG,Andampy;Andapa;Andrakata;Camp 0;Camp 1;Marojezy;Nosy Be,0,Miguel Vences & Frank Glaw
+mantidactylus guttulatus,13,MG,Antsahamanara (Camp 1),0,Miguel Vences & Frank Glaw
+mantidactylus kely,11,MG,Ambatolampy;Antoetra;Manjakatompo,0,Miguel Vences & Frank Glaw
+mantidactylus klemmeri,5,MG,Marojejy (Camp III);Marojejy (Camp IV),0,Miguel Vences & Frank Glaw
+mantidactylus leucocephalus,6,MG,Andohahela;Nahampoana;Pic St. Louis,0,Miguel Vences & Frank Glaw
+mantidactylus leucomaculatus,12,MG,Marojejy;Nosy Boraha;Nosy Mangabe,0,Miguel Vences & Frank Glaw
+mantidactylus liber,19,MG,Anala;Andasibe;Camp Simpona;Mandraka;Montagne d'Ambre,3,Miguel Vences & Frank Glaw
+mantidactylus lugubris,9,MG,Andasibe;Ifanadiana,0,Franco Andreone;Miguel Vences & Frank Glaw
+mantidactylus luteus,12,MG,Marojezy;Nosy Boraha,0,Miguel Vences & Frank Glaw
+mantidactylus malagasius,6,MG,Ambohitsara;Andasibe;Ankeniheny,1,Miguel Vences & Frank Glaw
+mantidactylus massi,13,MG,Camp 0;Camp 1;Manarikoba forest (Camp 1),0,Miguel Vences & Frank Glaw
+mantidactylus massorum,10,MG,Antsahamanara (Camp 1);Benavony,0,Miguel Vences & Frank Glaw
+mantidactylus melanopleura,12,MG,Anala;Andasibe;Nahampoana,0,Miguel Vences & Frank Glaw
+mantidactylus opiparis,32,MG,Anala;Andasibe;Manarikoba forest (Camp 1);Marojezy;Ranomafana,0,Miguel Vences & Frank Glaw
+mantidactylus peraccae,15,MG,Anjanaharibe;Ankeniheny;Camp Simpona;Maharira;Vohiparara,1,Franco Andreone;Miguel Vences & Frank Glaw
+mantidactylus phantasticus,3,MG,Anala;Andasibe,0,Miguel Vences & Frank Glaw
+mantidactylus plicifer,5,MG,Ranomafana,0,Miguel Vences & Frank Glaw
+mantidactylus pseudoasper,17,MG,Andampy;Benavony;Berara;Camp 0,0,Miguel Vences & Frank Glaw
+mantidactylus redimitus,24,MG,Ambohitsara;Anala;Marojejy;Marojezy,5,Miguel Vences & Frank Glaw
+mantidactylus rivicola,11,MG,Andranofotsy,0,Miguel Vences & Frank Glaw
+mantidactylus sarotra,21,MG,Andasibe;Antsirasira;Mandraka,6,Miguel Vences & Frank Glaw
+mantidactylus schilfi,4,MG,Camp Simpona;Marojejy (Camp IV),2,Miguel Vences & Frank Glaw
+mantidactylus sculpturatus,19,MG,Ambohitsara;Andasibe;Ankeniheny;Ranomafana;Tolongoina;Vevembe,3,Miguel Vences & Frank Glaw
+mantidactylus silvanus,6,MG,Andranofotsy,0,Miguel Vences & Frank Glaw
+mantidactylus sp.,195,MG,Anala;Andampy;Andasibe;Andohahela;Andranofotsy;Andringitra-Ambalamarina;Anjanaharibe;Antsahamanara (Camp 1);Besariaka S Moramanga;Camp Simpona;Isalo;Maharira;Manarikoba forest (Camp 1);Mandraka;Manjakatompo;Maroantsetra;Marojezy;Montagne d'Ambre;Montagne des Francais;Nosy Boraha;Pic St. Louis;Ranohira;Ranomafana;Ranomafanakely;Toamasina;Tolagnaro;Tolongoina;Tsingy de Bemaraha;Vevembe;Vohiparara,18,Miguel Vences & Frank Glaw;R. Blommers-Schloesser;R. Jesu & G. Schimmenti
+mantidactylus striatus,5,MG,Marojejy;Marojezy,0,Miguel Vences & Frank Glaw
+mantidactylus tandroka,6,MG,Camp Simpona,6,Miguel Vences & Frank Glaw
+mantidactylus thelenae,7,MG,Andasibe,0,Miguel Vences & Frank Glaw
+mantidactylus timidus,6,MG,Nosy Boraha;Tolongoina,0,Miguel Vences & Frank Glaw
+mantidactylus tornieri,5,MG,Andasibe,0,Miguel Vences & Frank Glaw
+mantidactylus tricinctus,9,MG,Anala,0,Miguel Vences & Frank Glaw
+mantidactylus tschenki,3,MG,Ranomafana,0,Miguel Vences & Frank Glaw
+mantidactylus ulcerosus,13,MG,Ankarafantsika;Nosy Be,0,Miguel Vences & Frank Glaw
+mantidactylus webbi,9,MG,Andranofotsy;Nosy Mangabe,0,Miguel Vences & Frank Glaw
+mantidactylus wittei,26,MG,Ankarafantsika;Antsirasira;Montagne d'Ambre;Nosy Be;Sambava,0,Miguel Vences & Frank Glaw
+mantidactylus zavona,6,MG,Camp 1;Manarikoba forest (Camp 1),0,Miguel Vences & Frank Glaw
+mantidactylus zipperi,27,MG,Ambohitantely;Anala,0,Miguel Vences & Frank Glaw
+micrixalus saxicola,3,India,Hosagadde area,3,Savitha Krishna
+microhylidae spp.,5,MG,Itremo;Lokobe;Nosy Be;Sambava,1,Miguel Vences & Frank Glaw
+nyctibates corrugatus,2,GQ,Monte Allen,0,Ignacio de la Riva
+paradoxophyla palmata,15,MG,Andasibe;Ranomafana,0,Miguel Vences & Frank Glaw
+pelobates cultripes,47,ES;PT,Alto Alentejo;Badajoz;Salamanca,36,Miguel Lizana;Rafael Márquez
+pelodytes ibericus,7,PT,Atalaia;Bajo Alentejo,5,Rafael Márquez
+pelodytes punctatus,3,ES,Almería,3,Rafael Márquez
+phlyctimantis leonardi,1,GQ,Bome,0,Ignacio de la Riva
+phrynobatrachus auritus,1,GQ,Monte Allen,0,Ignacio de la Riva
+phrynopus hiatamasi,4,BO,Villa Tunari,0,Jaime Bosch
+phrynopus kempffi,2,BO,Lasiberia,0,Ignacio de la Riva
+phrynopus laplacai,5,BO,La Paz,5,Jaime Bosch
+phrynopus sp.,7,BO,Pelechuco;Pueblo de Apolo,0,Jaime Bosch
+phyllomedusa boliviana,3,BO,Camino de Charazani;Santa Cruz,0,Jaime Bosch
+phyllomedusa palliata,1,BO,Cuzco Amazónico,0,Ignacio de la Riva
+phyllomedusa sp.,2,BO,Cuzco Amazónico,0,Ignacio de la Riva
+phyllomedusa tomopterna,2,BO,Cuzco Amazónico,0,Ignacio de la Riva
+physalaemus petersi,1,BO,Valle del Sajta,0,Ignacio de la Riva
+physalaemus pustulosus,1,VE,Estado de Apure,1,Santiago Castroviejo Fisher
+platypelis barbouri,7,MG,Andasibe,0,Miguel Vences & Frank Glaw;R. Blommers-Schloesser
+platypelis grandis,10,MG,Ranomafana,0,Miguel Vences & Frank Glaw;R. Blommers-Schloesser
+platypelis milloti,2,MG,Camp 0,0,Miguel Vences & Frank Glaw
+platypelis occultans,1,MG,Lokobe,1,Miguel Vences & Frank Glaw
+platypelis pollicaris,10,MG,Anala;Andasibe,0,Miguel Vences & Frank Glaw
+platypelis sp.,20,MG,Anjanaharibe;Antsirasira;Camp Simpona;Marojejy;Marojezy;Vevembe;Voloina,3,Franco Andreone;Miguel Vences & Frank Glaw
+platypelis tetra,3,MG,Anjanaharibe,0,Franco Andreone
+platypelis tuberifera,4,MG,Andasibe;Ankeniheny,0,Miguel Vences & Frank Glaw
+plethodontohyla alluaudi,9,MG,Torotorofotsy,0,Miguel Vences & Frank Glaw
+plethodontohyla coronata,5,MG,Ankeniheny,0,Miguel Vences & Frank Glaw
+plethodontohyla inguinalis,2,MG,Anala,0,Miguel Vences & Frank Glaw
+plethodontohyla mihanika,12,MG,Ambohitantely;Ankeniheny;Ranomafana,0,Miguel Vences & Frank Glaw
+plethodontohyla minuta,5,MG,Camp Simpona,5,Miguel Vences & Frank Glaw
+plethodontohyla notosticta,1,MG,Voloina,0,Miguel Vences & Frank Glaw
+plethodontohyla ocellata,1,MG,Nosy Mangabe,0,Miguel Vences & Frank Glaw
+plethodontohyla sp.,12,MG,Itremo;Manarikoba forest (Camp 1);Nosy Mangabe,0,Miguel Vences & Frank Glaw
+plethodontohyla tuberata,6,MG,Manjakatompo,0,Miguel Vences & Frank Glaw
+pleurodema brachiops,1,VE,Estado de Apure,1,Santiago Castroviejo Fisher
+pleurodema sp.,2,AR,Tucumán,0,Rafael Márquez
+pseudis paradoxa,2,BO,Santa Cruz,0,Jaime Bosch
+ptychadena madagascariensis,3,,,0,R. Blommers-Schloesser
+ptychadena mascareniensis,7,MG,Fierenana;Ihosy;Tolagnaro,0,Miguel Vences & Frank Glaw
+rana iberica,2,PT,"cerca de Portalegre, Alto Alentejo",2,Rafael Márquez
+rana perezi,5,ES,Islas Baleares;Mallorca;Ávila,3,Miguel Lizana;Rafael Márquez
+ranidae spp.,30,MG,Anala;Andampy;Andapa;Andasibe;Andohahela;Andranofotsy;Ankarafantsika;Ankeniheny;Antsahamanara (Camp 1);Camp 0;Camp 1;Camp Norbert;Kirindy;Manarikoba forest (Camp 1);Marojejy (Camp III);Ranomafana;Sambava;Tolongoina;Vevembe;Vohidrazana;Vohiparara,0,Miguel Vences & Frank Glaw
+rhombophryne testudo,20,MG,Nosy Be,0,Miguel Vences & Frank Glaw
+scaphiophryne boribory,2,,,0,Peter Klass
+scaphiophryne brevis,10,MG,Esonomy;Kirindy,0,Miguel Vences & Frank Glaw
+scaphiophryne calcarata,5,MG,Fort Dauphin;Tolagnaro,0,Miguel Vences & Frank Glaw
+scaphiophryne madagascariensis,4,MG,Manjakatompo,0,Miguel Vences & Frank Glaw
+scaphiophryne sp.,8,MG,Kirindy,0,Miguel Vences & Frank Glaw
+scaphiophryne spinosa,8,MG,,0,S. Schmidt & F. Glaw
+scarthyla goinorum,2,BO,Cuzco Amazónico,0,Ignacio de la Riva
+scinax fuscovaria,26,AR,Tucumán,0,Rafael Márquez
+scinax squalirostris,6,BO,Camino de Charazani,0,Jaime Bosch
+scinax x-signata,1,VE,Estado de Apure,1,Santiago Castroviejo Fisher
+scotobleps gabonicus,1,GQ,Monte Allen,0,Ignacio de la Riva
+sooglossus gardineri,1,SC,Ravenala-stream,1,Miguel Vences & Frank Glaw
+stumpffia gimmeli,5,MG,Benavony;Camp 0,0,Miguel Vences & Frank Glaw
+stumpffia helenae,7,MG,Ambohitantely,0,Miguel Vences & Frank Glaw
+stumpffia psologlossa,10,MG,Benavony;Nosy Be,0,Miguel Vences & Frank Glaw
+stumpffia pygmaea,2,MG,Nosy Be,0,Miguel Vences & Frank Glaw
+stumpffia sp.,58,MG,Andasibe;Camp 1;Camp Simpona;Les Roussettes;Manarikoba forest (Camp 0);Mantady;Marojezy;Montagne d'Ambre;Montagne des Francais;Nahampoana;Ranomafana;Sambava;Voloina,4,Miguel Vences & Frank Glaw
+stumpffia tetradactyla,4,MG,Nosy Boraha;Ranomafana,0,Miguel Vences & Frank Glaw
+stumpffia tridactyla,12,MG,Andasibe;Ankeniheny;Camp Simpona;Maharira,2,Miguel Vences & Frank Glaw
+tachycnemis seychellensis,1,SC,Ravenala-stream,1,Miguel Vences & Frank Glaw
+telmatobius bolivianus,2,BO,Camino de Charazani;La Paz,1,Jaime Bosch
+telmatobius marmoratus,3,BO,Camino de Charazani,0,Jaime Bosch
+telmatobius sp.,2,BO,Camino de Charazani,0,Jaime Bosch
+xenopus sp.,5,GQ,Bioko,0,Santiago Castroviejo Fisher
