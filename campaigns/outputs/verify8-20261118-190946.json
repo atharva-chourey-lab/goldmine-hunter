@@ -1,0 +1,564 @@
+{
+  "verify8": {
+    "cmu": {
+      "index_status": 200,
+      "n_species_links": 57,
+      "species_links": [
+        "Blarina brevicauda/Blarina brevicauda.html",
+        "Canis/Canis.html",
+        "Castor/Castor.html",
+        "Clethrionomys/Clethrionomys.html",
+        "Condylura/Condylura.html",
+        "Didelphis/Didelphis.html",
+        "Eptesicus/Eptesicus.html",
+        "Erethizon dorsatum/Erethizon dorsatum.html",
+        "Eutamius minimus/Eutamius minimus.html",
+        "Felis concolor/Felis concolor.html",
+        "Glaucomys sabrinus/Glaucomys sabrinus.html",
+        "Glaucomys volans/Glaucomys volans.html",
+        "Lasiurus cinereus/Lasiurus cinereus.html",
+        "Lepus americanus/Lepus americanus.html",
+        "Lontra canadensis/Lontra canadensis.html",
+        "Lynx rufus/Lynx rufus.html",
+        "Marmota monax/Marmota monax.html",
+        "Martes americana/Martes americana.html",
+        "Martes pennanti/Martes pennanti.html",
+        "Mephitis mephitis/Mephitis mephitis.html",
+        "Microtus pennsylvanicus/Microtus pennsylvanicus.html",
+        "Microtus pinetorum/Microtus pinetorum.html",
+        "MusMus/MusMus.html",
+        "Mustela erminea/Mustela erminea.html",
+        "Mustela frenata/Mustela frenata.html",
+        "Mustela nivalis/Mustela nivalis.html",
+        "Myotis lucifugus/Myotis lucifugus.html",
+        "Napaeozapus insignis/Napaeozapus insignis.html",
+        "Neotoma floridana/Neotoma floridana.html",
+        "Neovision vision/Neovision vision.html",
+        "Odocoileus virginianus/Odocoileus virginianus.html",
+        "Ondatra zibethicus/Ondatra zibethicus.html",
+        "Oryctolagus cuniculus/Oryctolagus cuniculus.html",
+        "Parascalops breweri/Parascalops breweri.html",
+        "Peromyscus maniculatus/Peromyscus maniculatus.html",
+        "Peromyscusleucopus/Peromyscusleucopus.html",
+        "Procyon lotor/Procyon lotor.html",
+        "Rattus norvegicus/Rattus norvegicus.html",
+        "Scalebar/Scalebar.html",
+        "Scalopus aquaticus/Scalopus aquaticus.html",
+        "Sciurus carolinensis/Sciurus carolinensis.html",
+        "Sciurus niger/Sciurus niger.html",
+        "Sorex cinereus/Sorex cinereus.html",
+        "Sorex hoyi/Sorex hoyi.html",
+        "Sorex palustris/Sorex palustris.html",
+        "Spermophilus franklinii/Spermophilus franklinii.html",
+        "Spermophilus richardsonii/Spermophilus richardsonii.html",
+        "SpermophilusTri/SpermophilusTri.html",
+        "Sylvilagus/Sylvilagus.html",
+        "Synaptomys cooperi/Synaptomys cooperi.html",
+        "TamiasStri/TamiasStri.html",
+        "Tamiasciurus hudsonicus/Tamiasciurus hudsonicus.html",
+        "Taxidea/Taxidea.html",
+        "Urocyon cinereoargenteus/Urocyon cinereoargenteus.html",
+        "Ursus/Ursus.html",
+        "Vulpes vulpes/Vulpes vulpes.html",
+        "Zapus hudsonius/Zapus hudsonius.html"
+      ]
+    },
+    "cmu_samples": [
+      {
+        "page": "Blarina brevicauda/Blarina brevicauda.html",
+        "status": 200,
+        "n_images": 6,
+        "images": [
+          "Blarina%20brevicauda-Thumbnails/0.jpg",
+          "Blarina%20brevicauda-Thumbnails/1.jpg",
+          "Blarina%20brevicauda-Thumbnails/2.jpg",
+          "Blarina%20brevicauda-Thumbnails/3.jpg",
+          "Blarina%20brevicauda-Thumbnails/4.jpg",
+          "Blarina%20brevicauda-Thumbnails/5.jpg"
+        ]
+      },
+      {
+        "label": "CMU hair image (Blarina brevicauda/Blarina brevicauda.html)",
+        "url": "http://people.se.cmich.edu/swans1bj/hair%20id/Blarina brevicauda/Blarina%20brevicauda-Thumbnails/0.jpg",
+        "http_status": 200,
+        "bytes_downloaded": 4568,
+        "truncated_at_cap": false,
+        "content_type": "image/jpeg",
+        "error": null,
+        "md5_full": "6324f328f2c684774586021cd8fc5cb1",
+        "md5_head1mb": "6324f328f2c684774586021cd8fc5cb1",
+        "looks_html": false,
+        "verdict": "REAL \u2014 JPEG image",
+        "jpeg": true,
+        "saved_to": "gold/campaign8-verify/cmu-0.jpg"
+      },
+      {
+        "label": "CMU hair image (Blarina brevicauda/Blarina brevicauda.html)",
+        "url": "http://people.se.cmich.edu/swans1bj/hair%20id/Blarina brevicauda/Blarina%20brevicauda-Thumbnails/1.jpg",
+        "http_status": 200,
+        "bytes_downloaded": 4067,
+        "truncated_at_cap": false,
+        "content_type": "image/jpeg",
+        "error": null,
+        "md5_full": "9448df03c4367795b55afd5bde5748ab",
+        "md5_head1mb": "9448df03c4367795b55afd5bde5748ab",
+        "looks_html": false,
+        "verdict": "REAL \u2014 JPEG image",
+        "jpeg": true,
+        "saved_to": "gold/campaign8-verify/cmu-1.jpg"
+      },
+      {
+        "page": "Canis/Canis.html",
+        "status": 200,
+        "n_images": 4,
+        "images": [
+          "Canis-Thumbnails/0.jpg",
+          "Canis-Thumbnails/1.jpg",
+          "Canis-Thumbnails/2.jpg",
+          "Canis-Thumbnails/3.jpg"
+        ]
+      },
+      {
+        "label": "CMU hair image (Canis/Canis.html)",
+        "url": "http://people.se.cmich.edu/swans1bj/hair%20id/Canis/Canis-Thumbnails/0.jpg",
+        "http_status": 200,
+        "bytes_downloaded": 6269,
+        "truncated_at_cap": false,
+        "content_type": "image/jpeg",
+        "error": null,
+        "md5_full": "36c099ad48a19d87294c692da2319f08",
+        "md5_head1mb": "36c099ad48a19d87294c692da2319f08",
+        "looks_html": false,
+        "verdict": "REAL \u2014 JPEG image",
+        "jpeg": true,
+        "saved_to": "gold/campaign8-verify/cmu-0.jpg"
+      },
+      {
+        "label": "CMU hair image (Canis/Canis.html)",
+        "url": "http://people.se.cmich.edu/swans1bj/hair%20id/Canis/Canis-Thumbnails/1.jpg",
+        "http_status": 200,
+        "bytes_downloaded": 5287,
+        "truncated_at_cap": false,
+        "content_type": "image/jpeg",
+        "error": null,
+        "md5_full": "c05a288bc311579850e4475e41fff52a",
+        "md5_head1mb": "c05a288bc311579850e4475e41fff52a",
+        "looks_html": false,
+        "verdict": "REAL \u2014 JPEG image",
+        "jpeg": true,
+        "saved_to": "gold/campaign8-verify/cmu-1.jpg"
+      },
+      {
+        "page": "Castor/Castor.html",
+        "status": 200,
+        "n_images": 5,
+        "images": [
+          "Castor-Thumbnails/0.jpg",
+          "Castor-Thumbnails/1.jpg",
+          "Castor-Thumbnails/2.jpg",
+          "Castor-Thumbnails/3.jpg",
+          "Castor-Thumbnails/4.jpg"
+        ]
+      },
+      {
+        "label": "CMU hair image (Castor/Castor.html)",
+        "url": "http://people.se.cmich.edu/swans1bj/hair%20id/Castor/Castor-Thumbnails/0.jpg",
+        "http_status": 200,
+        "bytes_downloaded": 7730,
+        "truncated_at_cap": false,
+        "content_type": "image/jpeg",
+        "error": null,
+        "md5_full": "f5261919446a79cf2282eb5062e5c1af",
+        "md5_head1mb": "f5261919446a79cf2282eb5062e5c1af",
+        "looks_html": false,
+        "verdict": "REAL \u2014 JPEG image",
+        "jpeg": true,
+        "saved_to": "gold/campaign8-verify/cmu-0.jpg"
+      },
+      {
+        "label": "CMU hair image (Castor/Castor.html)",
+        "url": "http://people.se.cmich.edu/swans1bj/hair%20id/Castor/Castor-Thumbnails/1.jpg",
+        "http_status": 200,
+        "bytes_downloaded": 6150,
+        "truncated_at_cap": false,
+        "content_type": "image/jpeg",
+        "error": null,
+        "md5_full": "5d99bbf3fd5e3d3f8f6f2146c64d7914",
+        "md5_head1mb": "5d99bbf3fd5e3d3f8f6f2146c64d7914",
+        "looks_html": false,
+        "verdict": "REAL \u2014 JPEG image",
+        "jpeg": true,
+        "saved_to": "gold/campaign8-verify/cmu-1.jpg"
+      }
+    ],
+    "nsrl": {
+      "status": 200,
+      "n_pdf_links": 87,
+      "hair_candidates": [
+        "/nsrl/publications/downloads/SP55.pdf"
+      ]
+    },
+    "nsrl_sample": {
+      "label": "NSRL SP-055 hair atlas PDF",
+      "url": "https://www.depts.ttu.edu/nsrl/publications/downloads/SP55.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 5048265,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "45e3581beab5e3c3d4be13365a3bb9c1",
+      "md5_head1mb": "8fc39f25ed3fcd38276eb8e8ed199cbe",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign8-verify/nsrl-SP55.pdf"
+    },
+    "zsi": {
+      "hair_rows": []
+    },
+    "zsi_sample": {
+      "label": "ZSI guard-hair paper (discovery-pass URL)",
+      "url": "https://zsi.gov.in/public/PDFVolumes/records/112/02/0039-0052.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 406193,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "a2cd46fbe14f2c6f9b9c3b0ccc43b65c",
+      "md5_head1mb": "a2cd46fbe14f2c6f9b9c3b0ccc43b65c",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign8-verify/zsi-hair-records-112-02.pdf"
+    },
+    "landcare": {
+      "status": 202,
+      "sub_links": []
+    },
+    "landcare_sample": null,
+    "koala_cdx": {
+      "(?i)koala.*(finger|dermato|print)": 0,
+      "(?i)(finger|dermato).*koala": 0
+    },
+    "ckc": {
+      "status": 200,
+      "microfiche_snippet": null,
+      "ckc_snippet": "jpg\",\"keywords\":[\"Beagle\",\"Bloodhound\",\"Canadian Kennel Club\",\"dachshund\",\"fox terrier\",\"German Shepherd Dog\",\"nose print\",\"rhinarium\"],\"articleSection\":[\"Nose\"],\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"CommentAction\",\"name\":\"Comment\",\"target\":[\"https"
+    },
+    "pmc_nose": {
+      "status": 200,
+      "dataset_snippet": "s augmented by adding to it the nose images of 10 beagle dogs taken once every month in a ten-month period to create an enlarged dataset of 278 images of 70 dogs of 19 breeds",
+      "availability_snippet": "Data Availability Statement"
+    },
+    "idaho_vm": {
+      "status": 200,
+      "bytes": 27433,
+      "approval_snippet": " Access to original models is subject to owner approval and can be requested via\r\n            email address from the repositories below"
+    },
+    "murie_text": {
+      "label": "Murie Field Guide to Animal Tracks, full text (archive.org)",
+      "url": "https://dn720005.ca.archive.org/0/items/peterson-field-guide-animal-tracks/Peterson%20Field%20Guide%20Animal%20Tracks_djvu.txt",
+      "http_status": 200,
+      "bytes_downloaded": 327680,
+      "truncated_at_cap": true,
+      "content_type": "text/plain; charset=utf-8",
+      "error": null,
+      "md5_full": null,
+      "md5_head1mb": "83d9e2e74893e773830088cd479e183a",
+      "looks_html": false,
+      "lines_sampled": 13104,
+      "first_line": "Nile URS. uw ",
+      "verdict": "REAL \u2014 decodable text data"
+    },
+    "parker": {
+      "label": "Parker Elephant Data Set Handbook (UFDC PDF)",
+      "url": "https://ufdcimages.uflib.ufl.edu/IR/00/00/42/09/00001/ParkerElephantDataSetHandbook15.pdf",
+      "http_status": null,
+      "bytes_downloaded": 0,
+      "truncated_at_cap": false,
+      "content_type": null,
+      "error": "HTTPSConnectionPool(host='ufdcimages.uflib.ufl.edu', port=443): Max retries exceeded with url: /IR/00/00/42/09/00001/ParkerElephantDataSetHandbook15.pdf (Caused",
+      "verdict": "UNREACHABLE / EMPTY"
+    },
+    "efa_fit": {
+      "label": "Elephants for Africa FIT project PDF",
+      "url": "https://www.elephantsforafrica.org/wp-content/uploads/2014/07/FootprintIdentificationTechnique.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 192777,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "b8cffa8316154e2012d0e7e87f045672",
+      "md5_head1mb": "b8cffa8316154e2012d0e7e87f045672",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign8-verify/efa-fit.pdf"
+    },
+    "ebrws_cdx_pdfs": [
+      {
+        "ts": "20200318173425",
+        "url": "http://www.ebrws.com.au/Encounter-Bay-Right-Whale-Study-2019-Brochure.pdf",
+        "length": "3775328"
+      },
+      {
+        "ts": "20221029151839",
+        "url": "http://www.ebrws.com.au/Encounter-Bay-Right-Whale-Study-2019.pdf",
+        "length": "3775319"
+      },
+      {
+        "ts": "20200318174643",
+        "url": "http://www.ebrws.com.au/wp-content/uploads/2019/07/BigFish-Matching-Instructions.pdf",
+        "length": "2058249"
+      },
+      {
+        "ts": "20210312060627",
+        "url": "https://www.ebrws.com.au/wp-content/uploads/2020/06/2020_0612BoatWhaleSJ.pdf",
+        "length": "23833347"
+      },
+      {
+        "ts": "20210312070539",
+        "url": "https://www.ebrws.com.au/wp-content/uploads/2021/02/Blank-Callosity-Map.pdf",
+        "length": "11107"
+      },
+      {
+        "ts": "20210312070514",
+        "url": "https://www.ebrws.com.au/wp-content/uploads/2021/02/Interpretation-Breakdown-of-SRW-Data-Info-Sheet.pdf",
+        "length": "39099"
+      },
+      {
+        "ts": "20210312070525",
+        "url": "https://www.ebrws.com.au/wp-content/uploads/2021/02/SRW-Photo-ID-Data-Sheet.pdf",
+        "length": "44667"
+      },
+      {
+        "ts": "20220120180615",
+        "url": "https://www.ebrws.com.au/wp-content/uploads/2021/07/Encounter-Bay-Right-Whale-Study-2019-Brochure-edited-2021.pdf",
+        "length": "1002347"
+      }
+    ],
+    "ebrws_brochure": {
+      "label": "EBRWS 2019 brochure / Photo-ID catalogue (live)",
+      "url": "https://www.ebrws.com.au/wp-content/uploads/2021/07/Encounter-Bay-Right-Whale-Study-2019-Brochure-edited-2021.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 4549679,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "614df2ea622b8e50fe0ac60c3eec2b96",
+      "md5_head1mb": "9d977036b01f7da409f98e64bcbbbe1e",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign8-verify/ebrws-brochure-2019.pdf"
+    },
+    "utah": {
+      "status": 418,
+      "n_jpg_refs": 0,
+      "sample_refs": []
+    },
+    "utah_sample": null,
+    "narwc_access_head": {
+      "status": 200,
+      "size": "110041",
+      "type": "application/pdf"
+    },
+    "manatee_scar_main": {
+      "label": "SMC Blue Spring scar sheets, ALL 10-13 (archive subdomain)",
+      "url": "https://www.savethemanatee-archive.org/cam_scar_sheets_all_10-13.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 1599152,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "79e2067c1ad29b6ca34227889141b50d",
+      "md5_head1mb": "eafaf1b4a1dd86f0f6b8ccab02aac6f3",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign8-verify/smc-scar-sheets-all-10-13.pdf"
+    },
+    "manatee_scar_mail": {
+      "label": "SMC scar sheet (mail subdomain)",
+      "url": "https://mail.savethemanatee-archive.org/ScarSheet.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 481180,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "c2abc9b134530d20e42aa2dc85c8783d",
+      "md5_head1mb": "c2abc9b134530d20e42aa2dc85c8783d",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign8-verify/smc-scarsheet-mail.pdf"
+    },
+    "manatee_archive_cdx": [
+      {
+        "ts": "20221007221838",
+        "url": "http://savethemanatee-archive.org/AnatomyA.jpg",
+        "length": "28835"
+      },
+      {
+        "ts": "20181125064656",
+        "url": "http://savethemanatee-archive.org/bullet.manatee.go.jpg",
+        "length": "1993"
+      },
+      {
+        "ts": "20211106125517",
+        "url": "http://savethemanatee-archive.org/bullet_gray_small_whitebk.jpg",
+        "length": "1064"
+      },
+      {
+        "ts": "20220609074730",
+        "url": "http://savethemanatee-archive.org/button_donate_now_120_white.jpg",
+        "length": "2454"
+      },
+      {
+        "ts": "20181125044218",
+        "url": "http://savethemanatee-archive.org/cam_100.jpg",
+        "length": "3386"
+      },
+      {
+        "ts": "20181125081351",
+        "url": "http://savethemanatee-archive.org/catalog-metal-ornament-150.jpg",
+        "length": "12055"
+      },
+      {
+        "ts": "20181125115729",
+        "url": "http://savethemanatee-archive.org/catalog_t-shirt_17_front_300.jpg",
+        "length": "16892"
+      },
+      {
+        "ts": "20211106125513",
+        "url": "http://savethemanatee-archive.org/chessie_2.jpg",
+        "length": "15374"
+      },
+      {
+        "ts": "20211106125514",
+        "url": "http://savethemanatee-archive.org/chessie_3.jpg",
+        "length": "15540"
+      },
+      {
+        "ts": "20181125002843",
+        "url": "http://savethemanatee-archive.org/cs_audio_TN.jpg",
+        "length": "4336"
+      },
+      {
+        "ts": "20181125025644",
+        "url": "http://savethemanatee-archive.org/cs_materials_TN.jpg",
+        "length": "3242"
+      },
+      {
+        "ts": "20181125032450",
+        "url": "http://savethemanatee-archive.org/cs_mazegraphic_TN.jpg",
+        "length": "5373"
+      },
+      {
+        "ts": "20181125005056",
+        "url": "http://savethemanatee-archive.org/cs_music_TN.jpg",
+        "length": "3423"
+      },
+      {
+        "ts": "20181125060346",
+        "url": "http://savethemanatee-archive.org/cs_origami_manatee_100.jpg",
+        "length": "4068"
+      },
+      {
+        "ts": "20181125025628",
+        "url": "http://savethemanatee-archive.org/cs_puppet_100.jpg",
+        "length": "3470"
+      },
+      {
+        "ts": "20181125042209",
+        "url": "http://savethemanatee-archive.org/cs_slides_TN.jpg",
+        "length": "4085"
+      },
+      {
+        "ts": "20181125000956",
+        "url": "http://savethemanatee-archive.org/cs_video_TN.jpg",
+        "length": "5809"
+      },
+      {
+        "ts": "20181125013814",
+        "url": "http://savethemanatee-archive.org/cs_wallpaper_TN.jpg",
+        "length": "4175"
+      },
+      {
+        "ts": "20181125021237",
+        "url": "http://savethemanatee-archive.org/dawn_dragoart_manatee_100.jpg",
+        "length": "3986"
+      },
+      {
+        "ts": "20181125112255",
+        "url": "http://savethemanatee-archive.org/drs_2012_J-16404_500.jpg",
+        "length": "48287"
+      },
+      {
+        "ts": "20181125110414",
+        "url": "http://savethemanatee-archive.org/drs_2012_J-16447_500.jpg",
+        "length": "60033"
+      },
+      {
+        "ts": "20220609034357",
+        "url": "http://savethemanatee-archive.org/drs_2013_412_400.jpg",
+        "length": "49299"
+      },
+      {
+        "ts": "20220729235759",
+        "url": "http://savethemanatee-archive.org/drs_2014_2469_550.jpg",
+        "length": "73751"
+      },
+      {
+        "ts": "20220912084258",
+        "url": "http://savethemanatee-archive.org/drs_2014_2567_550.jpg",
+        "length": "45876"
+      },
+      {
+        "ts": "20221223000435",
+        "url": "http://savethemanatee-archive.org/drs_manatee_prop_450.jpg",
+        "length": "18801"
+      },
+      {
+        "ts": "20181125001214",
+        "url": "http://savethemanatee-archive.org/E-Newsletter/images_08-10/bookmark_2.jpg",
+        "length": "4792"
+      },
+      {
+        "ts": "20181125040931",
+        "url": "http://savethemanatee-archive.org/E-Newsletter/Images_1-13-06/member_heart_small.jpg",
+        "length": "1075"
+      },
+      {
+        "ts": "20181125042624",
+        "url": "http://savethemanatee-archive.org/E-Newsletter/Images_2-08/fact_sheet_TN.jpg",
+        "length": "3237"
+      },
+      {
+        "ts": "20181125054044",
+        "url": "http://savethemanatee-archive.org/E-Newsletter/Images_2_9_06/Stickers.jpg",
+        "length": "2664"
+      },
+      {
+        "ts": "20181125042124",
+        "url": "http://savethemanatee-archive.org/E-Newsletter/Images_6-08/cursor_1.jpg",
+        "length": "1722"
+      }
+    ],
+    "manatee_scar_main_pages": "pypdf failed: No module named 'PyPDF2'",
+    "fws_guidelines": {
+      "label": "FWS Guidelines for Photography (MIPS intake doc)",
+      "url": "https://apps.fws.gov/sites/manatee/files/documents/Guidelines%20for%20Photography.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 48643,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "eb7218e1a5303a5263671eba42676a38",
+      "md5_head1mb": "eb7218e1a5303a5263671eba42676a38",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true
+    }
+  }
+}

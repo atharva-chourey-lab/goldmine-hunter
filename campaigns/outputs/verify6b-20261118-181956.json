@@ -1,0 +1,552 @@
+{
+  "verify6b": {
+    "live_get_probes": [
+      {
+        "url": "https://www.fonozoo.com/",
+        "status": 206,
+        "content_type": "text/html; charset=utf-8",
+        "content_length": "4096",
+        "first_bytes_kind": "HTML",
+        "first16_hex": "3c21646f63747970652068746d6c3e0d"
+      },
+      {
+        "url": "https://www.fonozoo.com/sonidos/0720.mp3",
+        "status": 403,
+        "content_type": "text/html; charset=iso-8859-1",
+        "content_length": "34",
+        "first_bytes_kind": "OTHER",
+        "first16_hex": "57454220454e20505255454241532c20"
+      },
+      {
+        "url": "http://www.fonozoo.com/sonidos/0800%20alytes%20muletensis.mp3",
+        "status": 403,
+        "content_type": "text/html; charset=iso-8859-1",
+        "content_length": "34",
+        "first_bytes_kind": "OTHER",
+        "first16_hex": "57454220454e20505255454241532c20"
+      },
+      {
+        "url": "http://www.fonozoo.com/archivos/03-07-08-14-49-11.mp3",
+        "status": 403,
+        "content_type": "text/html; charset=iso-8859-1",
+        "content_length": "34",
+        "first_bytes_kind": "OTHER",
+        "first16_hex": "57454220454e20505255454241532c20"
+      },
+      {
+        "url": "https://www.fonozoo.com/fnz_back/propios/files/14650_web_1736941493.mp3",
+        "status": 403,
+        "content_type": "text/html; charset=iso-8859-1",
+        "content_length": "34",
+        "first_bytes_kind": "OTHER",
+        "first16_hex": "57454220454e20505255454241532c20"
+      },
+      {
+        "url": "https://www.fonozoo.com/fnz_publicaciones/files/madagascar/fnz_madagascar_eng.php",
+        "status": 403,
+        "content_type": "text/html; charset=iso-8859-1",
+        "content_length": "34",
+        "first_bytes_kind": "OTHER",
+        "first16_hex": "57454220454e20505255454241532c20"
+      }
+    ],
+    "sonidos": {
+      "collapsed": 794,
+      "ok200_mp3": 751,
+      "species_named": 593,
+      "numbered": 89,
+      "files": [
+        {
+          "ts": "20220527155610",
+          "url": "http://www.fonozoo.com/sonidos/0720.mp3",
+          "length": "555664"
+        },
+        {
+          "ts": "20251007045533",
+          "url": "https://www.fonozoo.com/sonidos/0721.mp3",
+          "length": "475726"
+        },
+        {
+          "ts": "20150926215732",
+          "url": "http://www.fonozoo.com/sonidos/0800%20alytes%20muletensis.mp3",
+          "length": "531988"
+        },
+        {
+          "ts": "20220615014823",
+          "url": "http://www.fonozoo.com/sonidos/0839.mp3",
+          "length": "470690"
+        },
+        {
+          "ts": "20220503040019",
+          "url": "http://www.fonozoo.com/sonidos/0846.mp3",
+          "length": "342326"
+        },
+        {
+          "ts": "20220517155559",
+          "url": "http://www.fonozoo.com/sonidos/0857.mp3",
+          "length": "530724"
+        },
+        {
+          "ts": "20150927061123",
+          "url": "http://www.fonozoo.com/sonidos/1%20Aglyptodactylus%20Laticeps.mp3",
+          "length": "228483"
+        },
+        {
+          "ts": "20161122235925",
+          "url": "http://www.fonozoo.com/sonidos/1%20Atelopus%20Tricolor.mp3",
+          "length": "119798"
+        },
+        {
+          "ts": "20220507035808",
+          "url": "http://www.fonozoo.com/sonidos/1%20Ceratophrys%20Cornuta.mp3",
+          "length": "73236"
+        },
+        {
+          "ts": "20250904075048",
+          "url": "https://www.fonozoo.com/sonidos/1%20Gephyromantis%20ambohitra.mp3",
+          "length": "299776"
+        },
+        {
+          "ts": "20251010015551",
+          "url": "https://www.fonozoo.com/sonidos/1%20Heterixalus%20Alboguttatus.mp3",
+          "length": "230199"
+        },
+        {
+          "ts": "20161122235859",
+          "url": "http://www.fonozoo.com/sonidos/10%20Ameerega%20Flavopicta.mp3",
+          "length": "338113"
+        },
+        {
+          "ts": "20260122153245",
+          "url": "https://www.fonozoo.com/sonidos/10%20Boophis%20Idae.mp3",
+          "length": "510769"
+        },
+        {
+          "ts": "20220811061234",
+          "url": "http://www.fonozoo.com/sonidos/10%20Cochranella%20Bejaranoi.mp3",
+          "length": "219366"
+        },
+        {
+          "ts": "20220524155553",
+          "url": "http://www.fonozoo.com/sonidos/10%20Gephyromantis%20salegy.mp3",
+          "length": "479461"
+        },
+        {
+          "ts": "20220503160311",
+          "url": "http://www.fonozoo.com/sonidos/10%20Leptodactylus%20_Chaquensis-Macrosternum_.mp3",
+          "length": "158757"
+        },
+        {
+          "ts": "20160426213012",
+          "url": "http://www.fonozoo.com/sonidos/10%20Sapo-Parteiro.mp3",
+          "length": "448267"
+        },
+        {
+          "ts": "20260310135728",
+          "url": "https://www.fonozoo.com/sonidos/11%20Boophis%20Lichenoides.mp3",
+          "length": "367136"
+        },
+        {
+          "ts": "20220506060346",
+          "url": "http://www.fonozoo.com/sonidos/11%20Cochranella%20Nola.mp3",
+          "length": "192932"
+        },
+        {
+          "ts": "20260104172706",
+          "url": "https://www.fonozoo.com/sonidos/11%20Gephyromantis%20granulatus.mp3",
+          "length": "486543"
+        },
+        {
+          "ts": "20220505040832",
+          "url": "http://www.fonozoo.com/sonidos/11%20Heterixalus%20Rutenbergi.mp3",
+          "length": "469278"
+        },
+        {
+          "ts": "20220808152839",
+          "url": "http://www.fonozoo.com/sonidos/11%20Leptodactylus%20Dydimus.mp3",
+          "length": "209335"
+        },
+        {
+          "ts": "20161122235924",
+          "url": "http://www.fonozoo.com/sonidos/12%20Aplastotiscus%20Perviridis.mp3",
+          "length": "337482"
+        },
+        {
+          "ts": "20220623155242",
+          "url": "http://www.fonozoo.com/sonidos/12%20Gephyromantis%20leucomaculatus.mp3",
+          "length": "321465"
+        },
+        {
+          "ts": "20251203155947",
+          "url": "https://www.fonozoo.com/sonidos/12%20Hyalinobatrachum%20Bergeri.mp3",
+          "length": "280987"
+        },
+        {
+          "ts": "20251025142202",
+          "url": "https://www.fonozoo.com/sonidos/12%20Leptodactylus%20Elenae.mp3",
+          "length": "166336"
+        },
+        {
+          "ts": "20220614035257",
+          "url": "http://www.fonozoo.com/sonidos/12%20Ptychadena%20Mascareniensis.mp3",
+          "length": "317565"
+        },
+        {
+          "ts": "20150926215539",
+          "url": "http://www.fonozoo.com/sonidos/13%20Allobates%20Femoralis.mp3",
+          "length": "77256"
+        },
+        {
+          "ts": "20251225223208",
+          "url": "https://www.fonozoo.com/sonidos/13%20Bokermanohyla%20Pseudopseudis.mp3",
+          "length": "614745"
+        },
+        {
+          "ts": "20240723042035",
+          "url": "https://www.fonozoo.com/sonidos/13%20Boophis%20Pauliani.mp3",
+          "length": "287752"
+        },
+        {
+          "ts": "20250929234322",
+          "url": "https://www.fonozoo.com/sonidos/13%20Gephyromantis%20zavona.mp3",
+          "length": "-6082903103"
+        },
+        {
+          "ts": "20220812132623",
+          "url": "http://www.fonozoo.com/sonidos/13%20Leptodactylus%20Fuscus.mp3",
+          "length": "185928"
+        },
+        {
+          "ts": "20220423045310",
+          "url": "http://www.fonozoo.com/sonidos/13%20Paradoxophylla%20Palmata.mp3",
+          "length": "248119"
+        },
+        {
+          "ts": "20160426145732",
+          "url": "http://www.fonozoo.com/sonidos/13%20Sapo-Parteiro.mp3",
+          "length": "410413"
+        },
+        {
+          "ts": "20150927060953",
+          "url": "http://www.fonozoo.com/sonidos/14%20alytes%20muletensis.mp3",
+          "length": "466652"
+        },
+        {
+          "ts": "20251228171448",
+          "url": "https://www.fonozoo.com/sonidos/14%20Corythomantis%20Greeningi.mp3",
+          "length": "504034"
+        },
+        {
+          "ts": "20251025011218",
+          "url": "https://www.fonozoo.com/sonidos/14%20Gephyromantis%20luteus.mp3",
+          "length": "394865"
+        },
+        {
+          "ts": "20220619155331",
+          "url": "http://www.fonozoo.com/sonidos/14%20Scaphiophryne%20Brevis.mp3",
+          "length": "460155"
+        },
+        {
+          "ts": "20260408003352",
+          "url": "https://www.fonozoo.com/sonidos/14_2%20Boophis%20Albilabris.mp3",
+          "length": "321155"
+        },
+        {
+          "ts": "20220501155637",
+          "url": "http://www.fonozoo.com/sonidos/14_3%20Boophis%20Albilabris.mp3",
+          "length": "273085"
+        },
+        {
+          "ts": "20161122235821",
+          "url": "http://www.fonozoo.com/sonidos/15%20Alytes%20Muletensis.mp3",
+          "length": "460832"
+        },
+        {
+          "ts": "20150926215415",
+          "url": "http://www.fonozoo.com/sonidos/15%20Colosthetus%20Brunneus.mp3",
+          "length": "220650"
+        },
+        {
+          "ts": "20240710094307",
+          "url": "https://www.fonozoo.com/sonidos/15%20Dendropsophus%20Cruzi.mp3",
+          "length": "516097"
+        },
+        {
+          "ts": "20220629155617",
+          "url": "http://www.fonozoo.com/sonidos/15%20Leptodactylus%20Griseigularis.mp3",
+          "length": "197609"
+        },
+        {
+          "ts": "20161122234720",
+          "url": "http://www.fonozoo.com/sonidos/15%20Scaphiophryne%20Sp.mp3",
+          "length": "247711"
+        },
+        {
+          "ts": "20251014005504",
+          "url": "https://www.fonozoo.com/sonidos/15_1%20Boophis%20Occidentalis.mp3",
+          "length": "313954"
+        },
+        {
+          "ts": "20220525155544",
+          "url": "http://www.fonozoo.com/sonidos/15_2%20Boophis%20Occidentalis.mp3",
+          "length": "477806"
+        },
+        {
+          "ts": "20161122234716",
+          "url": "http://www.fonozoo.com/sonidos/16%20Boophis%20Andohahela.mp3",
+          "length": "504812"
+        },
+        {
+          "ts": "20150927061044",
+          "url": "http://www.fonozoo.com/sonidos/16%20Colosthetus%20Sp.mp3",
+          "length": "244342"
+        },
+        {
+          "ts": "20150926215848",
+          "url": "http://www.fonozoo.com/sonidos/16%20Discoglossus%20Pictus%20Auritus.mp3",
+          "length": "589987"
+        }
+      ]
+    },
+    "sonidos_samples": [
+      {
+        "label": "Fonozoo /sonidos numbered smallest wb (80952 B CDX)",
+        "url": "https://web.archive.org/web/20150927061251id_/http://www.fonozoo.com/sonidos/2690.mp3",
+        "http_status": 200,
+        "bytes_downloaded": 85680,
+        "truncated_at_cap": false,
+        "content_type": "audio/mpeg",
+        "error": null,
+        "md5_full": "444fcff1127224891c9fd465ce657cb7",
+        "md5_head1mb": "444fcff1127224891c9fd465ce657cb7",
+        "looks_html": false,
+        "first_bytes_hex": "00000000000000000000000000000000",
+        "all_blank": false,
+        "verdict": "BINARY \u2014 non-HTML, non-blank"
+      },
+      {
+        "label": "Fonozoo /sonidos numbered oldest wb (595412 B CDX)",
+        "url": "https://web.archive.org/web/20150926215121id_/http://www.fonozoo.com/sonidos/2677.mp3",
+        "http_status": 200,
+        "bytes_downloaded": 625893,
+        "truncated_at_cap": false,
+        "content_type": "audio/mpeg",
+        "error": null,
+        "md5_full": "5f6994189179de22f7aaad504d73633f",
+        "md5_head1mb": "5f6994189179de22f7aaad504d73633f",
+        "looks_html": false,
+        "first_bytes_hex": "00000000000000000000000000000000",
+        "all_blank": false,
+        "verdict": "BINARY \u2014 non-HTML, non-blank"
+      },
+      {
+        "label": "Fonozoo /sonidos species-named smallest wb (-10198210806 B CDX)",
+        "url": "https://web.archive.org/web/20250927024046id_/https://www.fonozoo.com/sonidos/35%20Boophis%20Tasymena.mp3",
+        "http_status": 404,
+        "bytes_downloaded": 4638,
+        "truncated_at_cap": false,
+        "content_type": "text/html",
+        "error": null,
+        "md5_full": "0a4e5ed011380687825bd42072903167",
+        "md5_head1mb": "0a4e5ed011380687825bd42072903167",
+        "looks_html": true,
+        "verdict": "PHANTOM \u2014 HTML page, not data"
+      }
+    ],
+    "guide_captures": 1,
+    "guide_snapshot": {
+      "ts": "20180511130415",
+      "bytes": 22705,
+      "mp3_links": [
+        "/fnz_back/tonos/files/ChucaoRM_1450436745.mp3"
+      ],
+      "n_mp3_links": 1,
+      "species_italic_sample": [],
+      "n_species": 0
+    },
+    "unam_catalogo": {
+      "Catalogo_Otolitos.php": {
+        "status": 200,
+        "bytes": 21916,
+        "image_refs": [
+          "assets/iconos/LabBioCon.png",
+          "imagenes/logo.png"
+        ],
+        "n_image_refs": 2
+      },
+      "Busqueda_Otolitos.php": {
+        "status": 200,
+        "bytes": 12762,
+        "image_refs": [
+          "assets/iconos/LabBioCon.png",
+          "imagenes/Topografia de la cara interna.jpg",
+          "imagenes/logo.png"
+        ],
+        "n_image_refs": 3
+      }
+    },
+    "sanborn_cdx": {
+      "cafnr.missouri.edu/*": {
+        "collapsed": 69,
+        "ok200": 42,
+        "files": [
+          {
+            "ts": "20100529205520",
+            "url": "http://cafnr.missouri.edu/aes/images/sanborn/main-logo.gif",
+            "length": "1851"
+          },
+          {
+            "ts": "20201030075328",
+            "url": "https://cafnr.missouri.edu/cafnr-timeline/j-w-sanborn-became-dean/",
+            "length": "6754"
+          },
+          {
+            "ts": "20201030074146",
+            "url": "https://cafnr.missouri.edu/cafnr-timeline/j-w-sanborn-establishes-sanborn-field-then-called-rotation-field/",
+            "length": "6796"
+          },
+          {
+            "ts": "20201030082311",
+            "url": "https://cafnr.missouri.edu/cafnr-timeline/sanborn-field-added-to-national-register-of-historical-places/",
+            "length": "6798"
+          },
+          {
+            "ts": "20100601164008",
+            "url": "http://cafnr.missouri.edu/images/news/sanborn-video.jpg",
+            "length": "3181"
+          },
+          {
+            "ts": "20100606223447",
+            "url": "http://cafnr.missouri.edu/images/research/sanborn-50.jpg",
+            "length": "2260"
+          },
+          {
+            "ts": "20001030144255",
+            "url": "http://www.cafnr.missouri.edu:80/news/0800/sanborn.html",
+            "length": "1976"
+          },
+          {
+            "ts": "20010529134647",
+            "url": "http://cafnr.missouri.edu:80/news/2000/0800/sanborn.html",
+            "length": "2060"
+          },
+          {
+            "ts": "20190824041256",
+            "url": "https://cafnr.missouri.edu/research/centers/sanborn-field/",
+            "length": "8497"
+          },
+          {
+            "ts": "20200920054803",
+            "url": "https://cafnr.missouri.edu/tag/sanborn-field/",
+            "length": "8194"
+          },
+          {
+            "ts": "20240708032506",
+            "url": "https://cafnr.missouri.edu/wp-content/uploads/2012/09/JWSanborn-300x248.jpg",
+            "length": "28087"
+          },
+          {
+            "ts": "20240707200351",
+            "url": "https://cafnr.missouri.edu/wp-content/uploads/2012/09/SanbornColor-294x300.jpg",
+            "length": "26702"
+          },
+          {
+            "ts": "20240707141243",
+            "url": "https://cafnr.missouri.edu/wp-content/uploads/2012/09/SanbornColor.jpg",
+            "length": "666474"
+          },
+          {
+            "ts": "20240708013836",
+            "url": "https://cafnr.missouri.edu/wp-content/uploads/2012/09/SanbornDedication-300x192.jpg",
+            "length": "20481"
+          },
+          {
+            "ts": "20240707204558",
+            "url": "https://cafnr.missouri.edu/wp-content/uploads/2012/09/SanbornDedication-768x493.jpg",
+            "length": "104247"
+          },
+          {
+            "ts": "20240708002100",
+            "url": "https://cafnr.missouri.edu/wp-content/uploads/2012/09/SanbornDedication.jpg",
+            "length": "382161"
+          },
+          {
+            "ts": "20240707115705",
+            "url": "https://cafnr.missouri.edu/wp-content/uploads/2012/11/jw_sanborn1-216x300.jpg",
+            "length": "16008"
+          },
+          {
+            "ts": "20240707202632",
+            "url": "https://cafnr.missouri.edu/wp-content/uploads/2012/11/jw_sanborn1.jpg",
+            "length": "241640"
+          },
+          {
+            "ts": "20240707143404",
+            "url": "https://cafnr.missouri.edu/wp-content/uploads/2012/11/JWSanborn-300x248.jpg",
+            "length": "28080"
+          },
+          {
+            "ts": "20240707125234",
+            "url": "https://cafnr.missouri.edu/wp-content/uploads/2012/11/JWSanborn.jpg",
+            "length": "114710"
+          },
+          {
+            "ts": "20240707231750",
+            "url": "https://cafnr.missouri.edu/wp-content/uploads/2013/09/Sanborn-Field-was-established-in-1888-300x198.jpg",
+            "length": "22268"
+          },
+          {
+            "ts": "20240708113545",
+            "url": "https://cafnr.missouri.edu/wp-content/uploads/2013/09/Sanborn-Field-was-established-in-1888.jpg",
+            "length": "241422"
+          },
+          {
+            "ts": "20241118212204",
+            "url": "https://cafnr.missouri.edu/wp-content/uploads/2019/11/sanborn-1024x683.png",
+            "length": "1001903"
+          },
+          {
+            "ts": "20240918022224",
+            "url": "https://cafnr.missouri.edu/wp-content/uploads/2019/11/sanborn-1536x1024.png",
+            "length": "2018178"
+          },
+          {
+            "ts": "20240918090826",
+            "url": "https://cafnr.missouri.edu/wp-content/uploads/2019/11/sanborn-300x200.png",
+            "length": "102837"
+          },
+          {
+            "ts": "20240918035650",
+            "url": "https://cafnr.missouri.edu/wp-content/uploads/2019/11/sanborn-768x512.png",
+            "length": "584952"
+          },
+          {
+            "ts": "20220226151046",
+            "url": "https://cafnr.missouri.edu/wp-content/uploads/2019/11/sanborn-860x573.png",
+            "length": "613536"
+          },
+          {
+            "ts": "20241118195911",
+            "url": "https://cafnr.missouri.edu/wp-content/uploads/2019/11/sanborn-900x600.png",
+            "length": "775677"
+          },
+          {
+            "ts": "20241118080509",
+            "url": "https://cafnr.missouri.edu/wp-content/uploads/2019/11/sanborn.png",
+            "length": "2941526"
+          },
+          {
+            "ts": "20220226150858",
+            "url": "https://cafnr.missouri.edu/wp-content/uploads/2020/03/jw_sanborn1-499x693.jpg",
+            "length": "60694"
+          }
+        ]
+      },
+      "extension.missouri.edu/*": {
+        "collapsed": 0,
+        "ok200": 0,
+        "files": []
+      }
+    }
+  }
+}

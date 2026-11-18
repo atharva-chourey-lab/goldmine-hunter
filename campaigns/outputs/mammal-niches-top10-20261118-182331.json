@@ -1,0 +1,350 @@
+{
+  "mammal_niches_top": [
+    {
+      "rank_input_order": 1,
+      "slug": "primate-fingerprints-dermatoglyphics",
+      "name": "Primate fingerprints & dermatoglyphic archives",
+      "family": "A. Skin prints \u2014 fingers, palms, pads & noses",
+      "score": 9,
+      "score_justification": "The original fingerprint science was built on animal prints too \u2014 Cummins-era dermatoglyphic collections cover dozens of primate species, ridge counts never re-joined across collections.",
+      "keywords": [
+        "primate dermatoglyphics archive",
+        "ape monkey fingerprint ridge count data",
+        "dermatoglyphic collection photographs download",
+        "chimpanzee fingerprint identification study"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".pdf",
+        ".csv"
+      ],
+      "gold_words": [
+        "dermatoglyph",
+        "fingerprint",
+        "ridge count",
+        "triradius"
+      ],
+      "fidelity_card": {
+        "RAW": "Ink and rolled fingerprints, palm prints and dermatoglyphic tracings in anthropology and forensic collections",
+        "UNIT": "One finger/palm \u2014 thousands of prints across dozens of primate species in the classic collections, one ink-print protocol",
+        "LABEL_GAP": "Species/individual called from ridge pattern vs DNA taxonomy of the same zoo/museum animals (second ruler)",
+        "ANCHOR": "Zoo studbooks and museum specimens tied to print cards"
+      },
+      "headline_shape": "Police once fingerprinted the chimps at a zoo to rule them out of a crime \u2014 the apes' prints were that close to ours.",
+      "why_niche": "Dermatoglyphics was a mid-century industry whose collections sit in anthropology departments and forensic museums; genetics replaced it before its cross-species ridge data was ever pooled.",
+      "rank_by_score": 1
+    },
+    {
+      "rank_input_order": 6,
+      "slug": "cattle-muzzle-prints",
+      "name": "Cattle muzzle (nose) print registration archives",
+      "family": "A. Skin prints \u2014 fingers, palms, pads & noses",
+      "score": 9,
+      "score_justification": "The biggest fingerprint-style archive in the animal world: Japan's Wagyu Registry has ink muzzle prints for 3M+ beef cattle since 1948 \u2014 and it is a paper/card system.",
+      "keywords": [
+        "cattle muzzle print registration",
+        "wagyu nose print certificate archive",
+        "beppu nose print cattle identification",
+        "muzzle pattern cattle dataset"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".pdf",
+        ".csv"
+      ],
+      "gold_words": [
+        "muzzle",
+        "nose print",
+        "beppu",
+        "wagyu"
+      ],
+      "fidelity_card": {
+        "RAW": "Ink muzzle prints lifted on paper/cards at registration (before 4 months, again after 14 months in the Japanese system), plus modern muzzle photographs",
+        "UNIT": "One muzzle \u2014 millions registered in Japan since 1948, thousands in Petersen-era and university series elsewhere, one ink-lift protocol",
+        "LABEL_GAP": "Muzzle print ID vs ear-tag / RFID / DNA pedigree records for the same animals (second ruler)",
+        "ANCHOR": "The Wagyu Registry Association's own registration certificates (nose print + pedigree on one card)"
+      },
+      "headline_shape": "Japan has fingerprinted its finest cattle by nose since 1948 \u2014 over three million cows, each with a print card like a criminal record.",
+      "why_niche": "The registration archives are institutional paper; the computer-vision literature trains on a few hundred fresh photos and has never touched the historical card millions.",
+      "rank_by_score": 2
+    },
+    {
+      "rank_input_order": 9,
+      "slug": "paw-track-morphometrics-fit",
+      "name": "Paw-track morphometrics & FIT footprint archives",
+      "family": "B. Tracks, paws & gait",
+      "score": 9,
+      "score_justification": "WildTrack's FIT extracts 120+ measures per print and reports >90% species/sex/age accuracy across 13+ species \u2014 yet each species training set lives with its project, captive-known prints are the rarest data in tracking.",
+      "keywords": [
+        "footprint identification technology FIT dataset",
+        "animal track measurements csv download",
+        "WildTrack footprint database images",
+        "track morphometrics landmark data"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".csv",
+        ".xls"
+      ],
+      "gold_words": [
+        "footprint",
+        "track",
+        "FIT",
+        "morphometric"
+      ],
+      "fidelity_card": {
+        "RAW": "Footprint photographs taken to one ruler-and-slip protocol (WildTrack FIT and its predecessors), plus hand-measured track tables",
+        "UNIT": "One print/trail \u2014 training sets of known captive individuals per species, field trails by the thousand, 13+ species with FIT algorithms",
+        "LABEL_GAP": "Individual/sex/age called from print vs the known captive animal or collared wild animal that made it (second ruler)",
+        "ANCHOR": "Captive-animal known-identity trail sets (the FIT training gold standard)"
+      },
+      "headline_shape": "A photograph of a footprint can name the tiger, its sex and its age \u2014 trackers always knew; the measurement files proving it sit project by project.",
+      "why_niche": "FIT standardised the capture but not the custody: species datasets sit with NGOs, zoos and consultancies, and the pre-FIT hand-measured track tables were never digitised at all.",
+      "rank_by_score": 3
+    },
+    {
+      "rank_input_order": 17,
+      "slug": "whale-fluke-trailing-edge",
+      "name": "Whale fluke trailing-edge photo-ID catalogues",
+      "family": "C. Flukes, fins, ears & callosities",
+      "score": 9,
+      "score_justification": "39 North-Pacific catalogues were unified by Happywhale (27,956 individuals) \u2014 proof of value AND the narrowing: the un-joined remainder is film-era, Southern Ocean and non-humpback catalogues.",
+      "keywords": [
+        "whale fluke photo identification catalogue",
+        "humpback fluke catalog archive download",
+        "sperm whale fluke catalogue photographs",
+        "fluke trailing edge identification collection"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".csv"
+      ],
+      "gold_words": [
+        "fluke",
+        "trailing edge",
+        "photo-id",
+        "catalogue"
+      ],
+      "fidelity_card": {
+        "RAW": "Fluke photographs (film-era prints/slides and digital) in regional whale research catalogues",
+        "UNIT": "One fluke \u2014 tens of thousands of individuals globally; 39 catalogues in the North Pacific alone, one underside-photo protocol",
+        "LABEL_GAP": "Fluke match vs genetic sample taken at the same encounter (second ruler)",
+        "ANCHOR": "The Happywhale/NPPID unified North Pacific set as the benchmark of what joining yields"
+      },
+      "headline_shape": "Every humpback's tail is a fingerprint in black and white \u2014 the world spent 50 years photographing them and is only now joining the albums.",
+      "why_niche": "Happywhale joined the North Pacific digital era; the pre-digital slide cabinets, the Southern Ocean and Atlantic regional catalogues, and sperm-whale fluke sets remain separate piles.",
+      "rank_by_score": 4
+    },
+    {
+      "rank_input_order": 18,
+      "slug": "dolphin-dorsal-fin-notches",
+      "name": "Dolphin dorsal-fin notch catalogues",
+      "family": "C. Flukes, fins, ears & callosities",
+      "score": 9,
+      "score_justification": "Sarasota alone holds 5,000+ fin images since 1970 and GoMDIS joins 35 Gulf catalogues (23,444 animals) \u2014 outside the Gulf, hundreds of FinBase-era catalogues never joined anything.",
+      "keywords": [
+        "dolphin dorsal fin catalogue download",
+        "bottlenose dolphin photo ID FinBase",
+        "dorsal fin notch identification archive",
+        "dolphin fin catalogue photographs"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".csv",
+        ".mdb"
+      ],
+      "gold_words": [
+        "dorsal fin",
+        "finbase",
+        "notch",
+        "photo-id"
+      ],
+      "fidelity_card": {
+        "RAW": "Dorsal-fin photographs and FinBase/Access-era catalogue databases on lab and institute sites",
+        "UNIT": "One fin \u2014 hundreds of regional catalogues, hundreds to thousands of individuals each, one trailing-edge protocol since W\u00fcrsig 1977",
+        "LABEL_GAP": "Fin ID vs freeze-brand/tag/genetic identity of the same dolphin (second ruler)",
+        "ANCHOR": "Sarasota's known-history individuals (births/deaths observed since 1970)"
+      },
+      "headline_shape": "A dolphin's fin collects nicks like a passport collects stamps \u2014 labs have filed the passports bay by bay for fifty years.",
+      "why_niche": "FinBase standardised hundreds of local catalogues on desktop databases that were never networked; GoMDIS proved joining works for one gulf and stopped there.",
+      "rank_by_score": 5
+    },
+    {
+      "rank_input_order": 21,
+      "slug": "elephant-ear-edge-veins",
+      "name": "Elephant ear edge, tear & vein ID archives",
+      "family": "C. Flukes, fins, ears & callosities",
+      "score": 9,
+      "score_justification": "Amboseli has ID'd 1,600+ elephants since 1972 by ear tears/holes/veins on physical ID cards; every long-term site (Gorongosa, Mara, Samburu\u2026) keeps its own card tradition.",
+      "keywords": [
+        "elephant ear identification cards archive",
+        "Amboseli elephant ID ear tears",
+        "elephant individual identification ear pattern",
+        "elephantvoices who's who database ear"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".pdf",
+        ".csv"
+      ],
+      "gold_words": [
+        "ear",
+        "elephant",
+        "ID card",
+        "notch"
+      ],
+      "fidelity_card": {
+        "RAW": "Photographic ear ID cards (physical card files, later digital) recording ear edge tears, holes and vein patterns, per long-term study site",
+        "UNIT": "One ear \u2014 1,600+ known individuals at Amboseli, hundreds to thousands per other site, one card-and-photo protocol per site tradition",
+        "LABEL_GAP": "Ear ID vs DNA from dung/biopsy and vs tusk/body marks recorded on the same card (second rulers)",
+        "ANCHOR": "Amboseli's known-birth individuals (exact ages since 1972)"
+      },
+      "headline_shape": "An elephant's ear is a torn, veined map no other elephant shares \u2014 researchers have carried its ID cards in Land Cruiser gloveboxes for fifty years.",
+      "why_niche": "The ID-card tradition is per-site and partly still physical; Gorongosa's Who's Who went digital behind a password, Amboseli's cards span paper and digital, and no cross-site ear archive exists.",
+      "rank_by_score": 6
+    },
+    {
+      "rank_input_order": 41,
+      "slug": "whisker-spot-patterns",
+      "name": "Whisker-spot (vibrissae) pattern catalogues \u2014 lions & pinnipeds",
+      "family": "F. Faces, ears, eyes, scars, tails & whiskers",
+      "score": 9,
+      "score_justification": "Pennycuick & Rudnai's 1970 lion method is pure pattern: dot maps of whisker follicles, still used in Kruger/India (WII's Lion software) and re-invented for sea lions \u2014 three literatures, one geometry, zero joining.",
+      "keywords": [
+        "whisker spot pattern lion identification",
+        "vibrissae pattern sea lion identification",
+        "lion whisker spot catalogue archive",
+        "whisker pattern individual identification data"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".csv",
+        ".pdf"
+      ],
+      "gold_words": [
+        "whisker",
+        "vibrissae",
+        "spot pattern",
+        "lion"
+      ],
+      "fidelity_card": {
+        "RAW": "Whisker-spot dot maps and muzzle photographs in lion and pinniped ID catalogues",
+        "UNIT": "One muzzle \u2014 hundreds of lions per park catalogue (method since 1970), pinniped sets of 50\u20131,000, dot-map protocol",
+        "LABEL_GAP": "Whisker ID vs scar/ear-mark ID and genetic ID in the same individuals (second rulers)",
+        "ANCHOR": "Australian sea lion known-individual sets used to validate the method (99% pattern uniqueness at n=50)"
+      },
+      "headline_shape": "A lion's whisker dots are a star chart printed on its muzzle \u2014 rangers have read the same chart since 1970 and kept it park by park.",
+      "why_niche": "The lion, sea-lion and seal whisker literatures cite different ancestors and hold separate catalogues; the shared point-pattern geometry has never been run across them.",
+      "rank_by_score": 7
+    },
+    {
+      "rank_input_order": 48,
+      "slug": "guard-hair-scale-casts",
+      "name": "Mammal guard-hair scale casts & hair atlases (wildlife forensics)",
+      "family": "G. Hair & applied-mark pattern atlases",
+      "score": 9,
+      "score_justification": "The Texas atlas alone covers 150+ species with SEM scale images; ZSI Kolkata, FBI/USFWS-style labs and Brunner & Coman built parallel atlases on three continents that cite different standards.",
+      "keywords": [
+        "guard hair scale cast identification atlas",
+        "mammal hair atlas SEM scale pattern",
+        "hair identification key mammals download",
+        "trichotaxonomy guard hair microphotographs"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".pdf",
+        ".csv"
+      ],
+      "gold_words": [
+        "guard hair",
+        "scale cast",
+        "trichotaxonomy",
+        "cuticular"
+      ],
+      "fidelity_card": {
+        "RAW": "Cuticular scale casts (gelatin/cellulose impressions), SEM surface images and photomicrographs in forensic hair atlases",
+        "UNIT": "One hair \u2014 150+ species in the Texas atlas, 100+ in the Indian and Australian atlases, one cast-and-mount protocol per atlas tradition",
+        "LABEL_GAP": "Species called from scale cast vs DNA barcoding of the same hair/specimen (second ruler)",
+        "ANCHOR": "Museum-vouchered hairs (atlas specimens tied to skins/skulls)"
+      },
+      "headline_shape": "A single guard hair carries a scale pattern like a fingerprint \u2014 forensic atlases were built continent by continent and never checked against each other.",
+      "why_niche": "Hair ID is a forensic service literature: regional atlases (Texas 2009, ZSI series, Brunner & Coman 1974) each keyed their own fauna with their own scale vocabulary.",
+      "rank_by_score": 8
+    },
+    {
+      "rank_input_order": 2,
+      "slug": "koala-fingerprints",
+      "name": "Koala fingerprint collections",
+      "family": "A. Skin prints \u2014 fingers, palms, pads & noses",
+      "score": 8,
+      "score_justification": "Headline is perfect and verified (Henneberg 1997), but the known print population is small \u2014 one species, tens of documented individuals \u2014 so archive depth caps the score.",
+      "keywords": [
+        "koala fingerprint print collection",
+        "koala dermatoglyphics images",
+        "Henneberg koala fingerprint data",
+        "marsupial fingerprint ridge study"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".pdf"
+      ],
+      "gold_words": [
+        "koala",
+        "fingerprint",
+        "ridge",
+        "homoplasy"
+      ],
+      "fidelity_card": {
+        "RAW": "Ink prints and SEM fingertip images from wildlife-park and university anatomy collections",
+        "UNIT": "One fingertip \u2014 one species, tens of individuals in the published study, unknown numbers in zoo/wildlife-park files, one ink-print protocol",
+        "LABEL_GAP": "Koala ridge pattern vs human prints in the same forensic reference files (the second ruler is our own fingerprint system)",
+        "ANCHOR": "The 1997 Adelaide reference prints (Henneberg, Lambert & Leigh)"
+      },
+      "headline_shape": "A koala's fingerprint is nearly indistinguishable from a human's under a microscope \u2014 verified in 1997, and no, it has never actually turned up at a crime scene.",
+      "why_niche": "One famous study, then near-silence: wildlife parks handle koalas daily and no print collection was ever built on the 1997 foundation.",
+      "rank_by_score": 9
+    },
+    {
+      "rank_input_order": 5,
+      "slug": "dog-nose-prints",
+      "name": "Dog nose-print archives",
+      "family": "A. Skin prints \u2014 fingers, palms, pads & noses",
+      "score": 8,
+      "score_justification": "Petersen took 350+ animal nose prints in 1922; kennel clubs and insurers ran nose-print registries for decades \u2014 paper archives, modern apps are rebuilding from zero.",
+      "keywords": [
+        "dog nose print identification archive",
+        "canine nose print registry records",
+        "nose print kennel club registration",
+        "dog nose pattern dataset download"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".pdf",
+        ".csv"
+      ],
+      "gold_words": [
+        "nose print",
+        "noseprint",
+        "muzzle",
+        "canine nose"
+      ],
+      "fidelity_card": {
+        "RAW": "Ink nose prints on index cards and nose photographs in kennel-club, insurer and lab collections",
+        "UNIT": "One nose \u2014 registries ran to thousands of dogs; the 2021 viability study re-proved uniqueness on 70 dogs / 19 breeds, one ink-or-camera protocol per era",
+        "LABEL_GAP": "Nose pattern ID vs microchip/tag records for the same dogs (second ruler)",
+        "ANCHOR": "Longitudinal re-prints of the same dog months apart (pattern invariance series)"
+      },
+      "headline_shape": "Your dog's nose print is its fingerprint \u2014 kennel clubs were filing them on index cards a century ago.",
+      "why_niche": "Historic nose-print registries were paper and breed-club local; the smartphone-era startups each built tiny private datasets and none inherited the card archives.",
+      "rank_by_score": 10
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "niches_top": [
+    {
+      "rank_input_order": 1,
+      "slug": "fish-otoliths",
+      "name": "Fish otolith (ear-stone) image & chemistry archives",
+      "family": "A. Animal bodies & senses",
+      "score": 9,
+      "score_justification": "Raw images + chemistry, dozens of lab collections, reader-vs-reader age gap, known-age anchors exist.",
+      "keywords": [
+        "otolith image archive jpg",
+        "sagitta otolith database download",
+        "otolith age reading csv xls",
+        "otolith microchemistry transect data"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".csv",
+        ".xls"
+      ],
+      "gold_words": [
+        "otolith",
+        "sagitta",
+        "annuli",
+        "microchem"
+      ],
+      "fidelity_card": {
+        "RAW": "High-resolution otolith photographs and LA-ICP-MS / isotope transect files on lab and institute sites",
+        "UNIT": "One fish specimen \u2014 hundreds per collection, dozens of species, same imaging protocol",
+        "LABEL_GAP": "Age read by reader A vs reader B vs chemistry; usually only published means survive",
+        "ANCHOR": "Known-age hatchery fish and bomb-radiocarbon validated ages"
+      },
+      "headline_shape": "A stone inside a fish's head has recorded every winter of its life \u2014 and two experts reading it can disagree by years.",
+      "why_niche": "Age labs keep their own image piles; there is no central reconciliation product, only per-lab atlases (AFORO, national collections) that never joined each other's readings.",
+      "rank_by_score": 1
+    },
+    {
+      "rank_input_order": 2,
+      "slug": "electric-fish-eod",
+      "name": "Weakly electric fish EOD waveform recordings",
+      "family": "A. Animal bodies & senses",
+      "score": 9,
+      "score_justification": "Raw .wav is the specimen; species-specific signal; taxonomy rewritten by DNA after recordings were filed by ear.",
+      "keywords": [
+        "electric organ discharge wav download",
+        "mormyrid EOD recordings archive",
+        "gymnotiform EOD waveform data",
+        "electric fish finder mp3 recordings"
+      ],
+      "signature_exts": [
+        ".wav",
+        ".mp3",
+        ".csv"
+      ],
+      "gold_words": [
+        "eod",
+        "discharge",
+        "waveform",
+        "mormyrid",
+        "gymnotiform"
+      ],
+      "fidelity_card": {
+        "RAW": "Uncompressed .wav/.mp3 electric-organ-discharge recordings with oscillogram exports, on lab and personal research sites",
+        "UNIT": "One recorded fish \u2014 hundreds of individuals, dozens of species per expedition, one electrode protocol",
+        "LABEL_GAP": "Species named by waveform at capture vs later DNA-barcode revisions of the same vouchers",
+        "ANCHOR": "Museum voucher specimens tied to recording numbers"
+      },
+      "headline_shape": "A fish that 'sees' with electricity broadcasts its own name in a waveform \u2014 and the recordings were filed under names DNA later changed.",
+      "why_niche": "A handful of labs (Cornell mormyrids, Crampton's gymnotiforms) hold expedition piles on their own sites; no cross-lab EOD library exists.",
+      "rank_by_score": 2
+    },
+    {
+      "rank_input_order": 6,
+      "slug": "frog-call-archives",
+      "name": "Frog & toad call archives (regional fonotecas)",
+      "family": "B. Other taxa",
+      "score": 9,
+      "score_justification": "The task's own example: raw .wav/.mp3 per species, regional sound libraries, call IDs vs DNA-split species.",
+      "keywords": [
+        "frog call archive wav",
+        "anuran calls download mp3",
+        "fonoteca frog recordings catalogue",
+        "toad advertisement call recordings site"
+      ],
+      "signature_exts": [
+        ".wav",
+        ".mp3",
+        ".csv"
+      ],
+      "gold_words": [
+        "call",
+        "anuran",
+        "frog",
+        "fonoteca",
+        "advertisement"
+      ],
+      "fidelity_card": {
+        "RAW": "Original .wav/.mp3 advertisement-call recordings with accession numbers, on regional fonoteca and lab sites",
+        "UNIT": "One calling male \u2014 thousands of accessions per fonoteca, hundreds of species, standard field-recorder protocol",
+        "LABEL_GAP": "Call filed under the species name at recording vs the DNA-split taxonomy of today (second ruler)",
+        "ANCHOR": "Voucher specimens and type-locality recordings"
+      },
+      "headline_shape": "A frog smaller than your thumbnail has a unique voice \u2014 and thousands of taped voices are filed under species that have since been split in three.",
+      "why_niche": "Fonoteca Zool\u00f3gica (Madrid), Fonoteca Neotropical and university piles each hold their own accessions; the big platforms host photos, not these accessioned raw calls.",
+      "rank_by_score": 3
+    },
+    {
+      "rank_input_order": 7,
+      "slug": "salmon-scale-archives",
+      "name": "Salmon & fish scale image archives",
+      "family": "B. Other taxa",
+      "score": 9,
+      "score_justification": "A century of scale envelopes; images are raw growth records; reader ages vs known-tag fish is a clean two-rulers setup.",
+      "keywords": [
+        "salmon scale image archive",
+        "fish scale samples collection envelopes",
+        "scale reading age data xls",
+        "historic scale collection digitised images"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".xls",
+        ".csv"
+      ],
+      "gold_words": [
+        "scale",
+        "circuli",
+        "age",
+        "smolt"
+      ],
+      "fidelity_card": {
+        "RAW": "Scale images (slides / scans) plus envelope metadata, held by fisheries labs, rivers trusts and agency image labs",
+        "UNIT": "One scale \u2014 thousands per river system per decade, one mounting and imaging protocol per lab",
+        "LABEL_GAP": "Age read from the scale vs known age of PIT-tagged / coded-wire-tagged fish (second ruler)",
+        "ANCHOR": "Tag-recovery fish of exactly known age"
+      },
+      "headline_shape": "A salmon carries its whole childhood \u2014 river years and ocean years \u2014 written in rings on a scale the size of a fingernail.",
+      "why_niche": "Every fisheries lab keeps its own scale library; the 2025 known-age validation set (254 fish) showed how rarely the big archives are ever checked against truth.",
+      "rank_by_score": 4
+    },
+    {
+      "rank_input_order": 16,
+      "slug": "longitudinal-growth-studies",
+      "name": "Longitudinal child growth study records",
+      "family": "D. Human body & medicine history",
+      "score": 9,
+      "score_justification": "Same child measured yearly for decades \u2014 the rarest design in human biology; most collections joined one consortium, the strays did not.",
+      "keywords": [
+        "longitudinal growth study records archive",
+        "child growth study radiographs collection",
+        "growth study cephalometric images download",
+        "Fels Bolton Brush records data"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".csv"
+      ],
+      "gold_words": [
+        "growth",
+        "cephalometr",
+        "longitudinal",
+        "radiograph"
+      ],
+      "fidelity_card": {
+        "RAW": "Serial radiographs, photographs, casts and measurement sheets per child, on growth-centre and foundation sites",
+        "UNIT": "One child \u2014 hundreds per study, measured at fixed ages under one protocol for 20+ years",
+        "LABEL_GAP": "Skeletal-maturity stage called by rater A vs rater B on the same films (second ruler)",
+        "ANCHOR": "The child's known chronological age and the Greulich\u2013Pyle / Tanner\u2013Whitehouse atlases built from these very films"
+      },
+      "headline_shape": "The same child, X-rayed every birthday from 2 to 25, is a ruler for human growing that no snapshot study can replace.",
+      "why_niche": "Nine US craniofacial collections were consolidated by the AAOF \u2014 but the non-craniofacial series, the non-US studies and the two un-joined collections remain on centre sites, un-reconciled.",
+      "rank_by_score": 5
+    }
+  ]
+}

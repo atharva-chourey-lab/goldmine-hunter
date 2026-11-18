@@ -1,0 +1,111 @@
+{
+  "verify2": {
+    "worldclim": {
+      "captures": 1122,
+      "ok200_zips": 1,
+      "sets": {
+        "tmean": 1
+      },
+      "sample_verdict": "NOT A VALID ZIP: File is not a zip file (downloaded 38,691 B, head b'<htm')"
+    },
+    "silso": {
+      "captures": 260,
+      "ok200": 7,
+      "files": {
+        "datafiles": 5,
+        "datafiles-old": 2
+      },
+      "live_linked": [
+        "EISN_current.csv",
+        "EISN_current.txt",
+        "SN_d_hem_V2.0.txt",
+        "SN_d_tot_V2.0.txt",
+        "SN_m_hem_V2.0.txt",
+        "SN_m_tot_V2.0.txt",
+        "SN_ms_hem_V2.0.txt",
+        "SN_ms_tot_V2.0.txt",
+        "SN_y_tot_V2.0.txt"
+      ]
+    },
+    "hmd_v6": {
+      "captures": 868,
+      "ok200": 150,
+      "per_country": {
+        "AUS": 3,
+        "AUT": 3,
+        "BEL": 4,
+        "BGR": 2,
+        "BLR": 4,
+        "CAN": 4,
+        "CHE": 4,
+        "CHL": 4,
+        "CZE": 4,
+        "DEUTE": 2,
+        "DEUTNP": 2,
+        "DEUTW": 2,
+        "DNK": 2,
+        "ESP": 2,
+        "EST": 4,
+        "FIN": 2,
+        "FRACNP": 2,
+        "FRATNP": 3,
+        "GBR_NIR": 2,
+        "GBR_NP": 3,
+        "GBR_SCO": 2,
+        "GBRCENW": 2,
+        "GBRTENW": 2,
+        "GRC": 2,
+        "HKG": 3,
+        "HRV": 4,
+        "HUN": 3,
+        "IRL": 3,
+        "ISL": 4,
+        "ISR": 8,
+        "ITA": 2,
+        "JPN": 4,
+        "KOR": 3,
+        "LTU": 2,
+        "LUX": 4,
+        "LVA": 2,
+        "NLD": 3,
+        "NOR": 2,
+        "NZL_MA": 2,
+        "NZL_NM": 2,
+        "NZL_NP": 4,
+        "POL": 2,
+        "PRT": 6,
+        "RUS": 3,
+        "SVK": 4,
+        "SVN": 2,
+        "SWE": 3,
+        "TWN": 4,
+        "UKR": 2,
+        "USA": 3
+      }
+    },
+    "maddison": {
+      "captures": 294,
+      "ok200": 18,
+      "files": [
+        "http://www.ggdc.net:80/maddison/Historical_Statistics/BackgroundHistoricalStatistics_03-2010.pdf",
+        "http://www.ggdc.net:80/maddison/Historical_Statistics/BackgroundHistoricalStatistics_09-2008.pdf",
+        "http://www.ggdc.net/maddison/Historical_Statistics/BackgroundHistoricalStatistics_10-2009.pdf",
+        "http://www.ggdc.net:80/maddison/Historical_Statistics/horizontal-file_02-2010.xls",
+        "http://www.ggdc.net/maddison/Historical_Statistics/horizontal-file_02-2010.xls.",
+        "http://www.ggdc.net/maddison/Historical_Statistics/horizontal-file_02-2010.xls?fbclid=IwAR3863whdJ7Kjb2PJrmMZjFqPbNL7vNyr5hpSAMgNKkf-mUSoWOIHTKJac4",
+        "http://www.ggdc.net/maddison/Historical_Statistics/horizontal-file_03-2007.xls",
+        "http://www.ggdc.net:80/maddison/Historical_Statistics/horizontal-file_03-2007.xls%20",
+        "http://www.ggdc.net/Maddison/Historical_Statistics/horizontal-file_03-2009.xls",
+        "http://www.ggdc.net:80/maddison/Historical_Statistics/horizontal-file_09-2008.xls",
+        "http://www.ggdc.net/maddison/Historical_Statistics/horizontal-file_09-2008.xls.",
+        "http://www.ggdc.net:80/maddison/Historical_Statistics/horizontal-file_10-2006.xls",
+        "http://www.ggdc.net/maddison/Historical_Statistics/horizontal-file_2006.xls",
+        "http://www.ggdc.net:80/maddison/Historical_Statistics/revpopestimates_03-2010.pdf",
+        "http://www.ggdc.net:80/maddison/Historical_Statistics/RevPopEstimates_March%202009.pdf",
+        "http://www.ggdc.net:80/maddison/Historical_Statistics/vertical-file_02-2010.xls",
+        "http://www.ggdc.net/Maddison/Historical_Statistics/vertical-file_03-2009.xls",
+        "http://www.ggdc.net:80/maddison/Historical_Statistics/vertical-file_09-2008.xls"
+      ]
+    }
+  }
+}

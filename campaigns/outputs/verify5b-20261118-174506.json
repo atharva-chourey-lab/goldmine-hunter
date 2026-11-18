@@ -1,0 +1,199 @@
+{
+  "verify5b": {
+    "clio_ipc_live_md5": {
+      "status": 200,
+      "bytes": 4190,
+      "md5": "93bd3439c5ad8e338a3f91da72e68648"
+    },
+    "scop_wb_head": {
+      "status": 200,
+      "size": "1048576",
+      "type": "text/plain"
+    },
+    "scop_fa_wb": {
+      "label": "SCOP scop_fa_represeq_lib20200228.fa wb2020 (head 1MB via cap)",
+      "url": "https://web.archive.org/web/20201202224826id_/http://scop.mrc-lmb.cam.ac.uk/files/scop_fa_represeq_lib20200228.fa",
+      "http_status": 200,
+      "bytes_downloaded": 1048576,
+      "truncated_at_cap": true,
+      "content_type": null,
+      "error": null,
+      "md5_full": null,
+      "md5_head1mb": "914c0312a2919215e5a3e62f14f1615b",
+      "looks_html": false,
+      "lines_sampled": 8996,
+      "first_line": ">8072807 FA=4003632 FA-PDBID=3KCN_A FA-UNIID=Q7UJS6",
+      "verdict": "REAL \u2014 decodable text data"
+    },
+    "scop_live_http": {
+      "scop-cla-20200228.txt": {
+        "status": 404,
+        "size": null,
+        "type": "text/html; charset=iso-8859-1"
+      },
+      "scop-cla-latest.txt": {
+        "status": 404,
+        "size": null,
+        "type": "text/html; charset=iso-8859-1"
+      }
+    },
+    "cru_live_heads": {
+      "CRUTEM3-gl.dat": {
+        "status": 200,
+        "size": "30855",
+        "type": null
+      },
+      "abstem3.zip": {
+        "status": 200,
+        "size": "52215",
+        "type": "application/zip"
+      },
+      "CRUTEM.4.2.0.0.anomalies.nc": {
+        "status": 200,
+        "size": "20494628",
+        "type": "application/x-netcdf"
+      }
+    },
+    "cru_gl_dat_wb": {
+      "label": "CRU CRUTEM3-gl.dat wb2016",
+      "url": "https://web.archive.org/web/20161013064833id_/https://crudata.uea.ac.uk/cru/data/crutem3/CRUTEM3-gl.dat",
+      "http_status": 200,
+      "bytes_downloaded": 30855,
+      "truncated_at_cap": false,
+      "content_type": "text/plain; charset=UTF-8",
+      "error": null,
+      "md5_full": "6b5990670a6f5a982de4c3d43c96afd7",
+      "md5_head1mb": "6b5990670a6f5a982de4c3d43c96afd7",
+      "looks_html": false,
+      "lines_sampled": 330,
+      "first_line": " 1850 -1.757 -0.267 -0.409 -0.779 -0.552  0.130 -0.652 -0.291 -0.229 -0.219 -0.379  0.304 -0.425",
+      "verdict": "REAL \u2014 decodable text data",
+      "saved_to": "gold/campaign5-verify/cru-CRUTEM3-gl.dat"
+    },
+    "cru_ts323": {
+      "collapsed": 291,
+      "ok200": 290,
+      "files": [
+        {
+          "ts": "20220628122132",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/",
+          "length": "4181"
+        },
+        {
+          "ts": "20220811123336",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Actaeon_Group.tmp.per",
+          "length": "3528"
+        },
+        {
+          "ts": "20220810105717",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Afghanistan.tmp.per",
+          "length": "5217"
+        },
+        {
+          "ts": "20220811110943",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Albania.tmp.per",
+          "length": "5154"
+        },
+        {
+          "ts": "20220811113016",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Aldabra_Isl.tmp.per",
+          "length": "3963"
+        },
+        {
+          "ts": "20220811113252",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Aleutians.tmp.per",
+          "length": "4788"
+        },
+        {
+          "ts": "20220811111130",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Algeria.tmp.per",
+          "length": "5000"
+        },
+        {
+          "ts": "20220811121822",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Amsterdam_Isl.tmp.per",
+          "length": "3276"
+        },
+        {
+          "ts": "20220810114853",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Andaman_Isl.tmp.per",
+          "length": "4043"
+        },
+        {
+          "ts": "20220810104133",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Andorra.tmp.per",
+          "length": "5088"
+        },
+        {
+          "ts": "20220811112614",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Angola.tmp.per",
+          "length": "4061"
+        },
+        {
+          "ts": "20220810103408",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Anguilla.tmp.per",
+          "length": "4028"
+        },
+        {
+          "ts": "20220811124137",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Antigua.tmp.per",
+          "length": "4007"
+        },
+        {
+          "ts": "20220810114718",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Antipodes_Isl.tmp.per",
+          "length": "1656"
+        },
+        {
+          "ts": "20220811112025",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Argentina.tmp.per",
+          "length": "4907"
+        },
+        {
+          "ts": "20220810110808",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Armenia.tmp.per",
+          "length": "5298"
+        },
+        {
+          "ts": "20220810103649",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Ascension.tmp.per",
+          "length": "1651"
+        },
+        {
+          "ts": "20220810113959",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Auckland_Isl.tmp.per",
+          "length": "4408"
+        },
+        {
+          "ts": "20220811123637",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Australia.tmp.per",
+          "length": "4803"
+        },
+        {
+          "ts": "20220810113341",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Austria.tmp.per",
+          "length": "5161"
+        }
+      ]
+    },
+    "cru_ts323_live_status_first": {
+      "status": null,
+      "error": "HTTPConnectionPool(host='hatch-egress-proxy', port=3128): Max retries exceeded with url: http://crudata.uea.ac.uk/cru/da"
+    },
+    "villanova_data": {
+      "astronomy.villanova.edu/WDCatalog/*": {
+        "ok200_data": 0,
+        "files": []
+      },
+      "astronomy.villanova.edu/mccook/*": {
+        "ok200_data": 0,
+        "files": []
+      }
+    },
+    "reptile_checklist_live_md5": {
+      "status": 200,
+      "bytes": 253165,
+      "md5": "58169036be8fea12bb7e6815f9efd1b1"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "verify8b": {
+    "scar_pdf_structure": {
+      "pdfinfo": "Author:          kjennings\nCreator:         Microsoft\u00ae Office Word 2007\nProducer:        Microsoft\u00ae Office Word 2007\nCreationDate:    Fri Sep  6 15:05:14 2013 UTC\nModDate:         Fri Sep  6 15:05:14 2013 UTC\nCustom Metadata: no\nMetadata Stream: no\nTagged:          yes\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           22\nEncrypted:       no\nPage size:       612 x 792 pts (letter)\nPage rot:        0\nFile size:       1599152 bytes\nOptimized:       n",
+      "text_chars": 2537,
+      "n_BS_numbers": 0,
+      "bs_sample": [],
+      "n_named_index_entries": 0,
+      "drop_rule_snippet": "'d (unscarred) are dropped from the scar\nsheet at season's end"
+    },
+    "scar_mail_pdfinfo": "Author:          Aaron Ettinger\nCreator:         Microsoft\u00ae Publisher 2010\nProducer:        Adobe Photoshop for Windows -- Image Conversion Plug-in\nCreationDate:    Fri Oct 28 18:28:33 2016 UTC\nModDate:         Wed Nov 23 16:03:49 2016 UTC\nCustom Metadata: no\nMetadata Stream: yes\nTagged:          no",
+    "cmu_full_imgs": [],
+    "cmu_full_sample": null,
+    "koala_cdx_redo": {
+      "koala_any": 0,
+      "koala_fingerprint": []
+    },
+    "ckc_redo": {
+      "status": 200,
+      "microfiche_snippet": null,
+      "span_snippet": " From 1938 until April 1992, the Canadian Kennel Club accepted nose prints as a form of unique identification for registration purposes"
+    },
+    "parker_wb": null,
+    "parker_cdx": [],
+    "utah_retry": {
+      "status": 418,
+      "bytes": 2896,
+      "n_jpg_refs": 0,
+      "refs": [],
+      "rwc_meta": false
+    }
+  }
+}

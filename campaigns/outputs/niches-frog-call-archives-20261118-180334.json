@@ -1,0 +1,34 @@
+{
+  "niche_card": {
+    "slug": "frog-call-archives",
+    "name": "Frog & toad call archives (regional fonotecas)",
+    "family": "B. Other taxa",
+    "score": 9,
+    "rank": 3,
+    "RAW": "Original .wav/.mp3 advertisement-call recordings with accession numbers, on regional fonoteca and lab sites",
+    "UNIT": "One calling male \u2014 thousands of accessions per fonoteca, hundreds of species, standard field-recorder protocol",
+    "LABEL_GAP": "Call filed under the species name at recording vs the DNA-split taxonomy of today (second ruler)",
+    "ANCHOR": "Voucher specimens and type-locality recordings",
+    "keywords": [
+      "frog call archive wav",
+      "anuran calls download mp3",
+      "fonoteca frog recordings catalogue",
+      "toad advertisement call recordings site"
+    ],
+    "headline": "A frog smaller than your thumbnail has a unique voice \u2014 and thousands of taped voices are filed under species that have since been split in three.",
+    "why_niche": "Fonoteca Zool\u00f3gica (Madrid), Fonoteca Neotropical and university piles each hold their own accessions; the big platforms host photos, not these accessioned raw calls.",
+    "score_justification": "The task's own example: raw .wav/.mp3 per species, regional sound libraries, call IDs vs DNA-split species.",
+    "signature_exts": [
+      ".wav",
+      ".mp3",
+      ".csv"
+    ],
+    "gold_words": [
+      "call",
+      "anuran",
+      "frog",
+      "fonoteca",
+      "advertisement"
+    ]
+  }
+}

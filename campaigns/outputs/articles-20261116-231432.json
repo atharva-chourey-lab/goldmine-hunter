@@ -1,0 +1,52 @@
+{
+  "url": "https://apod.nasa.gov/apod/astropix.html",
+  "live_images": [
+    "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960_annotated.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/programs/physics-of-the-cosmos/images/featured/PhysCOS-Featured.jpg?w=1024",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-global-rebound-for-mangroves/burmamangroves_oli2_20260202_th.jpg?w=1024",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-last-ice-on-puncak-jaya/puncakjaya_oli2_20261019_th.jpg?w=1024",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tossing-fireworks-from-cloud-to-cloud/ISS075-E-250951_th.jpg?w=1024",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/at2016blu.jpg?w=1024",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/escapade/ESCAPADE_TMI.jpg?w=1024",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/gravitational-lens/Hubble_lenscollage_P18085_ok4_noletters.tif?w=1024",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/lisa/news/2026/l3harris-award-for-test-telescope/LISA_key_visual_ESA_lg_ac.jpg?w=1024",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/rst/spacecraft-illustrations/Roman_BeautyPass2026-large.jpg?w=1024",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/planetary-science-division/radioisotope-power-systems/power-to-explore-contest/2025-power-to-explore/2024%20-%20PowerToExplore%20-%20X%20-%201200x675-100.jpg?w=1024",
+    "https://images-assets.nasa.gov/image/AFRC2026-0152-30/AFRC2026-0152-30~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
+    "https://images-assets.nasa.gov/image/iss074e0325229/iss074e0325229~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
+    "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "https://science.nasa.gov/wp-content/uploads/2023/07/moonrise-at-vasquez-rocks-credit-nasa-preston-dyches-cc-by-nc-2.0.jpg",
+    "https://www.nasa.gov/wp-content/uploads/2023/03/690852main_ED12-0317-012_full.jpg?w=150&h=150&crop=1",
+    "https://www.nasa.gov/wp-content/uploads/2024/12/sun-helio-small.gif?w=150&h=150&crop=1",
+    "https://www.nasa.gov/wp-content/uploads/2026/03/a2crew-7ff19d.jpg?w=150&h=150&crop=1",
+    "https://www.nasa.gov/wp-content/uploads/2026/03/isam-state-of-play.jpg?w=150&h=150&crop=1",
+    "https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?w=150&h=150&crop=1",
+    "https://www.nasa.gov/wp-content/uploads/2026/06/hirate-lidar-heroversion-2026-0915.png?w=150&h=150&crop=1",
+    "https://www.nasa.gov/wp-content/uploads/2026/11/55572302164-8599ccaff1-k.jpg?w=150&h=150&crop=1",
+    "https://www.nasa.gov/wp-content/uploads/2026/11/55641408105-cd488491d8-k.jpg?w=150&h=150&crop=1",
+    "https://www.nasa.gov/wp-content/uploads/2026/11/anil-menon-downlink-nov-3.jpg?w=150&h=150&crop=1",
+    "https://www.nasa.gov/wp-content/uploads/2026/11/freedom-crossing-downlink-nov-5.jpg?w=150&h=150&crop=1",
+    "https://www.nasa.gov/wp-content/uploads/2026/11/promise-7.jpg?w=150&h=150&crop=1",
+    "https://www.nasa.gov/wp-content/uploads/2026/11/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521.png?w=150&h=150&crop=1",
+    "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg?w=150&h=150&crop=1"
+  ],
+  "live_data": [
+    "https://science.nasa.gov/wp-content/plugins/gravityforms/js/jquery.json",
+    "https://science.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/browserconfig.xml"
+  ],
+  "snapshots_checked": [
+    "20060816064310",
+    "20191017003135",
+    "20261115073026"
+  ],
+  "vanished_images": [
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/KF-ApAn48-7133-4.jpg?w=2030&h=2048&fit=clip&crop=faces%2Cfocalpoint",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scotland\u2019s-flow-country-/scotland_flowcountry_oli2_20240304_th.jpg?w=1024",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-pacific's-busy-storm-season/storminfa_epic_20261029_th.jpg?w=1024",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/strive/strivebanner2.png?w=1024",
+    "https://web.archive.org/web/20060816064310id_/https:/apod.nasa.gov/apod/image/0608/northamerica_outters.jpg",
+    "https://web.archive.org/web/20191017003135id_/https:/apod.nasa.gov/apod/image/1910/BabyBinary_Alma_960.jpg"
+  ],
+  "vanished_data": []
+}

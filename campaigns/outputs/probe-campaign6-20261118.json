@@ -1,0 +1,119 @@
+[
+ {
+  "label": "AFORO otoliths (CSIC)",
+  "url": "http://aforo.cmima.csic.es/",
+  "pages": 15,
+  "live_data_files": 0,
+  "live_top": [],
+  "wb200_data_files": 0,
+  "wb200_top": []
+ },
+ {
+  "label": "Otolitos UNAM",
+  "url": "https://otolitos.unam.mx/",
+  "pages": 5,
+  "live_data_files": 1,
+  "live_top": [
+   "SierraMineralogica.mp4"
+  ],
+  "wb200_data_files": 0,
+  "wb200_top": []
+ },
+ {
+  "label": "Mormyrids EOD (Cornell lab)",
+  "url": "https://mormyrids.efishgenomics.com/",
+  "pages": 15,
+  "live_data_files": 1,
+  "live_top": [
+   "rss.xml"
+  ],
+  "wb200_data_files": 2,
+  "wb200_top": [
+   {
+    "name": "rss.xml",
+    "first": "20240701180123"
+   },
+   {
+    "name": "rss.xml",
+    "first": "20250620172233"
+   }
+  ]
+ },
+ {
+  "label": "Fonoteca Zoologica frog/animal sounds",
+  "url": "https://www.fonozoo.com/",
+  "pages": 0,
+  "live_data_files": 0,
+  "live_top": [],
+  "wb200_data_files": 201,
+  "wb200_top": [
+   {
+    "name": "03-07-08-14-49-11.mp3",
+    "first": "20120121072203"
+   },
+   {
+    "name": "03-07-08-14-49-30.mp3",
+    "first": "20120121041732"
+   },
+   {
+    "name": "05-03-09-13-19-34.mp3",
+    "first": "20120121061917"
+   },
+   {
+    "name": "05-12-06-15-42-04.mp3",
+    "first": "20120121071435"
+   },
+   {
+    "name": "06-05-05-13-32-40.mp3",
+    "first": "20120121040803"
+   },
+   {
+    "name": "09-05-05-09-52-08.mp3",
+    "first": "20060514095941"
+   },
+   {
+    "name": "09-05-05-09-58-52.mp3",
+    "first": "20060217013754"
+   },
+   {
+    "name": "09-05-05-10-09-53.mp3",
+    "first": "20060514100303"
+   },
+   {
+    "name": "10-07-06-15-43-13.mp3",
+    "first": "20120121063738"
+   },
+   {
+    "name": "10-07-06-15-44-36.mp3",
+    "first": "20120121060813"
+   }
+  ]
+ },
+ {
+  "label": "AAOF Growth Legacy",
+  "url": "https://www.aaoflegacycollection.org/",
+  "pages": 0,
+  "live_data_files": 0,
+  "live_top": [],
+  "wb200_data_files": 2,
+  "wb200_top": [
+   {
+    "name": "StudyCastDemo.mp4",
+    "first": "20131213225246"
+   },
+   {
+    "name": "StudyCastDemo.webm",
+    "first": "20130816043230"
+   }
+  ]
+ },
+ {
+  "label": "NOAA Atlantic salmon scale (fisheries.noaa.gov section)",
+  "url": "https://www.fisheries.noaa.gov/",
+  "pages": 15,
+  "live_data_files": 0,
+  "live_top": [],
+  "wb200_data_files": 0,
+  "wb200_top": []
+ }
+]

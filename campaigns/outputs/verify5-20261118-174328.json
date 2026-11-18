@@ -1,0 +1,2512 @@
+{
+  "verify5": {
+    "reptile_cdx": {
+      "collapsed": 70,
+      "ok200": 57,
+      "files": [
+        {
+          "ts": "20141007140227",
+          "url": "http://www.reptile-database.org//data/",
+          "length": "2010"
+        },
+        {
+          "ts": "20210128084454",
+          "url": "http://www.reptile-database.org/data/1103MARSHALL_proof1.pdf",
+          "length": "443543"
+        },
+        {
+          "ts": "20210718010722",
+          "url": "http://www.reptile-database.org/data/Garg2019_Table_S1.xlsx",
+          "length": "700365"
+        },
+        {
+          "ts": "20200627063811",
+          "url": "http://www.reptile-database.org:80/data/genus_photos_wanted.xlsx",
+          "length": "13213"
+        },
+        {
+          "ts": "20190918182103",
+          "url": "http://www.reptile-database.org/data/index.html",
+          "length": "4079"
+        },
+        {
+          "ts": "20220221074152",
+          "url": "http://www.reptile-database.org/data/Marshall_2020_SI_tables.xlsx",
+          "length": "749369"
+        },
+        {
+          "ts": "20110401030010",
+          "url": "http://www.reptile-database.org:80/data/originaldescriptions2009.xls",
+          "length": "799107"
+        },
+        {
+          "ts": "20190331134232",
+          "url": "http://www.reptile-database.org/data/originaldescriptions2017.xlsx",
+          "length": "1577404"
+        },
+        {
+          "ts": "20141007073339",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2013_03.xls.zip",
+          "length": "312649"
+        },
+        {
+          "ts": "20141007134930",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2013_07.xls.zip",
+          "length": "312149"
+        },
+        {
+          "ts": "20141007084821",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2013_12.xls.zip",
+          "length": "253614"
+        },
+        {
+          "ts": "20141007143350",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2014_04.xls.zip",
+          "length": "341234"
+        },
+        {
+          "ts": "20141007191617",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2014_08.xls.zip",
+          "length": "323928"
+        },
+        {
+          "ts": "20150907145602",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2014_12.xls.zip",
+          "length": "476298"
+        },
+        {
+          "ts": "20150907144122",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2015_03.xls.zip",
+          "length": "485247"
+        },
+        {
+          "ts": "20150907145716",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2015_08.xlsx",
+          "length": "651875"
+        },
+        {
+          "ts": "20160505085955",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2015_12.xlsx",
+          "length": "656256"
+        },
+        {
+          "ts": "20161218095925",
+          "url": "http://www.reptile-database.org:80/data/reptile_checklist_2016_04.xlsx",
+          "length": "704170"
+        },
+        {
+          "ts": "20161218100049",
+          "url": "http://www.reptile-database.org:80/data/reptile_checklist_2016_08.xlsx",
+          "length": "665102"
+        },
+        {
+          "ts": "20170712110530",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2016_12.xlsx",
+          "length": "668128"
+        },
+        {
+          "ts": "20171117225233",
+          "url": "http://www.reptile-database.org:80/data/Reptile_checklist_2017_05.xlsx",
+          "length": "674956"
+        },
+        {
+          "ts": "20171025102014",
+          "url": "http://www.reptile-database.org:80/data/Reptile_checklist_2017_10.xlsx",
+          "length": "680155"
+        },
+        {
+          "ts": "20190331134243",
+          "url": "http://www.reptile-database.org/data/Reptile_checklist_2018_02.xlsx",
+          "length": "781409"
+        },
+        {
+          "ts": "20190331134249",
+          "url": "http://www.reptile-database.org/data/Reptile_checklist_2018_07.xlsx",
+          "length": "661573"
+        },
+        {
+          "ts": "20190331134227",
+          "url": "http://www.reptile-database.org/data/Reptile_checklist_2018_11.xlsx",
+          "length": "712535"
+        },
+        {
+          "ts": "20191201055841",
+          "url": "http://www.reptile-database.org:80/data/Reptile_checklist_2019_04.xlsx",
+          "length": "598631"
+        },
+        {
+          "ts": "20191201055311",
+          "url": "http://www.reptile-database.org:80/data/Reptile_checklist_2019_08.xlsx",
+          "length": "695751"
+        },
+        {
+          "ts": "20200209002035",
+          "url": "http://www.reptile-database.org:80/data/Reptile_checklist_2019_12.xlsx",
+          "length": "778834"
+        },
+        {
+          "ts": "20201028172809",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2020_04.xlsx",
+          "length": "830320"
+        },
+        {
+          "ts": "20201002202504",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2020_08.xlsx",
+          "length": "546682"
+        },
+        {
+          "ts": "20220223014334",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2020_12.xlsx",
+          "length": "821897"
+        },
+        {
+          "ts": "20220223015012",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2021_05.xlsx",
+          "length": "850800"
+        },
+        {
+          "ts": "20220222173306",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2021_11.xlsx",
+          "length": "646797"
+        },
+        {
+          "ts": "20220401063223",
+          "url": "http://www.reptile-database.org//data/reptile_checklist_2022_03.xlsx",
+          "length": "647929"
+        },
+        {
+          "ts": "20230105183505",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2022_07.xlsx",
+          "length": "604831"
+        },
+        {
+          "ts": "20230105183505",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2022_07v2.xlsx",
+          "length": "618094"
+        },
+        {
+          "ts": "20230117224747",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2022_07v3.xlsx",
+          "length": "616543"
+        },
+        {
+          "ts": "20230105183505",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2022_12.xlsx",
+          "length": "632092"
+        },
+        {
+          "ts": "20260925134755",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2023_04.xlsx",
+          "length": "633679"
+        },
+        {
+          "ts": "20261007110314",
+          "url": "https://www.reptile-database.org/data/reptile_checklist_2023_07.xlsx",
+          "length": "659257"
+        },
+        {
+          "ts": "20260508074629",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2023_09.xlsx",
+          "length": "659282"
+        },
+        {
+          "ts": "20240521121748",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2024_03.xlsx",
+          "length": "636550"
+        },
+        {
+          "ts": "20260925134755",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2024_08.xlsx",
+          "length": "652291"
+        },
+        {
+          "ts": "20260925134755",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2024_08v2.xlsx",
+          "length": "738752"
+        },
+        {
+          "ts": "20260928064332",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2025_05.xlsx",
+          "length": "720115"
+        },
+        {
+          "ts": "20260928064332",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2025_09.xlsx",
+          "length": "703082"
+        },
+        {
+          "ts": "20260925134755",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2026_01.xlsx",
+          "length": "665955"
+        },
+        {
+          "ts": "20260925134755",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2026_06.xlsx",
+          "length": "669907"
+        },
+        {
+          "ts": "20260928064332",
+          "url": "http://www.reptile-database.org/data/reptile_database_literature_Feb_2026.xlsx",
+          "length": "7896179"
+        },
+        {
+          "ts": "20131213071919",
+          "url": "http://www.reptile-database.org:80/data/Reptile_photos_needed.txt",
+          "length": "44194"
+        },
+        {
+          "ts": "20161218095908",
+          "url": "http://www.reptile-database.org:80/data/Reptile_photos_wanted.xlsx",
+          "length": "187814"
+        },
+        {
+          "ts": "20230712205203",
+          "url": "http://www.reptile-database.org/data/reptile_synonyms_2023_04.xlsx",
+          "length": "1080623"
+        },
+        {
+          "ts": "20191201055337",
+          "url": "http://www.reptile-database.org:80/data/Table_S1_published_type_catalogs.xlsx",
+          "length": "32980"
+        },
+        {
+          "ts": "20191201055835",
+          "url": "http://www.reptile-database.org:80/data/Table_S2_Collections_with_reptile_types.xlsx",
+          "length": "85557"
+        },
+        {
+          "ts": "20191216022211",
+          "url": "http://www.reptile-database.org:80/data/Table_S3_Reptile_types.xlsx",
+          "length": "1474846"
+        },
+        {
+          "ts": "20031204092550",
+          "url": "http://www.reptile-database.org:80/data/tum.pdf",
+          "length": "47965"
+        },
+        {
+          "ts": "20231001150549",
+          "url": "http://www.reptile-database.org/data/Uetz_JMIH_2023.pdf",
+          "length": "1043852"
+        }
+      ]
+    },
+    "reptile_live_status": {
+      "": {
+        "status": 200,
+        "size": "11887",
+        "type": "text/html"
+      },
+      "1103MARSHALL_proof1.pdf": {
+        "status": 200,
+        "size": "9888519",
+        "type": "application/pdf"
+      },
+      "Garg2019_Table_S1.xlsx": {
+        "status": 200,
+        "size": "709912",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "genus_photos_wanted.xlsx": {
+        "status": 200,
+        "size": "15459",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "index.html": {
+        "status": 200,
+        "size": "11887",
+        "type": "text/html"
+      },
+      "Marshall_2020_SI_tables.xlsx": {
+        "status": 200,
+        "size": "758569",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "originaldescriptions2009.xls": {
+        "status": 200,
+        "size": "2376704",
+        "type": "application/vnd.ms-excel"
+      },
+      "originaldescriptions2017.xlsx": {
+        "status": 200,
+        "size": "1603509",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2013_03.xls.zip": {
+        "status": 200,
+        "size": "331210",
+        "type": "application/zip"
+      },
+      "reptile_checklist_2013_07.xls.zip": {
+        "status": 200,
+        "size": "332271",
+        "type": "application/zip"
+      },
+      "reptile_checklist_2013_12.xls.zip": {
+        "status": 200,
+        "size": "253165",
+        "type": "application/zip"
+      },
+      "reptile_checklist_2014_04.xls.zip": {
+        "status": 200,
+        "size": "364185",
+        "type": "application/zip"
+      },
+      "reptile_checklist_2014_08.xls.zip": {
+        "status": 200,
+        "size": "341458",
+        "type": "application/zip"
+      },
+      "reptile_checklist_2014_12.xls.zip": {
+        "status": 200,
+        "size": "495094",
+        "type": "application/zip"
+      },
+      "reptile_checklist_2015_03.xls.zip": {
+        "status": 200,
+        "size": "502371",
+        "type": "application/zip"
+      },
+      "reptile_checklist_2015_08.xlsx": {
+        "status": 200,
+        "size": "660023",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2015_12.xlsx": {
+        "status": 200,
+        "size": "664650",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2016_04.xlsx": {
+        "status": 200,
+        "size": "722905",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2016_08.xlsx": {
+        "status": 200,
+        "size": "674461",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2016_12.xlsx": {
+        "status": 200,
+        "size": "676237",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "Reptile_checklist_2017_05.xlsx": {
+        "status": 200,
+        "size": "683659",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "Reptile_checklist_2017_10.xlsx": {
+        "status": 200,
+        "size": "689130",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "Reptile_checklist_2018_02.xlsx": {
+        "status": 200,
+        "size": "794167",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "Reptile_checklist_2018_07.xlsx": {
+        "status": 200,
+        "size": "666225",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "Reptile_checklist_2018_11.xlsx": {
+        "status": 200,
+        "size": "717395",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "Reptile_checklist_2019_04.xlsx": {
+        "status": 200,
+        "size": "603362",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "Reptile_checklist_2019_08.xlsx": {
+        "status": 200,
+        "size": "700252",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "Reptile_checklist_2019_12.xlsx": {
+        "status": 200,
+        "size": "782917",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2020_04.xlsx": {
+        "status": 200,
+        "size": "836028",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2020_08.xlsx": {
+        "status": 200,
+        "size": "553958",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2020_12.xlsx": {
+        "status": 200,
+        "size": "826147",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2021_05.xlsx": {
+        "status": 200,
+        "size": "854934",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2021_11.xlsx": {
+        "status": 200,
+        "size": "652096",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2022_03.xlsx": {
+        "status": 200,
+        "size": "649390",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2022_07.xlsx": {
+        "status": 200,
+        "size": "604208",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2022_07v2.xlsx": {
+        "status": 200,
+        "size": "617204",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2022_07v3.xlsx": {
+        "status": 200,
+        "size": "622679",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2022_12.xlsx": {
+        "status": 200,
+        "size": "631204",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2023_04.xlsx": {
+        "status": 200,
+        "size": "632710",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2023_07.xlsx": {
+        "status": 200,
+        "size": "659018",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2023_09.xlsx": {
+        "status": 200,
+        "size": "664423",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2024_03.xlsx": {
+        "status": 200,
+        "size": "641651",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2024_08.xlsx": {
+        "status": 200,
+        "size": "651322",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2024_08v2.xlsx": {
+        "status": 200,
+        "size": "738011",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2025_05.xlsx": {
+        "status": 200,
+        "size": "719141",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2025_09.xlsx": {
+        "status": 200,
+        "size": "702108",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2026_01.xlsx": {
+        "status": 200,
+        "size": "665748",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_checklist_2026_06.xlsx": {
+        "status": 200,
+        "size": "669186",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_database_literature_Feb_2026.xlsx": {
+        "status": 200,
+        "size": "7894641",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "Reptile_photos_needed.txt": {
+        "status": 200,
+        "size": "341458",
+        "type": "text/plain"
+      },
+      "Reptile_photos_wanted.xlsx": {
+        "status": 200,
+        "size": "191865",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "reptile_synonyms_2023_04.xlsx": {
+        "status": 200,
+        "size": "1102515",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "Table_S1_published_type_catalogs.xlsx": {
+        "status": 200,
+        "size": "35287",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "Table_S2_Collections_with_reptile_types.xlsx": {
+        "status": 200,
+        "size": "88221",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "Table_S3_Reptile_types.xlsx": {
+        "status": 200,
+        "size": "1497225",
+        "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      "tum.pdf": {
+        "status": 200,
+        "size": "57861",
+        "type": "application/pdf"
+      },
+      "Uetz_JMIH_2023.pdf": {
+        "status": 200,
+        "size": "4226575",
+        "type": "application/pdf"
+      }
+    },
+    "reptile_sample_smallest_wb": {
+      "label": "Reptile smallest /data wb (2010 B CDX)",
+      "url": "https://web.archive.org/web/20141007140227id_/http://www.reptile-database.org//data/",
+      "http_status": 200,
+      "bytes_downloaded": 4668,
+      "truncated_at_cap": false,
+      "content_type": "text/html",
+      "error": null,
+      "md5_full": "8c8101fa92b651e81f97424104e577f5",
+      "md5_head1mb": "8c8101fa92b651e81f97424104e577f5",
+      "looks_html": true,
+      "verdict": "PHANTOM \u2014 HTML page, not data"
+    },
+    "reptile_sample_checklist_wb": {
+      "label": "Reptile checklist wb (253614 B CDX)",
+      "url": "https://web.archive.org/web/20141007084821id_/http://www.reptile-database.org/data/reptile_checklist_2013_12.xls.zip",
+      "http_status": 200,
+      "bytes_downloaded": 253165,
+      "truncated_at_cap": false,
+      "content_type": "application/zip",
+      "error": null,
+      "md5_full": "58169036be8fea12bb7e6815f9efd1b1",
+      "md5_head1mb": "58169036be8fea12bb7e6815f9efd1b1",
+      "looks_html": false,
+      "zip_entries": [
+        "reptile_checklist_2013_12.xls",
+        "__MACOSX/",
+        "__MACOSX/._reptile_checklist_2013_12.xls"
+      ],
+      "zip_n_entries": 3,
+      "verdict": "REAL \u2014 valid zip (xlsx/zip family)",
+      "saved_to": "gold/campaign5-verify/reptile-reptile_checklist_2013_12.xls.zip"
+    },
+    "reptile_live_sample": {
+      "label": "Reptile Genera_without_photos.xlsx live",
+      "url": "http://www.reptile-database.org/db-info/Genera_without_photos.xlsx",
+      "http_status": 200,
+      "bytes_downloaded": 23261,
+      "truncated_at_cap": false,
+      "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "error": null,
+      "md5_full": "4f087f269a3cd978c07218df93a5488d",
+      "md5_head1mb": "4f087f269a3cd978c07218df93a5488d",
+      "looks_html": false,
+      "zip_entries": [
+        "[Content_Types].xml",
+        "_rels/.rels",
+        "xl/workbook.xml",
+        "xl/_rels/workbook.xml.rels",
+        "xl/worksheets/sheet1.xml",
+        "xl/worksheets/sheet2.xml",
+        "xl/theme/theme1.xml",
+        "xl/styles.xml",
+        "xl/sharedStrings.xml",
+        "xl/worksheets/_rels/sheet2.xml.rels",
+        "docProps/core.xml",
+        "docProps/app.xml"
+      ],
+      "zip_n_entries": 12,
+      "verdict": "REAL \u2014 valid zip (xlsx/zip family)"
+    },
+    "cru": {
+      "crutem3": {
+        "collapsed": 38,
+        "ok200": 36,
+        "sets": {
+          "/cru/data/crutem3": 31,
+          "/cru/data/crutem3/availability": 2,
+          "/cru/data/crutem3/station-data": 2,
+          "/cru/data/crutem3/landstations": 1
+        },
+        "files": [
+          {
+            "ts": "20161013064641",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/",
+            "length": "7931"
+          },
+          {
+            "ts": "20201024143702",
+            "url": "http://crudata.uea.ac.uk/cru/data/crutem3/absolute.nc",
+            "length": "41681"
+          },
+          {
+            "ts": "20201024202225",
+            "url": "http://crudata.uea.ac.uk/cru/data/crutem3/abstem3.zip",
+            "length": "53225"
+          },
+          {
+            "ts": "20211210211110",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/availability/",
+            "length": "5445"
+          },
+          {
+            "ts": "20211210211208",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/availability/agreements.pdf",
+            "length": "1177309"
+          },
+          {
+            "ts": "20161013064833",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/CRUTEM3-gl.dat",
+            "length": "7089"
+          },
+          {
+            "ts": "20161013064722",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/CRUTEM3-nh.dat",
+            "length": "7546"
+          },
+          {
+            "ts": "20161013064818",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/CRUTEM3-sh.dat",
+            "length": "6979"
+          },
+          {
+            "ts": "20220628054621",
+            "url": "http://crudata.uea.ac.uk/cru/data/crutem3/CRUTEM3.nc",
+            "length": "29905"
+          },
+          {
+            "ts": "20201030035615",
+            "url": "http://crudata.uea.ac.uk/cru/data/crutem3/crutem3.zip",
+            "length": "2808838"
+          },
+          {
+            "ts": "20161013064934",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/CRUTEM3v-gl.dat",
+            "length": "7035"
+          },
+          {
+            "ts": "20161013064910",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/CRUTEM3v-nh.dat",
+            "length": "7530"
+          },
+          {
+            "ts": "20161013064922",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/CRUTEM3v-sh.dat",
+            "length": "6958"
+          },
+          {
+            "ts": "20201029101350",
+            "url": "http://crudata.uea.ac.uk/cru/data/crutem3/CRUTEM3v.nc",
+            "length": "4243560"
+          },
+          {
+            "ts": "20201101103428",
+            "url": "http://crudata.uea.ac.uk/cru/data/crutem3/crutem3v.zip",
+            "length": "4017598"
+          },
+          {
+            "ts": "20161013065029",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/HadCRUT3-gl.dat",
+            "length": "8075"
+          },
+          {
+            "ts": "20161013064944",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/HadCRUT3-nh.dat",
+            "length": "8146"
+          },
+          {
+            "ts": "20161013065019",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/HadCRUT3-sh.dat",
+            "length": "8332"
+          },
+          {
+            "ts": "20201028214420",
+            "url": "http://crudata.uea.ac.uk/cru/data/crutem3/HadCRUT3.nc",
+            "length": "8662549"
+          },
+          {
+            "ts": "20210813192617",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/HadCRUT3.pdf",
+            "length": "17982"
+          },
+          {
+            "ts": "20201029150806",
+            "url": "http://crudata.uea.ac.uk/cru/data/crutem3/hadcrut3.zip",
+            "length": "7882690"
+          },
+          {
+            "ts": "20191118163716",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/HadCRUT3_accepted.pdf",
+            "length": "997041"
+          },
+          {
+            "ts": "20161013064645",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/HadCRUT3_thumb.png",
+            "length": "57071"
+          },
+          {
+            "ts": "20161013065132",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/HadCRUT3v-gl.dat",
+            "length": "7974"
+          },
+          {
+            "ts": "20161013065039",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/HadCRUT3v-nh.dat",
+            "length": "8123"
+          },
+          {
+            "ts": "20161013065117",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/HadCRUT3v-sh.dat",
+            "length": "8213"
+          },
+          {
+            "ts": "20200811042414",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/HadCRUT3v.nc",
+            "length": "225758"
+          },
+          {
+            "ts": "20201101042714",
+            "url": "http://crudata.uea.ac.uk/cru/data/crutem3/hadcrut3v.zip",
+            "length": "8212196"
+          },
+          {
+            "ts": "20161013065224",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/HadSST2-gl.dat",
+            "length": "7974"
+          },
+          {
+            "ts": "20161013065201",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/HadSST2-nh.dat",
+            "length": "7992"
+          },
+          {
+            "ts": "20161013065212",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/HadSST2-sh.dat",
+            "length": "8362"
+          },
+          {
+            "ts": "20201029055636",
+            "url": "http://crudata.uea.ac.uk/cru/data/crutem3/hadsst2.zip",
+            "length": "4074764"
+          },
+          {
+            "ts": "20201029150855",
+            "url": "http://crudata.uea.ac.uk/cru/data/crutem3/HadSST2_1850on.nc",
+            "length": "41225240"
+          },
+          {
+            "ts": "20230412093643",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/landstations/crustnsused.txt",
+            "length": "78109"
+          },
+          {
+            "ts": "20190721180001",
+            "url": "https://crudata.uea.ac.uk/cru/data/crutem3/station-data/",
+            "length": "2769"
+          },
+          {
+            "ts": "20201103011528",
+            "url": "http://crudata.uea.ac.uk/cru/data/crutem3/station-data/station-data.zip",
+            "length": "7275250"
+          }
+        ]
+      },
+      "crutem3_sample_wb": {
+        "label": "CRU crutem3 smallest wb (2769 B CDX)",
+        "url": "https://web.archive.org/web/20190721180001id_/https://crudata.uea.ac.uk/cru/data/crutem3/station-data/",
+        "http_status": 200,
+        "bytes_downloaded": 4879,
+        "truncated_at_cap": false,
+        "content_type": "text/html; charset=UTF-8",
+        "error": null,
+        "md5_full": "f7cb684da2bf1551ea1187af8f5560ce",
+        "md5_head1mb": "f7cb684da2bf1551ea1187af8f5560ce",
+        "looks_html": true,
+        "verdict": "PHANTOM \u2014 HTML page, not data"
+      },
+      "crutem3_live_status": {
+        "status": 200,
+        "size": "5176",
+        "type": "text/html; charset=UTF-8"
+      },
+      "temperature": {
+        "collapsed": 570,
+        "ok200": 169,
+        "sets": {
+          "/cru/data/temperature": 162,
+          "/cru/data/temperature/crutem4": 6,
+          "/cru/data/temperature/crutem3-station-data": 1
+        },
+        "files": [
+          {
+            "ts": "20151227222105",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/",
+            "length": "8077"
+          },
+          {
+            "ts": "20210124090412",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/abs_glnhsh.pdf",
+            "length": "9743"
+          },
+          {
+            "ts": "20210129230707",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/abs_glnhsh.png",
+            "length": "20572"
+          },
+          {
+            "ts": "20210124085817",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/abs_glnhsh.txt",
+            "length": "1474"
+          },
+          {
+            "ts": "20161207085030",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/absolute.nc",
+            "length": "41463"
+          },
+          {
+            "ts": "20210124084809",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/absolute_v5.nc",
+            "length": "42427"
+          },
+          {
+            "ts": "20191209193925",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.4.2.0.0.anomalies.nc",
+            "length": "31431"
+          },
+          {
+            "ts": "20161207083842",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.4.4.0.0.anomalies.nc",
+            "length": "2983201"
+          },
+          {
+            "ts": "20161207090935",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.4.4.0.0.variance_adjusted.nc",
+            "length": "4809263"
+          },
+          {
+            "ts": "20180628032501",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.4.6.0.0.anomalies.nc",
+            "length": "3149104"
+          },
+          {
+            "ts": "20180628032551",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.4.6.0.0.variance_adjusted.nc",
+            "length": "5008094"
+          },
+          {
+            "ts": "20210124095014",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.0.0.0.alt.anomalies.nc",
+            "length": "901741"
+          },
+          {
+            "ts": "20210124100530",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.0.0.0.anomalies.nc",
+            "length": "1008151"
+          },
+          {
+            "ts": "20210305222617",
+            "url": "http://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.0.1.0.alt.anomalies.nc",
+            "length": "904532"
+          },
+          {
+            "ts": "20210305214945",
+            "url": "http://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.0.1.0.anomalies.nc",
+            "length": "1008130"
+          },
+          {
+            "ts": "20210513060547",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.0.1.0.normals5.txt",
+            "length": "202574"
+          },
+          {
+            "ts": "20210513065224",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.0.1.0.sd5.txt",
+            "length": "205814"
+          },
+          {
+            "ts": "20210723143220",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.0.1.0.stat4post.txt.gz",
+            "length": "14291798"
+          },
+          {
+            "ts": "20210723140544",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.0.1.0.station_files.zip",
+            "length": "125203079"
+          },
+          {
+            "ts": "20240221124851",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.0.2.0.alt.anomalies.nc",
+            "length": "7275528"
+          },
+          {
+            "ts": "20240221124851",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.0.2.0.anomalies.nc",
+            "length": "13061992"
+          },
+          {
+            "ts": "20240221124819",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.0.2.0.normals5.txt",
+            "length": "384610"
+          },
+          {
+            "ts": "20240221124751",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.0.2.0.sd5.txt",
+            "length": "378463"
+          },
+          {
+            "ts": "20240221124756",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.0.2.0.stat4post.txt.gz",
+            "length": "14406549"
+          },
+          {
+            "ts": "20240222210413",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.0.2.0.station_files.zip",
+            "length": "20594727"
+          },
+          {
+            "ts": "20251009085437",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.1.0.0.alt.anomalies.nc",
+            "length": "7404862"
+          },
+          {
+            "ts": "20251009085223",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.1.0.0.anomalies.nc",
+            "length": "13274757"
+          },
+          {
+            "ts": "20251009085152",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.1.0.0.normals5.txt",
+            "length": "408166"
+          },
+          {
+            "ts": "20251009085208",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.1.0.0.sd5.txt",
+            "length": "377881"
+          },
+          {
+            "ts": "20251009085210",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.1.0.0.stat4post.txt.gz",
+            "length": "15583365"
+          },
+          {
+            "ts": "20251009085242",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.1.0.0.station_files.zip",
+            "length": "130062929"
+          },
+          {
+            "ts": "20261113135936",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.2.0.0.anomalies.nc",
+            "length": "13455714"
+          },
+          {
+            "ts": "20191220034930",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM3-gl.dat",
+            "length": "7216"
+          },
+          {
+            "ts": "20160310222154",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/crutem3-station-data/",
+            "length": "2490"
+          },
+          {
+            "ts": "20200423134707",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM3.pdf",
+            "length": "18968"
+          },
+          {
+            "ts": "20160128102425",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM3_thumb.png",
+            "length": "8886"
+          },
+          {
+            "ts": "20160128102425",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM3v_thumb.png",
+            "length": "8784"
+          },
+          {
+            "ts": "20160428203340",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM4-gl.dat",
+            "length": "6983"
+          },
+          {
+            "ts": "20161003092115",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM4-nh.dat",
+            "length": "7652"
+          },
+          {
+            "ts": "20160928104338",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM4-sh.dat",
+            "length": "7089"
+          },
+          {
+            "ts": "20161207084145",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM4.pdf",
+            "length": "18575"
+          },
+          {
+            "ts": "20190926015003",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/crutem4/crutem4_asof020611_stns_used.zip",
+            "length": "9107571"
+          },
+          {
+            "ts": "20201019140338",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/crutem4/crutem4_asof020611_stns_used_hdr.dat",
+            "length": "124991"
+          },
+          {
+            "ts": "20181023232053",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/crutem4/crutem4_asof020611_stns_used_hdr.txt",
+            "length": "124768"
+          },
+          {
+            "ts": "20161207084746",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/crutem4/landstations.htm",
+            "length": "2138"
+          },
+          {
+            "ts": "20160317093958",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/crutem4/station-data.htm",
+            "length": "5936"
+          },
+          {
+            "ts": "20220628114719",
+            "url": "http://crudata.uea.ac.uk/cru/data/temperature/crutem4/stnused.CRUTEM4.6-2019-07.txt",
+            "length": "168345"
+          },
+          {
+            "ts": "20160128102425",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM4_thumb.png",
+            "length": "8848"
+          },
+          {
+            "ts": "20160928104432",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM4v-gl.dat",
+            "length": "7237"
+          },
+          {
+            "ts": "20161207083433",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM4v-nh.dat",
+            "length": "7605"
+          },
+          {
+            "ts": "20161207083642",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM4v-sh.dat",
+            "length": "7097"
+          },
+          {
+            "ts": "20161207084923",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM4v.pdf",
+            "length": "18615"
+          },
+          {
+            "ts": "20160128102425",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM4v_thumb.png",
+            "length": "8650"
+          },
+          {
+            "ts": "20210124094557",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM5.0.pdf",
+            "length": "17645"
+          },
+          {
+            "ts": "20210124085317",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM5.0_gl.txt",
+            "length": "7599"
+          },
+          {
+            "ts": "20210124100648",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM5.0_nh.txt",
+            "length": "8163"
+          },
+          {
+            "ts": "20210124093103",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM5.0_sh.txt",
+            "length": "7453"
+          },
+          {
+            "ts": "20210129230707",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM5.0_thumb.png",
+            "length": "81055"
+          },
+          {
+            "ts": "20210124082548",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM5.0alt.pdf",
+            "length": "11789"
+          },
+          {
+            "ts": "20210124084214",
+            "url": "https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM5.0alt_gl.txt",
+            "length": "7712"
+          }
+        ]
+      },
+      "temperature_sample_wb": {
+        "label": "CRU temperature smallest wb (1078 B CDX)",
+        "url": "https://web.archive.org/web/20161207083338id_/https://crudata.uea.ac.uk/cru/data/temperature/read_cru_hemi.r",
+        "http_status": 200,
+        "bytes_downloaded": 1388,
+        "truncated_at_cap": false,
+        "content_type": "text/plain; charset=UTF-8",
+        "error": null,
+        "md5_full": "5c64aabd9d8e019482c5da7795828dc3",
+        "md5_head1mb": "5c64aabd9d8e019482c5da7795828dc3",
+        "looks_html": false,
+        "first_bytes_hex": "2320726561645f6372755f68656d692e",
+        "all_blank": false,
+        "verdict": "BINARY \u2014 non-HTML, non-blank"
+      },
+      "temperature_live_status": {
+        "status": 200,
+        "size": "1388",
+        "type": null
+      },
+      "hrg": {
+        "collapsed": 2359,
+        "ok200": 1801,
+        "sets": {
+          "/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp": 290,
+          "/cru/data/hrg": 19,
+          "/cru/data/hrg/timm/grid": 19,
+          "/cru/data//hrg/timm/grid": 12,
+          "/cru/data/hrg/tmc": 12,
+          "/cru/data/hrg/cru_ts_4.03/comparisons_with_other_releases": 11,
+          "/cru/data/hrg/cru_ts_4.06/comparisons_with_other_releases": 11,
+          "/cru/data/hrg/cru_cl_1.1": 10,
+          "/cru/data/hrg/cru_ts_4.00/comparisons.32401.vs.400": 10,
+          "/cru/data/hrg/cru_ts_4.00/comparisons.210.vs.400": 9
+        },
+        "files": [
+          {
+            "ts": "20160917072254",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/",
+            "length": "5940"
+          },
+          {
+            "ts": "20220628122056",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/blog_files/blog_files_030620/cc2a.cruts404vs40401.VAP.pdf",
+            "length": "784008"
+          },
+          {
+            "ts": "20220628131753",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/blog_files/blog_files_060620/cc3a.cruts4.03.vs.cruts4.04.vs.cruts4.04.02.CLD.pdf",
+            "length": "449834"
+          },
+          {
+            "ts": "20220628124137",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/blog_files/blog_files_060620/cc3a.cruts4.03.vs.cruts4.04.vs.cruts4.04.02.DTR.pdf",
+            "length": "809062"
+          },
+          {
+            "ts": "20220628114524",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/blog_files/blog_files_060620/cc3a.cruts4.03.vs.cruts4.04.vs.cruts4.04.02.PRE.pdf",
+            "length": "959355"
+          },
+          {
+            "ts": "20220628130826",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/blog_files/blog_files_060620/cc3a.cruts4.03.vs.cruts4.04.vs.cruts4.04.02.TMN.pdf",
+            "length": "928460"
+          },
+          {
+            "ts": "20220628120106",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/blog_files/blog_files_060620/cc3a.cruts4.03.vs.cruts4.04.vs.cruts4.04.02.TMP.pdf",
+            "length": "920497"
+          },
+          {
+            "ts": "20220628113800",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/blog_files/blog_files_060620/cc3a.cruts4.03.vs.cruts4.04.vs.cruts4.04.02.TMX.pdf",
+            "length": "936761"
+          },
+          {
+            "ts": "20220628131421",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/blog_files/blog_files_060620/cc3a.cruts4.03.vs.cruts4.04.vs.cruts4.04.02.VAP.pdf",
+            "length": "1002628"
+          },
+          {
+            "ts": "20220628121437",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/blog_files/blog_files_060620/cc3a.cruts4.03.vs.cruts4.04.vs.cruts4.04.02.WET.pdf",
+            "length": "959971"
+          },
+          {
+            "ts": "20191121144331",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru05/cru05_intro.html",
+            "length": "5591"
+          },
+          {
+            "ts": "20220123102445",
+            "url": "https://crudata.uea.ac.uk/cru/data//hrg/cru05/newetal1_files/indent.gif",
+            "length": "614"
+          },
+          {
+            "ts": "20220123102512",
+            "url": "https://crudata.uea.ac.uk/cru/data//hrg/cru05/newetal1_files/thinsp.gif",
+            "length": "600"
+          },
+          {
+            "ts": "20220123102415",
+            "url": "https://crudata.uea.ac.uk/cru/data//hrg/cru05/newetal2_files/indent.gif",
+            "length": "613"
+          },
+          {
+            "ts": "20230611202247",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_cl_1.1/",
+            "length": "1313"
+          },
+          {
+            "ts": "20250810025901",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_cl_1.1/cru_cl_1.0.6190.cld.dat",
+            "length": "126134"
+          },
+          {
+            "ts": "20250810025358",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_cl_1.1/cru_cl_1.1.6190.dtr.dat",
+            "length": "197748"
+          },
+          {
+            "ts": "20250810044111",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_cl_1.1/cru_cl_1.1.6190.pre.dat",
+            "length": "324989"
+          },
+          {
+            "ts": "20250810040931",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_cl_1.1/cru_cl_1.1.6190.tmp.dat",
+            "length": "248891"
+          },
+          {
+            "ts": "20250810045703",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_cl_1.1/cru_cl_1.1.6190.vap.dat",
+            "length": "189905"
+          },
+          {
+            "ts": "20250810025704",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_cl_1.1/cru_cl_1.1.6190.wet.dat",
+            "length": "341048"
+          },
+          {
+            "ts": "20230611160224",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_cl_1.1/Read_Me_CRU_CL_CLD_Reversion.txt",
+            "length": "1239"
+          },
+          {
+            "ts": "20250503143446",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_cl_1.1/Read_Me_CRU_CL_v1.1.txt",
+            "length": "1224"
+          },
+          {
+            "ts": "20220607092423",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_cl_1.1/Technical_note_CRU_CL_v1.1.pdf",
+            "length": "1548285"
+          },
+          {
+            "ts": "20201221121845",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_1.20.zip",
+            "length": "9892179"
+          },
+          {
+            "ts": "20170809140440",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_2.02/introduction.pdf",
+            "length": "59644"
+          },
+          {
+            "ts": "20200930094225",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_2.10/data_all/",
+            "length": "1123"
+          },
+          {
+            "ts": "20200930094149",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_2.10/data_dec/",
+            "length": "1979"
+          },
+          {
+            "ts": "20200930085330",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_2.10/NEW_read_me_vap_wet.txt",
+            "length": "1238"
+          },
+          {
+            "ts": "20200930083446",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_2.10/newly_gridded/",
+            "length": "1385"
+          },
+          {
+            "ts": "20201221121850",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_2.10/newly_gridded/data_all/",
+            "length": "1146"
+          },
+          {
+            "ts": "20200930092725",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_2.10/normal/",
+            "length": "1101"
+          },
+          {
+            "ts": "20200930082301",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_2.10/read_me.txt",
+            "length": "1532"
+          },
+          {
+            "ts": "20200930092031",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_2.10/stn_all/",
+            "length": "1095"
+          },
+          {
+            "ts": "20200930092516",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_2.10/stn_dec/",
+            "length": "1647"
+          },
+          {
+            "ts": "20191209193802",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.22/",
+            "length": "1734"
+          },
+          {
+            "ts": "20200526221746",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.22/crucy.1406251334.v3.22/countries/dtr/crucy.v3.22.1901.2013.Egypt.dtr.per",
+            "length": "3765"
+          },
+          {
+            "ts": "20220120105041",
+            "url": "https://crudata.uea.ac.uk/cru/data//hrg/cru_ts_3.22/crucy.1406251334.v3.22/countries/pre/crucy.v3.22.1901.2013.Chile.pre.per",
+            "length": "5748"
+          },
+          {
+            "ts": "20221115144913",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.22/cruts.1406251334.v3.22/",
+            "length": "786"
+          },
+          {
+            "ts": "20231114020220",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.22/Release_Notes_CRU_TS3.22.txt",
+            "length": "2764"
+          },
+          {
+            "ts": "20190728091803",
+            "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/",
+            "length": "1828"
+          },
+          {
+            "ts": "20220628113840",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/comparisons.cruts322vs323/",
+            "length": "1456"
+          },
+          {
+            "ts": "20190821122728",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/",
+            "length": "955"
+          },
+          {
+            "ts": "20191014015217",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/",
+            "length": "1027"
+          },
+          {
+            "ts": "20220628130338",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/cld/",
+            "length": "4186"
+          },
+          {
+            "ts": "20220628125451",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/dtr/",
+            "length": "4186"
+          },
+          {
+            "ts": "20220628113714",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/frs/",
+            "length": "4186"
+          },
+          {
+            "ts": "20220628114443",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/pet/",
+            "length": "4179"
+          },
+          {
+            "ts": "20220628115136",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/pre/",
+            "length": "4181"
+          },
+          {
+            "ts": "20220628123732",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmn/",
+            "length": "4183"
+          },
+          {
+            "ts": "20220628122132",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/",
+            "length": "4181"
+          },
+          {
+            "ts": "20220811123336",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Actaeon_Group.tmp.per",
+            "length": "3528"
+          },
+          {
+            "ts": "20220810105717",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Afghanistan.tmp.per",
+            "length": "5217"
+          },
+          {
+            "ts": "20220811110943",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Albania.tmp.per",
+            "length": "5154"
+          },
+          {
+            "ts": "20220811113016",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Aldabra_Isl.tmp.per",
+            "length": "3963"
+          },
+          {
+            "ts": "20220811113252",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Aleutians.tmp.per",
+            "length": "4788"
+          },
+          {
+            "ts": "20220811111130",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Algeria.tmp.per",
+            "length": "5000"
+          },
+          {
+            "ts": "20220811121822",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Amsterdam_Isl.tmp.per",
+            "length": "3276"
+          },
+          {
+            "ts": "20220810114853",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Andaman_Isl.tmp.per",
+            "length": "4043"
+          },
+          {
+            "ts": "20220810104133",
+            "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/tmp/crucy.v3.23.1901.2014.Andorra.tmp.per",
+            "length": "5088"
+          }
+        ]
+      },
+      "hrg_sample_wb": {
+        "label": "CRU hrg smallest wb (-8161538780 B CDX)",
+        "url": "https://web.archive.org/web/20250916140533id_/https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.06/ge/?_ga=2.66627182.1783822406.1667891824-833973110.1667891824",
+        "http_status": 404,
+        "bytes_downloaded": 4735,
+        "truncated_at_cap": false,
+        "content_type": "text/html",
+        "error": null,
+        "md5_full": "ae48ed0c8cc137971cc15a6dd63e4156",
+        "md5_head1mb": "ae48ed0c8cc137971cc15a6dd63e4156",
+        "looks_html": true,
+        "verdict": "PHANTOM \u2014 HTML page, not data"
+      },
+      "hrg_live_status": {
+        "status": 200,
+        "size": "7381",
+        "type": "text/html; charset=UTF-8"
+      }
+    },
+    "clio_ipc": {
+      "collapsed": 10000,
+      "ok200": 9998,
+      "files": [
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_ArmedconflictsInternal_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "8312"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_ArmedConflictsInternational_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "8550"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_AverageYearsofEducation_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "5072"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_Biodiversitynaturalness_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "9513"
+        },
+        {
+          "ts": "20201230035814",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_CattleperCapita_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "8796"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_CO2EmissionsperCapita_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "5091"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_CompetitivenessofExecutiveRecruitmentXRCOMP_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "7835"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_CompetitivenessofParticipationsPARCOMP_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "7810"
+        },
+        {
+          "ts": "20201230035814",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_CompositeMeasureofWellbeing_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "7473"
+        },
+        {
+          "ts": "20201230035814",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_CroplandperCapita_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "9511"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_EducationalInequalityGiniCoefficient_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "5718"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_ExchangeRatestoUKPound_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "5550"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_ExchangeRatestoUSDollar_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "5284"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_ExecutiveConstraintsXCONST_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "7815"
+        },
+        {
+          "ts": "20201230035814",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_FemalelifeExpectancyatBirth_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "4796"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_GDPperCapita_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "5235"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_GenderEqualityofNumeracy_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "4756"
+        },
+        {
+          "ts": "20201230035814",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_GoatsperCapita_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "8658"
+        },
+        {
+          "ts": "20201230035814",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_Height_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "6223"
+        },
+        {
+          "ts": "20201230035814",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_HeightGini_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "4803"
+        },
+        {
+          "ts": "20251031214658",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_HistoricalGenderEqualityIndex_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "5233"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_HomicideRates_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "4153"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_IncomeInequality_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "4809"
+        },
+        {
+          "ts": "20201230035816",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_Inflation_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "4224"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_LatentDemocracyVariable_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "5765"
+        },
+        {
+          "ts": "20201230035814",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_LifeExpectancyatBirthTotal_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "5147"
+        },
+        {
+          "ts": "20201230035814",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_MalelifeExpectancyatBirth_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "4794"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_NumeracyTotal_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "4735"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_OpennessofExecutiveRecruitmentXROPEN_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "7777"
+        },
+        {
+          "ts": "20201230035814",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_PastureperCapita_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "9517"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_PoliticalCompetition_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "5227"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_PoliticalParticipation_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "5213"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_Polity2Index_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "7163"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_Polyarchy_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "5209"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_RegulationofChiefExecutiveRecruitmentXRREG_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "7834"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_RegulationofParticipationPARREG_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "7823"
+        },
+        {
+          "ts": "20201230035814",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_SheepperCapita_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "9502"
+        },
+        {
+          "ts": "20201230035814",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_TotalCattle_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "9571"
+        },
+        {
+          "ts": "20201230035815",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_TotalCO2Emissions_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "5261"
+        },
+        {
+          "ts": "20201230035814",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_TotalCropland_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "length": "9500"
+        }
+      ]
+    },
+    "clio_ipc_sample_wb": {
+      "label": "CLIO IPC smallest wb (3821 B CDX)",
+      "url": "https://web.archive.org/web/20251102075557id_/https://clio-infra.eu/IndicatorsPerCountry/Samoa_Workingweekinmanufacturing_TerritorialRef_1976_2012_CCode_882.xlsx",
+      "http_status": 200,
+      "bytes_downloaded": 4190,
+      "truncated_at_cap": false,
+      "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "error": null,
+      "md5_full": "93bd3439c5ad8e338a3f91da72e68648",
+      "md5_head1mb": "93bd3439c5ad8e338a3f91da72e68648",
+      "looks_html": false,
+      "zip_entries": [
+        "_rels/.rels",
+        "[Content_Types].xml",
+        "docProps/app.xml",
+        "docProps/core.xml",
+        "xl/sharedStrings.xml",
+        "xl/styles.xml",
+        "xl/workbook.xml",
+        "xl/_rels/workbook.xml.rels",
+        "xl/worksheets/sheet1.xml",
+        "xl/worksheets/sheet2.xml"
+      ],
+      "zip_n_entries": 10,
+      "verdict": "REAL \u2014 valid zip (xlsx/zip family)",
+      "saved_to": "gold/campaign5-verify/clio-Samoa_Workingweekinmanufacturing_TerritorialRef_1976_2012_CCode_882.xlsx"
+    },
+    "clio_ipc_live_status": {
+      "status": 200,
+      "size": "4190",
+      "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "clio_live_sample": {
+      "label": "CLIO CompositeMeasureofWellbeing_Compact.xlsx live",
+      "url": "https://clio-infra.eu/data/CompositeMeasureofWellbeing_Compact.xlsx",
+      "http_status": 200,
+      "bytes_downloaded": 377874,
+      "truncated_at_cap": false,
+      "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "error": null,
+      "md5_full": "867920e6b26b881e2bc73cfc8899914e",
+      "md5_head1mb": "867920e6b26b881e2bc73cfc8899914e",
+      "looks_html": false,
+      "zip_entries": [
+        "_rels/.rels",
+        "[Content_Types].xml",
+        "docProps/app.xml",
+        "docProps/core.xml",
+        "xl/sharedStrings.xml",
+        "xl/styles.xml",
+        "xl/workbook.xml",
+        "xl/_rels/workbook.xml.rels",
+        "xl/worksheets/sheet1.xml",
+        "xl/worksheets/sheet2.xml",
+        "xl/worksheets/sheet3.xml"
+      ],
+      "zip_n_entries": 11,
+      "verdict": "REAL \u2014 valid zip (xlsx/zip family)",
+      "saved_to": "gold/campaign5-verify/clio-CompositeMeasureofWellbeing_Compact.xlsx"
+    },
+    "atnf_head": {
+      "psrcat_pkg.tar.gz": {
+        "status": 200,
+        "size": "1249005",
+        "type": "application/x-gzip"
+      },
+      "psrcat_pkg.v2.9.0.tar.gz": {
+        "status": 200,
+        "size": "1233779",
+        "type": "application/x-gzip"
+      },
+      "psrcat_pkg.v1.45.tar.gz": {
+        "status": 200,
+        "size": "533577",
+        "type": "application/x-gzip"
+      }
+    },
+    "atnf_sample_oldest_crawled": {
+      "label": "ATNF oldest crawled version psrcat_pkg.v1.9.tar.gz",
+      "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/downloads/psrcat_pkg.v1.9.tar.gz",
+      "http_status": 200,
+      "bytes_downloaded": 337183,
+      "truncated_at_cap": false,
+      "content_type": "application/x-gzip",
+      "error": null,
+      "md5_full": "c9c80cbc0fe5fbf115de57e5964fbe89",
+      "md5_head1mb": "c9c80cbc0fe5fbf115de57e5964fbe89",
+      "looks_html": false,
+      "verdict": "REAL \u2014 gzip stream",
+      "gzip": true,
+      "tar_entries": [
+        "psrcat_tar",
+        "psrcat_tar/README",
+        "psrcat_tar/defineParams.c",
+        "psrcat_tar/displayOutput.c",
+        "psrcat_tar/evaldefs.h",
+        "psrcat_tar/evalkern.c",
+        "psrcat_tar/evalkern.h",
+        "psrcat_tar/evalkern.syn",
+        "psrcat_tar/evalwrap.c",
+        "psrcat_tar/externalCall.c",
+        "psrcat_tar/galcoord_ecliptic.c",
+        "psrcat_tar/galcoord_equatorial.c"
+      ],
+      "tar_n_entries": 22
+    },
+    "boe_millennium_head": {
+      "status": 200,
+      "size": "27533690",
+      "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "boe_millennium_range": {
+      "label": "BoE millennium xlsx live (bounded 2MB head)",
+      "url": "https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/a-millennium-of-macroeconomic-data-for-the-uk.xlsx",
+      "http_status": 200,
+      "bytes_downloaded": 2031616,
+      "truncated_at_cap": true,
+      "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "error": null,
+      "md5_full": null,
+      "md5_head1mb": "5c866fd3e797c42262ec7808ca31d9f4",
+      "looks_html": false,
+      "verdict": "PK MAGIC but zip unreadable (truncated?): File is not a zip file",
+      "pk_magic": true
+    },
+    "boe_annex_live_status": {
+      "status": 200,
+      "size": "166324",
+      "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "boe_annex_wb": {
+      "label": "BoE annex 2018-q4 wb2022",
+      "url": "https://web.archive.org/web/20221224155757id_/https://www.bankofengland.co.uk/-/media/boe/files/bank-liabilities-survey/2018/bank-liabilities-survey-annex---2018-q4.xlsx",
+      "http_status": 200,
+      "bytes_downloaded": 166324,
+      "truncated_at_cap": false,
+      "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "error": null,
+      "md5_full": "553012f8e9d3612569e7073681a0051b",
+      "md5_head1mb": "553012f8e9d3612569e7073681a0051b",
+      "looks_html": false,
+      "zip_entries": [
+        "[Content_Types].xml",
+        "_rels/.rels",
+        "xl/_rels/workbook.xml.rels",
+        "xl/workbook.xml",
+        "xl/styles.xml",
+        "xl/worksheets/_rels/sheet2.xml.rels",
+        "xl/worksheets/sheet2.xml",
+        "xl/theme/theme1.xml",
+        "xl/worksheets/sheet1.xml",
+        "xl/sharedStrings.xml",
+        "docProps/custom.xml",
+        "docProps/core.xml"
+      ],
+      "zip_n_entries": 14,
+      "verdict": "REAL \u2014 valid zip (xlsx/zip family)"
+    },
+    "scop": [
+      {
+        "label": "SCOP scop-cla-20200228.txt wb2020",
+        "url": "https://web.archive.org/web/20201202220621id_/http://scop.mrc-lmb.cam.ac.uk/files/scop-cla-20200228.txt",
+        "http_status": 200,
+        "bytes_downloaded": 1048576,
+        "truncated_at_cap": false,
+        "content_type": "text/plain",
+        "error": null,
+        "md5_full": "1587ec3973a770b813cb5666d5b9e1a9",
+        "md5_head1mb": "fe0235f8e98676b5bf55603d77532193",
+        "looks_html": false,
+        "lines_sampled": 8687,
+        "first_line": "# SCOP release 2020-02-28",
+        "verdict": "REAL \u2014 decodable text data"
+      }
+    ],
+    "scop_live_status": {
+      "scop-cla-20200228.txt": {
+        "status": 404,
+        "size": null,
+        "type": "text/html; charset=iso-8859-1"
+      },
+      "scop-cla-latest.txt": {
+        "status": 404,
+        "size": null,
+        "type": "text/html; charset=iso-8859-1"
+      }
+    },
+    "starling_wb": [
+      {
+        "label": "Starling bsh.xls wb2022",
+        "url": "https://web.archive.org/web/20220308004146id_/https://starlingdb.org/bsh.xls",
+        "http_status": 200,
+        "bytes_downloaded": 49664,
+        "truncated_at_cap": false,
+        "content_type": "application/vnd.ms-excel",
+        "error": null,
+        "md5_full": "381b4d300ea2f067fae06c33f3e975f8",
+        "md5_head1mb": "381b4d300ea2f067fae06c33f3e975f8",
+        "looks_html": false,
+        "verdict": "REAL \u2014 OLE2 (legacy .xls)",
+        "ole2": true
+      },
+      {
+        "label": "Starling bshet.xls wb2022",
+        "url": "https://web.archive.org/web/20220308004544id_/https://starlingdb.org/bshet.xls",
+        "http_status": 200,
+        "bytes_downloaded": 338944,
+        "truncated_at_cap": false,
+        "content_type": "application/vnd.ms-excel",
+        "error": null,
+        "md5_full": "75416e4925190dc6cbf24e845a4c6309",
+        "md5_head1mb": "75416e4925190dc6cbf24e845a4c6309",
+        "looks_html": false,
+        "verdict": "REAL \u2014 OLE2 (legacy .xls)",
+        "ole2": true
+      }
+    ],
+    "starling_live_status": {
+      "bsh.xls": {
+        "status": 200,
+        "size": "49664",
+        "type": "application/vnd.ms-excel"
+      },
+      "bshet.xls": {
+        "status": 200,
+        "size": "338944",
+        "type": "application/vnd.ms-excel"
+      }
+    },
+    "starling_live": [
+      {
+        "label": "Starling timestr.zip live",
+        "url": "https://starlingdb.org/timestr.zip",
+        "http_status": 200,
+        "bytes_downloaded": 261439,
+        "truncated_at_cap": false,
+        "content_type": "application/zip",
+        "error": null,
+        "md5_full": "6e44e988c64bfa8065e1e7eec22dbcf0",
+        "md5_head1mb": "6e44e988c64bfa8065e1e7eec22dbcf0",
+        "looks_html": false,
+        "zip_entries": [
+          "TIMESTAR.TTF",
+          "COURSTAR.TTF",
+          "STARLING.KBD",
+          "PERSIAN.TTF",
+          "GREEK.TTF",
+          "STARLING.DLL",
+          "EGA40866.FON",
+          "SLAV.TTF"
+        ],
+        "zip_n_entries": 8,
+        "verdict": "REAL \u2014 valid zip (xlsx/zip family)"
+      }
+    ],
+    "villanova": {
+      "astronomy.villanova.edu/WDCatalog/*": {
+        "collapsed": 8000,
+        "ok200": 2698,
+        "files": [
+          {
+            "ts": "20030802065442",
+            "url": "http://www.astronomy.villanova.edu:80/WDCatalog/0-5.html",
+            "length": "9040"
+          },
+          {
+            "ts": "20040518120720",
+            "url": "http://www.astronomy.villanova.edu:80/WDCatalog/12-17.html",
+            "length": "12220"
+          },
+          {
+            "ts": "20041218035129",
+            "url": "http://www.astronomy.villanova.edu:80/WDCatalog/18-23.html",
+            "length": "8638"
+          },
+          {
+            "ts": "20041218040107",
+            "url": "http://www.astronomy.villanova.edu:80/WDCatalog/6-11.html",
+            "length": "18967"
+          },
+          {
+            "ts": "20060828060322",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/binary.htm",
+            "length": "8709"
+          },
+          {
+            "ts": "20060828041054",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/coords2000.html",
+            "length": "76332"
+          },
+          {
+            "ts": "20220124082536",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/index",
+            "length": "773"
+          },
+          {
+            "ts": "20030415222312",
+            "url": "http://www.astronomy.villanova.edu:80/WDCatalog/index.htm",
+            "length": "743"
+          },
+          {
+            "ts": "20020425075242",
+            "url": "http://www.astronomy.villanova.edu:80/WDCatalog/index.html",
+            "length": "626"
+          },
+          {
+            "ts": "20040719190312",
+            "url": "http://www.astronomy.villanova.edu:80/WDCatalog/Misc/CrossRef.htm",
+            "length": "70128"
+          },
+          {
+            "ts": "20060828030601",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Misc/Notes.htm",
+            "length": "11299"
+          },
+          {
+            "ts": "20060828041010",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Misc/Preface.html",
+            "length": "16233"
+          },
+          {
+            "ts": "20060828060427",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/NewStars.html",
+            "length": "35462"
+          },
+          {
+            "ts": "20060828030346",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/other.htm",
+            "length": "49090"
+          },
+          {
+            "ts": "20060828030534",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/readme.html",
+            "length": "5377"
+          },
+          {
+            "ts": "20060901142857",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/01.htm",
+            "length": "639"
+          },
+          {
+            "ts": "20060828032534",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/02.htm",
+            "length": "638"
+          },
+          {
+            "ts": "20060828031330",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/03.htm",
+            "length": "609"
+          },
+          {
+            "ts": "20060828040750",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/04.htm",
+            "length": "618"
+          },
+          {
+            "ts": "20060828035803",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/05.htm",
+            "length": "634"
+          },
+          {
+            "ts": "20060828034747",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/06.htm",
+            "length": "620"
+          },
+          {
+            "ts": "20060901161731",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/07.htm",
+            "length": "612"
+          },
+          {
+            "ts": "20060901142402",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/08.htm",
+            "length": "634"
+          },
+          {
+            "ts": "20060901154912",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/09.htm",
+            "length": "530"
+          },
+          {
+            "ts": "20060828031141",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/10.htm",
+            "length": "690"
+          },
+          {
+            "ts": "20060901160041",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/11.htm",
+            "length": "592"
+          },
+          {
+            "ts": "20060828035545",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/12.htm",
+            "length": "681"
+          },
+          {
+            "ts": "20060901153351",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/13.htm",
+            "length": "650"
+          },
+          {
+            "ts": "20060828035712",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/14.htm",
+            "length": "656"
+          },
+          {
+            "ts": "20060828040022",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/15.htm",
+            "length": "720"
+          },
+          {
+            "ts": "20060901153355",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/16.htm",
+            "length": "628"
+          },
+          {
+            "ts": "20060901153346",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/17.htm",
+            "length": "621"
+          },
+          {
+            "ts": "20060901133030",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/19.htm",
+            "length": "520"
+          },
+          {
+            "ts": "20060901133552",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/1a.htm",
+            "length": "548"
+          },
+          {
+            "ts": "20060901133512",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/1b.htm",
+            "length": "546"
+          },
+          {
+            "ts": "20060901150928",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/1c.htm",
+            "length": "548"
+          },
+          {
+            "ts": "20060901154640",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/1d.htm",
+            "length": "547"
+          },
+          {
+            "ts": "20060901213000",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/1e.htm",
+            "length": "546"
+          },
+          {
+            "ts": "20060901135315",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/1f.htm",
+            "length": "546"
+          },
+          {
+            "ts": "20060901152229",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/1g.htm",
+            "length": "548"
+          }
+        ]
+      },
+      "www.astronomy.villanova.edu/WDCatalog/*": {
+        "collapsed": 8000,
+        "ok200": 2698,
+        "files": [
+          {
+            "ts": "20030802065442",
+            "url": "http://www.astronomy.villanova.edu:80/WDCatalog/0-5.html",
+            "length": "9040"
+          },
+          {
+            "ts": "20040518120720",
+            "url": "http://www.astronomy.villanova.edu:80/WDCatalog/12-17.html",
+            "length": "12220"
+          },
+          {
+            "ts": "20041218035129",
+            "url": "http://www.astronomy.villanova.edu:80/WDCatalog/18-23.html",
+            "length": "8638"
+          },
+          {
+            "ts": "20041218040107",
+            "url": "http://www.astronomy.villanova.edu:80/WDCatalog/6-11.html",
+            "length": "18967"
+          },
+          {
+            "ts": "20060828060322",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/binary.htm",
+            "length": "8709"
+          },
+          {
+            "ts": "20060828041054",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/coords2000.html",
+            "length": "76332"
+          },
+          {
+            "ts": "20220124082536",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/index",
+            "length": "773"
+          },
+          {
+            "ts": "20030415222312",
+            "url": "http://www.astronomy.villanova.edu:80/WDCatalog/index.htm",
+            "length": "743"
+          },
+          {
+            "ts": "20020425075242",
+            "url": "http://www.astronomy.villanova.edu:80/WDCatalog/index.html",
+            "length": "626"
+          },
+          {
+            "ts": "20040719190312",
+            "url": "http://www.astronomy.villanova.edu:80/WDCatalog/Misc/CrossRef.htm",
+            "length": "70128"
+          },
+          {
+            "ts": "20060828030601",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Misc/Notes.htm",
+            "length": "11299"
+          },
+          {
+            "ts": "20060828041010",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Misc/Preface.html",
+            "length": "16233"
+          },
+          {
+            "ts": "20060828060427",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/NewStars.html",
+            "length": "35462"
+          },
+          {
+            "ts": "20060828030346",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/other.htm",
+            "length": "49090"
+          },
+          {
+            "ts": "20060828030534",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/readme.html",
+            "length": "5377"
+          },
+          {
+            "ts": "20060901142857",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/01.htm",
+            "length": "639"
+          },
+          {
+            "ts": "20060828032534",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/02.htm",
+            "length": "638"
+          },
+          {
+            "ts": "20060828031330",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/03.htm",
+            "length": "609"
+          },
+          {
+            "ts": "20060828040750",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/04.htm",
+            "length": "618"
+          },
+          {
+            "ts": "20060828035803",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/05.htm",
+            "length": "634"
+          },
+          {
+            "ts": "20060828034747",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/06.htm",
+            "length": "620"
+          },
+          {
+            "ts": "20060901161731",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/07.htm",
+            "length": "612"
+          },
+          {
+            "ts": "20060901142402",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/08.htm",
+            "length": "634"
+          },
+          {
+            "ts": "20060901154912",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/09.htm",
+            "length": "530"
+          },
+          {
+            "ts": "20060828031141",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/10.htm",
+            "length": "690"
+          },
+          {
+            "ts": "20060901160041",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/11.htm",
+            "length": "592"
+          },
+          {
+            "ts": "20060828035545",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/12.htm",
+            "length": "681"
+          },
+          {
+            "ts": "20060901153351",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/13.htm",
+            "length": "650"
+          },
+          {
+            "ts": "20060828035712",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/14.htm",
+            "length": "656"
+          },
+          {
+            "ts": "20060828040022",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/15.htm",
+            "length": "720"
+          },
+          {
+            "ts": "20060901153355",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/16.htm",
+            "length": "628"
+          },
+          {
+            "ts": "20060901153346",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/17.htm",
+            "length": "621"
+          },
+          {
+            "ts": "20060901133030",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/19.htm",
+            "length": "520"
+          },
+          {
+            "ts": "20060901133552",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/1a.htm",
+            "length": "548"
+          },
+          {
+            "ts": "20060901133512",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/1b.htm",
+            "length": "546"
+          },
+          {
+            "ts": "20060901150928",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/1c.htm",
+            "length": "548"
+          },
+          {
+            "ts": "20060901154640",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/1d.htm",
+            "length": "547"
+          },
+          {
+            "ts": "20060901213000",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/1e.htm",
+            "length": "546"
+          },
+          {
+            "ts": "20060901135315",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/1f.htm",
+            "length": "546"
+          },
+          {
+            "ts": "20060901152229",
+            "url": "http://www.astronomy.villanova.edu/WDCatalog/Refhtm/1g.htm",
+            "length": "548"
+          }
+        ]
+      }
+    },
+    "cath_live": [
+      {
+        "label": "CATH text.label live",
+        "url": "https://www.cathdb.info/browse/text.label",
+        "http_status": 404,
+        "bytes_downloaded": 10520,
+        "truncated_at_cap": false,
+        "content_type": "text/html; charset=utf-8",
+        "error": null,
+        "md5_full": "a5b3b57b59695ee0b2e2f3697084b725",
+        "md5_head1mb": "a5b3b57b59695ee0b2e2f3697084b725",
+        "looks_html": true,
+        "verdict": "PHANTOM \u2014 HTML page, not data"
+      },
+      {
+        "label": "CATH file.fasta live (docs example path)",
+        "url": "https://www.cathdb.info/path/to/file.fasta",
+        "http_status": 404,
+        "bytes_downloaded": 10521,
+        "truncated_at_cap": false,
+        "content_type": "text/html; charset=utf-8",
+        "error": null,
+        "md5_full": "e8d872c7162831cd484026ee6b6a403a",
+        "md5_head1mb": "e8d872c7162831cd484026ee6b6a403a",
+        "looks_html": true,
+        "verdict": "PHANTOM \u2014 HTML page, not data"
+      }
+    ],
+    "cath_wb_sample": {
+      "label": "CATH API derived .fa wb2011",
+      "url": "https://web.archive.org/web/20111217094726id_/http://www.cathdb.info:80/api/data/derived_data/00001.00010.00010.00010/SSG5/11/00001.00010.00010.00010__SSG5__11.aln_reps.cora.fa",
+      "http_status": 200,
+      "bytes_downloaded": 512,
+      "truncated_at_cap": false,
+      "content_type": "text/plain; charset=UTF-8",
+      "error": null,
+      "md5_full": "db51d502c670432e548680f06015c2d5",
+      "md5_head1mb": "db51d502c670432e548680f06015c2d5",
+      "looks_html": false,
+      "lines_sampled": 12,
+      "first_line": ">domain|1ft9A02|3_4_0",
+      "verdict": "REAL \u2014 decodable text data"
+    },
+    "rug_live": [
+      {
+        "label": "RUG hna_bel_09.xls live",
+        "url": "https://www.rug.nl/ggdc/docs/hna_bel_09.xls",
+        "http_status": 200,
+        "bytes_downloaded": 786944,
+        "truncated_at_cap": false,
+        "content_type": "application/vnd.ms-excel;charset=UTF-8",
+        "error": null,
+        "md5_full": "553c05160a31130aeeef9774e719fee5",
+        "md5_head1mb": "553c05160a31130aeeef9774e719fee5",
+        "looks_html": false,
+        "verdict": "REAL \u2014 OLE2 (legacy .xls)",
+        "ole2": true
+      }
+    ],
+    "pdg_live": [
+      {
+        "label": "PDG mass_width_2026.txt live",
+        "url": "https://pdg.lbl.gov/2026/mcdata/mass_width_2026.txt",
+        "http_status": 200,
+        "bytes_downloaded": 31863,
+        "truncated_at_cap": false,
+        "content_type": "text/plain",
+        "error": null,
+        "md5_full": "90d304f3df77266daf8ec3a3eef447a4",
+        "md5_head1mb": "90d304f3df77266daf8ec3a3eef447a4",
+        "looks_html": false,
+        "lines_sampled": 275,
+        "first_line": "* MASSES, WIDTHS, AND MC ID NUMBERS FROM 2026 EDITION OF RPP",
+        "verdict": "REAL \u2014 decodable text data"
+      }
+    ],
+    "oeis_live": [
+      {
+        "label": "OEIS b001006.txt live",
+        "url": "https://oeis.org/A001006/b001006.txt",
+        "http_status": 200,
+        "bytes_downloaded": 1062369,
+        "truncated_at_cap": false,
+        "content_type": "text/plain; charset=utf-8",
+        "error": null,
+        "md5_full": "44ee15276b5e42654f6c0c400bbea21b",
+        "md5_head1mb": "c56f6ca15eb2981eb8c6711c278a56ec",
+        "looks_html": false,
+        "lines_sampled": 2107,
+        "first_line": "0 1",
+        "verdict": "REAL \u2014 decodable text data"
+      }
+    ],
+    "ucsc_gbdb_live_status": {
+      "status": 200,
+      "size": "22730493",
+      "type": null
+    },
+    "mpc_wb": [
+      {
+        "label": "MPC asteroid_data.json wb2015",
+        "url": "https://web.archive.org/web/20151026125757id_/http://www.minorplanetcenter.net:80/asteroid_explorers/asteroid_data.json",
+        "http_status": 200,
+        "bytes_downloaded": 3703427,
+        "truncated_at_cap": false,
+        "content_type": "application/json; charset=utf-8",
+        "error": null,
+        "md5_full": "b0ed1d30bf7eb0c7103a4aa563f910c2",
+        "md5_head1mb": "204e67e54a70079982f7be3a21f9f73e",
+        "looks_html": false,
+        "lines_sampled": 0,
+        "first_line": "[{\"designation\":\"2013 BW76\",\"close_app_date\":\"2024 11 14\",\"close_app_dist\":\"42\",\"impact_prob_float\":\"0.0\",\"impact_prob\":\"0\",\"taxonomy_class\":\"\",\"pha\":\"Yes\",\"siz",
+        "verdict": "REAL \u2014 decodable text data"
+      }
+    ]
+  }
+}

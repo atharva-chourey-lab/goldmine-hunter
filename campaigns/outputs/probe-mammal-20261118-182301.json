@@ -1,0 +1,270 @@
+{
+  "probe_mammal_top6": [
+    {
+      "niche": "whale-fluke-trailing-edge",
+      "host": "Juneau Flukes catalog",
+      "url": "https://www.juneauflukes.org",
+      "pages": 5,
+      "unique_data_files": 0,
+      "live_top": [],
+      "wayback200_data": 3,
+      "wayback200_images": 461,
+      "wayback_data_exts": {
+        ".txt": 1,
+        ".xml": 1,
+        ".mp3": 1
+      },
+      "wayback_top": [
+        {
+          "name": "robots.txt",
+          "url": "http://www.juneauflukes.org/robots.txt",
+          "first_capture": "20131021143711"
+        },
+        {
+          "name": "sitemap.xml",
+          "url": "https://www.juneauflukes.org/sitemap.xml",
+          "first_capture": "20240514073748"
+        },
+        {
+          "name": "hw_feeding_call_sound_file.mp3",
+          "url": "http://www.juneauflukes.org/uploads/2/0/8/2/20826816/hw_feeding_call_sound_file.mp3",
+          "first_capture": "20170113022657"
+        }
+      ]
+    },
+    {
+      "niche": "paw-track-morphometrics-fit",
+      "host": "WildTrack / ConservationFIT",
+      "url": "https://www.wildtrack.org",
+      "pages": 15,
+      "unique_data_files": 4,
+      "live_top": [
+        {
+          "name": "sitemap-index.xml",
+          "url": "https://www.wildtrack.org/sitemap-index.xml",
+          "mammal_score": 0
+        },
+        {
+          "name": "primaryCta.label",
+          "url": "https://www.wildtrack.org/primaryCta.label",
+          "mammal_score": 0
+        },
+        {
+          "name": "secondaryCta.label",
+          "url": "https://www.wildtrack.org/secondaryCta.label",
+          "mammal_score": 0
+        },
+        {
+          "name": "cta.label",
+          "url": "https://www.wildtrack.org/cta.label",
+          "mammal_score": 0
+        }
+      ],
+      "wayback200_data": 7,
+      "wayback200_images": 876,
+      "wayback_data_exts": {
+        ".xml": 7
+      },
+      "wayback_top": [
+        {
+          "name": "image-sitemap-1.xml",
+          "url": "https://wildtrack.org/image-sitemap-1.xml",
+          "first_capture": "20220716094756"
+        },
+        {
+          "name": "index.xml",
+          "url": "https://www.wildtrack.org/index.xml",
+          "first_capture": "20250327185208"
+        },
+        {
+          "name": "news-sitemap.xml",
+          "url": "https://wildtrack.org/news-sitemap.xml",
+          "first_capture": "20220716094755"
+        },
+        {
+          "name": "sitemap-1.xml",
+          "url": "https://wildtrack.org/sitemap-1.xml",
+          "first_capture": "20220716094758"
+        },
+        {
+          "name": "sitemap.xml",
+          "url": "https://wildtrack.org/sitemap.xml",
+          "first_capture": "20220716094740"
+        },
+        {
+          "name": "video-sitemap-1.xml",
+          "url": "https://wildtrack.org/video-sitemap-1.xml",
+          "first_capture": "20220716094753"
+        },
+        {
+          "name": "wlwmanifest.xml",
+          "url": "http://wildtrack.org/wp-includes/wlwmanifest.xml",
+          "first_capture": "20131005145643"
+        }
+      ]
+    },
+    {
+      "niche": "dolphin-dorsal-fin-notches",
+      "host": "Sarasota Dolphin Research Program / GoMDIS",
+      "url": "https://sarasotadolphin.org",
+      "pages": 15,
+      "unique_data_files": 1,
+      "live_top": [
+        {
+          "name": "My-Movie.mp4",
+          "url": "https://sarasotadolphin.org/wp-content/uploads/2020/08/My-Movie.mp4",
+          "mammal_score": 0
+        }
+      ],
+      "wayback200_data": 18,
+      "wayback200_images": 334,
+      "wayback_data_exts": {
+        ".xml": 17,
+        ".txt": 1
+      },
+      "wayback_top": [
+        {
+          "name": "asp-products-sitemap.xml",
+          "url": "https://sarasotadolphin.org/asp-products-sitemap.xml",
+          "first_capture": "20220701140731"
+        },
+        {
+          "name": "author-sitemap.xml",
+          "url": "https://sarasotadolphin.org/author-sitemap.xml",
+          "first_capture": "20220701140727"
+        },
+        {
+          "name": "avada_faq-sitemap.xml",
+          "url": "https://sarasotadolphin.org/avada_faq-sitemap.xml",
+          "first_capture": "20220701140827"
+        },
+        {
+          "name": "avada_portfolio-sitemap.xml",
+          "url": "https://sarasotadolphin.org/avada_portfolio-sitemap.xml",
+          "first_capture": "20220701140742"
+        },
+        {
+          "name": "category-sitemap.xml",
+          "url": "https://sarasotadolphin.org/category-sitemap.xml",
+          "first_capture": "20220701140747"
+        },
+        {
+          "name": "element_category-sitemap.xml",
+          "url": "https://sarasotadolphin.org/element_category-sitemap.xml",
+          "first_capture": "20220701140741"
+        },
+        {
+          "name": "faq_category-sitemap.xml",
+          "url": "https://sarasotadolphin.org/faq_category-sitemap.xml",
+          "first_capture": "20220701140732"
+        },
+        {
+          "name": "frm_display-sitemap.xml",
+          "url": "https://sarasotadolphin.org/frm_display-sitemap.xml",
+          "first_capture": "20220701140831"
+        },
+        {
+          "name": "fusion_tb_category-sitemap.xml",
+          "url": "https://sarasotadolphin.org/fusion_tb_category-sitemap.xml",
+          "first_capture": "20220701140729"
+        },
+        {
+          "name": "page-sitemap.xml",
+          "url": "https://sarasotadolphin.org/page-sitemap.xml",
+          "first_capture": "20220701140739"
+        },
+        {
+          "name": "portfolio_category-sitemap.xml",
+          "url": "https://sarasotadolphin.org/portfolio_category-sitemap.xml",
+          "first_capture": "20220701140728"
+        },
+        {
+          "name": "post-sitemap.xml",
+          "url": "https://sarasotadolphin.org/post-sitemap.xml",
+          "first_capture": "20220701140731"
+        }
+      ]
+    },
+    {
+      "niche": "elephant-ear-edge-veins",
+      "host": "ElephantVoices",
+      "url": "https://www.elephantvoices.org",
+      "pages": 15,
+      "unique_data_files": 1,
+      "live_top": [
+        {
+          "name": "7c052b7919ae79977ed401a5f6e0f81ebcda0237.mp4",
+          "url": "https://cdn.sanity.io/files/1367lwmq/production/7c052b7919ae79977ed401a5f6e0f81ebcda0237.mp4",
+          "mammal_score": 0
+        }
+      ],
+      "wayback200_data": 20,
+      "wayback200_images": 751,
+      "wayback_data_exts": {
+        ".mp3": 20
+      },
+      "wayback_top": [
+        {
+          "name": "elephantvoices_elebeats_1_4mb.mp3",
+          "url": "http://www.elephantvoices.org//audio/elephantvoices_elebeats_1_4mb.mp3",
+          "first_capture": "20120206123830"
+        },
+        {
+          "name": "poole_elephantvoices.mp3",
+          "url": "http://www.elephantvoices.org//audio/poole_elephantvoices.mp3",
+          "first_capture": "20120204202122"
+        },
+        {
+          "name": "204_NGW_092708_Hr2_SegA.mp3",
+          "url": "http://www.elephantvoices.org//audio/204_NGW_092708_Hr2_SegA.mp3",
+          "first_capture": "20120204202545"
+        },
+        {
+          "name": "204_NGW_092708_Hr2_SegB.mp3",
+          "url": "http://www.elephantvoices.org//audio/204_NGW_092708_Hr2_SegB.mp3",
+          "first_capture": "20120204202317"
+        },
+        {
+          "name": "B2611643_48.mp3",
+          "url": "http://www.elephantvoices.org//audio/B2611643_48.mp3",
+          "first_capture": "20120124053226"
+        },
+        {
+          "name": "B3711329_48.mp3",
+          "url": "http://www.elephantvoices.org//audio/B3711329_48.mp3",
+          "first_capture": "20120124040159"
+        },
+        {
+          "name": "B3903431_top.mp3",
+          "url": "http://www.elephantvoices.org//audio/B3903431_top.mp3",
+          "first_capture": "20120204202059"
+        },
+        {
+          "name": "B4604247_48.mp3",
+          "url": "http://www.elephantvoices.org//audio/B4604247_48.mp3",
+          "first_capture": "20120127032828"
+        },
+        {
+          "name": "c1900510_48series.mp3",
+          "url": "http://www.elephantvoices.org//audio/c1900510_48series.mp3",
+          "first_capture": "20120127063526"
+        },
+        {
+          "name": "C2303017_48.mp3",
+          "url": "http://www.elephantvoices.org//audio/C2303017_48.mp3",
+          "first_capture": "20120127041156"
+        },
+        {
+          "name": "C2403916_48.mp3",
+          "url": "http://www.elephantvoices.org//audio/C2403916_48.mp3",
+          "first_capture": "20120127053640"
+        },
+        {
+          "name": "C2700009_48.mp3",
+          "url": "http://www.elephantvoices.org//audio/C2700009_48.mp3",
+          "first_capture": "20120127051006"
+        }
+      ]
+    }
+  ]
+}

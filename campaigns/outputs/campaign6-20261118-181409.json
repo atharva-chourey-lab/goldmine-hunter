@@ -1,0 +1,566 @@
+{
+  "campaign6_wave1": [
+    {
+      "seed": 1,
+      "niche": "frog-call-archives",
+      "label": "Fonoteca Zoologica (fonozoo.com)",
+      "url": "https://www.fonozoo.com/",
+      "pages": 2,
+      "unique_data_files": 0,
+      "images": 1,
+      "top": [],
+      "wayback_data_files_status200": 201,
+      "wayback_data_files_raw": 224,
+      "wayback_sets_status200": {
+        "/fnz_back/propios/files": 128,
+        "/fnz_back/publicados/files": 28,
+        "/archivos": 23,
+        "/audios": 12,
+        "/eng/cuba": 3,
+        "/eng/bali": 2,
+        "/fnz_back/tonos/files": 2,
+        "/cigarraldemenores/ambientecigarras": 1,
+        "/cigarraldemenores/ambientehita": 1,
+        "/cigarraldemenores/cororanas": 1
+      },
+      "wayback_top": [
+        {
+          "name": "NotOadeModified.wav",
+          "url": "http://www.fonozoo.com/audios/NotOadeModified.wav",
+          "first_capture": "20150922022143",
+          "status": "200"
+        },
+        {
+          "name": "OadeModified.wav",
+          "url": "http://www.fonozoo.com/audios/OadeModified.wav",
+          "first_capture": "20150922164438",
+          "status": "200"
+        },
+        {
+          "name": "03-07-08-14-49-11.mp3",
+          "url": "http://www.fonozoo.com/archivos/03-07-08-14-49-11.mp3",
+          "first_capture": "20120121072203",
+          "status": "200"
+        },
+        {
+          "name": "03-07-08-14-49-30.mp3",
+          "url": "http://www.fonozoo.com/archivos/03-07-08-14-49-30.mp3",
+          "first_capture": "20120121041732",
+          "status": "200"
+        },
+        {
+          "name": "05-03-09-13-19-34.mp3",
+          "url": "http://www.fonozoo.com/archivos/05-03-09-13-19-34.mp3",
+          "first_capture": "20120121061917",
+          "status": "200"
+        },
+        {
+          "name": "05-12-06-15-42-04.mp3",
+          "url": "http://www.fonozoo.com/archivos/05-12-06-15-42-04.mp3",
+          "first_capture": "20120121071435",
+          "status": "200"
+        },
+        {
+          "name": "06-05-05-13-32-40.mp3",
+          "url": "http://www.fonozoo.com/archivos/06-05-05-13-32-40.mp3",
+          "first_capture": "20120121040803",
+          "status": "200"
+        },
+        {
+          "name": "09-05-05-09-52-08.mp3",
+          "url": "http://www.fonozoo.com:80/archivos/09-05-05-09-52-08.mp3",
+          "first_capture": "20060514095941",
+          "status": "200"
+        },
+        {
+          "name": "09-05-05-09-58-52.mp3",
+          "url": "http://www.fonozoo.com:80/archivos/09-05-05-09-58-52.mp3",
+          "first_capture": "20060217013754",
+          "status": "200"
+        },
+        {
+          "name": "09-05-05-10-09-53.mp3",
+          "url": "http://www.fonozoo.com:80/archivos/09-05-05-10-09-53.mp3",
+          "first_capture": "20060514100303",
+          "status": "200"
+        },
+        {
+          "name": "10-07-06-15-43-13.mp3",
+          "url": "http://www.fonozoo.com/archivos/10-07-06-15-43-13.mp3",
+          "first_capture": "20120121063738",
+          "status": "200"
+        },
+        {
+          "name": "10-07-06-15-44-36.mp3",
+          "url": "http://www.fonozoo.com/archivos/10-07-06-15-44-36.mp3",
+          "first_capture": "20120121060813",
+          "status": "200"
+        },
+        {
+          "name": "10-07-06-16-00-05.mp3",
+          "url": "http://www.fonozoo.com/archivos/10-07-06-16-00-05.mp3",
+          "first_capture": "20120121062537",
+          "status": "200"
+        },
+        {
+          "name": "13-12-05-14-32-59.mp3",
+          "url": "http://www.fonozoo.com:80/archivos/13-12-05-14-32-59.mp3",
+          "first_capture": "20060514095920",
+          "status": "200"
+        },
+        {
+          "name": "15-06-04-16-17-30.mp3",
+          "url": "http://www.fonozoo.com:80/archivos/15-06-04-16-17-30.mp3",
+          "first_capture": "20060514100316",
+          "status": "200"
+        },
+        {
+          "name": "15-06-04-17-20-001.wav",
+          "url": "http://www.fonozoo.com:80/archivos/15-06-04-17-20-001.wav",
+          "first_capture": "20060509010014",
+          "status": "200"
+        },
+        {
+          "name": "15-06-04-17-20-002.wav",
+          "url": "http://www.fonozoo.com:80/archivos/15-06-04-17-20-002.wav",
+          "first_capture": "20060509005908",
+          "status": "200"
+        },
+        {
+          "name": "15-06-04-17-33-261.wav",
+          "url": "http://www.fonozoo.com:80/archivos/15-06-04-17-33-261.wav",
+          "first_capture": "20060509010019",
+          "status": "200"
+        },
+        {
+          "name": "15-06-04-17-33-262.wav",
+          "url": "http://www.fonozoo.com:80/archivos/15-06-04-17-33-262.wav",
+          "first_capture": "20060509010026",
+          "status": "200"
+        },
+        {
+          "name": "15-06-04-18-17-33.wav",
+          "url": "http://www.fonozoo.com:80/archivos/15-06-04-18-17-33.wav",
+          "first_capture": "20060514100328",
+          "status": "200"
+        },
+        {
+          "name": "16-01-06-11-11-021.mp3",
+          "url": "http://www.fonozoo.com:80/archivos/16-01-06-11-11-021.mp3",
+          "first_capture": "20060509005903",
+          "status": "200"
+        },
+        {
+          "name": "16-01-06-11-11-022.mp3",
+          "url": "http://www.fonozoo.com:80/archivos/16-01-06-11-11-022.mp3",
+          "first_capture": "20060509005851",
+          "status": "200"
+        },
+        {
+          "name": "16-01-06-11-11-023.mp3",
+          "url": "http://www.fonozoo.com:80/archivos/16-01-06-11-11-023.mp3",
+          "first_capture": "20060509005925",
+          "status": "200"
+        },
+        {
+          "name": "27-05-08-12-52-24.mp3",
+          "url": "http://www.fonozoo.com/archivos/27-05-08-12-52-24.mp3",
+          "first_capture": "20120121050749",
+          "status": "200"
+        },
+        {
+          "name": "30-04-04-17-28-45.wav",
+          "url": "http://www.fonozoo.com:80/archivos/30-04-04-17-28-45.wav",
+          "first_capture": "20060514100341",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "seed": 1,
+      "niche": "frog-call-archives",
+      "label": "Fonoteca Zoologica catalogue host (fonozoo.mncn.csic.es)",
+      "url": "http://www.fonozoo.mncn.csic.es/",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 2,
+      "wayback_data_files_raw": 3,
+      "wayback_sets_status200": {
+        "/fotos": 2
+      },
+      "wayback_top": [
+        {
+          "name": "11-06-04-11-33-01.txt",
+          "url": "http://www.fonozoo.mncn.csic.es:80/fotos/11-06-04-11-33-01.txt",
+          "first_capture": "20040914113759",
+          "status": "200"
+        },
+        {
+          "name": "20-08-04-11-38-17.txt",
+          "url": "http://www.fonozoo.mncn.csic.es:80/fotos/20-08-04-11-38-17.txt",
+          "first_capture": "20040914114347",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "seed": 2,
+      "niche": "fish-otoliths",
+      "label": "AFORO otolith database (ICM-CSIC)",
+      "url": "http://aforo.cmima.csic.es/",
+      "pages": 23,
+      "unique_data_files": 1,
+      "images": 38,
+      "top": [
+        {
+          "name": "dist.zip",
+          "url": "http://www.cmima.csic.es/aforo-result/DOCS/dist.zip",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 14,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "seed": 3,
+      "niche": "fish-otoliths",
+      "label": "Otolitos UNAM",
+      "url": "https://otolitos.unam.mx/",
+      "pages": 5,
+      "unique_data_files": 1,
+      "images": 41,
+      "top": [
+        {
+          "name": "SierraMineralogica.mp4",
+          "url": "https://otolitos.unam.mx/assets/videos/SierraMineralogica.mp4",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 14,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "seed": 4,
+      "niche": "autopsy-cause-of-death-ledgers",
+      "label": "QMUL Barts dissection registers page",
+      "url": "https://www.qmul.ac.uk/fmd/about/our-history/records-of-bodies-dissected-at-the-st-bartholomews-hospital-medical-college/",
+      "pages": 10,
+      "unique_data_files": 0,
+      "images": 50,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "seed": 5,
+      "niche": "electric-fish-eod",
+      "label": "Mormyrids EOD lab (Cornell/Hopkins lineage) \u2014 DEEP crawl",
+      "url": "https://mormyrids.efishgenomics.com/",
+      "pages": 60,
+      "unique_data_files": 2,
+      "images": 151,
+      "top": [
+        {
+          "name": "rss.xml",
+          "url": "https://mormyrids.efishgenomics.com/en/rss.xml",
+          "score": 6
+        },
+        {
+          "name": "ogooue-field-notes-from-gabons-great-river.xml",
+          "url": "http://www.nature.org/ourinitiatives/regions/africa/wherewework/ogooue-field-notes-from-gabons-great-river.xml",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 2,
+      "wayback_data_files_raw": 2,
+      "wayback_sets_status200": {
+        "/en": 1,
+        "/fr": 1
+      },
+      "wayback_top": [
+        {
+          "name": "rss.xml",
+          "url": "https://mormyrids.efishgenomics.com/en/rss.xml",
+          "first_capture": "20240701180123",
+          "status": "200"
+        },
+        {
+          "name": "rss.xml",
+          "url": "https://mormyrids.efishgenomics.com/fr/rss.xml",
+          "first_capture": "20250620172233",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "seed": 6,
+      "niche": "salmon-scale-archives",
+      "label": "NOAA fisheries root (NEFSC scale lab lives under this domain; targeted InPort check in verify6)",
+      "url": "https://www.fisheries.noaa.gov/",
+      "pages": 15,
+      "unique_data_files": 0,
+      "images": 249,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "seed": 6,
+      "niche": "salmon-scale-archives",
+      "label": "Marine Institute data catalogue (Burrishoole IFBA record)",
+      "url": "https://data.marine.ie/",
+      "pages": 4,
+      "unique_data_files": 1,
+      "images": 1,
+      "top": [
+        {
+          "name": "config-viewer.xml",
+          "url": "https://data.marine.ie/map/config-viewer.xml",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "seed": 7,
+      "niche": "longitudinal-growth-studies",
+      "label": "UK Data Service (Harpenden Growth Study 9330 lives here)",
+      "url": "https://ukdataservice.ac.uk/",
+      "pages": 15,
+      "unique_data_files": 0,
+      "images": 27,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "seed": 8,
+      "niche": "long-term-crop-plot-books",
+      "label": "Sanborn Field story page (MU CAFNR)",
+      "url": "https://cafnr.missouri.edu/stories/from-the-soil-medicine/",
+      "pages": 15,
+      "unique_data_files": 1,
+      "images": 68,
+      "top": [
+        {
+          "name": "MVI_9276.MP4",
+          "url": "https://cafnr.missouri.edu/wp-content/uploads/2026/10/MVI_9276.MP4",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "seed": 9,
+      "niche": "river-gauge-charts",
+      "label": "OPW hydrometric service (waterlevel.ie) \u2014 Irish basin",
+      "url": "https://waterlevel.ie/",
+      "pages": 15,
+      "unique_data_files": 3,
+      "images": 3,
+      "top": [
+        {
+          "name": "25017_0001.csv",
+          "url": "https://waterlevel.ie/data/month/25017_0001.csv",
+          "score": 6
+        },
+        {
+          "name": "25017_OD.csv",
+          "url": "https://waterlevel.ie/data/month/25017_OD.csv",
+          "score": 6
+        },
+        {
+          "name": "group_2.csv",
+          "url": "https://waterlevel.ie/data/group/group_2.csv",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 129,
+      "wayback_data_files_raw": 205,
+      "wayback_sets_status200": {
+        "/0000007037/0002/download": 5,
+        "/0000016154/0002/download": 5,
+        "/0000019059/0003/download": 5,
+        "/0000019059/0001/summary/download": 4,
+        "/0000014004/0001/summary/download": 2,
+        "/0000014067/0003/download": 2,
+        "/0000016001/0001/summary/download": 2,
+        "/0000018002/0002/day/download": 2,
+        "/0000018002/0002/download": 2,
+        "/0000018002/0002/week/download": 2,
+        "/0000018003/0002/day/download": 2,
+        "/0000018019/0002/download": 2
+      },
+      "wayback_top": [
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie/0000006026/0002/download/data.csv?1509303000",
+          "first_capture": "20171103101005",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie:80/0000006060/0001/summary/download/data.csv?1509169179",
+          "first_capture": "20171029213528",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie/0000007001/0003/summary/download/data.csv?1548258301",
+          "first_capture": "20190819013123",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie/0000007003/0002/week/download/data.csv?1548048626",
+          "first_capture": "20190825144521",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie/0000007003/0003/summary/download/data.csv?1548048840",
+          "first_capture": "20190822163005",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie/0000007003/0003/week/download/data.csv?1548049142",
+          "first_capture": "20190817104702",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie:80/0000007037/0002/download/data.csv?1571470724",
+          "first_capture": "20191117235502",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie:80/0000007037/0002/download/data.csv?1574091242",
+          "first_capture": "20191119174343",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie:80/0000007037/0002/download/data.csv?1576722799",
+          "first_capture": "20191223021703",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie:80/0000007037/0002/download/data.csv?1579327869",
+          "first_capture": "20200119034930",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie:80/0000007037/0002/download/data.csv?1581930477",
+          "first_capture": "20200218102020",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie/0000007037/0003/download/data.csv?1548048847",
+          "first_capture": "20190825180102",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie/0000008011/0002/download/data.csv?1509302968",
+          "first_capture": "20171103100617",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie:80/0000009001/0001/summary/download/data.csv?1501399373",
+          "first_capture": "20170731175647",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie/0000009107/0003/week/download/data.csv?1547903394",
+          "first_capture": "20190817104831",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "https://waterlevel.ie/0000009111/0001/summary/download/data.csv?1586834534",
+          "first_capture": "20260205232000",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie/0000010042/0002/download/data.csv?1509302720",
+          "first_capture": "20171103062438",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie/0000012007/0001/summary/download/data.csv?1548048786",
+          "first_capture": "20190819014924",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie/0000012007/0002/day/download/data.csv?1548048732",
+          "first_capture": "20190823183853",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie/0000012007/0002/summary/download/data.csv?1548050136",
+          "first_capture": "20190817104814",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie/0000012007/0003/day/download/data.csv?1548049887",
+          "first_capture": "20190823174952",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie/0000012007/0003/download/data.csv?1548051190",
+          "first_capture": "20190822154004",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie/0000012007/0003/week/download/data.csv?1548048884",
+          "first_capture": "20190819015530",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie/0000012061/0002/download/data.csv?1509302641",
+          "first_capture": "20171103061531",
+          "status": "200"
+        },
+        {
+          "name": "data.csv",
+          "url": "http://waterlevel.ie/0000012063/0002/summary/download/data.csv?1548048870",
+          "first_capture": "20190819013707",
+          "status": "200"
+        }
+      ]
+    }
+  ]
+}

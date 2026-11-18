@@ -1,0 +1,283 @@
+{
+  "mammal_niches_top": [
+    {
+      "rank_input_order": 20,
+      "slug": "manatee-photo-id-scars",
+      "name": "Manatee scar & tail photo-ID system archives",
+      "family": "C. Flukes, fins, ears & callosities",
+      "score": 9,
+      "score_justification": "Florida's MIPS system has matched manatees by scars/tail notches since the 1970s \u2014 a state-run pattern archive with sketch-era roots, mirrored by separate Caribbean/Brazil sets.",
+      "keywords": [
+        "manatee photo identification system MIPS",
+        "manatee scar catalogue identification",
+        "manatee tail notch photographs",
+        "manatee individual identification database"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".pdf",
+        ".csv"
+      ],
+      "gold_words": [
+        "manatee",
+        "scar",
+        "MIPS",
+        "tail notch"
+      ],
+      "fidelity_card": {
+        "RAW": "Underwater photographs and hand-drawn scar sketches in the Manatee Photo-ID System and sister programmes",
+        "UNIT": "One manatee \u2014 thousands of individuals in Florida alone since the 1970s, sketch-then-photo protocol",
+        "LABEL_GAP": "Scar-pattern ID vs PIT-tag/genetic identity recorded at rescue/health assessments (second ruler)",
+        "ANCHOR": "Rescued manatees whose identity is known absolutely at release"
+      },
+      "headline_shape": "A manatee is known by its propeller scars \u2014 the state of Florida keeps a mugshot file, part sketchbook, part database.",
+      "why_niche": "MIPS is an agency system with restricted doors; the sketch-era archive and the non-Florida programmes were never part of any public pattern set.",
+      "rank_by_score": 14,
+      "score_pre_campaign8": 8,
+      "calibration_2026_11_18_campaign8": "Campaign 8: GOLD \u2014 Hartley's frozen April-2013 Practical Scar Sheet set (~200 Blue Spring individuals) stranded on the SMC archive subdomain, absent from MIPS, sample-verified and visually inspected. Score raised on confirmation (frog-call precedent). 8 -> 9."
+    },
+    {
+      "rank_input_order": 48,
+      "slug": "guard-hair-scale-casts",
+      "name": "Mammal guard-hair scale casts & hair atlases (wildlife forensics)",
+      "family": "G. Hair & applied-mark pattern atlases",
+      "score": 8,
+      "score_justification": "The Texas atlas alone covers 150+ species with SEM scale images; ZSI Kolkata, FBI/USFWS-style labs and Brunner & Coman built parallel atlases on three continents that cite different standards.",
+      "keywords": [
+        "guard hair scale cast identification atlas",
+        "mammal hair atlas SEM scale pattern",
+        "hair identification key mammals download",
+        "trichotaxonomy guard hair microphotographs"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".pdf",
+        ".csv"
+      ],
+      "gold_words": [
+        "guard hair",
+        "scale cast",
+        "trichotaxonomy",
+        "cuticular"
+      ],
+      "fidelity_card": {
+        "RAW": "Cuticular scale casts (gelatin/cellulose impressions), SEM surface images and photomicrographs in forensic hair atlases",
+        "UNIT": "One hair \u2014 150+ species in the Texas atlas, 100+ in the Indian and Australian atlases, one cast-and-mount protocol per atlas tradition",
+        "LABEL_GAP": "Species called from scale cast vs DNA barcoding of the same hair/specimen (second ruler)",
+        "ANCHOR": "Museum-vouchered hairs (atlas specimens tied to skins/skulls)"
+      },
+      "headline_shape": "A single guard hair carries a scale pattern like a fingerprint \u2014 forensic atlases were built continent by continent and never checked against each other.",
+      "why_niche": "Hair ID is a forensic service literature: regional atlases (Texas 2009, ZSI series, Brunner & Coman 1974) each keyed their own fauna with their own scale vocabulary.",
+      "rank_by_score": 8,
+      "score_pre_campaign8": 9,
+      "calibration_2026_11_18_campaign8": "Campaign 8: material and loose-file hosting real (CMU personal pages, 57 species), but every surface is a deliberate publication \u2014 atlas PDFs, teaching pages, journal trees. Strandedness over-predicted; SILVER ceiling at the surfaces checked. 9 -> 8."
+    },
+    {
+      "rank_input_order": 23,
+      "slug": "rhino-ear-notch-horn-profiles",
+      "name": "Rhino ear-notch & horn-profile ID records",
+      "family": "C. Flukes, fins, ears & callosities",
+      "score": 8,
+      "score_justification": "Distinct from the landed rhino forearm work: this is the applied ID system \u2014 ear notches cut by managers plus horn silhouette profiles, kept per-reserve in sighting books. (Forearm centroid work excluded.)",
+      "keywords": [
+        "rhino ear notch identification records",
+        "rhino horn profile individual identification",
+        "rhino sighting book ear notch archive",
+        "rhino ID database ear pattern"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".csv",
+        ".pdf"
+      ],
+      "gold_words": [
+        "ear notch",
+        "horn profile",
+        "rhino",
+        "identification"
+      ],
+      "fidelity_card": {
+        "RAW": "Ear-notch diagrams, horn-profile photographs and sighting-book pages from reserves and rhino monitoring programmes",
+        "UNIT": "One rhino \u2014 hundreds per reserve, thousands across programmes, notch-code + profile-photo protocol",
+        "LABEL_GAP": "Notch/horn ID vs DNA from ear-tissue taken at the notching itself, and horn DNA (RhODIS) (second rulers)",
+        "ANCHOR": "RhODIS forensic horn-DNA database as the cross-check anchor"
+      },
+      "headline_shape": "Rhino managers cut a code into the ear and read the horn's silhouette like a skyline \u2014 each reserve keeps its own skyline book.",
+      "why_niche": "Ear-notching is universal practice and per-reserve paperwork; horn profiles accumulate in monitoring photos that no cross-reserve system ingests.",
+      "rank_by_score": 15
+    },
+    {
+      "rank_input_order": 24,
+      "slug": "pinniped-pelage-patterns",
+      "name": "Pinniped pelage-pattern photo-ID (ringed & monk seals)",
+      "family": "C. Flukes, fins, ears & callosities",
+      "score": 8,
+      "score_justification": "Saimaa's SealID set (57 seals, 2,080 images) proved a pelage dataset can be published \u2014 and exposed how many seal colonies still match patterns by eye from slide boxes.",
+      "keywords": [
+        "seal pelage pattern photo identification",
+        "ringed seal fur pattern catalogue",
+        "monk seal photo identification catalog",
+        "seal coat pattern individual identification"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".csv"
+      ],
+      "gold_words": [
+        "pelage",
+        "seal",
+        "fur pattern",
+        "photo-id"
+      ],
+      "fidelity_card": {
+        "RAW": "Seal flank photographs (slides, then digital) in colony photo-ID catalogues",
+        "UNIT": "One flank pattern \u2014 hundreds of individuals per colony catalogue (Saimaa ~400 animals; Cap Blanc monk seals since 1993), haul-out photo protocol",
+        "LABEL_GAP": "Pelage ID vs flipper-tag / telemetry identity of the same seal (second ruler)",
+        "ANCHOR": "SealID's expert-matched public benchmark set (57 individuals, 2,080 images)"
+      },
+      "headline_shape": "A ringed seal wears a fingerprint made of rings over its whole body \u2014 no two seals have ever worn the same one.",
+      "why_niche": "Each seal colony's catalogue belongs to its research group; slide-era catalogues (monk seals 1990s) predate the ML datasets and were never digitised into them.",
+      "rank_by_score": 16
+    },
+    {
+      "rank_input_order": 25,
+      "slug": "tiger-stripe-catalogues",
+      "name": "Tiger stripe-pattern camera-trap catalogues",
+      "family": "D. Coat patterns \u2014 stripes, rosettes, spots & scales",
+      "score": 8,
+      "score_justification": "Every tiger's stripes are mapped by camera traps nationally, but the catalogues are security-sealed per country/programme; the pattern data behind published counts is the stranded layer.",
+      "keywords": [
+        "tiger stripe pattern identification catalogue",
+        "camera trap tiger individual identification data",
+        "tiger stripe database photographs",
+        "Panthera tigris stripe pattern archive"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".csv"
+      ],
+      "gold_words": [
+        "stripe",
+        "tiger",
+        "camera trap",
+        "individual"
+      ],
+      "fidelity_card": {
+        "RAW": "Camera-trap flank photographs and stripe-matching files in national and NGO tiger programmes",
+        "UNIT": "One flank \u2014 thousands of individuals across range countries, standard paired-camera protocol",
+        "LABEL_GAP": "Stripe ID vs genetic ID from scat collected in the same grids (second ruler)",
+        "ANCHOR": "India's national tiger estimation archive as the (restricted) anchor set"
+      },
+      "headline_shape": "No two tigers share a stripe map \u2014 countries count their tigers from stripe photographs and then lock the photographs away.",
+      "why_niche": "Counts are published, pattern files are not; each programme's catalogue is a silo justified by poaching risk, so cross-border tigers are matched by personal contact.",
+      "rank_by_score": 17
+    },
+    {
+      "rank_input_order": 26,
+      "slug": "leopard-jaguar-rosettes",
+      "name": "Leopard & jaguar rosette catalogues",
+      "family": "D. Coat patterns \u2014 stripes, rosettes, spots & scales",
+      "score": 8,
+      "score_justification": "Rosettes ID individuals across hundreds of separate camera-trap studies; Wildbook ingests some, the long tail of thesis-era catalogues is the niche.",
+      "keywords": [
+        "jaguar rosette identification catalogue",
+        "leopard rosette pattern camera trap data",
+        "jaguar individual identification photographs",
+        "leopard spot pattern archive"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".csv"
+      ],
+      "gold_words": [
+        "rosette",
+        "jaguar",
+        "leopard",
+        "camera trap"
+      ],
+      "fidelity_card": {
+        "RAW": "Camera-trap rosette photographs and matching spreadsheets from individual study sites",
+        "UNIT": "One rosette flank \u2014 dozens to hundreds of individuals per study, hundreds of studies, paired-camera protocol",
+        "LABEL_GAP": "Rosette ID vs GPS-collar/genetic identity in the same study animals (second ruler)",
+        "ANCHOR": "Long-term sites (e.g. Cockscomb jaguars, since the 1980s) with known individuals"
+      },
+      "headline_shape": "A jaguar's rosettes are a star-map only it wears \u2014 every valley's researchers keep their own atlas of the same sky.",
+      "why_niche": "Camera-trap science is study-shaped: each project publishes a density estimate and keeps its rosette catalogue in a drawer or a dead laptop.",
+      "rank_by_score": 18
+    },
+    {
+      "rank_input_order": 27,
+      "slug": "zebra-stripe-patterns",
+      "name": "Zebra stripe-pattern ID archives",
+      "family": "D. Coat patterns \u2014 stripes, rosettes, spots & scales",
+      "score": 8,
+      "score_justification": "Stripe ID began with hand-drawn zebra codes in the 1960s (Petersen 1972); Grevy's/plains catalogues per ecosystem, plus the famous mare-foal recognition experiments' photo files.",
+      "keywords": [
+        "zebra stripe pattern identification archive",
+        "zebra individual stripe code catalogue",
+        "Grevy zebra stripe database photographs",
+        "plains zebra photo identification"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".csv",
+        ".pdf"
+      ],
+      "gold_words": [
+        "stripe",
+        "zebra",
+        "stripe code",
+        "photo-id"
+      ],
+      "fidelity_card": {
+        "RAW": "Stripe photographs and hand-coded stripe diagrams from ecosystem monitoring programmes",
+        "UNIT": "One flank/shoulder pattern \u2014 thousands of individuals in the large ecosystem catalogues, photo protocol since the film era",
+        "LABEL_GAP": "Stripe ID vs ear-notch/collar/genetic identity in the same herds (second ruler)",
+        "ANCHOR": "Long-term known-individual herds (e.g. Grevy's in Kenya) as anchor"
+      },
+      "headline_shape": "A zebra's stripes are a barcode its own foal learns by heart \u2014 scientists have been photocopying the barcodes since the sixties.",
+      "why_niche": "Zebra ID moved from drawn codes to StripeSpotter-era software per project; the drawn-code archives and most ecosystem catalogues were never merged.",
+      "rank_by_score": 19
+    },
+    {
+      "rank_input_order": 28,
+      "slug": "giraffe-coat-patterns",
+      "name": "Giraffe coat-pattern ID archives",
+      "family": "D. Coat patterns \u2014 stripes, rosettes, spots & scales",
+      "score": 8,
+      "score_justification": "Giraffe spots are lifelong and individual; tower-by-tower catalogues across Africa, Wildbook for Giraffe ingests a fraction \u2014 the rest are ranger/guide photo files.",
+      "keywords": [
+        "giraffe coat pattern identification catalogue",
+        "giraffe spot pattern individual database",
+        "giraffe photo identification archive",
+        "Masai giraffe pattern photographs"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".csv"
+      ],
+      "gold_words": [
+        "coat pattern",
+        "giraffe",
+        "spot",
+        "photo-id"
+      ],
+      "fidelity_card": {
+        "RAW": "Flank/torso coat-pattern photographs in reserve and research catalogues",
+        "UNIT": "One torso pattern \u2014 hundreds to thousands per population catalogue, right-flank photo convention",
+        "LABEL_GAP": "Coat ID vs GPS-collar and genetic identity in monitored populations (second ruler)",
+        "ANCHOR": "Long-term Serengeti/Murchison known-individual sets"
+      },
+      "headline_shape": "A giraffe wears its name in patches big enough to read from a safari vehicle \u2014 every reserve reads a different page.",
+      "why_niche": "Tourism and research both photograph giraffes constantly; the ID catalogues sit with individual reserves and guides' hard drives, Wildbook coverage notwithstanding.",
+      "rank_by_score": 20
+    }
+  ]
+}

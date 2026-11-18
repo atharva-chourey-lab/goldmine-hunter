@@ -1,0 +1,1292 @@
+{
+  "verify4": {
+    "stsci_head": {
+      "hlsp_agnsedatlas_multi_photometry_all_multi_v1_obs-cat.csv": {
+        "status": 200,
+        "size": "17963",
+        "type": "application/octet-stream"
+      },
+      "hlsp_agnsedatlas_multi_photometry_all_multi_v1_cat.fits": {
+        "status": 200,
+        "size": "54720",
+        "type": "application/octet-stream"
+      },
+      "hlsp_atlas-var_atlas_ccd_all_cyan-orange_dr1_observation.fits": {
+        "status": 200,
+        "size": "63967680",
+        "type": "image/fits"
+      }
+    },
+    "stsci_sample": {
+      "label": "STScI obs-cat.csv live",
+      "url": "https://archive.stsci.edu/hlsps/agnsedatlas/hlsp_agnsedatlas_multi_photometry_all_multi_v1_obs-cat.csv",
+      "http_status": 200,
+      "bytes_downloaded": 17963,
+      "truncated_at_cap": false,
+      "content_type": "application/octet-stream",
+      "error": null,
+      "md5_full": "9b029b3e3e3947ca8ddae95d75297ed1",
+      "md5_head1mb": "9b029b3e3e3947ca8ddae95d75297ed1",
+      "looks_html": false,
+      "lines_sampled": 42,
+      "first_line": "Name, RA (J2000) , Dec (J2000) ,  FUV(GALEX)  ,  UVW2(Swift)  ,  UVM2(Swift)  ,  NUV(GALEX)  ,  UVW1(Swift)  ,    U(Swift)  ,  u(Skymapper)  ,     u(SDSS)  ,  v",
+      "verdict": "REAL \u2014 decodable text data"
+    },
+    "anage_live": [
+      {
+        "label": "AnAge cellAge.zip live",
+        "url": "https://genomics.senescence.info/cells/cellAge.zip",
+        "http_status": 200,
+        "bytes_downloaded": 21540,
+        "truncated_at_cap": false,
+        "content_type": "application/zip",
+        "error": null,
+        "md5_full": "a0543f64ca6574a7b6ffb5bc0bfe1418",
+        "md5_head1mb": "a0543f64ca6574a7b6ffb5bc0bfe1418",
+        "looks_html": false,
+        "zip_entries": [
+          "cellage3.tsv",
+          "release.html"
+        ],
+        "zip_n_entries": 2,
+        "verdict": "REAL \u2014 valid zip",
+        "saved_to": "gold/campaign4-verify/anage-cellAge-live.zip"
+      },
+      {
+        "label": "AnAge diet dataset.zip live",
+        "url": "https://genomics.senescence.info/diet/dataset.zip",
+        "http_status": 200,
+        "bytes_downloaded": 8209,
+        "truncated_at_cap": false,
+        "content_type": "application/zip",
+        "error": null,
+        "md5_full": "dae6d10f7efd893477d3911c61f4a2be",
+        "md5_head1mb": "dae6d10f7efd893477d3911c61f4a2be",
+        "looks_html": false,
+        "zip_entries": [
+          "gendr_manipulations.csv",
+          "release.html"
+        ],
+        "zip_n_entries": 2,
+        "verdict": "REAL \u2014 valid zip"
+      },
+      {
+        "label": "AnAge TableS2.xls live",
+        "url": "https://genomics.senescence.info/diet/TableS2.xls",
+        "http_status": null,
+        "bytes_downloaded": 0,
+        "truncated_at_cap": false,
+        "content_type": null,
+        "error": "HTTPSConnectionPool(host='genomics.senescence.info', port=443): Max retries exceeded with url: /diet/TableS2.xls (Caused by ProxyError('Unable to connect to pro",
+        "verdict": "UNREACHABLE / EMPTY"
+      }
+    ],
+    "anage_wb": [
+      {
+        "label": "AnAge wb supplemental_tables.zip",
+        "url": "https://web.archive.org/web/20171022094929id_/http://genomics.senescence.info/evolution/supplemental_tables.zip",
+        "http_status": 200,
+        "bytes_downloaded": 144136,
+        "truncated_at_cap": false,
+        "content_type": "application/zip",
+        "error": null,
+        "md5_full": "fffb45c0a31a8463368e93bd6bcb09bf",
+        "md5_head1mb": "fffb45c0a31a8463368e93bd6bcb09bf",
+        "looks_html": false,
+        "zip_entries": [
+          "supplemental_tables.xls"
+        ],
+        "zip_n_entries": 1,
+        "verdict": "REAL \u2014 valid zip",
+        "saved_to": "gold/campaign4-verify/anage-supplemental_tables.zip"
+      },
+      {
+        "label": "AnAge wb mammalian_supplement.zip",
+        "url": "https://web.archive.org/web/20171022121512id_/http://genomics.senescence.info/evolution/mammalian_supplement.zip",
+        "http_status": 200,
+        "bytes_downloaded": 105639,
+        "truncated_at_cap": false,
+        "content_type": "application/zip",
+        "error": null,
+        "md5_full": "920664d32bf3a36cd5330d3c3f67eaf0",
+        "md5_head1mb": "920664d32bf3a36cd5330d3c3f67eaf0",
+        "looks_html": false,
+        "zip_entries": [
+          "data.xls",
+          "gene_pairs.xls",
+          "methods.pdf"
+        ],
+        "zip_n_entries": 3,
+        "verdict": "REAL \u2014 valid zip",
+        "saved_to": "gold/campaign4-verify/anage-mammalian_supplement.zip"
+      },
+      {
+        "label": "AnAge wb animals_aln.zip",
+        "url": "https://web.archive.org/web/20060101044930id_/http://genomics.senescence.info:80/evolution/animals_aln.zip",
+        "http_status": 200,
+        "bytes_downloaded": 94513,
+        "truncated_at_cap": false,
+        "content_type": "application/zip",
+        "error": null,
+        "md5_full": "c1d330a8cbda38f45b0c14becd69e4c4",
+        "md5_head1mb": "c1d330a8cbda38f45b0c14becd69e4c4",
+        "looks_html": false,
+        "zip_entries": [
+          "animals_aln/12S.aln",
+          "animals_aln/16S.aln",
+          "animals_aln/ATP6.aln",
+          "animals_aln/ATP8.aln",
+          "animals_aln/COX1.aln",
+          "animals_aln/COX2.aln",
+          "animals_aln/COX3.aln",
+          "animals_aln/CYTB.aln",
+          "animals_aln/ND1.aln",
+          "animals_aln/ND2.aln",
+          "animals_aln/ND3.aln",
+          "animals_aln/ND4.aln"
+        ],
+        "zip_n_entries": 40,
+        "verdict": "REAL \u2014 valid zip",
+        "saved_to": "gold/campaign4-verify/anage-animals_aln.zip"
+      },
+      {
+        "label": "AnAge wb overall_stats.txt",
+        "url": "https://web.archive.org/web/20050224184957id_/http://genomics.senescence.info:80/evolution/overall_stats.txt",
+        "http_status": 200,
+        "bytes_downloaded": 2878,
+        "truncated_at_cap": false,
+        "content_type": "text/plain",
+        "error": null,
+        "md5_full": "7588286883febc8c24159c86fd773a86",
+        "md5_head1mb": "7588286883febc8c24159c86fd773a86",
+        "looks_html": false,
+        "lines_sampled": 59,
+        "first_line": "24-Mar-20\t04  23:06\t\t\t\t\t\t\t\t\t\t\t\t\t",
+        "verdict": "REAL \u2014 decodable text data"
+      }
+    ],
+    "anage_wb_live_status": {
+      "supplemental_tables.zip": {
+        "status": null,
+        "error": "HTTPSConnectionPool(host='genomics.senescence.info', port=443): Max retries exceeded with url: /evolution/supplemental_t"
+      },
+      "mammalian_supplement.zip": {
+        "status": 200,
+        "size": "104548",
+        "type": "application/zip"
+      },
+      "animals_aln.zip": {
+        "status": 200,
+        "size": "91020",
+        "type": "application/zip"
+      },
+      "overall_stats.txt": {
+        "status": 200,
+        "size": "901",
+        "type": "text/plain"
+      }
+    },
+    "now_live": [
+      {
+        "label": "NOW dental csv live",
+        "url": "https://www.nowdatabase.org/static/now/datasets/data_dental_modern_public_10.b63c3f89c38d.csv",
+        "http_status": 200,
+        "bytes_downloaded": 42576,
+        "truncated_at_cap": false,
+        "content_type": "application/octet-stream",
+        "error": null,
+        "md5_full": "b63c3f89c38d2391b9202217359f8060",
+        "md5_head1mb": "b63c3f89c38d2391b9202217359f8060",
+        "looks_html": false,
+        "lines_sampled": 651,
+        "first_line": "TAXON\tORDER\tFAMILY\tHYP\tLOP\tFCT_HOD\tFCT_AL\tFCT_OL\tFCT_SF\tFCT_OT\tFCT_CM\tlast_checked\tlast_update",
+        "verdict": "REAL \u2014 decodable text data"
+      },
+      {
+        "label": "NOW Fortelius 2003 zip live",
+        "url": "https://www.nowdatabase.org/static/now/datasets/Fortelius_2003_ICZ2000.338638644ed3.zip",
+        "http_status": 200,
+        "bytes_downloaded": 554327,
+        "truncated_at_cap": false,
+        "content_type": "application/zip",
+        "error": null,
+        "md5_full": "338638644ed31f6036e3f02751b5201f",
+        "md5_head1mb": "338638644ed31f6036e3f02751b5201f",
+        "looks_html": false,
+        "zip_entries": [
+          "athens_f.xls"
+        ],
+        "zip_n_entries": 1,
+        "verdict": "REAL \u2014 valid zip",
+        "saved_to": "gold/campaign4-verify/now-Fortelius_2003_ICZ2000.zip"
+      },
+      {
+        "label": "NOW Sinap txt live",
+        "url": "https://www.nowdatabase.org/static/now/field_cat/SinapFC95.252b351538d0.txt",
+        "http_status": 200,
+        "bytes_downloaded": 662528,
+        "truncated_at_cap": false,
+        "content_type": "text/plain; charset=\"utf-8\"",
+        "error": null,
+        "md5_full": "252b351538d080c164ea22eabdc803c9",
+        "md5_head1mb": "252b351538d080c164ea22eabdc803c9",
+        "looks_html": false,
+        "first_bytes_hex": "5945415209535045434e4f094c4f4309",
+        "verdict": "BINARY \u2014 non-HTML, non-blank (fixed-width data?)"
+      }
+    ],
+    "now_wb": [
+      {
+        "label": "NOW dental csv wb2023 (unhashed name)",
+        "url": "https://web.archive.org/web/20230805032843id_/https://www.nowdatabase.org/static/now/datasets/data_dental_modern_public_10.csv",
+        "http_status": 200,
+        "bytes_downloaded": 42576,
+        "truncated_at_cap": false,
+        "content_type": "application/octet-stream",
+        "error": null,
+        "md5_full": "b63c3f89c38d2391b9202217359f8060",
+        "md5_head1mb": "b63c3f89c38d2391b9202217359f8060",
+        "looks_html": false,
+        "lines_sampled": 651,
+        "first_line": "TAXON\tORDER\tFAMILY\tHYP\tLOP\tFCT_HOD\tFCT_AL\tFCT_OL\tFCT_SF\tFCT_OT\tFCT_CM\tlast_checked\tlast_update",
+        "verdict": "REAL \u2014 decodable text data"
+      }
+    ],
+    "neotoma_head": {
+      "taxa_changes.json": {
+        "status": 404,
+        "size": null,
+        "type": "text/html; charset=UTF-8"
+      },
+      "neotoma_schema_only_2022-03-17.tar": {
+        "status": 200,
+        "size": "1085440",
+        "type": "application/x-tar"
+      },
+      "NeotomaSnapshot_2016-05-13.zip": {
+        "status": 200,
+        "size": "29919107",
+        "type": "application/zip"
+      },
+      "neotoma_ndb_only_2024-03-18.tar": {
+        "status": 200,
+        "size": "104448000",
+        "type": "application/x-tar"
+      },
+      "neotoma_clean_latest.tar.gz": {
+        "status": 200,
+        "size": "2553350161",
+        "type": "application/x-tar"
+      }
+    },
+    "neotoma_sample": {
+      "label": "Neotoma taxa_changes.json live",
+      "url": "https://www.neotomadb.org/apps/data/taxa_changes.json",
+      "http_status": 404,
+      "bytes_downloaded": 19045,
+      "truncated_at_cap": false,
+      "content_type": "text/html; charset=UTF-8",
+      "error": null,
+      "md5_full": "57a855febe6aaf903aca88c4a537037b",
+      "md5_head1mb": "57a855febe6aaf903aca88c4a537037b",
+      "looks_html": true,
+      "verdict": "PHANTOM \u2014 HTML page, not data"
+    },
+    "hpa": [
+      {
+        "label": "HPA d.data.label live",
+        "url": "https://www.proteinatlas.org/humanproteome/d.data.label",
+        "http_status": 404,
+        "bytes_downloaded": 157046,
+        "truncated_at_cap": false,
+        "content_type": "text/html; charset=UTF-8",
+        "error": null,
+        "md5_full": "5a14513a34eca630264cb0fe4d001839",
+        "md5_head1mb": "5a14513a34eca630264cb0fe4d001839",
+        "looks_html": true,
+        "verdict": "PHANTOM \u2014 HTML page, not data"
+      },
+      {
+        "label": "HPA cell_proteome_movie.mp4 HEAD",
+        "status": 200,
+        "size": null,
+        "type": "video/mp4"
+      }
+    ],
+    "rosetta": [
+      {
+        "label": "Rosetta cat.txt live",
+        "url": "http://www.archive.org/stream/rosettaproject_cat_swadesh-1/cat.txt",
+        "http_status": 200,
+        "bytes_downloaded": 151495,
+        "truncated_at_cap": false,
+        "content_type": "text/html; charset=UTF-8",
+        "error": null,
+        "md5_full": "0a64d9ba64f54789f280415212eea3e9",
+        "md5_head1mb": "0a64d9ba64f54789f280415212eea3e9",
+        "looks_html": true,
+        "verdict": "PHANTOM \u2014 HTML page, not data"
+      },
+      {
+        "label": "Rosetta English_Swadesh_list.txt live",
+        "url": "http://www.archive.org/stream/rosettaproject_eng_swadesh-1/English_Swadesh_list.txt",
+        "http_status": 404,
+        "bytes_downloaded": 143488,
+        "truncated_at_cap": false,
+        "content_type": "text/html; charset=UTF-8",
+        "error": null,
+        "md5_full": "866434461607d7a5c2793f8674455cd5",
+        "md5_head1mb": "866434461607d7a5c2793f8674455cd5",
+        "looks_html": true,
+        "verdict": "PHANTOM \u2014 HTML page, not data"
+      }
+    ],
+    "hyperleda": [
+      {
+        "label": "HyperLEDA opensearch xml live",
+        "url": "http://leda.univ-lyon1.fr/opensearch_description.xml",
+        "http_status": 200,
+        "bytes_downloaded": 10083,
+        "truncated_at_cap": false,
+        "content_type": "text/html",
+        "error": null,
+        "md5_full": "8414d82c77da2ef603d2bff0f05c3e17",
+        "md5_head1mb": "8414d82c77da2ef603d2bff0f05c3e17",
+        "looks_html": true,
+        "verdict": "PHANTOM \u2014 HTML page, not data"
+      },
+      {
+        "label": "HyperLEDA line_code.txt wb2003",
+        "url": "https://web.archive.org/web/20030510221348id_/http://leda.univ-lyon1.fr:80/05/line_code.txt",
+        "http_status": 200,
+        "bytes_downloaded": 2594,
+        "truncated_at_cap": false,
+        "content_type": "text/plain",
+        "error": null,
+        "md5_full": "13dd876b25e0af13296dd5c485b12cce",
+        "md5_head1mb": "13dd876b25e0af13296dd5c485b12cce",
+        "looks_html": false,
+        "lines_sampled": 65,
+        "first_line": "!Coded spectral lines:",
+        "verdict": "REAL \u2014 decodable text data"
+      }
+    ],
+    "hca_cdx": {
+      "matrices200": [
+        {
+          "ts": "20200117231123",
+          "url": "https://data.humancellatlas.org/project-assets/project-matrices/005d611a-14d5-4fbf-846e-571a1f874f70.loom",
+          "length": "357513551"
+        },
+        {
+          "ts": "20200117231124",
+          "url": "https://data.humancellatlas.org/project-assets/project-matrices/005d611a-14d5-4fbf-846e-571a1f874f70.mtx.zip",
+          "length": "323368271"
+        },
+        {
+          "ts": "20200117231124",
+          "url": "https://data.humancellatlas.org/project-assets/project-matrices/4a95101c-9ffc-4f30-a809-f04518a23803.loom",
+          "length": "612019221"
+        },
+        {
+          "ts": "20200117231141",
+          "url": "https://data.humancellatlas.org/project-assets/project-matrices/4a95101c-9ffc-4f30-a809-f04518a23803.mtx.zip",
+          "length": "494162334"
+        },
+        {
+          "ts": "20200117231125",
+          "url": "https://data.humancellatlas.org/project-assets/project-matrices/4d6f6c96-2a83-43d8-8fe1-0f53bffd4674.csv.zip",
+          "length": "150374686"
+        },
+        {
+          "ts": "20200117231126",
+          "url": "https://data.humancellatlas.org/project-assets/project-matrices/4d6f6c96-2a83-43d8-8fe1-0f53bffd4674.loom",
+          "length": "276345172"
+        },
+        {
+          "ts": "20200117231125",
+          "url": "https://data.humancellatlas.org/project-assets/project-matrices/4d6f6c96-2a83-43d8-8fe1-0f53bffd4674.mtx.zip",
+          "length": "166635362"
+        },
+        {
+          "ts": "20200117231127",
+          "url": "https://data.humancellatlas.org/project-assets/project-matrices/8185730f-4113-40d3-9cc3-929271784c2b.csv.zip",
+          "length": "75050654"
+        },
+        {
+          "ts": "20200117231126",
+          "url": "https://data.humancellatlas.org/project-assets/project-matrices/c4077b3c-5c98-4d26-a614-246d12c2e5d7.mtx.zip",
+          "length": "2148127975"
+        },
+        {
+          "ts": "20200117231126",
+          "url": "https://data.humancellatlas.org/project-assets/project-matrices/cc95ff89-2e68-4a08-a234-480eca21ce79.csv.zip",
+          "length": "1549405213"
+        },
+        {
+          "ts": "20200117231126",
+          "url": "https://data.humancellatlas.org/project-assets/project-matrices/cc95ff89-2e68-4a08-a234-480eca21ce79.loom",
+          "length": "1887765401"
+        },
+        {
+          "ts": "20200117231142",
+          "url": "https://data.humancellatlas.org/project-assets/project-matrices/cc95ff89-2e68-4a08-a234-480eca21ce79.mtx.zip",
+          "length": "2148135695"
+        }
+      ],
+      "metadata200": [
+        {
+          "ts": "20190825132817",
+          "url": "https://data.humancellatlas.org/project-assets/project-metadata/8c3c290d-dfff-4553-8868-54ce45f4ba7f.tsv",
+          "length": "79814"
+        },
+        {
+          "ts": "20190825141154",
+          "url": "https://data.humancellatlas.org/project-assets/project-metadata/c4077b3c-5c98-4d26-a614-246d12c2e5d7.tsv",
+          "length": "32068"
+        },
+        {
+          "ts": "20190825134507",
+          "url": "https://data.humancellatlas.org/project-assets/project-metadata/cc95ff89-2e68-4a08-a234-480eca21ce79.tsv",
+          "length": "63940"
+        }
+      ]
+    },
+    "hca_sample": [
+      {
+        "label": "HCA smallest matrix zip (75050654 B CDX)",
+        "url": "https://web.archive.org/web/20200117231127id_/https://data.humancellatlas.org/project-assets/project-matrices/8185730f-4113-40d3-9cc3-929271784c2b.csv.zip",
+        "http_status": 200,
+        "bytes_downloaded": 40042496,
+        "truncated_at_cap": true,
+        "content_type": "application/zip; charset=UTF-8",
+        "error": null,
+        "md5_full": null,
+        "md5_head1mb": "32522715be33dacb06651219d1a5c807",
+        "looks_html": false,
+        "verdict": "NOT A VALID ZIP: File is not a zip file"
+      },
+      {
+        "label": "HCA smallest loom (276345172 B CDX, header check)",
+        "url": "https://web.archive.org/web/20200117231126id_/https://data.humancellatlas.org/project-assets/project-matrices/4d6f6c96-2a83-43d8-8fe1-0f53bffd4674.loom",
+        "http_status": 200,
+        "bytes_downloaded": 40042496,
+        "truncated_at_cap": true,
+        "content_type": "application/vnd.loom; charset=UTF-8",
+        "error": null,
+        "md5_full": null,
+        "md5_head1mb": "676dba1096b17104bbc2edbac66f8364",
+        "looks_html": false,
+        "verdict": "REAL \u2014 HDF5 (loom/h5 family)",
+        "hdf5": true
+      },
+      {
+        "label": "HCA metadata tsv",
+        "url": "https://web.archive.org/web/20190825141154id_/https://data.humancellatlas.org/project-assets/project-metadata/c4077b3c-5c98-4d26-a614-246d12c2e5d7.tsv",
+        "http_status": 200,
+        "bytes_downloaded": 1048576,
+        "truncated_at_cap": false,
+        "content_type": "text/tab-separated-values; charset=UTF-8",
+        "error": null,
+        "md5_full": "3456d5e3afddb242131620061fce40df",
+        "md5_head1mb": "cf92c6827c184076a7e7511155a8ede9",
+        "looks_html": false,
+        "lines_sampled": 77,
+        "first_line": "path\t*.file_core.file_name\t*.file_core.file_format\tsequence_file.file_core.checksum\tsequence_file.file_core.format\tsequence_file.insdc_run\tsequence_file.insdc_r",
+        "verdict": "REAL \u2014 decodable text data"
+      }
+    ],
+    "hca_live_status_first_matrix": {
+      "status": 404,
+      "size": null,
+      "type": "text/html"
+    },
+    "gcvs_cdx": {
+      "collapsed": 663,
+      "ok200": 603,
+      "data_ext200": 160,
+      "sets": {
+        "/gcvs/gcvs/iii": 14,
+        "/gcvs/gcvs/v": 9,
+        "/gcvs/gcvs": 7,
+        "/gcvs/gcvs/nl82/nl82_part_1": 7,
+        "/gcvs/gcvs/nsv": 6,
+        "/gcvs/gcvs/nl77": 5,
+        "/gcvs/gcvs/nl78": 5,
+        "/gcvs/gcvs/nl80/nl80_part_1": 5,
+        "/gcvs/gcvs/vol1": 5,
+        "/gcvs/gcvs/GCVS5": 4,
+        "/gcvs/gcvs/nl": 4,
+        "/gcvs/gcvs/nl74": 4,
+        "/gcvs/gcvs/nl75": 4,
+        "/gcvs/gcvs/nl80/nl80_part_2": 4,
+        "/gcvs/gcvs/nl80/nl80_part_3": 4,
+        "/gcvs/gcvs/nl81/nl81_part_1": 4,
+        "/gcvs/gcvs/nl81/nl81_part_2": 4,
+        "/gcvs/gcvs/nl82/nl82_part_2": 4,
+        "/gcvs/gcvs/nl82/nl82_part_3": 4,
+        "/gcvs/gcvs/nl83": 4
+      },
+      "files": [
+        {
+          "ts": "20070107070918",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/abbrev.txt",
+          "length": "4937"
+        },
+        {
+          "ts": "20060716113202",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/cep/cat_3.dat",
+          "length": "24695"
+        },
+        {
+          "ts": "20050321023829",
+          "url": "http://sai.msu.su:80/gcvs/gcvs/cep/readme.txt",
+          "length": "777"
+        },
+        {
+          "ts": "20170511115917",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/constel.txt",
+          "length": "1053"
+        },
+        {
+          "ts": "20130622140822",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/GCVS5/GCVS5.txt",
+          "length": "43339"
+        },
+        {
+          "ts": "20130622134711",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/GCVS5/ReadMe.txt",
+          "length": "3605"
+        },
+        {
+          "ts": "20170511120531",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/gcvs5/ref.txt",
+          "length": "273147"
+        },
+        {
+          "ts": "20130622161308",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/GCVS5/ref5.txt",
+          "length": "6089"
+        },
+        {
+          "ts": "20170705225121",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/gcvs5/refo.txt",
+          "length": "273276"
+        },
+        {
+          "ts": "20130622163230",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/GCVS5/rem5.txt",
+          "length": "4523"
+        },
+        {
+          "ts": "20170511115345",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/gcvs5/remark.txt",
+          "length": "224447"
+        },
+        {
+          "ts": "20220706230406",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/glcl_var/glcl_var.dat",
+          "length": "47455"
+        },
+        {
+          "ts": "20220706215315",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/glcl_var/glcl_var.txt",
+          "length": "62889"
+        },
+        {
+          "ts": "20110520060038",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/iii/abbrev.txt",
+          "length": "5101"
+        },
+        {
+          "ts": "20110520055500",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/iii/COLMN.TXT",
+          "length": "693"
+        },
+        {
+          "ts": "20110520060053",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/iii/constel.dat",
+          "length": "1217"
+        },
+        {
+          "ts": "20171207140955",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/iii/constel.txt",
+          "length": "1066"
+        },
+        {
+          "ts": "20110520055841",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/iii/iii.dat",
+          "length": "1357144"
+        },
+        {
+          "ts": "20190629025956",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/iii/iii.txt",
+          "length": "1710558"
+        },
+        {
+          "ts": "20090828185728",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/iii/ref.txt",
+          "length": "241129"
+        },
+        {
+          "ts": "20090830015207",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/iii/ref_abbr.txt",
+          "length": "9188"
+        },
+        {
+          "ts": "20110520055508",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/iii/remark.txt",
+          "length": "212733"
+        },
+        {
+          "ts": "20110520060241",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/iii/variable.dat",
+          "length": "2615"
+        },
+        {
+          "ts": "20171207054553",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/iii/variable.txt",
+          "length": "2465"
+        },
+        {
+          "ts": "20070107070922",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/iii/vartype.txt",
+          "length": "19634"
+        },
+        {
+          "ts": "20110520055945",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/iii/vol_pos.dat",
+          "length": "778994"
+        },
+        {
+          "ts": "20190629030105",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/iii/vol_pos.txt",
+          "length": "936498"
+        },
+        {
+          "ts": "20051119171455",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/iv/crossid.dat",
+          "length": "1068930"
+        },
+        {
+          "ts": "20240907141911",
+          "url": "http://sai.msu.su/gcvs/gcvs/iv/crossid.txt",
+          "length": "136195"
+        },
+        {
+          "ts": "20170511234331",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/lat.txt",
+          "length": "2022"
+        },
+        {
+          "ts": "20070107070950",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/name.dat",
+          "length": "1874"
+        },
+        {
+          "ts": "20110520054918",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/name.txt",
+          "length": "2075"
+        },
+        {
+          "ts": "20051119122802",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl/ident.dat",
+          "length": "69554"
+        },
+        {
+          "ts": "20051218171009",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl/nl.dat",
+          "length": "87731"
+        },
+        {
+          "ts": "20050511015429",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl/NL.ZIP",
+          "length": "201777"
+        },
+        {
+          "ts": "20051119112350",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl/ref.dat",
+          "length": "44640"
+        },
+        {
+          "ts": "20051119125051",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl74/74nl.dat",
+          "length": "99929"
+        },
+        {
+          "ts": "20050511015634",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl74/74NL.ZIP",
+          "length": "306501"
+        },
+        {
+          "ts": "20050511015823",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl74/74NL_IND.TXT",
+          "length": "199975"
+        },
+        {
+          "ts": "20050511015824",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl74/74nl_rem.txt",
+          "length": "3232"
+        },
+        {
+          "ts": "20150930133642",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl75/nl75.zip",
+          "length": "111022"
+        },
+        {
+          "ts": "20050511015612",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl75/t1.txt",
+          "length": "27639"
+        },
+        {
+          "ts": "20050511015617",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl75/t2.txt",
+          "length": "20481"
+        },
+        {
+          "ts": "20050211092226",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl75/t3.txt",
+          "length": "8241"
+        },
+        {
+          "ts": "20050511015730",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl76/5135-t1.txt",
+          "length": "40141"
+        },
+        {
+          "ts": "20050511015734",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl76/5135-t2.txt",
+          "length": "29291"
+        },
+        {
+          "ts": "20050511015738",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl76/5135-t3.txt",
+          "length": "7796"
+        },
+        {
+          "ts": "20050511015742",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl77/5422-t1.txt",
+          "length": "32507"
+        },
+        {
+          "ts": "20050506154915",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl77/5422-T2.TXT",
+          "length": "22456"
+        },
+        {
+          "ts": "20050511015746",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl77/5422-t3.txt",
+          "length": "6359"
+        },
+        {
+          "ts": "20050511015751",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl77/XXXX-T1.TXT",
+          "length": "32487"
+        },
+        {
+          "ts": "20050511015754",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl77/XXXX-T2.TXT",
+          "length": "22783"
+        },
+        {
+          "ts": "20070308220011",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl78/5721-t1.txt",
+          "length": "37687"
+        },
+        {
+          "ts": "20070308220042",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl78/5721-t3.txt",
+          "length": "50412"
+        },
+        {
+          "ts": "20070308220134",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl78/5721-t4.txt",
+          "length": "48053"
+        },
+        {
+          "ts": "20070308215539",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl78/e1.TXT",
+          "length": "49957"
+        },
+        {
+          "ts": "20070308215623",
+          "url": "http://www.sai.msu.su:80/gcvs/gcvs/nl78/e2.TXT",
+          "length": "47912"
+        },
+        {
+          "ts": "20151001070356",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl79/nl79.dat",
+          "length": "32060"
+        },
+        {
+          "ts": "20260902034413",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl79/nl79_5ed/nl79_5ed.dat",
+          "length": "48451"
+        },
+        {
+          "ts": "20260902034411",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl79/nl79_5ed/nl79_pos.dat",
+          "length": "26459"
+        },
+        {
+          "ts": "20260902034412",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl79/nl79_5ed/nl79_rem.txt",
+          "length": "4745"
+        },
+        {
+          "ts": "20151001071026",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl79/nl79_id.txt",
+          "length": "56244"
+        },
+        {
+          "ts": "20151001064931",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl79/nl79_ref.txt",
+          "length": "7029"
+        },
+        {
+          "ts": "20151022022923",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl80/nl80_part_1/80_1.txt",
+          "length": "61226"
+        },
+        {
+          "ts": "20151022041559",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl80/nl80_part_1/80_1id.txt",
+          "length": "38415"
+        },
+        {
+          "ts": "20151022091459",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl80/nl80_part_1/80_1pos.dat",
+          "length": "35925"
+        },
+        {
+          "ts": "20151022032638",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl80/nl80_part_1/80_1ref.txt",
+          "length": "7140"
+        },
+        {
+          "ts": "20151022015324",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl80/nl80_part_1/80_1rem.txt",
+          "length": "9998"
+        },
+        {
+          "ts": "20151001065823",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl80/nl80_part_2/80_2.txt",
+          "length": "107193"
+        },
+        {
+          "ts": "20151001071042",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl80/nl80_part_2/80_2id.txt",
+          "length": "54660"
+        },
+        {
+          "ts": "20151001065925",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl80/nl80_part_2/80_2ref.txt",
+          "length": "12574"
+        },
+        {
+          "ts": "20151001065638",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl80/nl80_part_2/80_2rem.txt",
+          "length": "10357"
+        },
+        {
+          "ts": "20151001065903",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl80/nl80_part_3/80_3.txt",
+          "length": "103061"
+        },
+        {
+          "ts": "20151001065716",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl80/nl80_part_3/80_3id.txt",
+          "length": "49787"
+        },
+        {
+          "ts": "20151001070211",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl80/nl80_part_3/80_3ref.txt",
+          "length": "18397"
+        },
+        {
+          "ts": "20151001065841",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl80/nl80_part_3/80_3rem.txt",
+          "length": "4484"
+        },
+        {
+          "ts": "20260902034341",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl81/81.txt",
+          "length": "191283"
+        },
+        {
+          "ts": "20260831041541",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl81/nl81_part_1/81_1.txt",
+          "length": "44481"
+        },
+        {
+          "ts": "20260831041540",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl81/nl81_part_1/81_1id.txt",
+          "length": "47671"
+        },
+        {
+          "ts": "20260831041537",
+          "url": "http://www.sai.msu.su/gcvs/gcvs/nl81/nl81_part_1/81_1ref.txt",
+          "length": "4738"
+        }
+      ]
+    },
+    "gcvs_sample": [
+      {
+        "label": "GCVS iii.dat wb2011",
+        "url": "https://web.archive.org/web/20110520055841id_/http://www.sai.msu.su:80/gcvs/gcvs/iii/iii.dat",
+        "http_status": 200,
+        "bytes_downloaded": 6651562,
+        "truncated_at_cap": false,
+        "content_type": "text/plain; charset=koi8-r",
+        "error": null,
+        "md5_full": "fa0366fe4b74a9dd3c54899be702f849",
+        "md5_head1mb": "19ebad86c8a1c4952f3d677091bdacf6",
+        "looks_html": false,
+        "lines_sampled": 43677,
+        "first_line": "  NNo     GCVS         2000.0        Type        Max        Min           Epoch         Year      Period          M-m      Spectrum       References  Other desi",
+        "verdict": "REAL \u2014 decodable text data"
+      },
+      {
+        "label": "GCVS cep/cat_3.dat wb2006",
+        "url": "https://web.archive.org/web/20060716113202id_/http://www.sai.msu.su:80/gcvs/gcvs/cep/cat_3.dat",
+        "http_status": 200,
+        "bytes_downloaded": 95316,
+        "truncated_at_cap": false,
+        "content_type": "text/plain",
+        "error": null,
+        "md5_full": "5c612d0f40f7958ff22670e6c07c2189",
+        "md5_head1mb": "5c612d0f40f7958ff22670e6c07c2189",
+        "looks_html": false,
+        "lines_sampled": 2444,
+        "first_line": "   TT  Aql  2449925.355  14.46   0.26\r",
+        "verdict": "REAL \u2014 decodable text data"
+      },
+      {
+        "label": "GCVS glcl_var.dat wb2022",
+        "url": "https://web.archive.org/web/20220706230406id_/http://www.sai.msu.su/gcvs/gcvs/glcl_var/glcl_var.dat",
+        "http_status": 200,
+        "bytes_downloaded": 253163,
+        "truncated_at_cap": false,
+        "content_type": "text/plain; charset=koi8-r",
+        "error": null,
+        "md5_full": "4b6579bbd9d389dd38765e0c1717de42",
+        "md5_head1mb": "4b6579bbd9d389dd38765e0c1717de42",
+        "looks_html": false,
+        "lines_sampled": 3517,
+        "first_line": "NGC  104      *!                                        |          |For some of the stars among V29-V41, identification in SIMBAD is different",
+        "verdict": "REAL \u2014 decodable text data"
+      }
+    ],
+    "gcvs_live_status": {
+      "status": 404,
+      "size": null,
+      "type": "text/html; charset=koi8-r"
+    },
+    "gcvs_digit": {
+      "collapsed": 946,
+      "ok200": 935,
+      "files": [
+        {
+          "ts": "20170314193637",
+          "url": "http://www.sai.msu.su:80/gcvs/digit/",
+          "length": "1015"
+        },
+        {
+          "ts": "20260902034321",
+          "url": "http://www.sai.msu.su/gcvs/digit/400.jpg",
+          "length": "669772"
+        },
+        {
+          "ts": "20110520044328",
+          "url": "http://www.sai.msu.su/gcvs/digit/alla.gif",
+          "length": "56194"
+        },
+        {
+          "ts": "20260902034323",
+          "url": "http://www.sai.msu.su/gcvs/digit/clipboard.gif",
+          "length": "3176"
+        },
+        {
+          "ts": "20110520043450",
+          "url": "http://www.sai.msu.su/gcvs/digit/digit.gif",
+          "length": "7093"
+        },
+        {
+          "ts": "20070506082301",
+          "url": "http://www.sai.msu.su:80/gcvs/digit/digit.html",
+          "length": "1600"
+        },
+        {
+          "ts": "20260902034320",
+          "url": "http://www.sai.msu.su/gcvs/digit/IMG_3762.JPG",
+          "length": "1360341"
+        },
+        {
+          "ts": "20260830044646",
+          "url": "http://www.sai.msu.su/gcvs/digit/M33big.jpg",
+          "length": "414642"
+        },
+        {
+          "ts": "20110520044917",
+          "url": "http://www.sai.msu.su/gcvs/digit/M33sm.jpg",
+          "length": "158767"
+        },
+        {
+          "ts": "20180220144506",
+          "url": "http://www.sai.msu.su:80/gcvs/digit/mdv/104_Her/",
+          "length": "637"
+        },
+        {
+          "ts": "20260830055245",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/lc_104Her_4_9.ps",
+          "length": "590742"
+        },
+        {
+          "ts": "20260830055245",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/",
+          "length": "2749"
+        },
+        {
+          "ts": "20260831041418",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV596.dat",
+          "length": "1629"
+        },
+        {
+          "ts": "20260831041401",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV597.dat",
+          "length": "1345"
+        },
+        {
+          "ts": "20260831041343",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV598.dat",
+          "length": "1869"
+        },
+        {
+          "ts": "20260831041336",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV599.dat",
+          "length": "1871"
+        },
+        {
+          "ts": "20260831041413",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV600.dat",
+          "length": "1646"
+        },
+        {
+          "ts": "20260831041507",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV601.dat",
+          "length": "1845"
+        },
+        {
+          "ts": "20260831041502",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV602.dat",
+          "length": "1851"
+        },
+        {
+          "ts": "20260831041500",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV603.dat",
+          "length": "1829"
+        },
+        {
+          "ts": "20260831041500",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV604.dat",
+          "length": "1619"
+        },
+        {
+          "ts": "20260831041418",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV605.dat",
+          "length": "1791"
+        },
+        {
+          "ts": "20260831041446",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV606.dat",
+          "length": "1819"
+        },
+        {
+          "ts": "20260831041510",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV607.dat",
+          "length": "1734"
+        },
+        {
+          "ts": "20260831041519",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV608.dat",
+          "length": "1823"
+        },
+        {
+          "ts": "20260831041358",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV609.dat",
+          "length": "1543"
+        },
+        {
+          "ts": "20260831041505",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV610.dat",
+          "length": "1790"
+        },
+        {
+          "ts": "20260831041347",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV611.dat",
+          "length": "1851"
+        },
+        {
+          "ts": "20260831041508",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV612.dat",
+          "length": "1847"
+        },
+        {
+          "ts": "20260831041341",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV613.dat",
+          "length": "1872"
+        },
+        {
+          "ts": "20260831041417",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV614.dat",
+          "length": "1896"
+        },
+        {
+          "ts": "20260831041400",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV615.dat",
+          "length": "1951"
+        },
+        {
+          "ts": "20260831041351",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV616.dat",
+          "length": "1646"
+        },
+        {
+          "ts": "20260831041424",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV617.dat",
+          "length": "1816"
+        },
+        {
+          "ts": "20260831041432",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV618.dat",
+          "length": "1787"
+        },
+        {
+          "ts": "20260831041342",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV619.dat",
+          "length": "1465"
+        },
+        {
+          "ts": "20260831041514",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV620.dat",
+          "length": "1884"
+        },
+        {
+          "ts": "20260831041351",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV621.dat",
+          "length": "1753"
+        },
+        {
+          "ts": "20260831041450",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV622.dat",
+          "length": "1540"
+        },
+        {
+          "ts": "20260831041420",
+          "url": "http://www.sai.msu.su/gcvs/digit/mdv/104_Her/Mdv_data/MDV623.dat",
+          "length": "1714"
+        }
+      ]
+    },
+    "gcvs_digit_sample": {
+      "label": "GCVS digit smallest (496 B CDX)",
+      "url": "https://web.archive.org/web/20070512185006id_/http://www.sai.msu.su:80/gcvs/digit/preprint.files/filelist.xml",
+      "http_status": 200,
+      "bytes_downloaded": 255,
+      "truncated_at_cap": false,
+      "content_type": "text/plain",
+      "error": null,
+      "md5_full": "25cac41b4a6c1cfdac6d7d53c8b68117",
+      "md5_head1mb": "25cac41b4a6c1cfdac6d7d53c8b68117",
+      "looks_html": false,
+      "lines_sampled": 7,
+      "first_line": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">",
+      "verdict": "REAL \u2014 decodable text data"
+    },
+    "wba": [
+      {
+        "label": "WBA case.txt wb2001",
+        "url": "https://web.archive.org/web/20010507153114id_/http://www.med.harvard.edu:80/AANLIB/cases/case1/case.txt",
+        "http_status": 200,
+        "bytes_downloaded": 1076,
+        "truncated_at_cap": false,
+        "content_type": "text/plain",
+        "error": null,
+        "md5_full": "823515cc51925b7de612c757d5061f42",
+        "md5_head1mb": "823515cc51925b7de612c757d5061f42",
+        "looks_html": false,
+        "lines_sampled": 13,
+        "first_line": "<title>Anaplastic Astrocytoma</title>",
+        "verdict": "REAL \u2014 decodable text data"
+      },
+      {
+        "label": "WBA jnavcd.txt wb2001",
+        "url": "https://web.archive.org/web/20010507153710id_/http://www.med.harvard.edu:80/AANLIB/cases/case1/jnavcd.txt",
+        "http_status": 200,
+        "bytes_downloaded": 649,
+        "truncated_at_cap": false,
+        "content_type": "text/plain",
+        "error": null,
+        "md5_full": "8e262c4e28c756f89a1636adb6156a05",
+        "md5_head1mb": "8e262c4e28c756f89a1636adb6156a05",
+        "looks_html": false,
+        "lines_sampled": 21,
+        "first_line": "19 56 0 14 29",
+        "verdict": "REAL \u2014 decodable text data"
+      }
+    ],
+    "treebase": [
+      {
+        "label": "TreeBASE kmltreeserver.zip wb2007",
+        "url": "https://web.archive.org/web/20071027075101id_/http://www.treebase.org/getrees/kmltreeserver.zip",
+        "http_status": 200,
+        "bytes_downloaded": 443,
+        "truncated_at_cap": false,
+        "content_type": "application/zip",
+        "error": null,
+        "md5_full": "a3c1620f76a85df6ab0b7803f89dce86",
+        "md5_head1mb": "a3c1620f76a85df6ab0b7803f89dce86",
+        "looks_html": false,
+        "zip_entries": [
+          "TreeBASE KML Server.kml"
+        ],
+        "zip_n_entries": 1,
+        "verdict": "REAL \u2014 valid zip"
+      }
+    ],
+    "dbb": [
+      {
+        "label": "DBB robots.txt wb2021 (only wb200 file)",
+        "url": "https://web.archive.org/web/20211129181902id_/http://digitalbrainbank.org/robots.txt",
+        "http_status": 200,
+        "bytes_downloaded": 137,
+        "truncated_at_cap": false,
+        "content_type": "text/plain",
+        "error": null,
+        "md5_full": "2b427238f7f13050bd37fdaae63217c8",
+        "md5_head1mb": "2b427238f7f13050bd37fdaae63217c8",
+        "looks_html": false,
+        "lines_sampled": 9,
+        "first_line": "User-agent: Googlebot",
+        "verdict": "REAL \u2014 decodable text data"
+      }
+    ],
+    "tabula": [
+      {
+        "label": "Tabula Muris manifest.json wb2018 (only wb200 file)",
+        "url": "https://web.archive.org/web/20180525073344id_/http://tabula-muris.ds.czbiohub.org:80/manifest.json",
+        "http_status": 200,
+        "bytes_downloaded": 317,
+        "truncated_at_cap": false,
+        "content_type": "application/json",
+        "error": null,
+        "md5_full": "730915ec2725cf6721080a6516b23f15",
+        "md5_head1mb": "730915ec2725cf6721080a6516b23f15",
+        "looks_html": false,
+        "lines_sampled": 15,
+        "first_line": "{",
+        "verdict": "REAL \u2014 decodable text data"
+      }
+    ]
+  }
+}

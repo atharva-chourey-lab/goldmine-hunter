@@ -1,0 +1,1043 @@
+{
+  "domain": "braincatalogue.org",
+  "data_files": [
+    {
+      "url": "https://braincatalogue.org/.well-known/ai-plugin.json",
+      "name": "ai-plugin.json",
+      "first_capture": "20240630030031",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20240630030031id_/https://braincatalogue.org/.well-known/ai-plugin.json"
+    },
+    {
+      "url": "https://braincatalogue.org/.well-known/assetlinks.json",
+      "name": "assetlinks.json",
+      "first_capture": "20240705034341",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20240705034341id_/https://braincatalogue.org/.well-known/assetlinks.json"
+    },
+    {
+      "url": "https://braincatalogue.org/.well-known/dnt-policy.txt",
+      "name": "dnt-policy.txt",
+      "first_capture": "20240630000534",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20240630000534id_/https://braincatalogue.org/.well-known/dnt-policy.txt"
+    },
+    {
+      "url": "https://braincatalogue.org/.well-known/gpc.json",
+      "name": "gpc.json",
+      "first_capture": "20240705010307",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20240705010307id_/https://braincatalogue.org/.well-known/gpc.json"
+    },
+    {
+      "url": "https://braincatalogue.org/.well-known/security.txt",
+      "name": "security.txt",
+      "first_capture": "20240705002414",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20240705002414id_/https://braincatalogue.org/.well-known/security.txt"
+    },
+    {
+      "url": "https://braincatalogue.org/.well-known/trust.txt",
+      "name": "trust.txt",
+      "first_capture": "20240629231438",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20240629231438id_/https://braincatalogue.org/.well-known/trust.txt"
+    },
+    {
+      "url": "https://braincatalogue.org/ads.txt",
+      "name": "ads.txt",
+      "first_capture": "20240630161555",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20240630161555id_/https://braincatalogue.org/ads.txt"
+    },
+    {
+      "url": "https://braincatalogue.org/app-ads.txt",
+      "name": "app-ads.txt",
+      "first_capture": "20240705002637",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20240705002637id_/https://braincatalogue.org/app-ads.txt"
+    },
+    {
+      "url": "https://braincatalogue.org/atom.xml",
+      "name": "atom.xml",
+      "first_capture": "20250609224424",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20250609224424id_/https://braincatalogue.org/atom.xml"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Baboon/mesh.ply",
+      "name": "mesh.ply",
+      "first_capture": "20250417125944",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20250417125944id_/https://braincatalogue.org/data/Baboon/mesh.ply"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Baboon/MRI.nii.gz",
+      "name": "MRI.nii.gz",
+      "first_capture": "20250420124144",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250420124144id_/https://braincatalogue.org/data/Baboon/MRI.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Baboon/Telencephalon.nii.gz",
+      "name": "Telencephalon.nii.gz",
+      "first_capture": "20250417162447",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250417162447id_/https://braincatalogue.org/data/Baboon/Telencephalon.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Black_rhinoceros/Hippocampus.nii.gz",
+      "name": "Hippocampus.nii.gz",
+      "first_capture": "20250418070325",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250418070325id_/https://braincatalogue.org/data/Black_rhinoceros/Hippocampus.nii.gz"
+    },
+    {
+      "url": "http://braincatalogue.org:80/data/Black_rhinoceros/mesh.ply",
+      "name": "mesh.ply",
+      "first_capture": "20150518032236",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20150518032236id_/http://braincatalogue.org:80/data/Black_rhinoceros/mesh.ply"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Blackbuck/Hippocampus.nii.gz",
+      "name": "Hippocampus.nii.gz",
+      "first_capture": "20250420085914",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250420085914id_/https://braincatalogue.org/data/Blackbuck/Hippocampus.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Blackbuck/MRI-n4.nii.gz",
+      "name": "MRI-n4.nii.gz",
+      "first_capture": "20250418103041",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250418103041id_/https://braincatalogue.org/data/Blackbuck/MRI-n4.nii.gz"
+    },
+    {
+      "url": "http://braincatalogue.org:80/data/Bottlenose_dolphin/info.txt",
+      "name": "info.txt",
+      "first_capture": "20141021193814",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141021193814id_/http://braincatalogue.org:80/data/Bottlenose_dolphin/info.txt"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Cat/mesh.ply",
+      "name": "mesh.ply",
+      "first_capture": "20250417125939",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250417125939id_/https://braincatalogue.org/data/Cat/mesh.ply"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Cat/MRI-n4.nii.gz",
+      "name": "MRI-n4.nii.gz",
+      "first_capture": "20250420204309",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250420204309id_/https://braincatalogue.org/data/Cat/MRI-n4.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Cheetah/mesh.ply",
+      "name": "mesh.ply",
+      "first_capture": "20250417130004",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250417130004id_/https://braincatalogue.org/data/Cheetah/mesh.ply"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Cheetah/MRI.nii.gz",
+      "name": "MRI.nii.gz",
+      "first_capture": "20250418072333",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250418072333id_/https://braincatalogue.org/data/Cheetah/MRI.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Cheetah/Telencephalon.nii.gz",
+      "name": "Telencephalon.nii.gz",
+      "first_capture": "20250417161415",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250417161415id_/https://braincatalogue.org/data/Cheetah/Telencephalon.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Chimpanzee/Atlas.nii.gz",
+      "name": "Atlas.nii.gz",
+      "first_capture": "20250420204526",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250420204526id_/https://braincatalogue.org/data/Chimpanzee/Atlas.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Chimpanzee/MRI-n4.nii.gz",
+      "name": "MRI-n4.nii.gz",
+      "first_capture": "20250418000216",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250418000216id_/https://braincatalogue.org/data/Chimpanzee/MRI-n4.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Ferret/mesh.ply",
+      "name": "mesh.ply",
+      "first_capture": "20250417125949",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250417125949id_/https://braincatalogue.org/data/Ferret/mesh.ply"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Ferret/Neocortex.nii.gz",
+      "name": "Neocortex.nii.gz",
+      "first_capture": "20250419042951",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250419042951id_/https://braincatalogue.org/data/Ferret/Neocortex.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Giant_panda/mesh.ply",
+      "name": "mesh.ply",
+      "first_capture": "20250417130033",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20250417130033id_/https://braincatalogue.org/data/Giant_panda/mesh.ply"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Giant_panda/MRI.nii.gz",
+      "name": "MRI.nii.gz",
+      "first_capture": "20250421185540",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250421185540id_/https://braincatalogue.org/data/Giant_panda/MRI.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Giant_panda/Telencephalon.nii.gz",
+      "name": "Telencephalon.nii.gz",
+      "first_capture": "20250419000441",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250419000441id_/https://braincatalogue.org/data/Giant_panda/Telencephalon.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Gibbon/Cerebrum.nii.gz",
+      "name": "Cerebrum.nii.gz",
+      "first_capture": "20250427042254",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250427042254id_/https://braincatalogue.org/data/Gibbon/Cerebrum.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Giraffe/Telencephalon.nii.gz",
+      "name": "Telencephalon.nii.gz",
+      "first_capture": "20250418083556",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250418083556id_/https://braincatalogue.org/data/Giraffe/Telencephalon.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Gorilla/Atlas.nii.gz",
+      "name": "Atlas.nii.gz",
+      "first_capture": "20250418105533",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250418105533id_/https://braincatalogue.org/data/Gorilla/Atlas.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Gorilla/MRI-n4.nii.gz",
+      "name": "MRI-n4.nii.gz",
+      "first_capture": "20250417161645",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250417161645id_/https://braincatalogue.org/data/Gorilla/MRI-n4.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Gray_wolf/mesh.ply",
+      "name": "mesh.ply",
+      "first_capture": "20250417125919",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20250417125919id_/https://braincatalogue.org/data/Gray_wolf/mesh.ply"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Gray_wolf/MRI.nii.gz",
+      "name": "MRI.nii.gz",
+      "first_capture": "20250418113159",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250418113159id_/https://braincatalogue.org/data/Gray_wolf/MRI.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Gray_wolf/Telencephalon.nii.gz",
+      "name": "Telencephalon.nii.gz",
+      "first_capture": "20250422080736",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250422080736id_/https://braincatalogue.org/data/Gray_wolf/Telencephalon.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Grey-cheeked_mangabey/MRI.nii.gz",
+      "name": "MRI.nii.gz",
+      "first_capture": "20250421055243",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250421055243id_/https://braincatalogue.org/data/Grey-cheeked_mangabey/MRI.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Grey-cheeked_mangabey/Telencephalon.nii.gz",
+      "name": "Telencephalon.nii.gz",
+      "first_capture": "20250418102126",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250418102126id_/https://braincatalogue.org/data/Grey-cheeked_mangabey/Telencephalon.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/House_mouse/Mouse.nii.gz",
+      "name": "Mouse.nii.gz",
+      "first_capture": "20250422103244",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250422103244id_/https://braincatalogue.org/data/House_mouse/Mouse.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/House_mouse/Telencephalon.nii.gz",
+      "name": "Telencephalon.nii.gz",
+      "first_capture": "20250505071404",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250505071404id_/https://braincatalogue.org/data/House_mouse/Telencephalon.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Human/mesh.ply",
+      "name": "mesh.ply",
+      "first_capture": "20250417130009",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250417130009id_/https://braincatalogue.org/data/Human/mesh.ply"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Human/MRI-n4.nii.gz",
+      "name": "MRI-n4.nii.gz",
+      "first_capture": "20250419063027",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250419063027id_/https://braincatalogue.org/data/Human/MRI-n4.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/La_Plata_dolphin/mesh.ply",
+      "name": "mesh.ply",
+      "first_capture": "20250417125922",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20250417125922id_/https://braincatalogue.org/data/La_Plata_dolphin/mesh.ply"
+    },
+    {
+      "url": "https://braincatalogue.org/data/La_Plata_dolphin/MRI.nii.gz",
+      "name": "MRI.nii.gz",
+      "first_capture": "20250418074637",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250418074637id_/https://braincatalogue.org/data/La_Plata_dolphin/MRI.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/La_Plata_dolphin/Telencephalon.nii.gz",
+      "name": "Telencephalon.nii.gz",
+      "first_capture": "20250420160212",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250420160212id_/https://braincatalogue.org/data/La_Plata_dolphin/Telencephalon.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Leopard/Hippocampus.nii.gz",
+      "name": "Hippocampus.nii.gz",
+      "first_capture": "20250418212437",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250418212437id_/https://braincatalogue.org/data/Leopard/Hippocampus.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Leopard/mesh.ply",
+      "name": "mesh.ply",
+      "first_capture": "20250417125857",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250417125857id_/https://braincatalogue.org/data/Leopard/mesh.ply"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Lion/Hippocampus.nii.gz",
+      "name": "Hippocampus.nii.gz",
+      "first_capture": "20250418235952",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250418235952id_/https://braincatalogue.org/data/Lion/Hippocampus.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Lion/mesh.ply",
+      "name": "mesh.ply",
+      "first_capture": "20250417125915",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250417125915id_/https://braincatalogue.org/data/Lion/mesh.ply"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Lion/MRI-n4.nii.gz",
+      "name": "MRI-n4.nii.gz",
+      "first_capture": "20250421072621",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250421072621id_/https://braincatalogue.org/data/Lion/MRI-n4.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Night_monkey/MRI.nii.gz",
+      "name": "MRI.nii.gz",
+      "first_capture": "20250418102648",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250418102648id_/https://braincatalogue.org/data/Night_monkey/MRI.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Night_monkey/Telencephalon.nii.gz",
+      "name": "Telencephalon.nii.gz",
+      "first_capture": "20250427214939",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250427214939id_/https://braincatalogue.org/data/Night_monkey/Telencephalon.nii.gz"
+    },
+    {
+      "url": "http://www.braincatalogue.org:80/data/Nile_crocodile/mesh.ply",
+      "name": "mesh.ply",
+      "first_capture": "20180816005408",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20180816005408id_/http://www.braincatalogue.org:80/data/Nile_crocodile/mesh.ply"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Nile_crocodile/MRI.nii.gz",
+      "name": "MRI.nii.gz",
+      "first_capture": "20250419050253",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250419050253id_/https://braincatalogue.org/data/Nile_crocodile/MRI.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Nile_crocodile/Telencephalon.nii.gz",
+      "name": "Telencephalon.nii.gz",
+      "first_capture": "20250419212408",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250419212408id_/https://braincatalogue.org/data/Nile_crocodile/Telencephalon.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Nursehound/mesh.ply",
+      "name": "mesh.ply",
+      "first_capture": "20250417125908",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20250417125908id_/https://braincatalogue.org/data/Nursehound/mesh.ply"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Okapi/mesh.ply",
+      "name": "mesh.ply",
+      "first_capture": "20250417130014",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20250417130014id_/https://braincatalogue.org/data/Okapi/mesh.ply"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Okapi/MRI.nii.gz",
+      "name": "MRI.nii.gz",
+      "first_capture": "20250504131323",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250504131323id_/https://braincatalogue.org/data/Okapi/MRI.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Okapi/Telencephalon.nii.gz",
+      "name": "Telencephalon.nii.gz",
+      "first_capture": "20250426120228",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250426120228id_/https://braincatalogue.org/data/Okapi/Telencephalon.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Orangutan/Atlas.nii.gz",
+      "name": "Atlas.nii.gz",
+      "first_capture": "20250417213009",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250417213009id_/https://braincatalogue.org/data/Orangutan/Atlas.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Orangutan/mesh.ply",
+      "name": "mesh.ply",
+      "first_capture": "20250417125904",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250417125904id_/https://braincatalogue.org/data/Orangutan/mesh.ply"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Orangutan/MRI-n4.nii.gz",
+      "name": "MRI-n4.nii.gz",
+      "first_capture": "20250419172327",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250419172327id_/https://braincatalogue.org/data/Orangutan/MRI-n4.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Ostrich/mesh.ply",
+      "name": "mesh.ply",
+      "first_capture": "20250417125928",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20250417125928id_/https://braincatalogue.org/data/Ostrich/mesh.ply"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Ostrich/MRI.nii.gz",
+      "name": "MRI.nii.gz",
+      "first_capture": "20250420122854",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250420122854id_/https://braincatalogue.org/data/Ostrich/MRI.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Ostrich/Telencephalon.nii.gz",
+      "name": "Telencephalon.nii.gz",
+      "first_capture": "20250419024356",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250419024356id_/https://braincatalogue.org/data/Ostrich/Telencephalon.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Plains_zebra/MRI.nii.gz",
+      "name": "MRI.nii.gz",
+      "first_capture": "20250421112045",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250421112045id_/https://braincatalogue.org/data/Plains_zebra/MRI.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Platypus/MRI.nii.gz",
+      "name": "MRI.nii.gz",
+      "first_capture": "20250425092350",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250425092350id_/https://braincatalogue.org/data/Platypus/MRI.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Platypus/Telencephalon.nii.gz",
+      "name": "Telencephalon.nii.gz",
+      "first_capture": "20250419204915",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250419204915id_/https://braincatalogue.org/data/Platypus/Telencephalon.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Red_kangaroo/Hippocampus.nii.gz",
+      "name": "Hippocampus.nii.gz",
+      "first_capture": "20250419051204",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250419051204id_/https://braincatalogue.org/data/Red_kangaroo/Hippocampus.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Red_kangaroo/MRI-n4.nii.gz",
+      "name": "MRI-n4.nii.gz",
+      "first_capture": "20250421162051",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250421162051id_/https://braincatalogue.org/data/Red_kangaroo/MRI-n4.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Red_squirrel/Hippocampus.nii.gz",
+      "name": "Hippocampus.nii.gz",
+      "first_capture": "20250422080659",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250422080659id_/https://braincatalogue.org/data/Red_squirrel/Hippocampus.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Red_squirrel/MRI-n4.nii.gz",
+      "name": "MRI-n4.nii.gz",
+      "first_capture": "20250428081510",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250428081510id_/https://braincatalogue.org/data/Red_squirrel/MRI-n4.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Rhesus_macaque/MRI.nii.gz",
+      "name": "MRI.nii.gz",
+      "first_capture": "20250421083450",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250421083450id_/https://braincatalogue.org/data/Rhesus_macaque/MRI.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Sloth_bear/Hippocampus.nii.gz",
+      "name": "Hippocampus.nii.gz",
+      "first_capture": "20250422101106",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250422101106id_/https://braincatalogue.org/data/Sloth_bear/Hippocampus.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Sloth_bear/mesh.ply",
+      "name": "mesh.ply",
+      "first_capture": "20250417125905",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250417125905id_/https://braincatalogue.org/data/Sloth_bear/mesh.ply"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Sloth_bear/MRI-n4.nii.gz",
+      "name": "MRI-n4.nii.gz",
+      "first_capture": "20250419110650",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250419110650id_/https://braincatalogue.org/data/Sloth_bear/MRI-n4.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Slow_loris/Atlas.nii.gz",
+      "name": "Atlas.nii.gz",
+      "first_capture": "20250418213926",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250418213926id_/https://braincatalogue.org/data/Slow_loris/Atlas.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Slow_loris/mesh.ply",
+      "name": "mesh.ply",
+      "first_capture": "20250417125910",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250417125910id_/https://braincatalogue.org/data/Slow_loris/mesh.ply"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Slow_loris/MRI-n4.nii.gz",
+      "name": "MRI-n4.nii.gz",
+      "first_capture": "20250419014843",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250419014843id_/https://braincatalogue.org/data/Slow_loris/MRI-n4.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Thylacine/Cerebrum.nii.gz",
+      "name": "Cerebrum.nii.gz",
+      "first_capture": "20250418020733",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250418020733id_/https://braincatalogue.org/data/Thylacine/Cerebrum.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Thylacine/MRI.nii.gz",
+      "name": "MRI.nii.gz",
+      "first_capture": "20250419082918",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250419082918id_/https://braincatalogue.org/data/Thylacine/MRI.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/White-headed_capuchin/Cerebrum.nii.gz",
+      "name": "Cerebrum.nii.gz",
+      "first_capture": "20250417212115",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250417212115id_/https://braincatalogue.org/data/White-headed_capuchin/Cerebrum.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/data/White-headed_capuchin/mesh.ply",
+      "name": "mesh.ply",
+      "first_capture": "20250417125956",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20250417125956id_/https://braincatalogue.org/data/White-headed_capuchin/mesh.ply"
+    },
+    {
+      "url": "https://braincatalogue.org/data/White-headed_capuchin/MRI.nii.gz",
+      "name": "MRI.nii.gz",
+      "first_capture": "20250505174445",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250505174445id_/https://braincatalogue.org/data/White-headed_capuchin/MRI.nii.gz"
+    },
+    {
+      "url": "https://braincatalogue.org/feed.xml",
+      "name": "feed.xml",
+      "first_capture": "20250609224325",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250609224325id_/https://braincatalogue.org/feed.xml"
+    },
+    {
+      "url": "https://braincatalogue.org/feeds/all.atom.xml",
+      "name": "all.atom.xml",
+      "first_capture": "20250609224438",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20250609224438id_/https://braincatalogue.org/feeds/all.atom.xml"
+    },
+    {
+      "url": "https://braincatalogue.org/index.xml",
+      "name": "index.xml",
+      "first_capture": "20250609224324",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20250609224324id_/https://braincatalogue.org/index.xml"
+    },
+    {
+      "url": "https://braincatalogue.org/mesh.ply",
+      "name": "mesh.ply",
+      "first_capture": "20190321023923",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20190321023923id_/https://braincatalogue.org/mesh.ply"
+    },
+    {
+      "url": "http://braincatalogue.org/robots.txt",
+      "name": "robots.txt",
+      "first_capture": "20150801040946",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20150801040946id_/http://braincatalogue.org/robots.txt"
+    },
+    {
+      "url": "https://braincatalogue.org/sitemap.xml",
+      "name": "sitemap.xml",
+      "first_capture": "20240629223815",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20240629223815id_/https://braincatalogue.org/sitemap.xml"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://braincatalogue.org/data/%22+escape(info.name)+%22/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20240629080943",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20240629080943id_/https://braincatalogue.org/data/%22+escape(info.name)+%22/picture.jpg"
+    },
+    {
+      "url": "https://braincatalogue.org/data/'+file+'/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20210922141525",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20210922141525id_/https://braincatalogue.org/data/'+file+'/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Baboon/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20220324091220",
+      "status": "301",
+      "snapshot": "https://web.archive.org/web/20220324091220id_/http://braincatalogue.org/data/Baboon/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Black_rhinoceros/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20161029200452",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20161029200452id_/http://braincatalogue.org/data/Black_rhinoceros/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Blackbuck/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20161029200453",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20161029200453id_/http://braincatalogue.org/data/Blackbuck/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Bottlenose_dolphin/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20161029200452",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20161029200452id_/http://braincatalogue.org/data/Bottlenose_dolphin/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Cat/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20220324091229",
+      "status": "301",
+      "snapshot": "https://web.archive.org/web/20220324091229id_/http://braincatalogue.org/data/Cat/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Cheetah/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20220321093135",
+      "status": "301",
+      "snapshot": "https://web.archive.org/web/20220321093135id_/http://braincatalogue.org/data/Cheetah/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Chimpanzee/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20160731105520",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20160731105520id_/http://braincatalogue.org/data/Chimpanzee/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Crab-eating_macaque/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20161029200453",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20161029200453id_/http://braincatalogue.org/data/Crab-eating_macaque/picture.jpg"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Cyclopia/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20200825062101",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20200825062101id_/https://braincatalogue.org/data/Cyclopia/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Demidoff%27s_dwarf_Galago/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20220321093135",
+      "status": "301",
+      "snapshot": "https://web.archive.org/web/20220321093135id_/http://braincatalogue.org/data/Demidoff%27s_dwarf_Galago/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Ferret/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20161029200453",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20161029200453id_/http://braincatalogue.org/data/Ferret/picture.jpg"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Giant_panda/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20220623145904",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20220623145904id_/https://braincatalogue.org/data/Giant_panda/picture.jpg"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Gibbon/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20220623145905",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20220623145905id_/https://braincatalogue.org/data/Gibbon/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Giraffe/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20220324091230",
+      "status": "301",
+      "snapshot": "https://web.archive.org/web/20220324091230id_/http://braincatalogue.org/data/Giraffe/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Gorilla/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20160731073641",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20160731073641id_/http://braincatalogue.org/data/Gorilla/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Gray_wolf/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20220324091218",
+      "status": "301",
+      "snapshot": "https://web.archive.org/web/20220324091218id_/http://braincatalogue.org/data/Gray_wolf/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Grey-cheeked_mangabey/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20220321093135",
+      "status": "301",
+      "snapshot": "https://web.archive.org/web/20220321093135id_/http://braincatalogue.org/data/Grey-cheeked_mangabey/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/House_mouse/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20161029200509",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20161029200509id_/http://braincatalogue.org/data/House_mouse/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Human/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20161029200452",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20161029200452id_/http://braincatalogue.org/data/Human/picture.jpg"
+    },
+    {
+      "url": "https://braincatalogue.org/data/La_Plata_dolphin/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20220623145904",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20220623145904id_/https://braincatalogue.org/data/La_Plata_dolphin/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Leopard/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20161029200452",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20161029200452id_/http://braincatalogue.org/data/Leopard/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Lion/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20220324091234",
+      "status": "301",
+      "snapshot": "https://web.archive.org/web/20220324091234id_/http://braincatalogue.org/data/Lion/picture.jpg"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Night_monkey/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20220623145905",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20220623145905id_/https://braincatalogue.org/data/Night_monkey/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Nile_crocodile/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20220328081329",
+      "status": "301",
+      "snapshot": "https://web.archive.org/web/20220328081329id_/http://braincatalogue.org/data/Nile_crocodile/picture.jpg"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Nursehound/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20220623145908",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20220623145908id_/https://braincatalogue.org/data/Nursehound/picture.jpg"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Okapi/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20220623145907",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20220623145907id_/https://braincatalogue.org/data/Okapi/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Orangutan/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20160731072810",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20160731072810id_/http://braincatalogue.org/data/Orangutan/picture.jpg"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Ostrich/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20220623145904",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20220623145904id_/https://braincatalogue.org/data/Ostrich/picture.jpg"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Plains_zebra/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20220623145905",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20220623145905id_/https://braincatalogue.org/data/Plains_zebra/picture.jpg"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Platypus/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20220623145905",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20220623145905id_/https://braincatalogue.org/data/Platypus/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Red-necked_wallaby/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20220321093135",
+      "status": "301",
+      "snapshot": "https://web.archive.org/web/20220321093135id_/http://braincatalogue.org/data/Red-necked_wallaby/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Red_kangaroo/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20161029200452",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20161029200452id_/http://braincatalogue.org/data/Red_kangaroo/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Red_squirrel/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20161029200453",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20161029200453id_/http://braincatalogue.org/data/Red_squirrel/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Rhesus_macaque/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20161029200452",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20161029200452id_/http://braincatalogue.org/data/Rhesus_macaque/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Sloth_bear/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20161029200453",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20161029200453id_/http://braincatalogue.org/data/Sloth_bear/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Slow_loris/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20161029200452",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20161029200452id_/http://braincatalogue.org/data/Slow_loris/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/Thylacine/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20161029200509",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20161029200509id_/http://braincatalogue.org/data/Thylacine/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/data/White-headed_capuchin/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20220321093135",
+      "status": "301",
+      "snapshot": "https://web.archive.org/web/20220321093135id_/http://braincatalogue.org/data/White-headed_capuchin/picture.jpg"
+    },
+    {
+      "url": "http://braincatalogue.org/img/88x31.png",
+      "name": "88x31.png",
+      "first_capture": "20150802034743",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20150802034743id_/http://braincatalogue.org/img/88x31.png"
+    },
+    {
+      "url": "http://braincatalogue.org:80/img/download.svg",
+      "name": "download.svg",
+      "first_capture": "20161113130858",
+      "status": "301",
+      "snapshot": "https://web.archive.org/web/20161113130858id_/http://braincatalogue.org:80/img/download.svg"
+    },
+    {
+      "url": "http://braincatalogue.org:80/img/edit.svg",
+      "name": "edit.svg",
+      "first_capture": "20151123105400",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20151123105400id_/http://braincatalogue.org:80/img/edit.svg"
+    },
+    {
+      "url": "http://braincatalogue.org/img/feed-icon.svg",
+      "name": "feed-icon.svg",
+      "first_capture": "20150802040102",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20150802040102id_/http://braincatalogue.org/img/feed-icon.svg"
+    },
+    {
+      "url": "https://braincatalogue.org/lib/images/ui-bg_flat_0_aaaaaa_40x100.png",
+      "name": "ui-bg_flat_0_aaaaaa_40x100.png",
+      "first_capture": "20170720135252",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20170720135252id_/https://braincatalogue.org/lib/images/ui-bg_flat_0_aaaaaa_40x100.png"
+    },
+    {
+      "url": "https://braincatalogue.org/lib/images/ui-bg_flat_75_ffffff_40x100.png",
+      "name": "ui-bg_flat_75_ffffff_40x100.png",
+      "first_capture": "20170720134239",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20170720134239id_/https://braincatalogue.org/lib/images/ui-bg_flat_75_ffffff_40x100.png"
+    },
+    {
+      "url": "https://braincatalogue.org/lib/images/ui-bg_glass_55_fbf9ee_1x400.png",
+      "name": "ui-bg_glass_55_fbf9ee_1x400.png",
+      "first_capture": "20170720134257",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20170720134257id_/https://braincatalogue.org/lib/images/ui-bg_glass_55_fbf9ee_1x400.png"
+    },
+    {
+      "url": "https://braincatalogue.org/lib/images/ui-bg_glass_65_ffffff_1x400.png",
+      "name": "ui-bg_glass_65_ffffff_1x400.png",
+      "first_capture": "20170720134253",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20170720134253id_/https://braincatalogue.org/lib/images/ui-bg_glass_65_ffffff_1x400.png"
+    },
+    {
+      "url": "https://braincatalogue.org/lib/images/ui-bg_glass_75_dadada_1x400.png",
+      "name": "ui-bg_glass_75_dadada_1x400.png",
+      "first_capture": "20170720134250",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20170720134250id_/https://braincatalogue.org/lib/images/ui-bg_glass_75_dadada_1x400.png"
+    },
+    {
+      "url": "https://braincatalogue.org/lib/images/ui-bg_glass_75_e6e6e6_1x400.png",
+      "name": "ui-bg_glass_75_e6e6e6_1x400.png",
+      "first_capture": "20170720134247",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20170720134247id_/https://braincatalogue.org/lib/images/ui-bg_glass_75_e6e6e6_1x400.png"
+    },
+    {
+      "url": "https://braincatalogue.org/lib/images/ui-bg_glass_95_fef1ec_1x400.png",
+      "name": "ui-bg_glass_95_fef1ec_1x400.png",
+      "first_capture": "20170720135234",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20170720135234id_/https://braincatalogue.org/lib/images/ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "url": "https://braincatalogue.org/lib/images/ui-bg_highlight-soft_75_cccccc_1x100.png",
+      "name": "ui-bg_highlight-soft_75_cccccc_1x100.png",
+      "first_capture": "20170720134242",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20170720134242id_/https://braincatalogue.org/lib/images/ui-bg_highlight-soft_75_cccccc_1x100.png"
+    },
+    {
+      "url": "https://braincatalogue.org/lib/images/ui-icons_222222_256x240.png",
+      "name": "ui-icons_222222_256x240.png",
+      "first_capture": "20170720135237",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20170720135237id_/https://braincatalogue.org/lib/images/ui-icons_222222_256x240.png"
+    },
+    {
+      "url": "https://braincatalogue.org/lib/images/ui-icons_2e83ff_256x240.png",
+      "name": "ui-icons_2e83ff_256x240.png",
+      "first_capture": "20170720135246",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20170720135246id_/https://braincatalogue.org/lib/images/ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "url": "https://braincatalogue.org/lib/images/ui-icons_454545_256x240.png",
+      "name": "ui-icons_454545_256x240.png",
+      "first_capture": "20170720135243",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20170720135243id_/https://braincatalogue.org/lib/images/ui-icons_454545_256x240.png"
+    },
+    {
+      "url": "https://braincatalogue.org/lib/images/ui-icons_888888_256x240.png",
+      "name": "ui-icons_888888_256x240.png",
+      "first_capture": "20170720135240",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20170720135240id_/https://braincatalogue.org/lib/images/ui-icons_888888_256x240.png"
+    },
+    {
+      "url": "https://braincatalogue.org/lib/images/ui-icons_cd0a0a_256x240.png",
+      "name": "ui-icons_cd0a0a_256x240.png",
+      "first_capture": "20170720135249",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20170720135249id_/https://braincatalogue.org/lib/images/ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "url": "https://braincatalogue.org/picture.jpg",
+      "name": "picture.jpg",
+      "first_capture": "20190321023926",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20190321023926id_/https://braincatalogue.org/picture.jpg"
+    }
+  ]
+}

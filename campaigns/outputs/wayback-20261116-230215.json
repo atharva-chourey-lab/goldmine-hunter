@@ -1,0 +1,1463 @@
+{
+  "domain": "scalablebrainatlas.incf.org",
+  "data_files": [
+    {
+      "url": "https://scalablebrainatlas.incf.org/.well-known/ai-plugin.json",
+      "name": "ai-plugin.json",
+      "first_capture": "20230608220305",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20230608220305id_/https://scalablebrainatlas.incf.org/.well-known/ai-plugin.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/.well-known/assetlinks.json",
+      "name": "assetlinks.json",
+      "first_capture": "20230608220206",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20230608220206id_/https://scalablebrainatlas.incf.org/.well-known/assetlinks.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/.well-known/dnt-policy.txt",
+      "name": "dnt-policy.txt",
+      "first_capture": "20230608215812",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20230608215812id_/https://scalablebrainatlas.incf.org/.well-known/dnt-policy.txt"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/.well-known/gpc.json",
+      "name": "gpc.json",
+      "first_capture": "20230608220024",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20230608220024id_/https://scalablebrainatlas.incf.org/.well-known/gpc.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/.well-known/security.txt",
+      "name": "security.txt",
+      "first_capture": "20230608215912",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20230608215912id_/https://scalablebrainatlas.incf.org/.well-known/security.txt"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/.well-known/trust.txt",
+      "name": "trust.txt",
+      "first_capture": "20230608221828",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20230608221828id_/https://scalablebrainatlas.incf.org/.well-known/trust.txt"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/ads.txt",
+      "name": "ads.txt",
+      "first_capture": "20230608220500",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20230608220500id_/https://scalablebrainatlas.incf.org/ads.txt"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/app-ads.txt",
+      "name": "app-ads.txt",
+      "first_capture": "20230608222239",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20230608222239id_/https://scalablebrainatlas.incf.org/app-ads.txt"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/BAS/atlases.json",
+      "name": "atlases.json",
+      "first_capture": "20240523010136",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20240523010136id_/https://scalablebrainatlas.incf.org/BAS/atlases.json"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/robots.txt",
+      "name": "robots.txt",
+      "first_capture": "20120318212004",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20120318212004id_/http://scalablebrainatlas.incf.org/robots.txt"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/sitemap.xml",
+      "name": "sitemap.xml",
+      "first_capture": "20220706074412",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20220706074412id_/https://scalablebrainatlas.incf.org/sitemap.xml"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/ABA12/template/acr2full.json",
+      "name": "acr2full.json",
+      "first_capture": "20211202105557",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20211202105557id_/https://scalablebrainatlas.incf.org/templates/ABA12/template/acr2full.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/ABA12/template/rgb2acr.json",
+      "name": "rgb2acr.json",
+      "first_capture": "20211202095052",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20211202095052id_/https://scalablebrainatlas.incf.org/templates/ABA12/template/rgb2acr.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/ABA_v3/template/acr2full.json",
+      "name": "acr2full.json",
+      "first_capture": "20211202105356",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20211202105356id_/https://scalablebrainatlas.incf.org/templates/ABA_v3/template/acr2full.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/ABA_v3/template/rgb2acr.json",
+      "name": "rgb2acr.json",
+      "first_capture": "20211202090443",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20211202090443id_/https://scalablebrainatlas.incf.org/templates/ABA_v3/template/rgb2acr.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/BLHS13/source/badhwar_hippocampal_atlas.nii.gz",
+      "name": "badhwar_hippocampal_atlas.nii.gz",
+      "first_capture": "20250731151523",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250731151523id_/https://scalablebrainatlas.incf.org/templates/BLHS13/source/badhwar_hippocampal_atlas.nii.gz"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/BLHS13/source/bha_labels_sba.nii.gz",
+      "name": "bha_labels_sba.nii.gz",
+      "first_capture": "20250731151512",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250731151512id_/https://scalablebrainatlas.incf.org/templates/BLHS13/source/bha_labels_sba.nii.gz"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/BLHS13/source/coronal_svg.zip",
+      "name": "coronal_svg.zip",
+      "first_capture": "20250731151518",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250731151518id_/https://scalablebrainatlas.incf.org/templates/BLHS13/source/coronal_svg.zip"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/BLHS13/template/acr2full.json",
+      "name": "acr2full.json",
+      "first_capture": "20211202085657",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20211202085657id_/https://scalablebrainatlas.incf.org/templates/BLHS13/template/acr2full.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/BLHS13/template/rgb2acr.json",
+      "name": "rgb2acr.json",
+      "first_capture": "20211202093347",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20211202093347id_/https://scalablebrainatlas.incf.org/templates/BLHS13/template/rgb2acr.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/BNA/template/acr2full.json",
+      "name": "acr2full.json",
+      "first_capture": "20211202103421",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20211202103421id_/https://scalablebrainatlas.incf.org/templates/BNA/template/acr2full.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/BNA/template/rgb2acr.json",
+      "name": "rgb2acr.json",
+      "first_capture": "20211202092300",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20211202092300id_/https://scalablebrainatlas.incf.org/templates/BNA/template/rgb2acr.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/CBCetal15/template/acr2full.json",
+      "name": "acr2full.json",
+      "first_capture": "20211202104809",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20211202104809id_/https://scalablebrainatlas.incf.org/templates/CBCetal15/template/acr2full.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/CBCetal15/template/rgb2acr.json",
+      "name": "rgb2acr.json",
+      "first_capture": "20211202101937",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20211202101937id_/https://scalablebrainatlas.incf.org/templates/CBCetal15/template/rgb2acr.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/DB09/template/acr2full.json",
+      "name": "acr2full.json",
+      "first_capture": "20210306012058",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20210306012058id_/https://scalablebrainatlas.incf.org/templates/DB09/template/acr2full.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/DB09/template/rgb2acr.json",
+      "name": "rgb2acr.json",
+      "first_capture": "20210306020024",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20210306020024id_/https://scalablebrainatlas.incf.org/templates/DB09/template/rgb2acr.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/EAZ05_v20/template/acr2full.json",
+      "name": "acr2full.json",
+      "first_capture": "20210306012732",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20210306012732id_/https://scalablebrainatlas.incf.org/templates/EAZ05_v20/template/acr2full.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/EAZ05_v20/template/rgb2acr.json",
+      "name": "rgb2acr.json",
+      "first_capture": "20210306010453",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20210306010453id_/https://scalablebrainatlas.incf.org/templates/EAZ05_v20/template/rgb2acr.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/FVE91_on_F99/template/acr2full.json",
+      "name": "acr2full.json",
+      "first_capture": "20210306020519",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20210306020519id_/https://scalablebrainatlas.incf.org/templates/FVE91_on_F99/template/acr2full.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/FVE91_on_F99/template/rgb2acr.json",
+      "name": "rgb2acr.json",
+      "first_capture": "20210306011050",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20210306011050id_/https://scalablebrainatlas.incf.org/templates/FVE91_on_F99/template/rgb2acr.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/HOA06/template/acr2full.json",
+      "name": "acr2full.json",
+      "first_capture": "20210306011803",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20210306011803id_/https://scalablebrainatlas.incf.org/templates/HOA06/template/acr2full.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/HOA06/template/rgb2acr.json",
+      "name": "rgb2acr.json",
+      "first_capture": "20210306021040",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20210306021040id_/https://scalablebrainatlas.incf.org/templates/HOA06/template/rgb2acr.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/HSRetal17/template/acr2full.json",
+      "name": "acr2full.json",
+      "first_capture": "20211202093028",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20211202093028id_/https://scalablebrainatlas.incf.org/templates/HSRetal17/template/acr2full.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/HSRetal17/template/rgb2acr.json",
+      "name": "rgb2acr.json",
+      "first_capture": "20211202085447",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20211202085447id_/https://scalablebrainatlas.incf.org/templates/HSRetal17/template/rgb2acr.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/MERetal14/template/acr2full.json",
+      "name": "acr2full.json",
+      "first_capture": "20211202105654",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20211202105654id_/https://scalablebrainatlas.incf.org/templates/MERetal14/template/acr2full.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/MERetal14/template/rgb2acr.json",
+      "name": "rgb2acr.json",
+      "first_capture": "20211202103001",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20211202103001id_/https://scalablebrainatlas.incf.org/templates/MERetal14/template/rgb2acr.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/MERetal14_on_F99/template/acr2full.json",
+      "name": "acr2full.json",
+      "first_capture": "20211202095244",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20211202095244id_/https://scalablebrainatlas.incf.org/templates/MERetal14_on_F99/template/acr2full.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/MERetal14_on_F99/template/rgb2acr.json",
+      "name": "rgb2acr.json",
+      "first_capture": "20211202092338",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20211202092338id_/https://scalablebrainatlas.incf.org/templates/MERetal14_on_F99/template/rgb2acr.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/NMM1103/template/acr2full.json",
+      "name": "acr2full.json",
+      "first_capture": "20190917142153",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20190917142153id_/https://scalablebrainatlas.incf.org/templates/NMM1103/template/acr2full.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/NMM1103/template/rgb2acr.json",
+      "name": "rgb2acr.json",
+      "first_capture": "20190917142451",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20190917142451id_/https://scalablebrainatlas.incf.org/templates/NMM1103/template/rgb2acr.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/PLCJB14/source/coronal_svg.zip",
+      "name": "coronal_svg.zip",
+      "first_capture": "20220426100626",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20220426100626id_/https://scalablebrainatlas.incf.org/templates/PLCJB14/source/coronal_svg.zip"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/PLCJB14/template/acr2full.json",
+      "name": "acr2full.json",
+      "first_capture": "20210423150707",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20210423150707id_/https://scalablebrainatlas.incf.org/templates/PLCJB14/template/acr2full.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/PLCJB14/template/rgb2acr.json",
+      "name": "rgb2acr.json",
+      "first_capture": "20210423151214",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20210423151214id_/https://scalablebrainatlas.incf.org/templates/PLCJB14/template/rgb2acr.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/RM_on_F99/template/acr2full.json",
+      "name": "acr2full.json",
+      "first_capture": "20210306011242",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20210306011242id_/https://scalablebrainatlas.incf.org/templates/RM_on_F99/template/acr2full.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/RM_on_F99/template/rgb2acr.json",
+      "name": "rgb2acr.json",
+      "first_capture": "20210306024435",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20210306024435id_/https://scalablebrainatlas.incf.org/templates/RM_on_F99/template/rgb2acr.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/VLAetal11/template/acr2full.json",
+      "name": "acr2full.json",
+      "first_capture": "20210306011936",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20210306011936id_/https://scalablebrainatlas.incf.org/templates/VLAetal11/template/acr2full.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/VLAetal11/template/rgb2acr.json",
+      "name": "rgb2acr.json",
+      "first_capture": "20210306024743",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20210306024743id_/https://scalablebrainatlas.incf.org/templates/VLAetal11/template/rgb2acr.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/VSNetal11/template/acr2full.json",
+      "name": "acr2full.json",
+      "first_capture": "20210423145425",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20210423145425id_/https://scalablebrainatlas.incf.org/templates/VSNetal11/template/acr2full.json"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/VSNetal11/template/rgb2acr.json",
+      "name": "rgb2acr.json",
+      "first_capture": "20210423142420",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20210423142420id_/https://scalablebrainatlas.incf.org/templates/VSNetal11/template/rgb2acr.json"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org:80/templates/WHS12/template/acr2full.json",
+      "name": "acr2full.json",
+      "first_capture": "20160213134548",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20160213134548id_/http://scalablebrainatlas.incf.org:80/templates/WHS12/template/acr2full.json"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org:80/templates/WHS12/template/rgb2acr.json",
+      "name": "rgb2acr.json",
+      "first_capture": "20160213134553",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20160213134553id_/http://scalablebrainatlas.incf.org:80/templates/WHS12/template/rgb2acr.json"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://scalablebrainatlas.incf.org/3dbar_overlay.png",
+      "name": "3dbar_overlay.png",
+      "first_capture": "20200408003731",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20200408003731id_/https://scalablebrainatlas.incf.org/3dbar_overlay.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/ABA07_CA_2d3dL.png",
+      "name": "ABA07_CA_2d3dL.png",
+      "first_capture": "20250516190329",
+      "status": "301",
+      "snapshot": "https://web.archive.org/web/20250516190329id_/http://scalablebrainatlas.incf.org/cache/ABA07_CA_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/ABA12_AON_2d3dL.png",
+      "name": "ABA12_AON_2d3dL.png",
+      "first_capture": "20151001073807",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20151001073807id_/http://scalablebrainatlas.incf.org/cache/ABA12_AON_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_10N_2d3dL.png",
+      "name": "PHT00_10N_2d3dL.png",
+      "first_capture": "20140531161935",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140531161935id_/http://scalablebrainatlas.incf.org/cache/PHT00_10N_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_12N_2d3dL.png",
+      "name": "PHT00_12N_2d3dL.png",
+      "first_capture": "20140605053522",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140605053522id_/http://scalablebrainatlas.incf.org/cache/PHT00_12N_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_3N_2d3dL.png",
+      "name": "PHT00_3N_2d3dL.png",
+      "first_capture": "20140717171456",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140717171456id_/http://scalablebrainatlas.incf.org/cache/PHT00_3N_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_6N_2d3dL.png",
+      "name": "PHT00_6N_2d3dL.png",
+      "first_capture": "20140525054526",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140525054526id_/http://scalablebrainatlas.incf.org/cache/PHT00_6N_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_7N_2d3dL.png",
+      "name": "PHT00_7N_2d3dL.png",
+      "first_capture": "20140530221607",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140530221607id_/http://scalablebrainatlas.incf.org/cache/PHT00_7N_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_AA_2d3dL.png",
+      "name": "PHT00_AA_2d3dL.png",
+      "first_capture": "20151001151905",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20151001151905id_/http://scalablebrainatlas.incf.org/cache/PHT00_AA_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_AcbC_2d3dL.png",
+      "name": "PHT00_AcbC_2d3dL.png",
+      "first_capture": "20140528021210",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140528021210id_/http://scalablebrainatlas.incf.org/cache/PHT00_AcbC_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_AcbSh_2d3dL.png",
+      "name": "PHT00_AcbSh_2d3dL.png",
+      "first_capture": "20140528081334",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140528081334id_/http://scalablebrainatlas.incf.org/cache/PHT00_AcbSh_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_Acs7_2d3dL.png",
+      "name": "PHT00_Acs7_2d3dL.png",
+      "first_capture": "20151001134823",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20151001134823id_/http://scalablebrainatlas.incf.org/cache/PHT00_Acs7_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_AD_2d3dL.png",
+      "name": "PHT00_AD_2d3dL.png",
+      "first_capture": "20141011182938",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141011182938id_/http://scalablebrainatlas.incf.org/cache/PHT00_AD_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_AHC_2d3dL.png",
+      "name": "PHT00_AHC_2d3dL.png",
+      "first_capture": "20141013095810",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141013095810id_/http://scalablebrainatlas.incf.org/cache/PHT00_AHC_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_Amb_2d3dL.png",
+      "name": "PHT00_Amb_2d3dL.png",
+      "first_capture": "20140718104116",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140718104116id_/http://scalablebrainatlas.incf.org/cache/PHT00_Amb_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_apmf_2d3dL.png",
+      "name": "PHT00_apmf_2d3dL.png",
+      "first_capture": "20140930002112",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140930002112id_/http://scalablebrainatlas.incf.org/cache/PHT00_apmf_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_Apul_2d3dL.png",
+      "name": "PHT00_Apul_2d3dL.png",
+      "first_capture": "20141020040239",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141020040239id_/http://scalablebrainatlas.incf.org/cache/PHT00_Apul_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_ArcM_2d3dL.png",
+      "name": "PHT00_ArcM_2d3dL.png",
+      "first_capture": "20141006092752",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141006092752id_/http://scalablebrainatlas.incf.org/cache/PHT00_ArcM_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_B_2d3dL.png",
+      "name": "PHT00_B_2d3dL.png",
+      "first_capture": "20131107173334",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20131107173334id_/http://scalablebrainatlas.incf.org/cache/PHT00_B_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_CGPn_2d3dL.png",
+      "name": "PHT00_CGPn_2d3dL.png",
+      "first_capture": "20141015092744",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141015092744id_/http://scalablebrainatlas.incf.org/cache/PHT00_CGPn_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_cic_2d3dL.png",
+      "name": "PHT00_cic_2d3dL.png",
+      "first_capture": "20131107224259",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20131107224259id_/http://scalablebrainatlas.incf.org/cache/PHT00_cic_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_CL_2d3dL.png",
+      "name": "PHT00_CL_2d3dL.png",
+      "first_capture": "20141014112751",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141014112751id_/http://scalablebrainatlas.incf.org/cache/PHT00_CL_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_cu_2d3dL.png",
+      "name": "PHT00_cu_2d3dL.png",
+      "first_capture": "20151024042736",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20151024042736id_/http://scalablebrainatlas.incf.org/cache/PHT00_cu_2d3dL.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/cache/PHT00_Cx_2d3dL.png",
+      "name": "PHT00_Cx_2d3dL.png",
+      "first_capture": "20260621045134",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20260621045134id_/https://scalablebrainatlas.incf.org/cache/PHT00_Cx_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_das_2d3dL.png",
+      "name": "PHT00_das_2d3dL.png",
+      "first_capture": "20141012155459",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141012155459id_/http://scalablebrainatlas.incf.org/cache/PHT00_das_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_dhc_2d3dL.png",
+      "name": "PHT00_dhc_2d3dL.png",
+      "first_capture": "20151002034037",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20151002034037id_/http://scalablebrainatlas.incf.org/cache/PHT00_dhc_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_DLG_2d3dL.png",
+      "name": "PHT00_DLG_2d3dL.png",
+      "first_capture": "20150909225518",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20150909225518id_/http://scalablebrainatlas.incf.org/cache/PHT00_DLG_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_DR_2d3dL.png",
+      "name": "PHT00_DR_2d3dL.png",
+      "first_capture": "20141016000900",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141016000900id_/http://scalablebrainatlas.incf.org/cache/PHT00_DR_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_DTg_2d3dL.png",
+      "name": "PHT00_DTg_2d3dL.png",
+      "first_capture": "20151001224535",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20151001224535id_/http://scalablebrainatlas.incf.org/cache/PHT00_DTg_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_ec_2d3dL.png",
+      "name": "PHT00_ec_2d3dL.png",
+      "first_capture": "20151008210643",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20151008210643id_/http://scalablebrainatlas.incf.org/cache/PHT00_ec_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_Fl_2d3dL.png",
+      "name": "PHT00_Fl_2d3dL.png",
+      "first_capture": "20141016171030",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141016171030id_/http://scalablebrainatlas.incf.org/cache/PHT00_Fl_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_Gi_2d3dL.png",
+      "name": "PHT00_Gi_2d3dL.png",
+      "first_capture": "20140531230608",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140531230608id_/http://scalablebrainatlas.incf.org/cache/PHT00_Gi_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_Gl_2d3dL.png",
+      "name": "PHT00_Gl_2d3dL.png",
+      "first_capture": "20140601020455",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140601020455id_/http://scalablebrainatlas.incf.org/cache/PHT00_Gl_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_Gr_2d3dL.png",
+      "name": "PHT00_Gr_2d3dL.png",
+      "first_capture": "20140719135953",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140719135953id_/http://scalablebrainatlas.incf.org/cache/PHT00_Gr_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_GrO_2d3dL.png",
+      "name": "PHT00_GrO_2d3dL.png",
+      "first_capture": "20140716104841",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140716104841id_/http://scalablebrainatlas.incf.org/cache/PHT00_GrO_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_Hip_2d3dL.png",
+      "name": "PHT00_Hip_2d3dL.png",
+      "first_capture": "20141017052912",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141017052912id_/http://scalablebrainatlas.incf.org/cache/PHT00_Hip_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_I_2d3dL.png",
+      "name": "PHT00_I_2d3dL.png",
+      "first_capture": "20140526043255",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140526043255id_/http://scalablebrainatlas.incf.org/cache/PHT00_I_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_IC_2d3dL.png",
+      "name": "PHT00_IC_2d3dL.png",
+      "first_capture": "20140526102751",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140526102751id_/http://scalablebrainatlas.incf.org/cache/PHT00_IC_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_iml_2d3dL.png",
+      "name": "PHT00_iml_2d3dL.png",
+      "first_capture": "20141017200625",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141017200625id_/http://scalablebrainatlas.incf.org/cache/PHT00_iml_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_In_2d3dL.png",
+      "name": "PHT00_In_2d3dL.png",
+      "first_capture": "20141017235437",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141017235437id_/http://scalablebrainatlas.incf.org/cache/PHT00_In_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_IOPr_2d3dL.png",
+      "name": "PHT00_IOPr_2d3dL.png",
+      "first_capture": "20141017200541",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141017200541id_/http://scalablebrainatlas.incf.org/cache/PHT00_IOPr_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_IPAC_2d3dL.png",
+      "name": "PHT00_IPAC_2d3dL.png",
+      "first_capture": "20140927194121",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140927194121id_/http://scalablebrainatlas.incf.org/cache/PHT00_IPAC_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_LaDL_2d3dL.png",
+      "name": "PHT00_LaDL_2d3dL.png",
+      "first_capture": "20141016110330",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141016110330id_/http://scalablebrainatlas.incf.org/cache/PHT00_LaDL_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_LaVM_2d3dL.png",
+      "name": "PHT00_LaVM_2d3dL.png",
+      "first_capture": "20140927233532",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140927233532id_/http://scalablebrainatlas.incf.org/cache/PHT00_LaVM_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_LC_2d3dL.png",
+      "name": "PHT00_LC_2d3dL.png",
+      "first_capture": "20140717201355",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140717201355id_/http://scalablebrainatlas.incf.org/cache/PHT00_LC_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_LHb_2d3dL.png",
+      "name": "PHT00_LHb_2d3dL.png",
+      "first_capture": "20141016110541",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141016110541id_/http://scalablebrainatlas.incf.org/cache/PHT00_LHb_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_LM_2d3dL.png",
+      "name": "PHT00_LM_2d3dL.png",
+      "first_capture": "20140715114845",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140715114845id_/http://scalablebrainatlas.incf.org/cache/PHT00_LM_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_lml_2d3dL.png",
+      "name": "PHT00_lml_2d3dL.png",
+      "first_capture": "20141016144050",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141016144050id_/http://scalablebrainatlas.incf.org/cache/PHT00_lml_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_LPO_2d3dL.png",
+      "name": "PHT00_LPO_2d3dL.png",
+      "first_capture": "20141017052950",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141017052950id_/http://scalablebrainatlas.incf.org/cache/PHT00_LPO_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_LTu_2d3dL.png",
+      "name": "PHT00_LTu_2d3dL.png",
+      "first_capture": "20141017052615",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141017052615id_/http://scalablebrainatlas.incf.org/cache/PHT00_LTu_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_MGM_2d3dL.png",
+      "name": "PHT00_MGM_2d3dL.png",
+      "first_capture": "20151001212203",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20151001212203id_/http://scalablebrainatlas.incf.org/cache/PHT00_MGM_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_Mi_2d3dL.png",
+      "name": "PHT00_Mi_2d3dL.png",
+      "first_capture": "20140716090654",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140716090654id_/http://scalablebrainatlas.incf.org/cache/PHT00_Mi_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_ML_2d3dL.png",
+      "name": "PHT00_ML_2d3dL.png",
+      "first_capture": "20141017015204",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141017015204id_/http://scalablebrainatlas.incf.org/cache/PHT00_ML_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_mml_2d3dL.png",
+      "name": "PHT00_mml_2d3dL.png",
+      "first_capture": "20141017113522",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141017113522id_/http://scalablebrainatlas.incf.org/cache/PHT00_mml_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_MnPO_2d3dL.png",
+      "name": "PHT00_MnPO_2d3dL.png",
+      "first_capture": "20151024051947",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20151024051947id_/http://scalablebrainatlas.incf.org/cache/PHT00_MnPO_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_MoC_2d3dL.png",
+      "name": "PHT00_MoC_2d3dL.png",
+      "first_capture": "20151001134801",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20151001134801id_/http://scalablebrainatlas.incf.org/cache/PHT00_MoC_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_mp_2d3dL.png",
+      "name": "PHT00_mp_2d3dL.png",
+      "first_capture": "20141020040252",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141020040252id_/http://scalablebrainatlas.incf.org/cache/PHT00_mp_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_MS_2d3dL.png",
+      "name": "PHT00_MS_2d3dL.png",
+      "first_capture": "20141017015130",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141017015130id_/http://scalablebrainatlas.incf.org/cache/PHT00_MS_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_mt_2d3dL.png",
+      "name": "PHT00_mt_2d3dL.png",
+      "first_capture": "20141020150817",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141020150817id_/http://scalablebrainatlas.incf.org/cache/PHT00_mt_2d3dL.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/cache/PHT00_Olb_2d3dL.png",
+      "name": "PHT00_Olb_2d3dL.png",
+      "first_capture": "20250917202527",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250917202527id_/https://scalablebrainatlas.incf.org/cache/PHT00_Olb_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_OPT_2d3dL.png",
+      "name": "PHT00_OPT_2d3dL.png",
+      "first_capture": "20131107164103",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20131107164103id_/http://scalablebrainatlas.incf.org/cache/PHT00_OPT_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_ox_2d3dL.png",
+      "name": "PHT00_ox_2d3dL.png",
+      "first_capture": "20150926105609",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20150926105609id_/http://scalablebrainatlas.incf.org/cache/PHT00_ox_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_PC_2d3dL.png",
+      "name": "PHT00_PC_2d3dL.png",
+      "first_capture": "20141022232200",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141022232200id_/http://scalablebrainatlas.incf.org/cache/PHT00_PC_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_Pr_2d3dL.png",
+      "name": "PHT00_Pr_2d3dL.png",
+      "first_capture": "20141022120457",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141022120457id_/http://scalablebrainatlas.incf.org/cache/PHT00_Pr_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_PrS_2d3dL.png",
+      "name": "PHT00_PrS_2d3dL.png",
+      "first_capture": "20141023065612",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141023065612id_/http://scalablebrainatlas.incf.org/cache/PHT00_PrS_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_R_2d3dL.png",
+      "name": "PHT00_R_2d3dL.png",
+      "first_capture": "20150920145303",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20150920145303id_/http://scalablebrainatlas.incf.org/cache/PHT00_R_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_RRF_2d3dL.png",
+      "name": "PHT00_RRF_2d3dL.png",
+      "first_capture": "20141022120451",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141022120451id_/http://scalablebrainatlas.incf.org/cache/PHT00_RRF_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_Rt_2d3dL.png",
+      "name": "PHT00_Rt_2d3dL.png",
+      "first_capture": "20140527211808",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140527211808id_/http://scalablebrainatlas.incf.org/cache/PHT00_Rt_2d3dL.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/cache/PHT00_S_2d3dL.png",
+      "name": "PHT00_S_2d3dL.png",
+      "first_capture": "20250918141217",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250918141217id_/https://scalablebrainatlas.incf.org/cache/PHT00_S_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_SC_2d3dL.png",
+      "name": "PHT00_SC_2d3dL.png",
+      "first_capture": "20131222034122",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20131222034122id_/http://scalablebrainatlas.incf.org/cache/PHT00_SC_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_SFi_2d3dL.png",
+      "name": "PHT00_SFi_2d3dL.png",
+      "first_capture": "20141018105633",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141018105633id_/http://scalablebrainatlas.incf.org/cache/PHT00_SFi_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_SNC_2d3dL.png",
+      "name": "PHT00_SNC_2d3dL.png",
+      "first_capture": "20140529145253",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140529145253id_/http://scalablebrainatlas.incf.org/cache/PHT00_SNC_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_SOl_2d3dL.png",
+      "name": "PHT00_SOl_2d3dL.png",
+      "first_capture": "20140928215848",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140928215848id_/http://scalablebrainatlas.incf.org/cache/PHT00_SOl_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_Sp5O_2d3dL.png",
+      "name": "PHT00_Sp5O_2d3dL.png",
+      "first_capture": "20140928210409",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140928210409id_/http://scalablebrainatlas.incf.org/cache/PHT00_Sp5O_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_STh_2d3dL.png",
+      "name": "PHT00_STh_2d3dL.png",
+      "first_capture": "20140528012139",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140528012139id_/http://scalablebrainatlas.incf.org/cache/PHT00_STh_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_SuG_2d3dL.png",
+      "name": "PHT00_SuG_2d3dL.png",
+      "first_capture": "20140528013149",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140528013149id_/http://scalablebrainatlas.incf.org/cache/PHT00_SuG_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_SuM_2d3dL.png",
+      "name": "PHT00_SuM_2d3dL.png",
+      "first_capture": "20151023084406",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20151023084406id_/http://scalablebrainatlas.incf.org/cache/PHT00_SuM_2d3dL.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/cache/PHT00_Tu_2d3dL.png",
+      "name": "PHT00_Tu_2d3dL.png",
+      "first_capture": "20260619211215",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20260619211215id_/https://scalablebrainatlas.incf.org/cache/PHT00_Tu_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_VCA_2d3dL.png",
+      "name": "PHT00_VCA_2d3dL.png",
+      "first_capture": "20151001133137",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20151001133137id_/http://scalablebrainatlas.incf.org/cache/PHT00_VCA_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_VLG_2d3dL.png",
+      "name": "PHT00_VLG_2d3dL.png",
+      "first_capture": "20140929034039",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140929034039id_/http://scalablebrainatlas.incf.org/cache/PHT00_VLG_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_VLL_2d3dL.png",
+      "name": "PHT00_VLL_2d3dL.png",
+      "first_capture": "20140929034052",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140929034052id_/http://scalablebrainatlas.incf.org/cache/PHT00_VLL_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_VP_2d3dL.png",
+      "name": "PHT00_VP_2d3dL.png",
+      "first_capture": "20141023182252",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20141023182252id_/http://scalablebrainatlas.incf.org/cache/PHT00_VP_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_vsc_2d3dL.png",
+      "name": "PHT00_vsc_2d3dL.png",
+      "first_capture": "20151024001408",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20151024001408id_/http://scalablebrainatlas.incf.org/cache/PHT00_vsc_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_VTA_2d3dL.png",
+      "name": "PHT00_VTA_2d3dL.png",
+      "first_capture": "20140531162238",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140531162238id_/http://scalablebrainatlas.incf.org/cache/PHT00_VTA_2d3dL.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/cache/PHT00_ZI_2d3dL.png",
+      "name": "PHT00_ZI_2d3dL.png",
+      "first_capture": "20150930102907",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20150930102907id_/http://scalablebrainatlas.incf.org/cache/PHT00_ZI_2d3dL.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/composer/image/*,.tif,.tiff",
+      "name": "*,.tif,.tiff",
+      "first_capture": "20250411104930",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20250411104930id_/https://scalablebrainatlas.incf.org/composer/image/*,.tif,.tiff"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/composer/x3d_screenshot.png",
+      "name": "x3d_screenshot.png",
+      "first_capture": "20250411104930",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20250411104930id_/https://scalablebrainatlas.incf.org/composer/x3d_screenshot.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/howto/viewRegionMask_V2.png",
+      "name": "viewRegionMask_V2.png",
+      "first_capture": "20231104043830",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20231104043830id_/https://scalablebrainatlas.incf.org/howto/viewRegionMask_V2.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/img/DONDERS-logo-30.png",
+      "name": "DONDERS-logo-30.png",
+      "first_capture": "20181209025424",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20181209025424id_/https://scalablebrainatlas.incf.org/img/DONDERS-logo-30.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/img/donderslogo29.png",
+      "name": "donderslogo29.png",
+      "first_capture": "20140717010142",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140717010142id_/http://scalablebrainatlas.incf.org/img/donderslogo29.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/img/donderslogo41.png",
+      "name": "donderslogo41.png",
+      "first_capture": "20140717005754",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140717005754id_/http://scalablebrainatlas.incf.org/img/donderslogo41.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/img/ferretbrain.png",
+      "name": "ferretbrain.png",
+      "first_capture": "20171210232428",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20171210232428id_/https://scalablebrainatlas.incf.org/img/ferretbrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/img/gnode_logo_50.png",
+      "name": "gnode_logo_50.png",
+      "first_capture": "20181216010447",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20181216010447id_/https://scalablebrainatlas.incf.org/img/gnode_logo_50.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/img/hpb-logo-40.png",
+      "name": "hpb-logo-40.png",
+      "first_capture": "20181220064425",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20181220064425id_/https://scalablebrainatlas.incf.org/img/hpb-logo-40.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/img/humanbrain.png",
+      "name": "humanbrain.png",
+      "first_capture": "20150320013400",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20150320013400id_/http://scalablebrainatlas.incf.org/img/humanbrain.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/img/incflogo29.png",
+      "name": "incflogo29.png",
+      "first_capture": "20140717015500",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140717015500id_/http://scalablebrainatlas.incf.org/img/incflogo29.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/img/incflogo41.png",
+      "name": "incflogo41.png",
+      "first_capture": "20140717015802",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140717015802id_/http://scalablebrainatlas.incf.org/img/incflogo41.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/img/incflogo85.png",
+      "name": "incflogo85.png",
+      "first_capture": "20181208062223",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20181208062223id_/https://scalablebrainatlas.incf.org/img/incflogo85.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/img/logo_escience_center.png",
+      "name": "logo_escience_center.png",
+      "first_capture": "20181218060836",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20181218060836id_/https://scalablebrainatlas.incf.org/img/logo_escience_center.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/img/logo_fz_juelich_20.png",
+      "name": "logo_fz_juelich_20.png",
+      "first_capture": "20181209090102",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20181209090102id_/https://scalablebrainatlas.incf.org/img/logo_fz_juelich_20.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/img/macaquebrain.png",
+      "name": "macaquebrain.png",
+      "first_capture": "20140717021802",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140717021802id_/http://scalablebrainatlas.incf.org/img/macaquebrain.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/img/marmosetbrain.png",
+      "name": "marmosetbrain.png",
+      "first_capture": "20150320074559",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20150320074559id_/http://scalablebrainatlas.incf.org/img/marmosetbrain.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/img/mousebrain.png",
+      "name": "mousebrain.png",
+      "first_capture": "20140717010404",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140717010404id_/http://scalablebrainatlas.incf.org/img/mousebrain.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/img/opossumbrain.png",
+      "name": "opossumbrain.png",
+      "first_capture": "20150320015010",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20150320015010id_/http://scalablebrainatlas.incf.org/img/opossumbrain.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/img/ratbrain.png",
+      "name": "ratbrain.png",
+      "first_capture": "20140717010225",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20140717010225id_/http://scalablebrainatlas.incf.org/img/ratbrain.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/LPBA40_on_SRI24/3dbar_wholebrain.png",
+      "name": "3dbar_wholebrain.png",
+      "first_capture": "20151001031047",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20151001031047id_/http://scalablebrainatlas.incf.org/LPBA40_on_SRI24/3dbar_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/mid_saggital.jpg",
+      "name": "mid_saggital.jpg",
+      "first_capture": "20200408003731",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20200408003731id_/https://scalablebrainatlas.incf.org/mid_saggital.jpg"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/PHT00/3dbar_wholebrain.png",
+      "name": "3dbar_wholebrain.png",
+      "first_capture": "20150925022523",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20150925022523id_/http://scalablebrainatlas.incf.org/PHT00/3dbar_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/plugins/0_0.jpg",
+      "name": "0_0.jpg",
+      "first_capture": "20200408003728",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20200408003728id_/https://scalablebrainatlas.incf.org/plugins/0_0.jpg"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/plugins/addmarker_icon.png",
+      "name": "addmarker_icon.png",
+      "first_capture": "20250731151457",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250731151457id_/https://scalablebrainatlas.incf.org/plugins/addmarker_icon.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/plugins/imaging_icon.png",
+      "name": "imaging_icon.png",
+      "first_capture": "20250731151456",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250731151456id_/https://scalablebrainatlas.incf.org/plugins/imaging_icon.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/plugins/noicon.png",
+      "name": "noicon.png",
+      "first_capture": "20240519223803",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20240519223803id_/https://scalablebrainatlas.incf.org/plugins/noicon.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/plugins/properties_icon.png",
+      "name": "properties_icon.png",
+      "first_capture": "20250731151457",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250731151457id_/https://scalablebrainatlas.incf.org/plugins/properties_icon.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/plugins/regiontree_icon.png",
+      "name": "regiontree_icon.png",
+      "first_capture": "20250731151456",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250731151456id_/https://scalablebrainatlas.incf.org/plugins/regiontree_icon.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/plugins/sbalookup_icon.png",
+      "name": "sbalookup_icon.png",
+      "first_capture": "20250731151457",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250731151457id_/https://scalablebrainatlas.incf.org/plugins/sbalookup_icon.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/sfn2009/scalablebrainatlas_sfn2009.png",
+      "name": "scalablebrainatlas_sfn2009.png",
+      "first_capture": "20150926205254",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20150926205254id_/http://scalablebrainatlas.incf.org/sfn2009/scalablebrainatlas_sfn2009.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/sfn2009/scalablebrainatlas_sfn2009_mini.png",
+      "name": "scalablebrainatlas_sfn2009_mini.png",
+      "first_capture": "20150320032142",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20150320032142id_/http://scalablebrainatlas.incf.org/sfn2009/scalablebrainatlas_sfn2009_mini.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/ABA07/3dbar_wholebrain.png",
+      "name": "3dbar_wholebrain.png",
+      "first_capture": "20191009095148",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095148id_/https://scalablebrainatlas.incf.org/templates/ABA07/3dbar_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/ABA12/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20191009095154",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095154id_/https://scalablebrainatlas.incf.org/templates/ABA12/lateral_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/ABA_v3/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20191009095143",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095143id_/https://scalablebrainatlas.incf.org/templates/ABA_v3/lateral_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/ABA_v3/source/ABA_v3_P56_Annotation.png",
+      "name": "ABA_v3_P56_Annotation.png",
+      "first_capture": "20250411084840",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20250411084840id_/https://scalablebrainatlas.incf.org/templates/ABA_v3/source/ABA_v3_P56_Annotation.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/ABA_v3/source/ABA_v3_P56_Annotation_downsample2.png",
+      "name": "ABA_v3_P56_Annotation_downsample2.png",
+      "first_capture": "20250411084836",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20250411084836id_/https://scalablebrainatlas.incf.org/templates/ABA_v3/source/ABA_v3_P56_Annotation_downsample2.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/ABA_v3/source/ABA_v3_P56_Atlas_downsample2.jpg",
+      "name": "ABA_v3_P56_Atlas_downsample2.jpg",
+      "first_capture": "20250411084835",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250411084835id_/https://scalablebrainatlas.incf.org/templates/ABA_v3/source/ABA_v3_P56_Atlas_downsample2.jpg"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/B05_on_Conte69/3dbar_wholebrain.png",
+      "name": "3dbar_wholebrain.png",
+      "first_capture": "20191009095225",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095225id_/https://scalablebrainatlas.incf.org/templates/B05_on_Conte69/3dbar_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/BIGB13/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20191009095208",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095208id_/https://scalablebrainatlas.incf.org/templates/BIGB13/lateral_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/BLHS13/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20191009095133",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095133id_/https://scalablebrainatlas.incf.org/templates/BLHS13/lateral_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/BN274/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20191009095151",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095151id_/https://scalablebrainatlas.incf.org/templates/BN274/lateral_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/BNA/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20191009095246",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095246id_/https://scalablebrainatlas.incf.org/templates/BNA/lateral_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/CBCetal15/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20191009095127",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095127id_/https://scalablebrainatlas.incf.org/templates/CBCetal15/lateral_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/DB08/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20220121035144",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20220121035144id_/https://scalablebrainatlas.incf.org/templates/DB08/lateral_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/DB09/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20191009095140",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095140id_/https://scalablebrainatlas.incf.org/templates/DB09/lateral_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/EAZ05_v20/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20191009095106",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095106id_/https://scalablebrainatlas.incf.org/templates/EAZ05_v20/lateral_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/FVE91_on_F99/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20191009095117",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095117id_/https://scalablebrainatlas.incf.org/templates/FVE91_on_F99/lateral_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/HOA06/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20191009095241",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095241id_/https://scalablebrainatlas.incf.org/templates/HOA06/lateral_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/HSRetal17/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20191009095221",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095221id_/https://scalablebrainatlas.incf.org/templates/HSRetal17/lateral_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/LPBA40_on_SRI24/3dbar_wholebrain.png",
+      "name": "3dbar_wholebrain.png",
+      "first_capture": "20191009095216",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095216id_/https://scalablebrainatlas.incf.org/templates/LPBA40_on_SRI24/3dbar_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/LVE00_on_F99/3dbar_wholebrain.png",
+      "name": "3dbar_wholebrain.png",
+      "first_capture": "20191009095128",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095128id_/https://scalablebrainatlas.incf.org/templates/LVE00_on_F99/3dbar_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/MERetal14/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20191009095110",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095110id_/https://scalablebrainatlas.incf.org/templates/MERetal14/lateral_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/MERetal14_on_F99/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20191009095147",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095147id_/https://scalablebrainatlas.incf.org/templates/MERetal14_on_F99/lateral_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/MMFetal11_on_F99/3dbar_wholebrain.png",
+      "name": "3dbar_wholebrain.png",
+      "first_capture": "20191009095156",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095156id_/https://scalablebrainatlas.incf.org/templates/MMFetal11_on_F99/3dbar_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/NMM1103/BrainOutline120x120TransBack.png",
+      "name": "BrainOutline120x120TransBack.png",
+      "first_capture": "20190723201606",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20190723201606id_/https://scalablebrainatlas.incf.org/templates/NMM1103/BrainOutline120x120TransBack.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/NMM1103/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20190723201607",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20190723201607id_/https://scalablebrainatlas.incf.org/templates/NMM1103/lateral_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/OPSM14/3dbar_wholebrain.png",
+      "name": "3dbar_wholebrain.png",
+      "first_capture": "20191009095132",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095132id_/https://scalablebrainatlas.incf.org/templates/OPSM14/3dbar_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/PHT00/3dbar_wholebrain.png",
+      "name": "3dbar_wholebrain.png",
+      "first_capture": "20160604003857",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20160604003857id_/https://scalablebrainatlas.incf.org/templates/PHT00/3dbar_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/PHT00_on_F99/3dbar_wholebrain.png",
+      "name": "3dbar_wholebrain.png",
+      "first_capture": "20191009095212",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095212id_/https://scalablebrainatlas.incf.org/templates/PHT00_on_F99/3dbar_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/PLCJB14/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20191009095155",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095155id_/https://scalablebrainatlas.incf.org/templates/PLCJB14/lateral_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/PWPRT12/3dbar_wholebrain.png",
+      "name": "3dbar_wholebrain.png",
+      "first_capture": "20191009095128",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095128id_/https://scalablebrainatlas.incf.org/templates/PWPRT12/3dbar_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/RGYetal16/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20250217200200",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250217200200id_/https://scalablebrainatlas.incf.org/templates/RGYetal16/lateral_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/RM_on_F99/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20191009095158",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095158id_/https://scalablebrainatlas.incf.org/templates/RM_on_F99/lateral_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/VLAetal11/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20191009095211",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095211id_/https://scalablebrainatlas.incf.org/templates/VLAetal11/lateral_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/VSNetal11/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20191009095203",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095203id_/https://scalablebrainatlas.incf.org/templates/VSNetal11/lateral_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/WHS09/3dbar_wholebrain.png",
+      "name": "3dbar_wholebrain.png",
+      "first_capture": "20191009095242",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095242id_/https://scalablebrainatlas.incf.org/templates/WHS09/3dbar_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/WHS10/3dbar_wholebrain.png",
+      "name": "3dbar_wholebrain.png",
+      "first_capture": "20191009095119",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095119id_/https://scalablebrainatlas.incf.org/templates/WHS10/3dbar_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/WHS11/3dbar_wholebrain.png",
+      "name": "3dbar_wholebrain.png",
+      "first_capture": "20191009095244",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095244id_/https://scalablebrainatlas.incf.org/templates/WHS11/3dbar_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/templates/WHS12/lateral_wholebrain.png",
+      "name": "lateral_wholebrain.png",
+      "first_capture": "20191009095200",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20191009095200id_/https://scalablebrainatlas.incf.org/templates/WHS12/lateral_wholebrain.png"
+    },
+    {
+      "url": "http://scalablebrainatlas.incf.org/WHS09/3dbar_wholebrain.png",
+      "name": "3dbar_wholebrain.png",
+      "first_capture": "20150930210543",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20150930210543id_/http://scalablebrainatlas.incf.org/WHS09/3dbar_wholebrain.png"
+    },
+    {
+      "url": "https://scalablebrainatlas.incf.org/x3d/rainbow.png",
+      "name": "rainbow.png",
+      "first_capture": "20250411104931",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20250411104931id_/https://scalablebrainatlas.incf.org/x3d/rainbow.png"
+    }
+  ]
+}

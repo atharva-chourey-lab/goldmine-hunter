@@ -1,0 +1,169 @@
+{
+  "generated": "2026-11-17T07:13:37.963263+00:00",
+  "zenodo": {
+    "id": "44855",
+    "title": "Magnetic Resonance Imaging Scan of the Brain of a Lion (Panthera leo)",
+    "doi": "10.5281/zenodo.44855",
+    "files": [
+      {
+        "name": "MRI-n4.nii.gz",
+        "size": 13264819,
+        "link": "https://zenodo.org/api/records/44855/files/MRI-n4.nii.gz/content"
+      }
+    ]
+  },
+  "site": "https://braincatalogue.org/Lion",
+  "crawl_pages": [
+    "https://braincatalogue.org/Lion",
+    "https://braincatalogue.org/",
+    "https://braincatalogue.org/blog",
+    "https://braincatalogue.org/about.html"
+  ],
+  "images": [
+    {
+      "url": "https://braincatalogue.org/img/88x31.png",
+      "name": "88x31.png",
+      "found_on": "https://braincatalogue.org/Lion"
+    },
+    {
+      "url": "https://braincatalogue.org/img/blog/precisetouch.png",
+      "name": "precisetouch.png",
+      "found_on": "https://braincatalogue.org/blog"
+    },
+    {
+      "url": "https://braincatalogue.org/img/blog/red-necked-wallaby-mri1.png",
+      "name": "red-necked-wallaby-mri1.png",
+      "found_on": "https://braincatalogue.org/blog"
+    },
+    {
+      "url": "https://braincatalogue.org/img/blog/rhino.gif",
+      "name": "rhino.gif",
+      "found_on": "https://braincatalogue.org/blog"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Chimpanzee/picture.jpg",
+      "name": "picture.jpg",
+      "found_on": "https://braincatalogue.org/blog"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Gorilla/picture.jpg",
+      "name": "picture.jpg",
+      "found_on": "https://braincatalogue.org/blog"
+    },
+    {
+      "url": "https://braincatalogue.org/data/Orangutan/picture.jpg",
+      "name": "picture.jpg",
+      "found_on": "https://braincatalogue.org/blog"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/80/Thylacine_footage_compilation.ogv/Thylacine_footage_compilation.ogv.360p.vp9.webm",
+      "name": "Thylacine_footage_compilation.ogv.360p.vp9.webm",
+      "found_on": "https://braincatalogue.org/blog"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Thylacine_footage_compilation.ogv",
+      "name": "Thylacine_footage_compilation.ogv",
+      "found_on": "https://braincatalogue.org/blog"
+    }
+  ],
+  "gold_candidates_website_only": [
+    {
+      "url": "https://braincatalogue.org/data/Lion/Hippocampus.nii.gz",
+      "name": "Hippocampus.nii.gz",
+      "found_on": "https://braincatalogue.org/Lion",
+      "via": "embedded",
+      "head": {
+        "status": 200,
+        "size": "42043",
+        "last_modified": "Tue, 03 May 2016 14:30:23 GMT",
+        "content_type": "application/x-gzip"
+      },
+      "in_archive": false,
+      "score": 11,
+      "nifti": {
+        "ok": true,
+        "dims": [
+          276,
+          334,
+          209
+        ],
+        "pixdim_mm": [
+          0.3,
+          0.3,
+          0.3
+        ],
+        "voxels": 19266456,
+        "bytes": 19266808,
+        "md5": "a48a94a56061a7b89f3824c2cfab1fbc",
+        "all_zero": false
+      }
+    },
+    {
+      "url": "https://braincatalogue.org/data/Lion/Telencephalon.nii.gz",
+      "name": "Telencephalon.nii.gz",
+      "found_on": "https://braincatalogue.org/Lion",
+      "via": "embedded",
+      "head": {
+        "status": 200,
+        "size": "272280",
+        "last_modified": "Fri, 27 Nov 2015 20:27:19 GMT",
+        "content_type": "application/x-gzip"
+      },
+      "in_archive": false,
+      "score": 11,
+      "nifti": {
+        "ok": true,
+        "dims": [
+          276,
+          334,
+          209
+        ],
+        "pixdim_mm": [
+          0.3,
+          0.3,
+          0.3
+        ],
+        "voxels": 19266456,
+        "bytes": 19266808,
+        "md5": "5429f29c5efbda8dda5acd0c849f66e1",
+        "all_zero": false
+      }
+    },
+    {
+      "url": "https://braincatalogue.org/data/Lion/mesh.ply",
+      "name": "mesh.ply",
+      "found_on": "https://braincatalogue.org/Lion",
+      "via": "embedded",
+      "head": {
+        "status": 200,
+        "size": null,
+        "last_modified": "Wed, 16 Dec 2015 10:05:34 GMT",
+        "content_type": "text/plain; charset=UTF-8"
+      },
+      "in_archive": false,
+      "score": 6,
+      "check": {
+        "ok": true,
+        "bytes": 982247,
+        "md5": "9b89659dceb90fb6e74cf6361a1e2448",
+        "all_zero": false
+      }
+    }
+  ],
+  "shared_files": [
+    {
+      "url": "https://braincatalogue.org/data/Lion/MRI-n4.nii.gz",
+      "name": "MRI-n4.nii.gz",
+      "found_on": "https://braincatalogue.org/Lion",
+      "via": "embedded",
+      "head": {
+        "status": 200,
+        "size": "13264819",
+        "last_modified": "Wed, 11 Nov 2015 14:51:08 GMT",
+        "content_type": "application/x-gzip"
+      },
+      "in_archive": true,
+      "score": 4
+    }
+  ]
+}

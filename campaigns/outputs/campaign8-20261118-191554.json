@@ -1,0 +1,544 @@
+{
+  "campaign8_mammal2": [
+    {
+      "niche": "guard-hair-scale-casts",
+      "label": "CMU personal faculty hair-ID pages (Swanson)",
+      "url": "http://people.se.cmich.edu/swans1bj/hair%20id/species.html",
+      "pages": 25,
+      "unique_data_files": 0,
+      "images": 118,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "guard-hair-scale-casts",
+      "label": "Texas Tech NSRL Special Publications (Texas hair atlas SP-055)",
+      "url": "https://www.depts.ttu.edu/nsrl/publications/special-publications.php",
+      "pages": 10,
+      "unique_data_files": 0,
+      "images": 19,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "guard-hair-scale-casts",
+      "label": "Landcare Research NZ hair factsheets (Brunner & Coman web afterlife)",
+      "url": "https://www.landcareresearch.co.nz/tools-and-resources/identification/hair-sample-identification-and-factsheets",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "guard-hair-scale-casts",
+      "label": "Hair Atlas HU (Toth Central European atlas companion)",
+      "url": "http://www.hairatlas.hu/index.php?m2=species",
+      "pages": 10,
+      "unique_data_files": 0,
+      "images": 17,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 1,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "koala-fingerprints",
+      "label": "Academia.edu \u2014 Henneberg et al. fingerprinting paper (platform)",
+      "url": "https://www.academia.edu/27860920/Fingerprinting_a_chimpanzee_and_a_koala_Animal_dermatoglyphics_can_resemble_human_ones_w_",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "koala-fingerprints",
+      "label": "Hawkeye Forensic \u2014 koala fingerprint summary (secondary)",
+      "url": "https://hawkeyeforensic.com/fingerprint-similarity-human-koala-and-chimpanze/",
+      "pages": 5,
+      "unique_data_files": 0,
+      "images": 81,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "dog-nose-prints",
+      "label": "National Purebred Dog Day \u2014 CKC nose-print history (microfiche evidence)",
+      "url": "https://nationalpurebreddogday.com/the-dogs-version-of-the-fingerprint/",
+      "pages": 5,
+      "unique_data_files": 0,
+      "images": 24,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "dog-nose-prints",
+      "label": "PMC \u2014 Korean dog nose-pattern viability study (dataset described, not deposited)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8697952/",
+      "pages": 5,
+      "unique_data_files": 2,
+      "images": 51,
+      "top": [
+        {
+          "name": "browserconfig.xml",
+          "url": "https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/browserconfig.xml",
+          "score": 6
+        },
+        {
+          "name": "jlist.csv",
+          "url": "https://cdn.ncbi.nlm.nih.gov/pmc/home/jlist.csv",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "plaster-track-cast-collections",
+      "label": "Idaho Virtual Museum (IMNH footprint virtualization)",
+      "url": "https://virtual.imnh.iri.isu.edu/Home/Sources",
+      "pages": 7,
+      "unique_data_files": 0,
+      "images": 488,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "plaster-track-cast-collections",
+      "label": "Smithsonian NMNH Paleobiology IPT (database/formal archive check)",
+      "url": "https://collections.nmnh.si.edu/ipt/eml.do?r=nmnh_paleo_dwc-a",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "elephant-footprint-age",
+      "label": "ElephantVoices \u2014 ATE science/ethogram (Amboseli custody surface)",
+      "url": "https://www.elephantvoices.org/the-science-behind-the-elephant-ethogram",
+      "pages": 10,
+      "unique_data_files": 2,
+      "images": 81,
+      "top": [
+        {
+          "name": ".mp4",
+          "url": "https://www.elephantvoices.org/.mp4",
+          "score": 6
+        },
+        {
+          "name": "7c052b7919ae79977ed401a5f6e0f81ebcda0237.mp4",
+          "url": "https://cdn.sanity.io/files/1367lwmq/production/7c052b7919ae79977ed401a5f6e0f81ebcda0237.mp4",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "elephant-footprint-age",
+      "label": "Elephants for Africa \u2014 FIT project (Botswana)",
+      "url": "https://www.elephantsforafrica.org/",
+      "pages": 10,
+      "unique_data_files": 2,
+      "images": 122,
+      "top": [
+        {
+          "name": "Talk-Radio-702-Part-2.mp3",
+          "url": "http://www.elephantsforafrica.org/wp-content/uploads/2014/01/Talk-Radio-702-Part-2.mp3",
+          "score": 6
+        },
+        {
+          "name": "Talk-Radio-702-Part-1.mp3",
+          "url": "http://www.elephantsforafrica.org/wp-content/uploads/2014/01/Talk-Radio-702-Part-1.mp3",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 6,
+      "wayback_data_files_raw": 29,
+      "wayback_sets_status200": {
+        "/wp-content/uploads/2014/01": 2,
+        "/wp-content/uploads/2020/07": 2,
+        "/": 1,
+        "/wp-includes": 1
+      },
+      "wayback_top": [
+        {
+          "name": "sitemap_index.xml",
+          "url": "https://www.elephantsforafrica.org/sitemap_index.xml",
+          "first_capture": "20260103042146",
+          "status": "200"
+        },
+        {
+          "name": "Talk-Radio-702-Part-1.mp3",
+          "url": "http://www.elephantsforafrica.org/wp-content/uploads/2014/01/Talk-Radio-702-Part-1.mp3",
+          "first_capture": "20150906153521",
+          "status": "200"
+        },
+        {
+          "name": "Talk-Radio-702-Part-2.mp3",
+          "url": "http://www.elephantsforafrica.org/wp-content/uploads/2014/01/Talk-Radio-702-Part-2.mp3",
+          "first_capture": "20150906153334",
+          "status": "200"
+        },
+        {
+          "name": "BotswanaElephantsBBCNewsHourJuly2020.mp3",
+          "url": "https://www.elephantsforafrica.org/wp-content/uploads/2020/07/BotswanaElephantsBBCNewsHourJuly2020.mp3",
+          "first_capture": "20231028233631",
+          "status": "200"
+        },
+        {
+          "name": "BotswanaElephantsBBCNewsHourJuly2020.mp3",
+          "url": "https://www.elephantsforafrica.org/wp-content/uploads/2020/07/BotswanaElephantsBBCNewsHourJuly2020.mp3?_=1",
+          "first_capture": "20231029043024",
+          "status": "200"
+        },
+        {
+          "name": "wlwmanifest.xml",
+          "url": "http://www.elephantsforafrica.org/wp-includes/wlwmanifest.xml",
+          "first_capture": "20140518202515",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "right-whale-callosity-patterns",
+      "label": "Encounter Bay Right Whale Study (small-project catalogue PDFs)",
+      "url": "https://www.ebrws.com.au/",
+      "pages": 7,
+      "unique_data_files": 1,
+      "images": 175,
+      "top": [
+        {
+          "name": "wlwmanifest.xml",
+          "url": "https://www.ebrws.com.au/wp-includes/wlwmanifest.xml",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 6,
+      "wayback_data_files_raw": 15,
+      "wayback_sets_status200": {
+        "/": 5,
+        "/wp-includes": 1
+      },
+      "wayback_top": [
+        {
+          "name": "wlwmanifest.xml",
+          "url": "http://www.ebrws.com.au/wp-includes/wlwmanifest.xml",
+          "first_capture": "20200318170601",
+          "status": "200"
+        },
+        {
+          "name": "wp-sitemap-posts-page-1.xml",
+          "url": "https://www.ebrws.com.au/wp-sitemap-posts-page-1.xml",
+          "first_capture": "20221018155212",
+          "status": "200"
+        },
+        {
+          "name": "wp-sitemap-posts-post-1.xml",
+          "url": "https://www.ebrws.com.au/wp-sitemap-posts-post-1.xml",
+          "first_capture": "20221018155201",
+          "status": "200"
+        },
+        {
+          "name": "wp-sitemap-taxonomies-category-1.xml",
+          "url": "https://www.ebrws.com.au/wp-sitemap-taxonomies-category-1.xml",
+          "first_capture": "20221018155217",
+          "status": "200"
+        },
+        {
+          "name": "wp-sitemap.xml",
+          "url": "https://www.ebrws.com.au/wp-sitemap.xml",
+          "first_capture": "20221018151950",
+          "status": "200"
+        },
+        {
+          "name": "robots.txt",
+          "url": "http://www.ebrws.com.au/robots.txt",
+          "first_capture": "20200318170413",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "right-whale-callosity-patterns",
+      "label": "Univ. of Utah Marriott Library \u2014 Right Whale Collection (Valdes 1970-2004)",
+      "url": "https://collections.lib.utah.edu/search?facet_setname_s=%22uum_rwc%22",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "right-whale-callosity-patterns",
+      "label": "NARWC \u2014 photo-identification page (consortium custody)",
+      "url": "https://www.narwc.org/photo-identification.html",
+      "pages": 5,
+      "unique_data_files": 0,
+      "images": 11,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "right-whale-callosity-patterns",
+      "label": "ARWPIC \u2014 Australasian catalogue platform",
+      "url": "https://data.marinemammals.gov.au/arwpic/index.php?route=common/home",
+      "pages": 5,
+      "unique_data_files": 0,
+      "images": 14,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "manatee-photo-id-scars",
+      "label": "Save the Manatee Club ARCHIVE subdomain (scar sheets)",
+      "url": "https://www.savethemanatee-archive.org/",
+      "pages": 12,
+      "unique_data_files": 1,
+      "images": 118,
+      "top": [
+        {
+          "name": "rxfc-locale-seed-en.json",
+          "url": "https://cdn.shopify.com/extensions/01a1e93d-c267-700f-aa31-2f7b6796ab5a/wholesale-rex-390/assets/rxfc-locale-seed-en.json",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 1,
+      "wayback_data_files_raw": 1,
+      "wayback_sets_status200": {
+        "/": 1
+      },
+      "wayback_top": [
+        {
+          "name": "robots.txt",
+          "url": "http://savethemanatee-archive.org/robots.txt",
+          "first_capture": "20180618195415",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "manatee-photo-id-scars",
+      "label": "Save the Manatee Club main site",
+      "url": "https://savethemanatee.org/",
+      "pages": 10,
+      "unique_data_files": 0,
+      "images": 80,
+      "top": [],
+      "wayback_data_files_status200": 25,
+      "wayback_data_files_raw": 35,
+      "wayback_sets_status200": {
+        "/Audio": 18,
+        "/": 3,
+        "/audio": 2,
+        "/aa_fws_downlisting_3-17.html": 1,
+        "/adoptpag.htm": 1
+      },
+      "wayback_top": [
+        {
+          "name": "ai1ec_event-sitemap.xml",
+          "url": "https://www.savethemanatee.org/ai1ec_event-sitemap.xml",
+          "first_capture": "20220629164310",
+          "status": "200"
+        },
+        {
+          "name": "01_Last_of_the_Breed_Sample.mp3",
+          "url": "http://www.savethemanatee.org/Audio/01_Last_of_the_Breed_Sample.mp3",
+          "first_capture": "20081119083017",
+          "status": "200"
+        },
+        {
+          "name": "03_Lady_Grey_Sample.mp3",
+          "url": "http://www.savethemanatee.org/Audio/03_Lady_Grey_Sample.mp3",
+          "first_capture": "20081119083106",
+          "status": "200"
+        },
+        {
+          "name": "05_Manatee_And_Me_Sample.mp3",
+          "url": "http://www.savethemanatee.org/Audio/05_Manatee_And_Me_Sample.mp3",
+          "first_capture": "20081119082904",
+          "status": "200"
+        },
+        {
+          "name": "07_The_Talking_Manatee_Sample.mp3",
+          "url": "http://www.savethemanatee.org/Audio/07_The_Talking_Manatee_Sample.mp3",
+          "first_capture": "20081119082803",
+          "status": "200"
+        },
+        {
+          "name": "09_Just_A_Memory_Sample.mp3",
+          "url": "http://www.savethemanatee.org/Audio/09_Just_A_Memory_Sample.mp3",
+          "first_capture": "20081119082944",
+          "status": "200"
+        },
+        {
+          "name": "10_The_Stellar_Song_Lines_Sample.mp3",
+          "url": "http://www.savethemanatee.org/Audio/10_The_Stellar_Song_Lines_Sample.mp3",
+          "first_capture": "20081119083128",
+          "status": "200"
+        },
+        {
+          "name": "12_I_Manatee_Sample.mp3",
+          "url": "http://www.savethemanatee.org/Audio/12_I_Manatee_Sample.mp3",
+          "first_capture": "20081119082746",
+          "status": "200"
+        },
+        {
+          "name": "14_Manatee_Manatoo_Sample.mp3",
+          "url": "http://www.savethemanatee.org/Audio/14_Manatee_Manatoo_Sample.mp3",
+          "first_capture": "20081119082843",
+          "status": "200"
+        },
+        {
+          "name": "16_Song_For_The_Manatee_Sample.mp3",
+          "url": "http://www.savethemanatee.org/Audio/16_Song_For_The_Manatee_Sample.mp3",
+          "first_capture": "20081119083031",
+          "status": "200"
+        },
+        {
+          "name": "18_Friend_Of_The_Sea_Sample.mp3",
+          "url": "http://www.savethemanatee.org/Audio/18_Friend_Of_The_Sea_Sample.mp3",
+          "first_capture": "20081119082826",
+          "status": "200"
+        },
+        {
+          "name": "20_Song_Of_The_Manatee_Sample.mp3",
+          "url": "http://www.savethemanatee.org/Audio/20_Song_Of_The_Manatee_Sample.mp3",
+          "first_capture": "20081119083047",
+          "status": "200"
+        },
+        {
+          "name": "22_Last_Of_The_Breed_(Reprise)_Sampl.mp3",
+          "url": "http://www.savethemanatee.org/Audio/22_Last_Of_The_Breed_(Reprise)_Sampl.mp3",
+          "first_capture": "20081119082922",
+          "status": "200"
+        },
+        {
+          "name": "Baldwin_Script1_30PSA.mp3",
+          "url": "http://www.savethemanatee.org/audio/Baldwin_Script1_30PSA.mp3",
+          "first_capture": "20081114095014",
+          "status": "200"
+        },
+        {
+          "name": "Baldwin_Script2_30PSA.mp3",
+          "url": "http://www.savethemanatee.org/audio/Baldwin_Script2_30PSA.mp3",
+          "first_capture": "20081114094539",
+          "status": "200"
+        },
+        {
+          "name": "Buffett_Seagrass_Bird_Intro.mp3",
+          "url": "http://www.savethemanatee.org/Audio/Buffett_Seagrass_Bird_Intro.mp3",
+          "first_capture": "20160826143554",
+          "status": "200"
+        },
+        {
+          "name": "Gray_and_gentle.mp3",
+          "url": "http://www.savethemanatee.org/Audio/Gray_and_gentle.mp3",
+          "first_capture": "20081120010423",
+          "status": "200"
+        },
+        {
+          "name": "Hoot_New_Web_PSA.mp3",
+          "url": "http://www.savethemanatee.org/Audio/Hoot_New_Web_PSA.mp3",
+          "first_capture": "20160826105012",
+          "status": "200"
+        },
+        {
+          "name": "If_Manatees_liked_music.mp3",
+          "url": "http://www.savethemanatee.org/Audio/If_Manatees_liked_music.mp3",
+          "first_capture": "20081120010504",
+          "status": "200"
+        },
+        {
+          "name": "Manatee_Dreams.mp3",
+          "url": "http://www.savethemanatee.org/Audio/Manatee_Dreams.mp3",
+          "first_capture": "20070714123634",
+          "status": "200"
+        },
+        {
+          "name": "STM-0812-30-RADIO.mp3",
+          "url": "http://www.savethemanatee.org/Audio/STM-0812-30-RADIO.mp3",
+          "first_capture": "20160826101501",
+          "status": "200"
+        },
+        {
+          "name": "author-sitemap.xml",
+          "url": "https://www.savethemanatee.org/author-sitemap.xml",
+          "first_capture": "20230902085330",
+          "status": "200"
+        },
+        {
+          "name": "category-sitemap.xml",
+          "url": "https://www.savethemanatee.org/category-sitemap.xml",
+          "first_capture": "20230902085327",
+          "status": "200"
+        },
+        {
+          "name": "robots.txt",
+          "url": "http://www.savethemanatee.org/aa_fws_downlisting_3-17.html/robots.txt",
+          "first_capture": "20170607210255",
+          "status": "200"
+        },
+        {
+          "name": "robots.txt",
+          "url": "http://www.savethemanatee.org/adoptpag.htm/robots.txt",
+          "first_capture": "20160109222401",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "manatee-photo-id-scars",
+      "label": "FWC manatee research page (MIPS agency surface)",
+      "url": "https://myfwc.com/research/manatee/research/",
+      "pages": 5,
+      "unique_data_files": 0,
+      "images": 2,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    }
+  ]
+}

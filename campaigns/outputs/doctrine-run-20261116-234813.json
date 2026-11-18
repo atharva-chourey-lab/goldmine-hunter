@@ -1,0 +1,94 @@
+{
+  "doctrine_run": [
+    {
+      "label": "WorldClim (geo/climate)",
+      "domain": "worldclim.org",
+      "unique_wayback_data": 727,
+      "sets": {
+        "/data/alt_#.zip": 60,
+        "/data/bio_#.zip": 60,
+        "/data/prec_#.zip": 60,
+        "/data/tilesbio_#.zip": 60,
+        "/data/tilesprec_#.zip": 60,
+        "/data/tilestmax_#.zip": 60,
+        "/data/tilestmean_#.zip": 60,
+        "/data/tmax_#.zip": 60,
+        "/data/tmean_#.zip": 60,
+        "/data/tmin_#.zip": 60,
+        "/data/tilestmin_#.zip": 58,
+        "/data/tilesalt_#.zip": 57
+      },
+      "extensions": {
+        ".zip": 716,
+        ".txt": 6,
+        ".json": 3,
+        ".xml": 2
+      },
+      "sample": {
+        "unknown(403)": 24
+      },
+      "deleted_examples": [],
+      "top_scored": [
+        "http://www.worldclim.org/rss.xml",
+        "https://www.worldclim.org/sitemap.xml",
+        "http://worldclim.org/.well-known/ai-plugin.json",
+        "http://worldclim.org/.well-known/assetlinks.json",
+        "http://worldclim.org/.well-known/dnt-policy.txt",
+        "http://worldclim.org/.well-known/gpc.json",
+        "http://worldclim.org/.well-known/security.txt",
+        "http://worldclim.org/.well-known/trust.txt",
+        "http://worldclim.org/ads.txt",
+        "http://worldclim.org/app-ads.txt"
+      ]
+    },
+    {
+      "label": "SDSS data (astro)",
+      "domain": "data.sdss.org",
+      "unique_wayback_data": 250,
+      "sets": {
+        "/sas/dr14/eboss/qso/DR14Q/DR#Q_v#_#.fits": 3,
+        "/sas/dr10/boss/papers/clustering/Anderson_#_CMASSDR#_corrfunction_cov_x#x#_postrecon.dat": 2,
+        "/sas/dr10/boss/papers/clustering/Anderson_#_CMASSDR#_corrfunction_cov_x#x#_prerecon.dat": 2,
+        "/sas/dr10/boss/papers/clustering/Anderson_#_CMASSDR#_corrfunction_x#x#_postrecon.dat": 2,
+        "/sas/dr10/boss/papers/clustering/Anderson_#_CMASSDR#_corrfunction_x#x#_prerecon.dat": 2,
+        "/sas/dr10/boss/papers/clustering/Anderson_#_CMASSDR#_power_spectrum_post_recon.dat": 2,
+        "/sas/dr10/boss/papers/clustering/Anderson_#_CMASSDR#_power_spectrum_post_recon_cov.dat": 2,
+        "/sas/dr10/boss/papers/clustering/Anderson_#_CMASSDR#_power_spectrum_pre_recon.dat": 2,
+        "/sas/dr10/boss/papers/clustering/Anderson_#_CMASSDR#_power_spectrum_pre_recon_cov.dat": 2,
+        "/sas/dr10/boss/papers/clustering/Anderson_#_CMASSDR#_wedges_post_recon.dat": 2,
+        "/sas/dr10/boss/papers/clustering/Anderson_#_CMASSDR#_wedges_post_recon_cov.dat": 2,
+        "/sas/dr10/boss/papers/clustering/Anderson_#_CMASSDR#_wedges_pre_recon.dat": 2
+      },
+      "extensions": {
+        ".fits": 143,
+        ".dat": 57,
+        ".txt": 20,
+        ".gz": 12,
+        ".ply": 6,
+        ".zip": 5,
+        ".xml": 4,
+        ".json": 3
+      },
+      "sample": {
+        "still-live": 22,
+        "DELETED (wayback-only)": 2
+      },
+      "deleted_examples": [
+        "https://data.sdss.org/sas/dr12/apogee/vac/apogee-rc/cat/apogee-rc-DR12.fits",
+        "https://data.sdss.org/app-ads.txt"
+      ],
+      "top_scored": [
+        "https://data.sdss.org//sas/dr10/boss/lss/reject_mask/badfield_mask_postprocess_pixs8.ply",
+        "https://data.sdss.org/sas/dr10/boss/lss/reject_mask/badfield_mask_unphot-ugriz_pix.ply",
+        "https://data.sdss.org//sas/dr10/boss/lss/reject_mask/bright_star_mask_pix.ply",
+        "https://data.sdss.org/sas/dr10/boss/lss/reject_mask/centerpost_mask.ply",
+        "https://data.sdss.org/sas/dr10/boss/lss/reject_mask/collision_priority_mask.ply",
+        "https://data.sdss.org/sas/dr10/boss/qso/DR10Q/Supplementary_DR10Q_v2.fits",
+        "https://data.sdss.org/sas/dr10/boss/target/main006/bosstarget-qso-main006-collate-maskngc.fits",
+        "https://data.sdss.org/sas/dr10/boss/target/main006/bosstarget-qso-main006-collate-masksgc1.fits",
+        "https://data.sdss.org/sas/dr10/boss/target/main008/bosstarget-qso-main008-collate-edfinal-maskngc40.fits",
+        "https://data.sdss.org/sas/dr10/boss/target/main008/bosstarget-qso-main008-collate-maskngc40.fits"
+      ]
+    }
+  ]
+}

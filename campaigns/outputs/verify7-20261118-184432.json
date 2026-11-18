@@ -1,0 +1,281 @@
+{
+  "verify7": {
+    "juneau_pdfs": [
+      {
+        "ts": "20160703190707",
+        "url": "http://www.juneauflukes.org/uploads/2/0/8/2/20826816/2015_juneau_flukes_catalog_v5_compressed.pdf",
+        "length": "6917740"
+      },
+      {
+        "ts": "20250614083032",
+        "url": "https://www.juneauflukes.org/uploads/2/0/8/2/20826816/2025_juneau_flukes_catalog.pdf",
+        "length": "5012951"
+      },
+      {
+        "ts": "20160704020518",
+        "url": "http://www.juneauflukes.org/uploads/2/0/8/2/20826816/boatflyer.pdf",
+        "length": "451480"
+      },
+      {
+        "ts": "20240625111124",
+        "url": "https://www.juneauflukes.org/uploads/2/0/8/2/20826816/jf_2023_poster.pdf",
+        "length": "1028553"
+      },
+      {
+        "ts": "20250614081343",
+        "url": "https://www.juneauflukes.org/uploads/2/0/8/2/20826816/jf_2025_poster.pdf",
+        "length": "1040384"
+      },
+      {
+        "ts": "20201003231845",
+        "url": "https://www.juneauflukes.org/uploads/2/0/8/2/20826816/juneau_flukes_catalog_2019.pdf",
+        "length": "7707975"
+      },
+      {
+        "ts": "20190922064310",
+        "url": "https://www.juneauflukes.org/uploads/2/0/8/2/20826816/juneau_flukes_catalog_2021.pdf",
+        "length": "953303"
+      },
+      {
+        "ts": "20230529060019",
+        "url": "https://www.juneauflukes.org/uploads/2/0/8/2/20826816/juneau_flukes_catalog_2023.pdf",
+        "length": "939665"
+      },
+      {
+        "ts": "20210919192521",
+        "url": "http://www.juneauflukes.org/uploads/2/0/8/2/20826816/juneauflukes_kidsmatchinggame.pdf",
+        "length": "987908"
+      }
+    ],
+    "juneau_home": {
+      "status": 200,
+      "pdf_links": [
+        "/uploads/2/0/8/2/20826816/2025_juneau_flukes_catalog.pdf",
+        "/uploads/2/0/8/2/20826816/jf_2025_poster.pdf",
+        "/uploads/2/0/8/2/20826816/juneauflukes_kidsmatchinggame.pdf"
+      ],
+      "upload_links": [
+        "/uploads/2/0/8/2/20826816/2025_juneau_flukes_catalog.pdf",
+        "/uploads/2/0/8/2/20826816/jf_2025_poster.pdf",
+        "/uploads/2/0/8/2/20826816/juneauflukes_kidsmatchinggame.pdf"
+      ]
+    },
+    "juneau_samples": [
+      {
+        "label": "Juneau wb PDF (6917740 B CDX)",
+        "url": "https://web.archive.org/web/20160703190707id_/http://www.juneauflukes.org/uploads/2/0/8/2/20826816/2015_juneau_flukes_catalog_v5_compressed.pdf",
+        "http_status": 200,
+        "bytes_downloaded": 9233339,
+        "truncated_at_cap": false,
+        "content_type": "application/pdf",
+        "error": null,
+        "md5_full": "96c5f262b4bf1b9d889765335ff1d4db",
+        "md5_head1mb": "935b4d5f53d1d8511cf40b5f920df414",
+        "looks_html": false,
+        "verdict": "REAL \u2014 PDF",
+        "pdf": true,
+        "saved_to": "gold/campaign7-verify/juneau-2015_juneau_flukes_catalog_v5_compressed.pdf"
+      },
+      {
+        "label": "Juneau wb PDF (5012951 B CDX)",
+        "url": "https://web.archive.org/web/20250614083032id_/https://www.juneauflukes.org/uploads/2/0/8/2/20826816/2025_juneau_flukes_catalog.pdf",
+        "http_status": 200,
+        "bytes_downloaded": 5242880,
+        "truncated_at_cap": false,
+        "content_type": "application/pdf",
+        "error": null,
+        "md5_full": "43e364672251747023c716e37aab2fdc",
+        "md5_head1mb": "7a4bffdcedb415dc3feef0d2456ebf1d",
+        "looks_html": false,
+        "verdict": "REAL \u2014 PDF",
+        "pdf": true,
+        "saved_to": "gold/campaign7-verify/juneau-2025_juneau_flukes_catalog.pdf"
+      },
+      {
+        "label": "Juneau live PDF",
+        "url": "https://www.juneauflukes.org/uploads/2/0/8/2/20826816/2025_juneau_flukes_catalog.pdf",
+        "http_status": 200,
+        "bytes_downloaded": 12755000,
+        "truncated_at_cap": false,
+        "content_type": "application/pdf",
+        "error": null,
+        "md5_full": "2403f00bd987c2759f3583d5b8b4295f",
+        "md5_head1mb": "7a4bffdcedb415dc3feef0d2456ebf1d",
+        "looks_html": false,
+        "verdict": "REAL \u2014 PDF",
+        "pdf": true,
+        "saved_to": "gold/campaign7-verify/juneau-live-2025_juneau_flukes_catalog.pdf"
+      }
+    ],
+    "flukebook": {
+      "label": "Dominica Flukebook 2016 (whitelab live)",
+      "url": "http://whitelab.biology.dal.ca/sge/Flukebook2016.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 1343030,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "170f9858299f4c01857d91d1ea937b92",
+      "md5_head1mb": "c5311e2d207db516ab66b50298cd7fd8",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign7-verify/dominica-flukebook2016.pdf"
+    },
+    "ccamlr_danco": {
+      "label": "CCAMLR Danco Coast humpback catalogue (meeting doc)",
+      "url": "https://meetings.uat.ccamlr.org/es/system/files?file=meeting-documents/2026-06/WG-EMM-2026-67.pdf",
+      "http_status": 403,
+      "bytes_downloaded": 4554,
+      "truncated_at_cap": false,
+      "content_type": "text/html; charset=UTF-8",
+      "error": null,
+      "md5_full": "8a376ab572949ad2da3878a6720b02bf",
+      "md5_head1mb": "8a376ab572949ad2da3878a6720b02bf",
+      "looks_html": true,
+      "verdict": "PHANTOM \u2014 HTML page, not data"
+    },
+    "ccs_cdx": {
+      "\\.pdf": 309,
+      "\\.csv": 0,
+      "\\.xlsx?": 4
+    },
+    "beaufort_csv1": {
+      "label": "Beaufort 2018_match_to_master_catalog.csv (NCEI)",
+      "url": "https://www.ncei.noaa.gov/archive/accession/0254384/1.1/data/0-data/67350/2018_match_to_master_catalog.csv",
+      "http_status": 503,
+      "bytes_downloaded": 418,
+      "truncated_at_cap": false,
+      "content_type": "text/html; charset=iso-8859-1",
+      "error": null,
+      "md5_full": "6d0b9a37ff191dc00f646597224c07aa",
+      "md5_head1mb": "6d0b9a37ff191dc00f646597224c07aa",
+      "looks_html": true,
+      "verdict": "PHANTOM \u2014 HTML page, not data"
+    },
+    "beaufort_csv2": {
+      "label": "Beaufort 2018_SNCES_id_dolphins.csv (NCEI)",
+      "url": "https://www.ncei.noaa.gov/archive/accession/0254384/1.1/data/0-data/67350/2018_SNCES_id_dolphins.csv",
+      "http_status": 503,
+      "bytes_downloaded": 418,
+      "truncated_at_cap": false,
+      "content_type": "text/html; charset=iso-8859-1",
+      "error": null,
+      "md5_full": "6d0b9a37ff191dc00f646597224c07aa",
+      "md5_head1mb": "6d0b9a37ff191dc00f646597224c07aa",
+      "looks_html": true,
+      "verdict": "PHANTOM \u2014 HTML page, not data"
+    },
+    "beaufort_photos_zip_head": {
+      "status": 200,
+      "size": "545259230",
+      "type": "application/zip"
+    },
+    "beaufort_photos_zip_probe": {
+      "status": 200,
+      "bytes_sampled": 262144,
+      "pk_magic": true,
+      "md5_head": "d9b58c60f38fb59c302c569c8a7868e2",
+      "content_length_header": "545259230"
+    },
+    "elephant_se": {
+      "status": 403,
+      "bytes": 23616,
+      "aerp_fields": false,
+      "md5": "9f2f45a69f25cdb5cf6263378c3b46ef"
+    },
+    "elephant_se_cdx_data": 5,
+    "ate_head": {
+      "status": null,
+      "error": "HTTPSConnectionPool(host='www.amboseliephants.org', port=443): Max retries exceeded with url: / (Caused by ProxyError('U"
+    },
+    "ate_cdx": [],
+    "ate_samples": [],
+    "wellcome": {
+      "n9q6q77r": {
+        "api_status": 200,
+        "title": "Chimpanzee Fingerprints",
+        "n_items_api": 0,
+        "items_sample": []
+      },
+      "dnzrn3kb": {
+        "api_status": 200,
+        "title": "Fingerprints",
+        "n_items_api": 0,
+        "items_sample": []
+      },
+      "iiif_refs_on_chimp_page": []
+    },
+    "midlo": {
+      "hits": []
+    },
+    "wagyu_cdx": {
+      "\\": 31,
+      ".": 31,
+      "(": 0,
+      "p": 31,
+      "d": 26,
+      "f": 6,
+      "|": 31,
+      "c": 30,
+      "s": 31,
+      "v": 10,
+      "x": 13,
+      "l": 26,
+      "?": 31,
+      "z": 1,
+      "i": 9,
+      "j": 31,
+      "g": 31,
+      "e": 29,
+      "n": 30,
+      ")": 0
+    },
+    "fit_pmc": {
+      "status": 200,
+      "training_set_snippet": "training-set database of footprint photographs from known individual captive tapir (",
+      "images426_snippet": "426 images from 36 captive individuals was used to extract the algorithm for individual identification of tapirs using FIT ("
+    },
+    "desertlion_home": {
+      "status": 200,
+      "n_hrefs": 42,
+      "lion_links": [
+        "https://www.desertlion.info/",
+        "https://www.desertlion.info/contact/",
+        "https://www.desertlion.info/hlc/",
+        "https://www.desertlion.info/links/",
+        "https://www.desertlion.info/lion-population/barab-river.html",
+        "https://www.desertlion.info/lion-population/hoanib-river.html",
+        "https://www.desertlion.info/lion-population/obab-river.html",
+        "https://www.desertlion.info/lion-population/ugab-river.html",
+        "https://www.desertlion.info/lions-of-the-skeleton-coast.html",
+        "https://www.desertlion.info/login/",
+        "https://www.desertlion.info/news/142/desert-news",
+        "https://www.desertlion.info/news/143/lions-of-the-skeleton-coast",
+        "https://www.desertlion.info/news/144/lions-in-the-koigab-and-hoarusib-rivers",
+        "https://www.desertlion.info/news/145/paratus",
+        "https://www.desertlion.info/news/146/costal-and-hoaruseb-lion-activities",
+        "https://www.desertlion.info/news/147/dlc-is-monitoring-movements-of-all-desert-lions-in-the-area-of-torra-bay",
+        "https://www.desertlion.info/news/148/various-christmas-coastal-lion-updates-from-skeleton-coast-namibia",
+        "https://www.desertlion.info/news/149/15-may-2025-update-desert-lion-news",
+        "https://www.desertlion.info/news/150/factors-contributing-to-the-fatal-attack-of-an-experienced-tourist-by-a-well-known-lioness-in-the-heart-of-the-hoanib-river",
+        "https://www.desertlion.info/news/151/lions-of-the-skeleton-coast-roars-back-to-cinema-screens-in-namibia"
+      ]
+    },
+    "kunene_survey_pdf": {
+      "label": "Kunene lion survey 2023 (Conservation Namibia PDF)",
+      "url": "https://mail.conservationnamibia.com/pdfs/lion-survey-2023.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 4303341,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "1f267067ff76801f7efad2fcc9393b5e",
+      "md5_head1mb": "4f8a5a3f147a27f408f4d81ea1146cd7",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true
+    },
+    "desertlion_cdx_data": 46
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "verify7b": {
+    "ccs": {
+      "pdf200": 309,
+      "catalog_named": 53,
+      "files": [
+        {
+          "ts": "20150910202628",
+          "url": "http://coastalstudies.org/cms/wp-content/uploads/2013/11/2010-2011-Annual-Report.pdf",
+          "length": "2617740"
+        },
+        {
+          "ts": "20170118121913",
+          "url": "http://coastalstudies.org/cms/wp-content/uploads/2013/11/2014-Annual-Report-Draft-2.pdf",
+          "length": "1643037"
+        },
+        {
+          "ts": "20170118102151",
+          "url": "http://coastalstudies.org/cms/wp-content/uploads/2013/11/Annual-Report-2012-2013.pdf",
+          "length": "1751674"
+        },
+        {
+          "ts": "20150912222011",
+          "url": "http://coastalstudies.org/cms/wp-content/uploads/2013/11/annualreport-03.pdf",
+          "length": "2530847"
+        },
+        {
+          "ts": "20150912221842",
+          "url": "http://coastalstudies.org/cms/wp-content/uploads/2013/11/annualreport-04.pdf",
+          "length": "589691"
+        },
+        {
+          "ts": "20150909203738",
+          "url": "http://coastalstudies.org/cms/wp-content/uploads/2013/11/Final-Report-Nov-2006.pdf",
+          "length": "8727490"
+        },
+        {
+          "ts": "20150908213856",
+          "url": "http://coastalstudies.org/cms/wp-content/uploads/2013/11/FinalReportrightwhales2010.pdf",
+          "length": "2340035"
+        },
+        {
+          "ts": "20150909203239",
+          "url": "http://coastalstudies.org/cms/wp-content/uploads/2013/11/RW_Report_2008_complete.pdf",
+          "length": "6021976"
+        },
+        {
+          "ts": "20150909204043",
+          "url": "http://coastalstudies.org/cms/wp-content/uploads/2013/11/RW_Report_2009_Complete.pdf",
+          "length": "32832530"
+        },
+        {
+          "ts": "20150910204412",
+          "url": "http://coastalstudies.org/cms/wp-content/uploads/2013/12/ccs-report-1-28-03.pdf",
+          "length": "783194"
+        },
+        {
+          "ts": "20150910204100",
+          "url": "http://coastalstudies.org/cms/wp-content/uploads/2013/12/Muskeget_PCCS_Final_Report1_web_bw.pdf",
+          "length": "2496651"
+        },
+        {
+          "ts": "20150910002238",
+          "url": "http://coastalstudies.org/cms/wp-content/uploads/2013/12/Muskeget_PCCS_Final_REPORT2-web.pdf",
+          "length": "823165"
+        },
+        {
+          "ts": "20150909200118",
+          "url": "http://coastalstudies.org/cms/wp-content/uploads/2013/12/PCCSBayReport2009-1.pdf",
+          "length": "1741867"
+        },
+        {
+          "ts": "20150908200356",
+          "url": "http://coastalstudies.org/cms/wp-content/uploads/2013/12/PCCSBayReport2009-2.pdf",
+          "length": "605236"
+        },
+        {
+          "ts": "20150908192225",
+          "url": "http://coastalstudies.org/cms/wp-content/uploads/2013/12/PCCSBayReport2009-3.pdf",
+          "length": "1065800"
+        },
+        {
+          "ts": "20150910004106",
+          "url": "http://coastalstudies.org/cms/wp-content/uploads/2013/12/WHALE-CAMP-Registration-2015.pdf",
+          "length": "230754"
+        },
+        {
+          "ts": "20190510002426",
+          "url": "http://coastalstudies.org/cms/wp-content/uploads/2018/09/Right-Whale-News-July-2018.pdf",
+          "length": "954660"
+        },
+        {
+          "ts": "20200510114521",
+          "url": "https://coastalstudies.org/cms/wp-content/uploads/2019/06/CCS-Right-Whale-Ecology-Program-2019-Summary.pdf",
+          "length": "938938"
+        },
+        {
+          "ts": "20030509122019",
+          "url": "http://www.coastalstudies.org:80/coastalsolution/CCS_Report_1-28-03.pdf",
+          "length": "783071"
+        },
+        {
+          "ts": "20080705024228",
+          "url": "http://www.coastalstudies.org/images/2007flukes_BOF_PCCS.pdf",
+          "length": "127679"
+        }
+      ]
+    },
+    "ccs_samples": [
+      {
+        "label": "CCS wb PDF (2617740 B CDX)",
+        "url": "https://web.archive.org/web/20150910202628id_/http://coastalstudies.org/cms/wp-content/uploads/2013/11/2010-2011-Annual-Report.pdf",
+        "http_status": 200,
+        "bytes_downloaded": 2640389,
+        "truncated_at_cap": false,
+        "content_type": "application/pdf",
+        "error": null,
+        "md5_full": "826bf0486f964b16d2a40cff862ee81a",
+        "md5_head1mb": "6310af18ce956809193a72d4166f7522",
+        "looks_html": false,
+        "verdict": "REAL \u2014 PDF",
+        "pdf": true,
+        "saved_to": "gold/campaign7-verify/ccs-2010-2011-Annual-Report.pdf"
+      },
+      {
+        "label": "CCS wb PDF (1643037 B CDX)",
+        "url": "https://web.archive.org/web/20170118121913id_/http://coastalstudies.org/cms/wp-content/uploads/2013/11/2014-Annual-Report-Draft-2.pdf",
+        "http_status": 200,
+        "bytes_downloaded": 1723653,
+        "truncated_at_cap": false,
+        "content_type": "application/pdf",
+        "error": null,
+        "md5_full": "0a1a203422a13b1ee71c855fff21bc99",
+        "md5_head1mb": "5d83bc4e944c90fa0bd5224173381f6e",
+        "looks_html": false,
+        "verdict": "REAL \u2014 PDF",
+        "pdf": true,
+        "saved_to": "gold/campaign7-verify/ccs-2014-Annual-Report-Draft-2.pdf"
+      }
+    ],
+    "beaufort_csv1_nodc": {
+      "label": "Beaufort match-to-master CSV (nodc)",
+      "url": "https://www.nodc.noaa.gov/archive/arc0204/0254384/1.1/data/0-data/67350/2018_match_to_master_catalog.csv",
+      "http_status": 200,
+      "bytes_downloaded": 76187,
+      "truncated_at_cap": false,
+      "content_type": "text/csv",
+      "error": null,
+      "md5_full": "d1d4ba57f2ed6417277f8f734095cea7",
+      "md5_head1mb": "d1d4ba57f2ed6417277f8f734095cea7",
+      "looks_html": false,
+      "lines_sampled": 1052,
+      "first_line": "Dolphin ID,2018 Southern Mark-Recapture ID,Vessel,Trip Date,Sequential Sighting Number,Lat,Long,Sighting Habitat,Included in NNCESS Abundance Estmate,Distinctiv",
+      "verdict": "REAL \u2014 decodable text data",
+      "saved_to": "gold/campaign7-verify/beaufort-2018_match_to_master_catalog.csv"
+    },
+    "beaufort_csv2_nodc": {
+      "label": "Beaufort SNCES id dolphins CSV (nodc)",
+      "url": "https://www.nodc.noaa.gov/archive/arc0204/0254384/1.1/data/0-data/67350/2018_SNCES_id_dolphins.csv",
+      "http_status": 200,
+      "bytes_downloaded": 63433,
+      "truncated_at_cap": false,
+      "content_type": "text/csv",
+      "error": null,
+      "md5_full": "860c5c3a5ac1e59e3c17de2f9f983b30",
+      "md5_head1mb": "860c5c3a5ac1e59e3c17de2f9f983b30",
+      "looks_html": false,
+      "lines_sampled": 814,
+      "first_line": "Dolphin ID,Photo-id Session,Vessel,Trip Date,Sequential Sighting Number,Sighting On/off Effort,Lat,Long,Sighting Habitat,Habitat for all Sightings,Distinctive-n",
+      "verdict": "REAL \u2014 decodable text data",
+      "saved_to": "gold/campaign7-verify/beaufort-2018_SNCES_id_dolphins.csv"
+    },
+    "ccamlr_prod": [
+      {
+        "label": "CCAMLR Danco PDF (production host)",
+        "url": "https://meetings.ccamlr.org/en/system/files?file=meeting-documents/2026-06/WG-EMM-2026-67.pdf",
+        "http_status": null,
+        "bytes_downloaded": 0,
+        "truncated_at_cap": false,
+        "content_type": null,
+        "error": "HTTPSConnectionPool(host='accounts.ccamlr.org', port=443): Read timed out. (read timeout=120)",
+        "verdict": "UNREACHABLE / EMPTY"
+      },
+      {
+        "label": "CCAMLR Danco PDF (production host)",
+        "url": "https://meetings.ccamlr.org/es/system/files?file=meeting-documents/2026-06/WG-EMM-2026-67.pdf",
+        "http_status": null,
+        "bytes_downloaded": 0,
+        "truncated_at_cap": false,
+        "content_type": null,
+        "error": "HTTPSConnectionPool(host='accounts.ccamlr.org', port=443): Read timed out. (read timeout=120)",
+        "verdict": "UNREACHABLE / EMPTY"
+      }
+    ],
+    "ext_redo": {
+      "elephant.se": {
+        "ok200": 8772,
+        "data_ext": 48,
+        "doc_type": []
+      },
+      "desertlion.info": {
+        "ok200": 8801,
+        "data_ext": 7798,
+        "doc_type": [
+          {
+            "ts": "20230531013241",
+            "url": "https://www.desertlion.info/data/downloadables/1/0/245standersectionb.pdf",
+            "length": "876293"
+          },
+          {
+            "ts": "20230531042626",
+            "url": "https://www.desertlion.info/data/downloadables/1/0/245standersectionb.pdf?force-download=yes",
+            "length": "876343"
+          },
+          {
+            "ts": "20250709222745",
+            "url": "https://www.desertlion.info/data/downloadables/1/2/lion_protocol_hoanib2.pdf",
+            "length": "27456"
+          },
+          {
+            "ts": "20250709230523",
+            "url": "https://www.desertlion.info/data/downloadables/1/3/roads_driving_protocol.pdf",
+            "length": "34017"
+          },
+          {
+            "ts": "20250709225925",
+            "url": "https://www.desertlion.info/data/downloadables/1/4/lion_sighting-_protocol_hoanib.pdf",
+            "length": "105893"
+          }
+        ]
+      },
+      "wagyu.or.jp": {
+        "ok200": 31,
+        "data_ext": 20,
+        "doc_type": []
+      },
+      "amboseliephants.org": {
+        "ok200": 0,
+        "data_ext": 0,
+        "doc_type": []
+      }
+    },
+    "wellcome_items": {
+      "n9q6q77r": {
+        "status": 200,
+        "n_items": 1,
+        "locations": [
+          {
+            "type": "closed-stores",
+            "url": null
+          }
+        ]
+      },
+      "dnzrn3kb": {
+        "status": 200,
+        "n_items": 1,
+        "locations": [
+          {
+            "type": "iiif-presentation",
+            "url": "https://iiif.wellcomecollection.org/presentation/v2/b20633257"
+          }
+        ]
+      }
+    },
+    "wellcome_manifest_probe": [
+      "https://iiif.wellcomecollection.org/presentation/v2/b20633257"
+    ],
+    "wellcome_manifest": {
+      "url": "https://iiif.wellcomecollection.org/presentation/v2/b20633257",
+      "n_canvases": 3022
+    },
+    "wellcome_image_sample": {
+      "label": "Wellcome IIIF canvas image",
+      "url": "https://iiif.wellcomecollection.org/image/b20633257_galton_02_09_06_02_04_01_0001.JP2/full/1024,811/0/default.jpg",
+      "http_status": 200,
+      "bytes_downloaded": 123308,
+      "truncated_at_cap": false,
+      "content_type": "image/jpeg",
+      "error": null,
+      "md5_full": "f7c703e7bf52039008c5cd3f236ffd75",
+      "md5_head1mb": "f7c703e7bf52039008c5cd3f236ffd75",
+      "looks_html": false,
+      "verdict": "REAL \u2014 JPEG image",
+      "jpeg": true,
+      "saved_to": "gold/campaign7-verify/wellcome-galton-canvas0.jpg"
+    },
+    "midlo": {
+      "creator:(Cummins) AND title:(dermatoglyphics)": [],
+      "title:(dermatoglyphics) AND year:1942": [],
+      "\"Palmar and plantar dermatoglyphics\"": []
+    }
+  }
+}

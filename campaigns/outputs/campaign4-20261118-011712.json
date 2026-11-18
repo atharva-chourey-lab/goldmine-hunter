@@ -1,0 +1,1241 @@
+{
+  "campaign4_more": [
+    {
+      "label": "Digital Brain Bank diffusion MRI [fidelity:connectome]",
+      "url": "https://www.digitalbrainbank.org",
+      "system": "connectome",
+      "fidelity_card": {
+        "system": "connectome",
+        "label": "Diffusion / connectome MRI (DBB/HCP/MICrONS)",
+        "RAW": "raw capture types ('.nii', '.nii.gz', '.gii', '.hdf5', '.npy') / words ('dwi', 'diffusion', 'tract', 'connectome', 'em', 'volume')",
+        "UNIT": "brain \u2014 same diffusion protocol across primates / subjects",
+        "LABEL_GAP": "atlas pipeline A vs pipeline B labels on same scan",
+        "ANCHOR": "histology / tracer atlases; Brain Catalogue volumetry"
+      },
+      "pages": 0,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files_status200": 1,
+      "wayback_data_files_raw": 1,
+      "wayback_sets_status200": {
+        "/": 1
+      },
+      "wayback_top": [
+        {
+          "name": "robots.txt",
+          "url": "http://digitalbrainbank.org/robots.txt",
+          "first_capture": "20211129181902",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "Tabula Muris single-cell [fidelity:singlecell]",
+      "url": "https://tabula-muris.ds.czbiohub.org",
+      "system": "singlecell",
+      "fidelity_card": {
+        "system": "singlecell",
+        "label": "Single-cell RNA atlases (HCA/Tabula)",
+        "RAW": "raw capture types ('.h5ad', '.h5', '.loom', '.mtx', '.parquet') / words ('counts', 'expression', 'cell', 'atlas')",
+        "UNIT": "cell \u2014 same chemistry across tissues and species",
+        "LABEL_GAP": "lab A clustering/naming vs lab B on same tissue",
+        "ANCHOR": "marker-gene panels; cross-lab consensus labels"
+      },
+      "pages": 4,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files_status200": 1,
+      "wayback_data_files_raw": 2,
+      "wayback_sets_status200": {
+        "/": 1
+      },
+      "wayback_top": [
+        {
+          "name": "manifest.json",
+          "url": "http://tabula-muris.ds.czbiohub.org:80/manifest.json",
+          "first_capture": "20180525073344",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "Kepler archive light curves [fidelity:lightcurve]",
+      "url": "https://archive.stsci.edu",
+      "system": "lightcurve",
+      "fidelity_card": {
+        "system": "lightcurve",
+        "label": "Kepler/TESS light curves",
+        "RAW": "raw capture types ('.fits', '.csv') / words ('lightcurve', 'light_curve', 'flux', 'cadence', 'kepler', 'tess')",
+        "UNIT": "star \u2014 2-min cadence across 200k+ targets",
+        "LABEL_GAP": "threshold-crossing catalogue vs sub-threshold signal",
+        "ANCHOR": "confirmed planet / variable catalogues (partial by design)"
+      },
+      "pages": 25,
+      "unique_data_files": 657,
+      "top": [
+        {
+          "name": "hlsp_agnsedatlas_multi_photometry_all_multi_v1_cat.fits",
+          "url": "https://archive.stsci.edu/hlsps/agnsedatlas/hlsp_agnsedatlas_multi_photometry_all_multi_v1_cat.fits",
+          "score": 12,
+          "fidelity": 4
+        },
+        {
+          "name": "hlsp_agnsedatlas_multi_photometry_all_multi_v1_obs-cat.csv",
+          "url": "https://archive.stsci.edu/hlsps/agnsedatlas/hlsp_agnsedatlas_multi_photometry_all_multi_v1_obs-cat.csv",
+          "score": 12,
+          "fidelity": 4
+        },
+        {
+          "name": "hlsp_agnsedatlas_multi_photometry_all_multi_v1_syn-cat.csv",
+          "url": "https://archive.stsci.edu/hlsps/agnsedatlas/hlsp_agnsedatlas_multi_photometry_all_multi_v1_syn-cat.csv",
+          "score": 12,
+          "fidelity": 4
+        },
+        {
+          "name": "hlsp_atlas-var_atlas_ccd_all_cyan-orange_dr1_observationt.fits",
+          "url": "http://archive.stsci.edu/hlsps/atlas-var/hlsp_atlas-var_atlas_ccd_all_cyan-orange_dr1_observationt.fits",
+          "score": 12,
+          "fidelity": 4
+        },
+        {
+          "name": "hlsp_atlas-var_atlas_ccd_all_cyan-orange_dr1_observation.fits",
+          "url": "https://archive.stsci.edu/hlsp/hlsp_atlas-var_atlas_ccd_all_cyan-orange_dr1_observation.fits",
+          "score": 12,
+          "fidelity": 4
+        },
+        {
+          "name": "hlsp_boocats_hst_acs-wfc_booi_f606w-f814w_v1_photometric-catalog.csv",
+          "url": "http://archive.stsci.edu/hlsps/boocats/hlsp_boocats_hst_acs-wfc_booi_f606w-f814w_v1_photometric-catalog.csv",
+          "score": 12,
+          "fidelity": 4
+        },
+        {
+          "name": "_photometric-catalog.csv",
+          "url": "https://archive.stsci.edu/hlsp/_photometric-catalog.csv",
+          "score": 12,
+          "fidelity": 4
+        },
+        {
+          "name": "3dhst.v4.1.5.master.fits",
+          "url": "https://archive.stsci.edu/missions/hlsp/3d-hst/RELEASE_V4.1.5/3dhst.v4.1.5.master.fits",
+          "score": 9,
+          "fidelity": 4
+        },
+        {
+          "name": "aegis_3dhst.v4.0.use_mask.fits",
+          "url": "https://archive.stsci.edu/missions/hlsp/3d-hst/RELEASE_V4.0/Photometry/AEGIS/Detection/aegis_3dhst.v4.0.use_mask.fits",
+          "score": 9,
+          "fidelity": 4
+        },
+        {
+          "name": "cosmos_3dhst.v4.0.use_mask.fits",
+          "url": "https://archive.stsci.edu/missions/hlsp/3d-hst/RELEASE_V4.0/Photometry/COSMOS/Detection/cosmos_3dhst.v4.0.use_mask.fits",
+          "score": 9,
+          "fidelity": 4
+        },
+        {
+          "name": "goodsn_3dhst.v4.0.use_mask.fits",
+          "url": "https://archive.stsci.edu/missions/hlsp/3d-hst/RELEASE_V4.0/Photometry/GOODS-N/Detection/goodsn_3dhst.v4.0.use_mask.fits",
+          "score": 9,
+          "fidelity": 4
+        },
+        {
+          "name": "goodss_3dhst.v4.0.use_mask.fits",
+          "url": "https://archive.stsci.edu/missions/hlsp/3d-hst/RELEASE_V4.0/Photometry/GOODS-S/Detection/goodss_3dhst.v4.0.use_mask.fits",
+          "score": 9,
+          "fidelity": 4
+        },
+        {
+          "name": "uds_3dhst.v4.0.use_mask.fits",
+          "url": "https://archive.stsci.edu/missions/hlsp/3d-hst/RELEASE_V4.0/Photometry/UDS/Detection/uds_3dhst.v4.0.use_mask.fits",
+          "score": 9,
+          "fidelity": 4
+        },
+        {
+          "name": "hlsp_aspic_gaia_astrometric-photometric_all-sky_multi_v1.1_cat.fits",
+          "url": "https://archive.stsci.edu/hlsps/aspic/hlsp_aspic_gaia_astrometric-photometric_all-sky_multi_v1.1_cat.fits",
+          "score": 9,
+          "fidelity": 4
+        },
+        {
+          "name": "hlsp_atlas-refcat2_atlas_ccd_m90-m53_multi_v1_cat.csv",
+          "url": "https://archive.stsci.edu/hlsps/atlas-refcat2/hlsp_atlas-refcat2_atlas_ccd_m90-m53_multi_v1_cat.csv",
+          "score": 9,
+          "fidelity": 4
+        },
+        {
+          "name": "hlsp_atlas-refcat2_atlas_ccd_m53-m33_multi_v1_cat.csv",
+          "url": "https://archive.stsci.edu/hlsps/atlas-refcat2/hlsp_atlas-refcat2_atlas_ccd_m53-m33_multi_v1_cat.csv",
+          "score": 9,
+          "fidelity": 4
+        },
+        {
+          "name": "hlsp_atlas-refcat2_atlas_ccd_m33-m15_multi_v1_cat.csv",
+          "url": "https://archive.stsci.edu/hlsps/atlas-refcat2/hlsp_atlas-refcat2_atlas_ccd_m33-m15_multi_v1_cat.csv",
+          "score": 9,
+          "fidelity": 4
+        },
+        {
+          "name": "hlsp_atlas-refcat2_atlas_ccd_m15-p19_multi_v1_cat.csv",
+          "url": "https://archive.stsci.edu/hlsps/atlas-refcat2/hlsp_atlas-refcat2_atlas_ccd_m15-p19_multi_v1_cat.csv",
+          "score": 9,
+          "fidelity": 4
+        },
+        {
+          "name": "hlsp_atlas-refcat2_atlas_ccd_p19-p90_multi_v1_cat.csv",
+          "url": "https://archive.stsci.edu/hlsps/atlas-refcat2/hlsp_atlas-refcat2_atlas_ccd_p19-p90_multi_v1_cat.csv",
+          "score": 9,
+          "fidelity": 4
+        },
+        {
+          "name": "hlsp_atlas-var_atlas_ccd_all_cyan-orange_dr1_object.fits",
+          "url": "https://archive.stsci.edu/hlsps/atlas-var/hlsp_atlas-var_atlas_ccd_all_cyan-orange_dr1_object.fits",
+          "score": 9,
+          "fidelity": 4
+        }
+      ],
+      "wayback_data_files_status200": 6,
+      "wayback_data_files_raw": 15,
+      "wayback_sets_status200": {
+        "/archive_news": 5,
+        "/archive_news/images/201606": 1
+      },
+      "wayback_top": [
+        {
+          "name": "sn2005.csv",
+          "url": "http://archive.stsci.edu:80/archive_news/images/201606/sn2005.csv",
+          "first_capture": "20160611042017",
+          "status": "200"
+        },
+        {
+          "name": "dir.txt",
+          "url": "http://archive.stsci.edu:80/archive_news/dir.txt",
+          "first_capture": "19991023003517",
+          "status": "200"
+        },
+        {
+          "name": "hst001.txt",
+          "url": "http://archive.stsci.edu:80/archive_news/hst001.txt",
+          "first_capture": "19980501163256",
+          "status": "200"
+        },
+        {
+          "name": "hst002.txt",
+          "url": "http://archive.stsci.edu:80/archive_news/hst002.txt",
+          "first_capture": "19980501163317",
+          "status": "200"
+        },
+        {
+          "name": "hst003.txt",
+          "url": "http://archive.stsci.edu:80/archive_news/hst003.txt",
+          "first_capture": "19980501163338",
+          "status": "200"
+        },
+        {
+          "name": "hst004.txt",
+          "url": "http://archive.stsci.edu:80/archive_news/hst004.txt",
+          "first_capture": "19980501163400",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "Human Cell Atlas data portal [fidelity:singlecell]",
+      "url": "https://data.humancellatlas.org",
+      "system": "singlecell",
+      "fidelity_card": {
+        "system": "singlecell",
+        "label": "Single-cell RNA atlases (HCA/Tabula)",
+        "RAW": "raw capture types ('.h5ad', '.h5', '.loom', '.mtx', '.parquet') / words ('counts', 'expression', 'cell', 'atlas')",
+        "UNIT": "cell \u2014 same chemistry across tissues and species",
+        "LABEL_GAP": "lab A clustering/naming vs lab B on same tissue",
+        "ANCHOR": "marker-gene panels; cross-lab consensus labels"
+      },
+      "pages": 7,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files_status200": 91,
+      "wayback_data_files_raw": 202,
+      "wayback_sets_status200": {
+        "/project-assets/project-matrices": 12,
+        "/_next/data/G-nWrbpx6ytX5vltbH4Nh": 11,
+        "/_next/data/TKMQc4sLzpqm4SQ7YlGhO": 11,
+        "/page-data/sq/d": 9,
+        "/project-assets/project-metadata": 3,
+        "/5e32a41c60c396d67f5a841688d09759": 2,
+        "/74ba39e5315bc98aecd415f76cf4869b": 2,
+        "/_next/data/G-nWrbpx6ytX5vltbH4Nh/hca-bio-networks": 2,
+        "/": 2,
+        "/sitemap": 2,
+        "/211186a076d4c59c38693ba95896eafe": 1,
+        "/6a3eb27babbe2049debaca07b10ab55b": 1
+      },
+      "wayback_top": [
+        {
+          "name": "8c3c290d-dfff-4553-8868-54ce45f4ba7f.tsv",
+          "url": "https://data.humancellatlas.org/project-assets/project-metadata/8c3c290d-dfff-4553-8868-54ce45f4ba7f.tsv",
+          "first_capture": "20190825132817",
+          "status": "200"
+        },
+        {
+          "name": "c4077b3c-5c98-4d26-a614-246d12c2e5d7.tsv",
+          "url": "https://data.humancellatlas.org/project-assets/project-metadata/c4077b3c-5c98-4d26-a614-246d12c2e5d7.tsv",
+          "first_capture": "20190825141154",
+          "status": "200"
+        },
+        {
+          "name": "cc95ff89-2e68-4a08-a234-480eca21ce79.tsv",
+          "url": "https://data.humancellatlas.org/project-assets/project-metadata/cc95ff89-2e68-4a08-a234-480eca21ce79.tsv",
+          "first_capture": "20190825134507",
+          "status": "200"
+        },
+        {
+          "name": "sitemap.xml",
+          "url": "https://data.humancellatlas.org/sitemap.xml",
+          "first_capture": "20201211181528",
+          "status": "200"
+        },
+        {
+          "name": "sitemap-0.xml",
+          "url": "https://data.humancellatlas.org/sitemap/sitemap-0.xml",
+          "first_capture": "20230608211759",
+          "status": "200"
+        },
+        {
+          "name": "sitemap-index.xml",
+          "url": "https://data.humancellatlas.org/sitemap/sitemap-index.xml",
+          "first_capture": "20211019175538",
+          "status": "200"
+        },
+        {
+          "name": "SS2_json.json",
+          "url": "https://data.humancellatlas.org/211186a076d4c59c38693ba95896eafe/SS2_json.json",
+          "first_capture": "20211019193217",
+          "status": "200"
+        },
+        {
+          "name": "10x_json.json",
+          "url": "https://data.humancellatlas.org/5e32a41c60c396d67f5a841688d09759/10x_json.json",
+          "first_capture": "20200910093437",
+          "status": "200"
+        },
+        {
+          "name": "Example.json",
+          "url": "https://data.humancellatlas.org/5e32a41c60c396d67f5a841688d09759/Example.json",
+          "first_capture": "20200910093517",
+          "status": "200"
+        },
+        {
+          "name": "config.json",
+          "url": "https://data.humancellatlas.org/6a3eb27babbe2049debaca07b10ab55b/config.json",
+          "first_capture": "20200910094314",
+          "status": "200"
+        },
+        {
+          "name": "10x_json.json",
+          "url": "https://data.humancellatlas.org/74ba39e5315bc98aecd415f76cf4869b/10x_json.json",
+          "first_capture": "20211019193213",
+          "status": "200"
+        },
+        {
+          "name": "Example.json",
+          "url": "https://data.humancellatlas.org/74ba39e5315bc98aecd415f76cf4869b/Example.json",
+          "first_capture": "20211019193048",
+          "status": "200"
+        },
+        {
+          "name": "about.json",
+          "url": "https://data.humancellatlas.org/_next/data/G-nWrbpx6ytX5vltbH4Nh/about.json?slug=about",
+          "first_capture": "20250517011934",
+          "status": "200"
+        },
+        {
+          "name": "apis.json",
+          "url": "https://data.humancellatlas.org/_next/data/G-nWrbpx6ytX5vltbH4Nh/apis.json?slug=apis",
+          "first_capture": "20250517011933",
+          "status": "200"
+        },
+        {
+          "name": "contact.json",
+          "url": "https://data.humancellatlas.org/_next/data/G-nWrbpx6ytX5vltbH4Nh/contact.json?slug=contact",
+          "first_capture": "20250517011934",
+          "status": "200"
+        },
+        {
+          "name": "contribute.json",
+          "url": "https://data.humancellatlas.org/_next/data/G-nWrbpx6ytX5vltbH4Nh/contribute.json?slug=contribute",
+          "first_capture": "20250517011933",
+          "status": "200"
+        },
+        {
+          "name": "dcp-updates.json",
+          "url": "https://data.humancellatlas.org/_next/data/G-nWrbpx6ytX5vltbH4Nh/dcp-updates.json?slug=dcp-updates",
+          "first_capture": "20250517011933",
+          "status": "200"
+        },
+        {
+          "name": "guides.json",
+          "url": "https://data.humancellatlas.org/_next/data/G-nWrbpx6ytX5vltbH4Nh/guides.json?slug=guides",
+          "first_capture": "20250517011933",
+          "status": "200"
+        },
+        {
+          "name": "hca-bio-networks.json",
+          "url": "https://data.humancellatlas.org/_next/data/G-nWrbpx6ytX5vltbH4Nh/hca-bio-networks.json",
+          "first_capture": "20250517011933",
+          "status": "200"
+        },
+        {
+          "name": "adipose.json",
+          "url": "https://data.humancellatlas.org/_next/data/G-nWrbpx6ytX5vltbH4Nh/hca-bio-networks/adipose.json?network=adipose",
+          "first_capture": "20250517011933",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "AnAge / Senescence.info ageing (genomics)",
+      "url": "https://genomics.senescence.info",
+      "system": null,
+      "fidelity_card": null,
+      "pages": 25,
+      "unique_data_files": 7,
+      "top": [
+        {
+          "name": "TableS2.xls",
+          "url": "https://genomics.senescence.info/diet/TableS2.xls",
+          "score": 7,
+          "fidelity": 0
+        },
+        {
+          "name": "dataset.zip",
+          "url": "https://genomics.senescence.info/diet/dataset.zip",
+          "score": 4,
+          "fidelity": 2
+        },
+        {
+          "name": "cellAge.zip",
+          "url": "https://genomics.senescence.info/cells/cellAge.zip",
+          "score": 4,
+          "fidelity": 2
+        },
+        {
+          "name": "cellSignatures.zip",
+          "url": "https://genomics.senescence.info/cells/cellSignatures.zip",
+          "score": 4,
+          "fidelity": 2
+        },
+        {
+          "name": "models_genes.zip",
+          "url": "https://genomics.senescence.info/genes/models_genes.zip",
+          "score": 4,
+          "fidelity": 1
+        },
+        {
+          "name": "human_genes.zip",
+          "url": "https://genomics.senescence.info/genes/human_genes.zip",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "longevity_genes.zip",
+          "url": "https://genomics.senescence.info/longevity/longevity_genes.zip",
+          "score": 4,
+          "fidelity": 0
+        }
+      ],
+      "wayback_data_files_status200": 14,
+      "wayback_data_files_raw": 24,
+      "wayback_sets_status200": {
+        "/evolution": 7,
+        "/cells": 2,
+        "/diet": 2,
+        "/.well-known": 1,
+        "/cancer": 1,
+        "/drugs": 1
+      },
+      "wayback_top": [
+        {
+          "name": "supplemental_tables.zip",
+          "url": "http://genomics.senescence.info/evolution/supplemental_tables.zip",
+          "first_capture": "20171022094929",
+          "status": "200"
+        },
+        {
+          "name": "supplementary_information.zip",
+          "url": "http://genomics.senescence.info/cancer/supplementary_information.zip",
+          "first_capture": "20171022112245",
+          "status": "200"
+        },
+        {
+          "name": "TableS2.xls",
+          "url": "http://genomics.senescence.info:80/diet/TableS2.xls",
+          "first_capture": "20140123203715",
+          "status": "200"
+        },
+        {
+          "name": "chimpanzee_supplement.zip",
+          "url": "http://genomics.senescence.info/evolution/chimpanzee_supplement.zip",
+          "first_capture": "20171022114537",
+          "status": "200"
+        },
+        {
+          "name": "mammalian_supplement.zip",
+          "url": "http://genomics.senescence.info/evolution/mammalian_supplement.zip",
+          "first_capture": "20171022121512",
+          "status": "200"
+        },
+        {
+          "name": "ai-plugin.json",
+          "url": "https://genomics.senescence.info/.well-known/ai-plugin.json",
+          "first_capture": "20230607133736",
+          "status": "200"
+        },
+        {
+          "name": "cellAge.zip",
+          "url": "https://genomics.senescence.info/cells/cellAge.zip",
+          "first_capture": "20230203230705",
+          "status": "200"
+        },
+        {
+          "name": "cellSignatures.zip",
+          "url": "https://genomics.senescence.info/cells/cellSignatures.zip",
+          "first_capture": "20230525021002",
+          "status": "200"
+        },
+        {
+          "name": "dataset.zip",
+          "url": "http://genomics.senescence.info/diet/dataset.zip",
+          "first_capture": "20150925142116",
+          "status": "200"
+        },
+        {
+          "name": "dataset.zip",
+          "url": "https://genomics.senescence.info/drugs/dataset.zip",
+          "first_capture": "20211120075714",
+          "status": "200"
+        },
+        {
+          "name": "animals_aln.zip",
+          "url": "http://genomics.senescence.info:80/evolution/animals_aln.zip",
+          "first_capture": "20060101044930",
+          "status": "200"
+        },
+        {
+          "name": "FDDAMs.zip",
+          "url": "http://genomics.senescence.info:80/evolution/FDDAMs.zip",
+          "first_capture": "20060101011459",
+          "status": "200"
+        },
+        {
+          "name": "overall_stats.txt",
+          "url": "http://genomics.senescence.info:80/evolution/overall_stats.txt",
+          "first_capture": "20050224184957",
+          "status": "200"
+        },
+        {
+          "name": "primates_aln.zip",
+          "url": "http://genomics.senescence.info:80/evolution/primates_aln.zip",
+          "first_capture": "20060101012958",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "Whole Brain Atlas Harvard AANLIB (neuro, old)",
+      "url": "https://www.med.harvard.edu/aanlib/",
+      "system": null,
+      "fidelity_card": null,
+      "pages": 1,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files_status200": 2,
+      "wayback_data_files_raw": 8,
+      "wayback_sets_status200": {
+        "/AANLIB/cases/case1": 2
+      },
+      "wayback_top": [
+        {
+          "name": "case.txt",
+          "url": "http://www.med.harvard.edu:80/AANLIB/cases/case1/case.txt",
+          "first_capture": "20010507153114",
+          "status": "200"
+        },
+        {
+          "name": "jnavcd.txt",
+          "url": "http://www.med.harvard.edu:80/AANLIB/cases/case1/jnavcd.txt",
+          "first_capture": "20010507153710",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "HyperLEDA galaxy catalogue (astro, Lyon)",
+      "url": "http://leda.univ-lyon1.fr",
+      "system": null,
+      "fidelity_card": null,
+      "pages": 25,
+      "unique_data_files": 1,
+      "top": [
+        {
+          "name": "opensearch_description.xml",
+          "url": "http://leda.univ-lyon1.fr/opensearch_description.xml",
+          "score": 6,
+          "fidelity": 0
+        }
+      ],
+      "wayback_data_files_status200": 1,
+      "wayback_data_files_raw": 7,
+      "wayback_sets_status200": {
+        "/05": 1
+      },
+      "wayback_top": [
+        {
+          "name": "line_code.txt",
+          "url": "http://leda.univ-lyon1.fr:80/05/line_code.txt",
+          "first_capture": "20030510221348",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "GCVS variable stars (astro, Sternberg)",
+      "url": "https://www.sai.msu.su/gcvs/gcvs/",
+      "system": null,
+      "fidelity_card": null,
+      "pages": 0,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files_status200": 916,
+      "wayback_data_files_raw": 933,
+      "wayback_sets_status200": {
+        "/apache/aries": 167,
+        "/apache/apr": 50,
+        "/apache/cayenne": 39,
+        "/apache/continuum/binaries": 28,
+        "/apache/archiva/binaries": 24,
+        "/apache/airavata/0.14": 17,
+        "/apache/cordova": 17,
+        "/apache/airavata/0.11": 11,
+        "/apache/airavata/0.6": 11,
+        "/apache/airavata/0.7": 11,
+        "/apache/archiva/redback-components": 11,
+        "/apache/commons/digester": 10
+      },
+      "wayback_top": [
+        {
+          "name": "org.apache.aries.blueprint.annotation.api-0.3.2-source-release.zip",
+          "url": "http://www.sai.msu.su/apache/aries/org.apache.aries.blueprint.annotation.api-0.3.2-source-release.zip",
+          "first_capture": "20260903111017",
+          "status": "200"
+        },
+        {
+          "name": "org.apache.aries.blueprint.annotation.api-1.0.0-source-release.zip",
+          "url": "http://www.sai.msu.su/apache/aries/org.apache.aries.blueprint.annotation.api-1.0.0-source-release.zip",
+          "first_capture": "20260903104911",
+          "status": "200"
+        },
+        {
+          "name": "org.apache.aries.blueprint.annotation.impl-1.0.0-source-release.zip",
+          "url": "http://www.sai.msu.su/apache/aries/org.apache.aries.blueprint.annotation.impl-1.0.0-source-release.zip",
+          "first_capture": "20260903104116",
+          "status": "200"
+        },
+        {
+          "name": "org.apache.aries.blueprint.annotation.itests-0.3.2-source-release.zip",
+          "url": "http://www.sai.msu.su/apache/aries/org.apache.aries.blueprint.annotation.itests-0.3.2-source-release.zip",
+          "first_capture": "20260903103802",
+          "status": "200"
+        },
+        {
+          "name": "org.apache.aries.blueprint.annotation.itests-1.0.0-source-release.zip",
+          "url": "http://www.sai.msu.su/apache/aries/org.apache.aries.blueprint.annotation.itests-1.0.0-source-release.zip",
+          "first_capture": "20260903110907",
+          "status": "200"
+        },
+        {
+          "name": "org.apache.aries.blueprint.sample-annotation-0.3.2-source-release.zip",
+          "url": "http://www.sai.msu.su/apache/aries/org.apache.aries.blueprint.sample-annotation-0.3.2-source-release.zip",
+          "first_capture": "20260903104834",
+          "status": "200"
+        },
+        {
+          "name": "org.apache.aries.blueprint.sample-annotation-1.0.0-source-release.zip",
+          "url": "http://www.sai.msu.su/apache/aries/org.apache.aries.blueprint.sample-annotation-1.0.0-source-release.zip",
+          "first_capture": "20260903110944",
+          "status": "200"
+        },
+        {
+          "name": "org.apache.aries.jpa.container.context-1.0.0-source-release.zip",
+          "url": "http://www.sai.msu.su/apache/aries/org.apache.aries.jpa.container.context-1.0.0-source-release.zip",
+          "first_capture": "20260903105952",
+          "status": "200"
+        },
+        {
+          "name": "org.apache.aries.jpa.container.context-1.0.1-source-release.zip",
+          "url": "http://www.sai.msu.su/apache/aries/org.apache.aries.jpa.container.context-1.0.1-source-release.zip",
+          "first_capture": "20260903111239",
+          "status": "200"
+        },
+        {
+          "name": "accumulo-1.3.6-dist.tar.gz",
+          "url": "http://www.sai.msu.su/apache/accumulo/1.3.6/accumulo-1.3.6-dist.tar.gz",
+          "first_capture": "20260904113334",
+          "status": "200"
+        },
+        {
+          "name": "accumulo-1.3.6-src.tar.gz",
+          "url": "http://www.sai.msu.su/apache/accumulo/1.3.6/accumulo-1.3.6-src.tar.gz",
+          "first_capture": "20260904113332",
+          "status": "200"
+        },
+        {
+          "name": "accumulo-1.4.0-dist.tar.gz",
+          "url": "http://www.sai.msu.su/apache/accumulo/1.4.0/accumulo-1.4.0-dist.tar.gz",
+          "first_capture": "20260904113439",
+          "status": "200"
+        },
+        {
+          "name": "accumulo-1.4.0-src.tar.gz",
+          "url": "http://www.sai.msu.su/apache/accumulo/1.4.0/accumulo-1.4.0-src.tar.gz",
+          "first_capture": "20260904113435",
+          "status": "200"
+        },
+        {
+          "name": "accumulo-1.4.1-dist.tar.gz",
+          "url": "http://www.sai.msu.su/apache/accumulo/1.4.1/accumulo-1.4.1-dist.tar.gz",
+          "first_capture": "20260904113310",
+          "status": "200"
+        },
+        {
+          "name": "accumulo-1.4.1-src.tar.gz",
+          "url": "http://www.sai.msu.su/apache/accumulo/1.4.1/accumulo-1.4.1-src.tar.gz",
+          "first_capture": "20260904113302",
+          "status": "200"
+        },
+        {
+          "name": "accumulo-1.4.2-src.tar.gz",
+          "url": "http://www.sai.msu.su/apache/accumulo/1.4.2/accumulo-1.4.2-src.tar.gz",
+          "first_capture": "20260904113223",
+          "status": "200"
+        },
+        {
+          "name": "accumulo-1.4.3-src.tar.gz",
+          "url": "http://www.sai.msu.su/apache/accumulo/1.4.3/accumulo-1.4.3-src.tar.gz",
+          "first_capture": "20260904113235",
+          "status": "200"
+        },
+        {
+          "name": "accumulo-1.4.4-dist.tar.gz",
+          "url": "http://www.sai.msu.su/apache/accumulo/1.4.4/accumulo-1.4.4-dist.tar.gz",
+          "first_capture": "20260904113246",
+          "status": "200"
+        },
+        {
+          "name": "accumulo-1.4.4-src.tar.gz",
+          "url": "http://www.sai.msu.su/apache/accumulo/1.4.4/accumulo-1.4.4-src.tar.gz",
+          "first_capture": "20260904113252",
+          "status": "200"
+        },
+        {
+          "name": "accumulo-1.4.5-dist.tar.gz",
+          "url": "http://www.sai.msu.su/apache/accumulo/1.4.5/accumulo-1.4.5-dist.tar.gz",
+          "first_capture": "20260904113238",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "NOW fossil mammals (paleo, Helsinki)",
+      "url": "https://www.nowdatabase.org",
+      "system": null,
+      "fidelity_card": null,
+      "pages": 12,
+      "unique_data_files": 14,
+      "top": [
+        {
+          "name": "data_dental_modern_public_10.b63c3f89c38d.csv",
+          "url": "https://www.nowdatabase.org/static/now/datasets/data_dental_modern_public_10.b63c3f89c38d.csv",
+          "score": 6,
+          "fidelity": 8
+        },
+        {
+          "name": "1-s2.0-S0921818115300229-mmc1.bf8f2def0aa7.xlsx",
+          "url": "https://www.nowdatabase.org/static/now/field_cat/1-s2.0-S0921818115300229-mmc1.bf8f2def0aa7.xlsx",
+          "score": 6,
+          "fidelity": 0
+        },
+        {
+          "name": "1-s2.0-S0012821X16000534-mmc2.57b6c21e6f6a.xlsx",
+          "url": "https://www.nowdatabase.org/static/now/field_cat/1-s2.0-S0012821X16000534-mmc2.57b6c21e6f6a.xlsx",
+          "score": 6,
+          "fidelity": 0
+        },
+        {
+          "name": "SinapFC95.8a82665995bf.xls",
+          "url": "https://www.nowdatabase.org/static/now/field_cat/SinapFC95.8a82665995bf.xls",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "SinapFC95.252b351538d0.txt",
+          "url": "https://www.nowdatabase.org/static/now/field_cat/SinapFC95.252b351538d0.txt",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "LantianFC2001.4b87a45d80ed.xls",
+          "url": "https://www.nowdatabase.org/static/now/field_cat/LantianFC2001.4b87a45d80ed.xls",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "LantianFC2001.fdb7ce3daef2.txt",
+          "url": "https://www.nowdatabase.org/static/now/field_cat/LantianFC2001.fdb7ce3daef2.txt",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "Fortelius_2003_ICZ2000.338638644ed3.zip",
+          "url": "https://www.nowdatabase.org/static/now/datasets/Fortelius_2003_ICZ2000.338638644ed3.zip",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "Fortelius_et_al_2003_Deinsea.49652d79bb2b.zip",
+          "url": "https://www.nowdatabase.org/static/now/datasets/Fortelius_et_al_2003_Deinsea.49652d79bb2b.zip",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "Fortelius_et_al_2002_EER.aade0c4aa0c8.zip",
+          "url": "https://www.nowdatabase.org/static/now/datasets/Fortelius_et_al_2002_EER.aade0c4aa0c8.zip",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "Bernor_et_al_2001_BSPI.0c48a5c9b418.zip",
+          "url": "https://www.nowdatabase.org/static/now/datasets/Bernor_et_al_2001_BSPI.0c48a5c9b418.zip",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "Fortelius_Hokkanen_2001_HECC.17c37dcd4b88.zip",
+          "url": "https://www.nowdatabase.org/static/now/datasets/Fortelius_Hokkanen_2001_HECC.17c37dcd4b88.zip",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "Alroy_et_al_1998_MBS.c8ac32f2aa32.zip",
+          "url": "https://www.nowdatabase.org/static/now/datasets/Alroy_et_al_1998_MBS.c8ac32f2aa32.zip",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "Fortelius_et_al_1996_EWENMF.1c434fe63130.zip",
+          "url": "https://www.nowdatabase.org/static/now/datasets/Fortelius_et_al_1996_EWENMF.1c434fe63130.zip",
+          "score": 4,
+          "fidelity": 0
+        }
+      ],
+      "wayback_data_files_status200": 16,
+      "wayback_data_files_raw": 30,
+      "wayback_sets_status200": {
+        "/static/now/datasets": 8,
+        "/static/now/field_cat": 8
+      },
+      "wayback_top": [
+        {
+          "name": "data_dental_modern_public_10.csv",
+          "url": "https://www.nowdatabase.org/static/now/datasets/data_dental_modern_public_10.csv",
+          "first_capture": "20230805032843",
+          "status": "200"
+        },
+        {
+          "name": "1-s2.0-S0012821X16000534-mmc2.xlsx",
+          "url": "https://www.nowdatabase.org/static/now/field_cat/1-s2.0-S0012821X16000534-mmc2.xlsx",
+          "first_capture": "20230805032318",
+          "status": "200"
+        },
+        {
+          "name": "1-s2.0-S0921818115300229-mmc1.xlsx",
+          "url": "https://www.nowdatabase.org/static/now/field_cat/1-s2.0-S0921818115300229-mmc1.xlsx",
+          "first_capture": "20230805032555",
+          "status": "200"
+        },
+        {
+          "name": "Alroy_et_al_1998_MBS.zip",
+          "url": "https://nowdatabase.org/static/now/datasets/Alroy_et_al_1998_MBS.zip",
+          "first_capture": "20260928224630",
+          "status": "200"
+        },
+        {
+          "name": "Bernor_et_al_2001_BSPI.zip",
+          "url": "https://nowdatabase.org/static/now/datasets/Bernor_et_al_2001_BSPI.zip",
+          "first_capture": "20260928224629",
+          "status": "200"
+        },
+        {
+          "name": "Fortelius_2003_ICZ2000.zip",
+          "url": "https://nowdatabase.org/static/now/datasets/Fortelius_2003_ICZ2000.zip",
+          "first_capture": "20260928224625",
+          "status": "200"
+        },
+        {
+          "name": "Fortelius_et_al_1996_EWENMF.zip",
+          "url": "https://nowdatabase.org/static/now/datasets/Fortelius_et_al_1996_EWENMF.zip",
+          "first_capture": "20260928224630",
+          "status": "200"
+        },
+        {
+          "name": "Fortelius_et_al_2002_EER.zip",
+          "url": "https://nowdatabase.org/static/now/datasets/Fortelius_et_al_2002_EER.zip",
+          "first_capture": "20260928224627",
+          "status": "200"
+        },
+        {
+          "name": "Fortelius_et_al_2003_Deinsea.zip",
+          "url": "https://nowdatabase.org/static/now/datasets/Fortelius_et_al_2003_Deinsea.zip",
+          "first_capture": "20260928224626",
+          "status": "200"
+        },
+        {
+          "name": "Fortelius_Hokkanen_2001_HECC.zip",
+          "url": "https://nowdatabase.org/static/now/datasets/Fortelius_Hokkanen_2001_HECC.zip",
+          "first_capture": "20260928224629",
+          "status": "200"
+        },
+        {
+          "name": "LantianFC2001.fdb7ce3daef2.txt",
+          "url": "https://nowdatabase.org/static/now/field_cat/LantianFC2001.fdb7ce3daef2.txt",
+          "first_capture": "20251116193553",
+          "status": "200"
+        },
+        {
+          "name": "LantianFC2001.txt",
+          "url": "https://nowdatabase.org/static/now/field_cat/LantianFC2001.txt",
+          "first_capture": "20201028015238",
+          "status": "200"
+        },
+        {
+          "name": "LantianFC2001.xls",
+          "url": "https://www.nowdatabase.org/static/now/field_cat/LantianFC2001.xls",
+          "first_capture": "20230805042708",
+          "status": "200"
+        },
+        {
+          "name": "SinapFC95.252b351538d0.txt",
+          "url": "https://nowdatabase.org/static/now/field_cat/SinapFC95.252b351538d0.txt",
+          "first_capture": "20251116193519",
+          "status": "200"
+        },
+        {
+          "name": "SinapFC95.txt",
+          "url": "https://nowdatabase.org/static/now/field_cat/SinapFC95.txt",
+          "first_capture": "20201028014721",
+          "status": "200"
+        },
+        {
+          "name": "SinapFC95.xls",
+          "url": "https://nowdatabase.org/static/now/field_cat/SinapFC95.xls",
+          "first_capture": "20230805072739",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "Human Protein Atlas (genomics)",
+      "url": "https://www.proteinatlas.org",
+      "system": null,
+      "fidelity_card": null,
+      "pages": 25,
+      "unique_data_files": 5,
+      "top": [
+        {
+          "name": "d.data.label",
+          "url": "https://www.proteinatlas.org/humanproteome/d.data.label",
+          "score": 11,
+          "fidelity": 1
+        },
+        {
+          "name": "cell_proteome_movie.mp4",
+          "url": "https://www.proteinatlas.org/download/cell_proteome_movie.mp4",
+          "score": 6,
+          "fidelity": 4
+        },
+        {
+          "name": "LICENSE.txt",
+          "url": "https://biogrid-downloads.nyc3.digitaloceanspaces.com/LICENSE.txt",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "cdlist.txt",
+          "url": "http://www.uniprot.org/docs/cdlist.txt",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "ribosomp.txt",
+          "url": "http://www.uniprot.org/docs/ribosomp.txt",
+          "score": 4,
+          "fidelity": 0
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 18,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "label": "Neotoma Paleoecology (paleo/geo)",
+      "url": "https://www.neotomadb.org",
+      "system": null,
+      "fidelity_card": null,
+      "pages": 25,
+      "unique_data_files": 27,
+      "top": [
+        {
+          "name": "codemeta.json",
+          "url": "https://www.neotomadb.org/NeotomaDB/neotoma2/blob/production/codemeta.json",
+          "score": 7,
+          "fidelity": 4
+        },
+        {
+          "name": "production.zip",
+          "url": "https://www.neotomadb.org/NeotomaDB/neotoma2/archive/refs/heads/production.zip",
+          "score": 4,
+          "fidelity": 4
+        },
+        {
+          "name": "browserconfig.xml",
+          "url": "https://www.neotomadb.org/assets/icons/browserconfig.xml",
+          "score": 6,
+          "fidelity": 0
+        },
+        {
+          "name": "neotoma_schema_only_2022-03-17.tar",
+          "url": "https://www.neotomadb.org/assets/uploads/documents/snapshots/neotoma_schema_only_2022-03-17.tar",
+          "score": 4,
+          "fidelity": 2
+        },
+        {
+          "name": "ndb_pgsnapshot_epdalpadaba_101419.zip",
+          "url": "https://www.neotomadb.org/assets/uploads/documents/snapshots/ndb_pgsnapshot_epdalpadaba_101419.zip",
+          "score": 4,
+          "fidelity": 2
+        },
+        {
+          "name": "ndb_pgsnapshot_101419_1.zip",
+          "url": "https://www.neotomadb.org/assets/uploads/documents/snapshots/ndb_pgsnapshot_101419_1.zip",
+          "score": 4,
+          "fidelity": 2
+        },
+        {
+          "name": "NeotomaSnapshotDump_2016-05-13.zip",
+          "url": "https://www.neotomadb.org/assets/uploads/documents/snapshots/NeotomaSnapshotDump_2016-05-13.zip",
+          "score": 4,
+          "fidelity": 2
+        },
+        {
+          "name": "NeotomaSnapshot_2016-05-13.zip",
+          "url": "https://www.neotomadb.org/assets/uploads/documents/snapshots/NeotomaSnapshot_2016-05-13.zip",
+          "score": 4,
+          "fidelity": 2
+        },
+        {
+          "name": "opensearch.xml",
+          "url": "https://www.neotomadb.org/opensearch.xml",
+          "score": 6,
+          "fidelity": 0
+        },
+        {
+          "name": "taxa_changes.json",
+          "url": "https://www.neotomadb.org/apps/data/taxa_changes.json",
+          "score": 4,
+          "fidelity": 1
+        },
+        {
+          "name": "neotoma_clean_latest.tar.gz",
+          "url": "https://neotoma-remote-store.s3.us-east-2.amazonaws.com/neotoma_clean_latest.tar.gz",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "neotoma_ndb_only_2024-03-18.tar",
+          "url": "https://www.neotomadb.org/assets/uploads/documents/snapshots/neotoma_ndb_only_2024-03-18.tar",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "neotoma_ndb_only_2023-11-29.tar",
+          "url": "https://www.neotomadb.org/assets/uploads/documents/snapshots/neotoma_ndb_only_2023-11-29.tar",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "neotoma_ndb_only_2023-05-15.tar",
+          "url": "https://www.neotomadb.org/assets/uploads/documents/snapshots/neotoma_ndb_only_2023-05-15.tar",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "neotoma_ndb_only_2023-01-11.tar",
+          "url": "https://www.neotomadb.org/assets/uploads/documents/snapshots/neotoma_ndb_only_2023-01-11.tar",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "neotoma_ndb_only_2022-10-17.tar",
+          "url": "https://www.neotomadb.org/assets/uploads/documents/snapshots/neotoma_ndb_only_2022-10-17.tar",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "neotoma_ndb_only_2022-02-02.tar",
+          "url": "https://www.neotomadb.org/assets/uploads/documents/snapshots/neotoma_ndb_only_2022-02-02.tar",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "neotoma_ndb_only_2021-06-07.tar",
+          "url": "https://www.neotomadb.org/assets/uploads/documents/snapshots/neotoma_ndb_only_2021-06-07.tar",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "neotoma_ndb_2021-01-26.tar",
+          "url": "https://www.neotomadb.org/assets/uploads/documents/snapshots/neotoma_ndb_2021-01-26.tar",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "Neotoma_2015-10-29.zip",
+          "url": "https://www.neotomadb.org/assets/uploads/documents/snapshots/Neotoma_2015-10-29.zip",
+          "score": 4,
+          "fidelity": 0
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 6,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "label": "Rosetta Project (linguistics/heritage)",
+      "url": "https://rosettaproject.org",
+      "system": null,
+      "fidelity_card": null,
+      "pages": 11,
+      "unique_data_files": 9,
+      "top": [
+        {
+          "name": "lexicon.xml",
+          "url": "http://corpus.linguistics.berkeley.edu/~yurok/lexicon.xml?style=query&lx-id=2133&index=&yu=&ge=eat&sd=&rf=&pd=&ps=&mr=",
+          "score": 9,
+          "fidelity": 0
+        },
+        {
+          "name": "Welcher_Salon_Audio_030302011.mp3",
+          "url": "http://s3.longnow.org/Welcher_Salon_Audio_030302011.mp3",
+          "score": 6,
+          "fidelity": 0
+        },
+        {
+          "name": "cat.txt",
+          "url": "http://www.archive.org/stream/rosettaproject_cat_swadesh-1/cat.txt",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "dan.txt",
+          "url": "http://www.archive.org/stream/rosettaproject_dan_swadesh-1/dan.txt",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "nld.txt",
+          "url": "http://www.archive.org/stream/rosettaproject_nld_swadesh-1/nld.txt",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "fin.txt",
+          "url": "http://www.archive.org/stream/rosettaproject_fin_swadesh-1/fin.txt",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "glg.txt",
+          "url": "http://www.archive.org/stream/rosettaproject_glg_swadesh-1/glg.txt",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "English_Swadesh_list.txt",
+          "url": "http://www.archive.org/stream/rosettaproject_eng_swadesh-1/English_Swadesh_list.txt",
+          "score": 4,
+          "fidelity": 0
+        },
+        {
+          "name": "10s0055.xls",
+          "url": "http://www.census.gov/compendia/statab/2010/tables/10s0055.xls",
+          "score": 4,
+          "fidelity": 0
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 9,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "label": "Animal Diversity Web (ecology, Michigan)",
+      "url": "https://animaldiversity.org",
+      "system": null,
+      "fidelity_card": null,
+      "pages": 25,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 6,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "label": "TreeBASE phylogenetics (evolution)",
+      "url": "https://treebase.org",
+      "system": null,
+      "fidelity_card": null,
+      "pages": 0,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files_status200": 1,
+      "wayback_data_files_raw": 12,
+      "wayback_sets_status200": {
+        "/getrees": 1
+      },
+      "wayback_top": [
+        {
+          "name": "kmltreeserver.zip",
+          "url": "http://www.treebase.org/getrees/kmltreeserver.zip",
+          "first_capture": "20071027075101",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "Seshat Databank (historical stats)",
+      "url": "https://seshatdatabank.org",
+      "system": null,
+      "fidelity_card": null,
+      "pages": 0,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    }
+  ]
+}

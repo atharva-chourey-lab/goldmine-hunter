@@ -1,0 +1,1459 @@
+{
+  "campaign2_sci_soc": [
+    {
+      "label": "PHOIBLE phoneme inventories (linguistics)",
+      "url": "https://phoible.org",
+      "pages": 20,
+      "unique_data_files": 5,
+      "top": [
+        {
+          "name": "InventoryID-Bibtex.csv",
+          "url": "https://github.com/phoible/dev/blob/master/mappings/InventoryID-Bibtex.csv",
+          "score": 9
+        },
+        {
+          "name": "InventoryID-LanguageCodes.csv",
+          "url": "https://raw.githubusercontent.com/phoible/dev/master/mappings/InventoryID-LanguageCodes.csv",
+          "score": 9
+        },
+        {
+          "name": "languages.geojson",
+          "url": "https://phoible.org/languages.geojson",
+          "score": 6
+        },
+        {
+          "name": "phoible.csv",
+          "url": "https://github.com/phoible/dev/blob/master/data/phoible.csv?raw=true",
+          "score": 6
+        },
+        {
+          "name": "languages_and_dialects_geo.csv",
+          "url": "https://cdstar.shh.mpg.de/bitstreams/EAEA0-18EC-5079-0173-0/languages_and_dialects_geo.csv",
+          "score": 6
+        }
+      ],
+      "wayback_data_files": 96,
+      "wayback_sets": {
+        "/inventories/view": 58,
+        "/languages": 23,
+        "/": 8,
+        "/.well-known": 6,
+        "/feeds": 1
+      },
+      "wayback_top": [
+        {
+          "name": "atom.xml",
+          "url": "https://phoible.org/atom.xml",
+          "first_capture": "20250214200919",
+          "status": "404"
+        },
+        {
+          "name": "feed.xml",
+          "url": "https://phoible.org/feed.xml",
+          "first_capture": "20250214193403",
+          "status": "404"
+        },
+        {
+          "name": "all.atom.xml",
+          "url": "https://phoible.org/feeds/all.atom.xml",
+          "first_capture": "20250214182918",
+          "status": "404"
+        },
+        {
+          "name": "index.xml",
+          "url": "https://phoible.org/index.xml",
+          "first_capture": "20250214200321",
+          "status": "404"
+        },
+        {
+          "name": "languages.geojson",
+          "url": "http://phoible.org:80/languages.geojson",
+          "first_capture": "20150316211942",
+          "status": "200"
+        },
+        {
+          "name": "languages.geojson",
+          "url": "https://phoible.org/languages.geojson?layer=id",
+          "first_capture": "20210303132656",
+          "status": "200"
+        },
+        {
+          "name": "ai-plugin.json",
+          "url": "https://phoible.org/.well-known/ai-plugin.json",
+          "first_capture": "20230602092637",
+          "status": "404"
+        },
+        {
+          "name": "assetlinks.json",
+          "url": "https://phoible.org/.well-known/assetlinks.json",
+          "first_capture": "20230702170339",
+          "status": "404"
+        },
+        {
+          "name": "dnt-policy.txt",
+          "url": "https://phoible.org/.well-known/dnt-policy.txt",
+          "first_capture": "20230602081631",
+          "status": "404"
+        },
+        {
+          "name": "gpc.json",
+          "url": "https://phoible.org/.well-known/gpc.json",
+          "first_capture": "20230602095335",
+          "status": "404"
+        },
+        {
+          "name": "security.txt",
+          "url": "https://phoible.org/.well-known/security.txt",
+          "first_capture": "20230602092739",
+          "status": "404"
+        },
+        {
+          "name": "trust.txt",
+          "url": "https://phoible.org/.well-known/trust.txt",
+          "first_capture": "20230607123503",
+          "status": "404"
+        },
+        {
+          "name": "ads.txt",
+          "url": "https://phoible.org/ads.txt",
+          "first_capture": "20230602051136",
+          "status": "404"
+        },
+        {
+          "name": "app-ads.txt",
+          "url": "https://phoible.org/app-ads.txt",
+          "first_capture": "20230602090639",
+          "status": "404"
+        },
+        {
+          "name": "dt-dl-csv-metadata.json",
+          "url": "https://phoible.org/dt-dl-csv-metadata.json",
+          "first_capture": "20200923170608",
+          "status": "404"
+        },
+        {
+          "name": "1001.json",
+          "url": "https://phoible.org/inventories/view/1001.json",
+          "first_capture": "20250814065954",
+          "status": "200"
+        },
+        {
+          "name": "101.json",
+          "url": "https://phoible.org/inventories/view/101.json",
+          "first_capture": "20250913015500",
+          "status": "200"
+        },
+        {
+          "name": "1011.json",
+          "url": "https://phoible.org/inventories/view/1011.json",
+          "first_capture": "20251104003408",
+          "status": "200"
+        },
+        {
+          "name": "1018.json",
+          "url": "https://phoible.org/inventories/view/1018.json",
+          "first_capture": "20251027042252",
+          "status": "200"
+        },
+        {
+          "name": "1065.json",
+          "url": "https://phoible.org/inventories/view/1065.json",
+          "first_capture": "20251021033326",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "IDS dictionary series (linguistics)",
+      "url": "https://ids.clld.org",
+      "pages": 13,
+      "unique_data_files": 1,
+      "top": [
+        {
+          "name": "contributions.geojson",
+          "url": "https://ids.clld.org/contributions.geojson",
+          "score": 6
+        }
+      ],
+      "wayback_data_files": 480,
+      "wayback_sets": {
+        "/parameters": 439,
+        "/": 24,
+        "/.well-known": 6,
+        "/contributions": 6,
+        "/contributors": 2,
+        "/chapters": 1,
+        "/feeds": 1,
+        "/units": 1
+      },
+      "wayback_top": [
+        {
+          "name": "atom.xml",
+          "url": "https://ids.clld.org/atom.xml",
+          "first_capture": "20250119164921",
+          "status": "404"
+        },
+        {
+          "name": "contributions.geojson",
+          "url": "http://ids.clld.org:80/contributions.geojson",
+          "first_capture": "20160611000646",
+          "status": "200"
+        },
+        {
+          "name": "contributions.geojson",
+          "url": "https://ids.clld.org/contributions.geojson?layer=id",
+          "first_capture": "20200504163643",
+          "status": "200"
+        },
+        {
+          "name": "feed.xml",
+          "url": "https://ids.clld.org/feed.xml",
+          "first_capture": "20241201012602",
+          "status": "404"
+        },
+        {
+          "name": "all.atom.xml",
+          "url": "https://ids.clld.org/feeds/all.atom.xml",
+          "first_capture": "20241201011837",
+          "status": "404"
+        },
+        {
+          "name": "index.xml",
+          "url": "https://ids.clld.org/index.xml",
+          "first_capture": "20241201014833",
+          "status": "404"
+        },
+        {
+          "name": "1-100.geojson",
+          "url": "http://ids.clld.org:80/parameters/1-100.geojson",
+          "first_capture": "20180327021541",
+          "status": "200"
+        },
+        {
+          "name": "1-100.geojson",
+          "url": "https://ids.clld.org/parameters/1-100.geojson?layer=1-100",
+          "first_capture": "20251215093731",
+          "status": "200"
+        },
+        {
+          "name": "1-212.geojson",
+          "url": "https://ids.clld.org/parameters/1-212.geojson",
+          "first_capture": "20230926131910",
+          "status": "200"
+        },
+        {
+          "name": "1-213.geojson",
+          "url": "https://ids.clld.org/parameters/1-213.geojson",
+          "first_capture": "20230926133322",
+          "status": "200"
+        },
+        {
+          "name": "1-214.geojson",
+          "url": "https://ids.clld.org/parameters/1-214.geojson",
+          "first_capture": "20200814235059",
+          "status": "200"
+        },
+        {
+          "name": "1-220.geojson",
+          "url": "https://ids.clld.org/parameters/1-220.geojson",
+          "first_capture": "20260204184802",
+          "status": "200"
+        },
+        {
+          "name": "1-222.geojson",
+          "url": "https://ids.clld.org/parameters/1-222.geojson",
+          "first_capture": "20190817103627",
+          "status": "200"
+        },
+        {
+          "name": "1-230.geojson",
+          "url": "https://ids.clld.org/parameters/1-230.geojson",
+          "first_capture": "20251227080725",
+          "status": "200"
+        },
+        {
+          "name": "1-240.geojson",
+          "url": "https://ids.clld.org/parameters/1-240.geojson",
+          "first_capture": "20200814220817",
+          "status": "200"
+        },
+        {
+          "name": "1-250.geojson",
+          "url": "https://ids.clld.org/parameters/1-250.geojson",
+          "first_capture": "20230926122916",
+          "status": "200"
+        },
+        {
+          "name": "1-260.geojson",
+          "url": "https://ids.clld.org/parameters/1-260.geojson",
+          "first_capture": "20191214090333",
+          "status": "200"
+        },
+        {
+          "name": "1-270.geojson",
+          "url": "https://ids.clld.org/parameters/1-270.geojson",
+          "first_capture": "20240526210728",
+          "status": "200"
+        },
+        {
+          "name": "1-310.geojson",
+          "url": "http://ids.clld.org:80/parameters/1-310.geojson",
+          "first_capture": "20160903101636",
+          "status": "200"
+        },
+        {
+          "name": "1-320.geojson",
+          "url": "https://ids.clld.org/parameters/1-320.geojson",
+          "first_capture": "20251220191350",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "TRY plant traits (ecology)",
+      "url": "https://www.try-db.org",
+      "pages": 1,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files": 16,
+      "wayback_sets": {
+        "/": 7,
+        "/.well-known": 6,
+        "/dnld": 1,
+        "/feeds": 1,
+        "/TryWeb": 1
+      },
+      "wayback_top": [
+        {
+          "name": "atom.xml",
+          "url": "https://www.try-db.org/atom.xml",
+          "first_capture": "20250503135133",
+          "status": "404"
+        },
+        {
+          "name": "feed.xml",
+          "url": "https://www.try-db.org/feed.xml",
+          "first_capture": "20250503154205",
+          "status": "404"
+        },
+        {
+          "name": "all.atom.xml",
+          "url": "https://www.try-db.org/feeds/all.atom.xml",
+          "first_capture": "20250503145743",
+          "status": "404"
+        },
+        {
+          "name": "index.xml",
+          "url": "https://www.try-db.org/index.xml",
+          "first_capture": "20250503144139",
+          "status": "404"
+        },
+        {
+          "name": "sitemap.xml",
+          "url": "https://www.try-db.org/sitemap.xml",
+          "first_capture": "20220629174535",
+          "status": "404"
+        },
+        {
+          "name": "542_Lianahydraulics.xlsx",
+          "url": "http://www.try-db.org/TryWeb/542_Lianahydraulics.xlsx",
+          "first_capture": "20241219090454",
+          "status": "302"
+        },
+        {
+          "name": "ai-plugin.json",
+          "url": "https://www.try-db.org/.well-known/ai-plugin.json",
+          "first_capture": "20230604190327",
+          "status": "404"
+        },
+        {
+          "name": "assetlinks.json",
+          "url": "https://www.try-db.org/.well-known/assetlinks.json",
+          "first_capture": "20230604190325",
+          "status": "404"
+        },
+        {
+          "name": "dnt-policy.txt",
+          "url": "https://www.try-db.org/.well-known/dnt-policy.txt",
+          "first_capture": "20230604190620",
+          "status": "404"
+        },
+        {
+          "name": "gpc.json",
+          "url": "https://www.try-db.org/.well-known/gpc.json",
+          "first_capture": "20230604190340",
+          "status": "404"
+        },
+        {
+          "name": "security.txt",
+          "url": "https://www.try-db.org/.well-known/security.txt",
+          "first_capture": "20230604190252",
+          "status": "404"
+        },
+        {
+          "name": "trust.txt",
+          "url": "https://www.try-db.org/.well-known/trust.txt",
+          "first_capture": "20230604190442",
+          "status": "404"
+        },
+        {
+          "name": "ads.txt",
+          "url": "https://www.try-db.org/ads.txt",
+          "first_capture": "20230604190226",
+          "status": "404"
+        },
+        {
+          "name": "app-ads.txt",
+          "url": "https://www.try-db.org/app-ads.txt",
+          "first_capture": "20230604190357",
+          "status": "404"
+        },
+        {
+          "name": "TryAccSpecies.txt",
+          "url": "https://www.try-db.org/dnld/TryAccSpecies.txt",
+          "first_capture": "20211028200651",
+          "status": "200"
+        },
+        {
+          "name": "robots.txt",
+          "url": "http://www.try-db.org/robots.txt",
+          "first_capture": "20110804004905",
+          "status": "404"
+        }
+      ]
+    },
+    {
+      "label": "Human Mortality Database (demography)",
+      "url": "https://www.mortality.org",
+      "pages": 25,
+      "unique_data_files": 558,
+      "top": [
+        {
+          "name": "originalclassification_interm_d.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_statistic/originalclassification_interm_d.zip",
+          "score": 7
+        },
+        {
+          "name": "originalclassification_short_d.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_statistic/originalclassification_short_d.zip",
+          "score": 7
+        },
+        {
+          "name": "originalclassification_interm_m.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_statistic/originalclassification_interm_m.zip",
+          "score": 7
+        },
+        {
+          "name": "originalclassification_short_m.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_statistic/originalclassification_short_m.zip",
+          "score": 7
+        },
+        {
+          "name": "exposures_originalclassification.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_statistic/exposures_originalclassification.zip",
+          "score": 7
+        },
+        {
+          "name": "births_originalclassification.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_statistic/births_originalclassification.zip",
+          "score": 7
+        },
+        {
+          "name": "CAN_originalclassification.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_country/CAN_originalclassification.zip",
+          "score": 7
+        },
+        {
+          "name": "CZE_originalclassification.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_country/CZE_originalclassification.zip",
+          "score": 7
+        },
+        {
+          "name": "GBRTENW_originalclassification.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_country/GBRTENW_originalclassification.zip",
+          "score": 7
+        },
+        {
+          "name": "FRATNP_originalclassification.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_country/FRATNP_originalclassification.zip",
+          "score": 7
+        },
+        {
+          "name": "JPN_originalclassification.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_country/JPN_originalclassification.zip",
+          "score": 7
+        },
+        {
+          "name": "NOR_originalclassification.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_country/NOR_originalclassification.zip",
+          "score": 7
+        },
+        {
+          "name": "SWE_originalclassification.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_country/SWE_originalclassification.zip",
+          "score": 7
+        },
+        {
+          "name": "USA_originalclassification.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_country/USA_originalclassification.zip",
+          "score": 7
+        },
+        {
+          "name": "country_codes.csv",
+          "url": "https://www.mortality.org/File/GetDocument/Public/country_codes.csv",
+          "score": 6
+        },
+        {
+          "name": "hmd_summary_IMR.xlsx",
+          "url": "https://www.mortality.org/File/GetDocument/Public/HMD_summary/hmd_summary_IMR.xlsx",
+          "score": 6
+        },
+        {
+          "name": "hmd_summary_px_0_to_65.xlsx",
+          "url": "https://www.mortality.org/File/GetDocument/Public/HMD_summary/hmd_summary_px_0_to_65.xlsx",
+          "score": 6
+        },
+        {
+          "name": "hmd_summary_ex_0_65_80.xlsx",
+          "url": "https://www.mortality.org/File/GetDocument/Public/HMD_summary/hmd_summary_ex_0_65_80.xlsx",
+          "score": 6
+        },
+        {
+          "name": "hmd_summary_pop_exposures.xlsx",
+          "url": "https://www.mortality.org/File/GetDocument/Public/HMD_summary/hmd_summary_pop_exposures.xlsx",
+          "score": 6
+        },
+        {
+          "name": "stmf.xlsx",
+          "url": "https://www.mortality.org/File/GetDocument/Public/STMF/Outputs/stmf.xlsx",
+          "score": 6
+        }
+      ],
+      "wayback_data_files": 3492,
+      "wayback_sets": {
+        "/File/GetDocument/hmd.v6/DNK/STATS": 77,
+        "/File/GetDocument/hmd.v6/ITA/STATS": 77,
+        "/File/GetDocument/hmd.v6/NLD/STATS": 77,
+        "/hmd/CHE/STATS": 77,
+        "/hmd/FIN/STATS": 77,
+        "/hmd/FRATNP/STATS": 77,
+        "/hmd/ISL/STATS": 77,
+        "/hmd/ITA/STATS": 77,
+        "/hmd/NOR/STATS": 77,
+        "/hmd/NLD/STATS": 76,
+        "/hmd/SWE/STATS": 76,
+        "/hmd/DNK/STATS": 75
+      },
+      "wayback_top": [
+        {
+          "name": "CAN_originalclassification.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_country/CAN_originalclassification.zip",
+          "first_capture": "20250923022724",
+          "status": "302"
+        },
+        {
+          "name": "CZE_originalclassification.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_country/CZE_originalclassification.zip",
+          "first_capture": "20250923022724",
+          "status": "302"
+        },
+        {
+          "name": "GBRTENW_originalclassification.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_country/GBRTENW_originalclassification.zip",
+          "first_capture": "20250923022724",
+          "status": "302"
+        },
+        {
+          "name": "NOR_originalclassification.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_country/NOR_originalclassification.zip",
+          "first_capture": "20250923022724",
+          "status": "302"
+        },
+        {
+          "name": "SWE_originalclassification.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_country/SWE_originalclassification.zip",
+          "first_capture": "20250923022724",
+          "status": "302"
+        },
+        {
+          "name": "USA_originalclassification.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_country/USA_originalclassification.zip",
+          "first_capture": "20250923022724",
+          "status": "302"
+        },
+        {
+          "name": "births_originalclassification.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_statistic/births_originalclassification.zip",
+          "first_capture": "20250923022724",
+          "status": "302"
+        },
+        {
+          "name": "originalclassification_interm_d.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_statistic/originalclassification_interm_d.zip",
+          "first_capture": "20250923022724",
+          "status": "302"
+        },
+        {
+          "name": "originalclassification_interm_m.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_statistic/originalclassification_interm_m.zip",
+          "first_capture": "20250923022724",
+          "status": "302"
+        },
+        {
+          "name": "originalclassification_short_m.zip",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/zip/by_statistic/originalclassification_short_m.zip",
+          "first_capture": "20250923022724",
+          "status": "302"
+        },
+        {
+          "name": "atom.xml",
+          "url": "https://www.mortality.org/atom.xml",
+          "first_capture": "20250130200215",
+          "status": "404"
+        },
+        {
+          "name": "countries.csv",
+          "url": "https://www.mortality.org/countries.csv",
+          "first_capture": "20220123180104",
+          "status": "200"
+        },
+        {
+          "name": "feed.xml",
+          "url": "https://www.mortality.org/feed.xml",
+          "first_capture": "20250130210752",
+          "status": "404"
+        },
+        {
+          "name": "all.atom.xml",
+          "url": "https://www.mortality.org/feeds/all.atom.xml",
+          "first_capture": "20250130203333",
+          "status": "404"
+        },
+        {
+          "name": "CAN_b.csv",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/data/CAN/CAN_b.csv",
+          "first_capture": "20251008184018",
+          "status": "302"
+        },
+        {
+          "name": "CAN_e.csv",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/data/CAN/CAN_e.csv",
+          "first_capture": "20251008184014",
+          "status": "302"
+        },
+        {
+          "name": "CAN_d_interm_orig.csv",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/data/CAN/OriginalClassification/CAN_d_interm_orig.csv",
+          "first_capture": "20251008184734",
+          "status": "302"
+        },
+        {
+          "name": "CAN_d_short_orig.csv",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/data/CAN/OriginalClassification/CAN_d_short_orig.csv",
+          "first_capture": "20251008183628",
+          "status": "302"
+        },
+        {
+          "name": "CAN_m_interm_orig.csv",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/data/CAN/OriginalClassification/CAN_m_interm_orig.csv",
+          "first_capture": "20251008184450",
+          "status": "302"
+        },
+        {
+          "name": "CAN_m_short_orig.csv",
+          "url": "https://www.mortality.org/File/GetDocument/hcd/data/CAN/OriginalClassification/CAN_m_short_orig.csv",
+          "first_capture": "20251008183409",
+          "status": "302"
+        }
+      ]
+    },
+    {
+      "label": "Correlates of War (IR / social sci)",
+      "url": "https://correlatesofwar.org",
+      "pages": 15,
+      "unique_data_files": 2,
+      "top": [
+        {
+          "name": "wp-sitemap.xml",
+          "url": "https://correlatesofwar.org/wp-sitemap.xml",
+          "score": 6
+        },
+        {
+          "name": ".csv",
+          "url": "https://correlatesofwar.org/data-hosting/.csv",
+          "score": 6
+        }
+      ],
+      "wayback_data_files": 106,
+      "wayback_sets": {
+        "/COW2%20Data/MIDs": 18,
+        "/data-sets/IGOs": 7,
+        "/data-sets/MIDs": 7,
+        "/.well-known": 6,
+        "/": 6,
+        "/COW2%20Data/IGOs": 5,
+        "/COW2%20Data/SystemMembership": 5,
+        "/COW2%20Data/WarData_NEW": 5,
+        "/COW2%20Data/Capabilities": 4,
+        "/COW2%20Data/Alliances": 2,
+        "/COW2%20Data/DirectContiguity": 2,
+        "/COW2%20Data/MIDs/Development": 2
+      },
+      "wayback_top": [
+        {
+          "name": "ContiguousDyads.csv",
+          "url": "http://www.correlatesofwar.org/COW2%20Data/MIDs/Development/ContiguousDyads.csv",
+          "first_capture": "20070704154114",
+          "status": "200"
+        },
+        {
+          "name": "Alliance_v3.03_dyadic.zip",
+          "url": "http://www.correlatesofwar.org/COW2%20Data/Alliances/Alliance_v3.03_dyadic.zip",
+          "first_capture": "20070622193410",
+          "status": "200"
+        },
+        {
+          "name": "Alliance-v3.03_dyadic.zip",
+          "url": "https://www.correlatesofwar.org/COW2%252oData/Alliances/Alliance-v3.03_dyadic.zip",
+          "first_capture": "20240707064537",
+          "status": "301"
+        },
+        {
+          "name": "HistoricallyHostileDyads.csv",
+          "url": "http://www.correlatesofwar.org/COW2%20Data/MIDs/Development/HistoricallyHostileDyads.csv",
+          "first_capture": "20070704153852",
+          "status": "200"
+        },
+        {
+          "name": "MIDDyadic_v3.10.csv",
+          "url": "http://www.correlatesofwar.org/COW2%20Data/MIDs/MIDDyadic_v3.10.csv",
+          "first_capture": "20141221140058",
+          "status": "200"
+        },
+        {
+          "name": "Extra-StateWarData_v4.0.csv",
+          "url": "http://correlatesofwar.org:80/COW2%20Data/WarData_NEW/Extra-StateWarData_v4.0.csv",
+          "first_capture": "20180819203447",
+          "status": "404"
+        },
+        {
+          "name": "Inter-StateWarData_v4.0.csv",
+          "url": "http://www.correlatesofwar.org/COW2%20Data/WarData_NEW/Inter-StateWarData_v4.0.csv",
+          "first_capture": "20151030110340",
+          "status": "404"
+        },
+        {
+          "name": "Intra-StateWarData_v4.1.csv",
+          "url": "http://www.correlatesofwar.org/COW2%20Data/WarData_NEW/Intra-StateWarData_v4.1.csv",
+          "first_capture": "20220125105556",
+          "status": "301"
+        },
+        {
+          "name": "Non-StateWarData_v4.0.csv",
+          "url": "http://correlatesofwar.org:80/COW2%20Data/WarData_NEW/Non-StateWarData_v4.0.csv",
+          "first_capture": "20180819203122",
+          "status": "404"
+        },
+        {
+          "name": "NonStateWarData_v4.0.csv",
+          "url": "http://www.correlatesofwar.org/COW2%20Data/WarData_NEW/NonStateWarData_v4.0.csv",
+          "first_capture": "20120420183530",
+          "status": "200"
+        },
+        {
+          "name": "Colonial+Contiguity+v3.0.csv",
+          "url": "http://www.correlatesofwar.org:80/COW2+Data/ColonialContiguity/Colonial+Contiguity+v3.0.csv",
+          "first_capture": "20170228105205",
+          "status": "404"
+        },
+        {
+          "name": "Inter-StateWarData_v4.0.csv",
+          "url": "http://www.correlatesofwar.org:80/COW2+Data/WarData_NEW/Inter-StateWarData_v4.0.csv",
+          "first_capture": "20170228085525",
+          "status": "404"
+        },
+        {
+          "name": "ITrade.ZIP",
+          "url": "http://www.correlatesofwar.org/Affiliate%20Data/ITrade/ITrade.ZIP",
+          "first_capture": "20070609205302",
+          "status": "200"
+        },
+        {
+          "name": "Alliance_v3.03.zip",
+          "url": "http://www.correlatesofwar.org/COW2%20Data/Alliances/Alliance_v3.03.zip",
+          "first_capture": "20070622193402",
+          "status": "200"
+        },
+        {
+          "name": "Direct_Contiguity_V3-0.zip",
+          "url": "http://www.correlatesofwar.org/COW2%20Data/DirectContiguity/Direct_Contiguity_V3-0.zip",
+          "first_capture": "20070622190811",
+          "status": "200"
+        },
+        {
+          "name": "DirectContiguity310.zip",
+          "url": "http://www.correlatesofwar.org/COW2%20Data/DirectContiguity/DirectContiguity310.zip",
+          "first_capture": "20140716064818",
+          "status": "200"
+        },
+        {
+          "name": "IGO_dyadunit_csv_v2.1.zip",
+          "url": "http://www.correlatesofwar.org/COW2%20Data/IGOs/IGO_dyadunit_csv_v2.1.zip",
+          "first_capture": "20070622191530",
+          "status": "200"
+        },
+        {
+          "name": "IGO_dyadunit_stata_v2.1.zip",
+          "url": "http://www.correlatesofwar.org/COW2%20Data/IGOs/IGO_dyadunit_stata_v2.1.zip",
+          "first_capture": "20070622190938",
+          "status": "200"
+        },
+        {
+          "name": "COW_Trade_3.0.zip",
+          "url": "http://correlatesofwar.org/COW2%20Data/Trade/COW_Trade_3.0.zip",
+          "first_capture": "20150630082630",
+          "status": "404"
+        },
+        {
+          "name": "intra-state-wars-v5-1.zip",
+          "url": "https://correlatesofwar.org/data-sets/COW-war/intra-state-wars-v5-1.zip",
+          "first_capture": "20200529033747",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "Systemic Peace / Polity (social sci)",
+      "url": "https://www.systemicpeace.org",
+      "pages": 19,
+      "unique_data_files": 23,
+      "top": [
+        {
+          "name": "FDP2008a.sav",
+          "url": "http://www.systemicpeace.org/inscr/FDP2008a.sav",
+          "score": 4
+        },
+        {
+          "name": "FDP2008.sav",
+          "url": "http://www.systemicpeace.org/inscr/FDP2008.sav",
+          "score": 4
+        },
+        {
+          "name": "FDP2008a.xls",
+          "url": "http://www.systemicpeace.org/inscr/FDP2008a.xls",
+          "score": 4
+        },
+        {
+          "name": "FDP2008.xls",
+          "url": "http://www.systemicpeace.org/inscr/FDP2008.xls",
+          "score": 4
+        },
+        {
+          "name": "MEPVv2018.sav",
+          "url": "http://www.systemicpeace.org/inscr/MEPVv2018.sav",
+          "score": 4
+        },
+        {
+          "name": "MEPV2012ex.sav",
+          "url": "http://www.systemicpeace.org/inscr/MEPV2012ex.sav",
+          "score": 4
+        },
+        {
+          "name": "MEPVv2018.xls",
+          "url": "http://www.systemicpeace.org/inscr/MEPVv2018.xls",
+          "score": 4
+        },
+        {
+          "name": "MEPV2012ex.xls",
+          "url": "http://www.systemicpeace.org/inscr/MEPV2012ex.xls",
+          "score": 4
+        },
+        {
+          "name": "HCTBSep2021list.xls",
+          "url": "http://www.systemicpeace.org/inscr/HCTBSep2021list.xls",
+          "score": 4
+        },
+        {
+          "name": "CIOdata.sav",
+          "url": "http://www.systemicpeace.org/inscr/CIOdata.sav",
+          "score": 4
+        },
+        {
+          "name": "CIOdata.xls",
+          "url": "http://www.systemicpeace.org/inscr/CIOdata.xls",
+          "score": 4
+        },
+        {
+          "name": "p5ch2018.xls",
+          "url": "http://www.systemicpeace.org/inscr/p5ch2018.xls",
+          "score": 4
+        },
+        {
+          "name": "p5v2018.sav",
+          "url": "http://www.systemicpeace.org/inscr/p5v2018.sav",
+          "score": 4
+        },
+        {
+          "name": "p5v2018d.sav",
+          "url": "http://www.systemicpeace.org/inscr/p5v2018d.sav",
+          "score": 4
+        },
+        {
+          "name": "p5v2018.xls",
+          "url": "http://www.systemicpeace.org/inscr/p5v2018.xls",
+          "score": 4
+        },
+        {
+          "name": "p5v2018d.xls",
+          "url": "http://www.systemicpeace.org/inscr/p5v2018d.xls",
+          "score": 4
+        },
+        {
+          "name": "CSPCoupsListv2021.xls",
+          "url": "http://www.systemicpeace.org/inscr/CSPCoupsListv2021.xls",
+          "score": 4
+        },
+        {
+          "name": "CSPCoupsAnnualv2021.xls",
+          "url": "http://www.systemicpeace.org/inscr/CSPCoupsAnnualv2021.xls",
+          "score": 4
+        },
+        {
+          "name": "SFIv2018.sav",
+          "url": "http://www.systemicpeace.org/inscr/SFIv2018.sav",
+          "score": 4
+        },
+        {
+          "name": "SFIv2018.xls",
+          "url": "http://www.systemicpeace.org/inscr/SFIv2018.xls",
+          "score": 4
+        }
+      ],
+      "wayback_data_files": 187,
+      "wayback_sets": {
+        "/inscr": 165,
+        "/": 10,
+        "/.well-known": 6,
+        "/inscrdata": 2,
+        "/+%20inscr": 1,
+        "/feeds": 1,
+        "/images": 1,
+        "/in-scr": 1
+      },
+      "wayback_top": [
+        {
+          "name": "polity5_data.csv",
+          "url": "http://www.systemicpeace.org/inscrdata/polity5_data.csv",
+          "first_capture": "20260120093415",
+          "status": "301"
+        },
+        {
+          "name": "PITF+Adverse+Regime+Change+2015.xls",
+          "url": "http://www.systemicpeace.org:80/inscr/PITF+Adverse+Regime+Change+2015.xls",
+          "first_capture": "20170708184923",
+          "status": "404"
+        },
+        {
+          "name": "PITF+Adverse+Regime+Change+2016.xls",
+          "url": "http://www.systemicpeace.org:80/inscr/PITF+Adverse+Regime+Change+2016.xls",
+          "first_capture": "20170822061141",
+          "status": "404"
+        },
+        {
+          "name": "PITF+Ethnic+War+2015.xls",
+          "url": "http://www.systemicpeace.org:80/inscr/PITF+Ethnic+War+2015.xls",
+          "first_capture": "20170722002328",
+          "status": "404"
+        },
+        {
+          "name": "PITF+Ethnic+War+2016.xls",
+          "url": "http://www.systemicpeace.org:80/inscr/PITF+Ethnic+War+2016.xls",
+          "first_capture": "20170822061150",
+          "status": "404"
+        },
+        {
+          "name": "PITF+Revolutionary+War+2015.xls",
+          "url": "http://www.systemicpeace.org:80/inscr/PITF+Revolutionary+War+2015.xls",
+          "first_capture": "20170708184933",
+          "status": "404"
+        },
+        {
+          "name": "PITF+Revolutionary+War+2016.xls",
+          "url": "http://www.systemicpeace.org:80/inscr/PITF+Revolutionary+War+2016.xls",
+          "first_capture": "20170822062907",
+          "status": "404"
+        },
+        {
+          "name": "polity5_data.zip",
+          "url": "https://www.systemicpeace.org/inscrdata/polity5_data.zip",
+          "first_capture": "20260120091532",
+          "status": "404"
+        },
+        {
+          "name": "atom.xml",
+          "url": "https://www.systemicpeace.org/atom.xml",
+          "first_capture": "20241219083803",
+          "status": "404"
+        },
+        {
+          "name": "feed.xml",
+          "url": "https://www.systemicpeace.org/feed.xml",
+          "first_capture": "20241219085819",
+          "status": "404"
+        },
+        {
+          "name": "all.atom.xml",
+          "url": "https://www.systemicpeace.org/feeds/all.atom.xml",
+          "first_capture": "20241219084854",
+          "status": "404"
+        },
+        {
+          "name": "index.xml",
+          "url": "https://www.systemicpeace.org/index.xml",
+          "first_capture": "20241219090521",
+          "status": "-"
+        },
+        {
+          "name": "p4v2008.sav",
+          "url": "http://www.systemicpeace.org/+%20inscr/p4v2008.sav",
+          "first_capture": "20221006014506",
+          "status": "404"
+        },
+        {
+          "name": "ai-plugin.json",
+          "url": "https://www.systemicpeace.org/.well-known/ai-plugin.json",
+          "first_capture": "20230531144822",
+          "status": "404"
+        },
+        {
+          "name": "assetlinks.json",
+          "url": "https://www.systemicpeace.org/.well-known/assetlinks.json",
+          "first_capture": "20230531165555",
+          "status": "404"
+        },
+        {
+          "name": "dnt-policy.txt",
+          "url": "https://www.systemicpeace.org/.well-known/dnt-policy.txt",
+          "first_capture": "20230531144758",
+          "status": "404"
+        },
+        {
+          "name": "gpc.json",
+          "url": "https://www.systemicpeace.org/.well-known/gpc.json",
+          "first_capture": "20230531144831",
+          "status": "404"
+        },
+        {
+          "name": "security.txt",
+          "url": "https://www.systemicpeace.org/.well-known/security.txt",
+          "first_capture": "20230531144906",
+          "status": "404"
+        },
+        {
+          "name": "trust.txt",
+          "url": "https://www.systemicpeace.org/.well-known/trust.txt",
+          "first_capture": "20230531144800",
+          "status": "404"
+        },
+        {
+          "name": "ads.txt",
+          "url": "https://www.systemicpeace.org/ads.txt",
+          "first_capture": "20230531144754",
+          "status": "404"
+        }
+      ]
+    },
+    {
+      "label": "Maddison Project via GGDC (econ history)",
+      "url": "https://www.ggdc.net",
+      "pages": 0,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files": 877,
+      "wayback_sets": {
+        "/dseries/data/60-industry": 74,
+        "/dseries/data/60-industry/2004": 54,
+        "/maddison/Historical_Statistics": 48,
+        "/dseries/data/60-industry/2003": 36,
+        "/dseries/Data/Growth-accounting": 33,
+        "/databases/60_industry/2004/data": 28,
+        "/databases/60_industry/2005i/data": 28,
+        "/databases/60_industry/2006/data": 28,
+        "/databases/60_industry/2004/sources": 27,
+        "/databases/60_industry/2005i/sources": 27,
+        "/databases/60_industry/2006/sources": 26,
+        "/dseries/Data/Sectoral": 26
+      },
+      "wayback_top": [
+        {
+          "name": "home.htm!mad.gdp!Maddison!GDP!data!maddison%gdp.csv",
+          "url": "http://www.ggdc.net/maddison/maddison%25project/home.htm!mad.gdp!Maddison!GDP!data!maddison%25gdp.csv",
+          "first_capture": "20240630230456",
+          "status": "308"
+        },
+        {
+          "name": "home.htm!mad.gdp.pp!Maddison!GDP!per!capita!maddison%percap%gdp.csv",
+          "url": "http://www.ggdc.net/maddison/maddison%25project/home.htm!mad.gdp.pp!Maddison!GDP!per!capita!maddison%25percap%25gdp.csv",
+          "first_capture": "20240702194116",
+          "status": "308"
+        },
+        {
+          "name": "home.htm!unpop!United!Nations!Population!Estimates!un%world%pop\u001950onward.csv",
+          "url": "http://www.ggdc.net/maddison/maddison%25project/home.htm!unpop!United!Nations!Population!Estimates!un%25world%25pop%1950onward.csv",
+          "first_capture": "20240703020033",
+          "status": "308"
+        },
+        {
+          "name": "tokyokostelTable1.xls",
+          "url": "http://www.ggdc.net:80/conf/tokyokostelTable1.xls",
+          "first_capture": "20041018053333",
+          "status": "200"
+        },
+        {
+          "name": "tokyokostelTable2.xls",
+          "url": "http://www.ggdc.net:80/conf/tokyokostelTable2.xls",
+          "first_capture": "20041018052755",
+          "status": "200"
+        },
+        {
+          "name": "tokyokostelTable3.xls",
+          "url": "http://www.ggdc.net:80/conf/tokyokostelTable3.xls",
+          "first_capture": "20041018052719",
+          "status": "200"
+        },
+        {
+          "name": "tokyokostelTable4.xls",
+          "url": "http://www.ggdc.net:80/conf/tokyokostelTable4.xls",
+          "first_capture": "20041018055721",
+          "status": "200"
+        },
+        {
+          "name": "tokyokostelTable5.xls",
+          "url": "http://www.ggdc.net:80/conf/tokyokostelTable5.xls",
+          "first_capture": "20041018044230",
+          "status": "200"
+        },
+        {
+          "name": "Real_GDP_per_Hour_Worked.xls",
+          "url": "http://www.ggdc.net/databases/icop/1987/data/Real_GDP_per_Hour_Worked.xls",
+          "first_capture": "20091002113210",
+          "status": "200"
+        },
+        {
+          "name": "Real_GDP_per_Person_Engaged.xls",
+          "url": "http://www.ggdc.net/databases/icop/1987/data/Real_GDP_per_Person_Engaged.xls",
+          "first_capture": "20091002113150",
+          "status": "200"
+        },
+        {
+          "name": "Time_series_of_real_GDP.xls",
+          "url": "http://www.ggdc.net/databases/icop/1987/data/Time_series_of_real_GDP.xls",
+          "first_capture": "20091002113430",
+          "status": "200"
+        },
+        {
+          "name": "Real_GDP_per_Hour_Worked.xls",
+          "url": "http://www.ggdc.net:80/dseries/Data/Icop/Real_GDP_per_Hour_Worked.xls",
+          "first_capture": "20040501071647",
+          "status": "200"
+        },
+        {
+          "name": "Real_GDP_per_Person_Engaged.xls",
+          "url": "http://www.ggdc.net:80/dseries/Data/Icop/Real_GDP_per_Person_Engaged.xls",
+          "first_capture": "20040503225134",
+          "status": "200"
+        },
+        {
+          "name": "Time_series_of_real_GDP.xls",
+          "url": "http://www.ggdc.net:80/dseries/Data/Icop/Time_series_of_real_GDP.xls",
+          "first_capture": "20040506180111",
+          "status": "200"
+        },
+        {
+          "name": "TablesGD27.xls",
+          "url": "http://www.ggdc.net/maddison/ARTICLES/TablesGD27.xls",
+          "first_capture": "20070628215725",
+          "status": "200"
+        },
+        {
+          "name": "Update_K_tables.xls",
+          "url": "http://www.ggdc.net/Maddison/Monitoring_the_world/1995_Monitoring_the_World/Update_K_tables.xls",
+          "first_capture": "20091002112359",
+          "status": "200"
+        },
+        {
+          "name": "TablesGD27.xls",
+          "url": "http://www.ggdc.net:80/pub/TablesGD27.xls",
+          "first_capture": "20051028094637",
+          "status": "200"
+        },
+        {
+          "name": "!weo!World!Energy!Outlook!Electricity!Access!weoData.csv",
+          "url": "http://www.ggdc.net/maddison/maddison%25project/home.htm!unpop!United!Nations!Population!Estimates!un%25world%25pop%1950onward.csv!United!Nations!Population!Estimates.!1950%2010!http://www.un.org/en/development/desa/population/!weo!World!Energy!Outlook!Electricity!Access!weoData.csv",
+          "first_capture": "20240702204841",
+          "status": "308"
+        },
+        {
+          "name": "!mdg!Millenium!Development!Goals!Metrics!mdg.csv",
+          "url": "http://www.ggdc.net/maddison/maddison%25project/home.htm!unpop!United!Nations!Population!Estimates!un%25world%25pop%1950onward.csv!United!Nations!Population!Estimates.!1950%2010!http://www.un.org/en/development/desa/population/!weo!World!Energy!Outlook!Electricity!Access!weoData.csv!A!decade!of!detailed!electricity!access!reported!in!the!World!Energy!Outlook!2000%2010!http://www.worldenergyoutlook.org/!mdg!Millenium!Development!Goals!Metrics!mdg.csv",
+          "first_capture": "20240702205717",
+          "status": "308"
+        },
+        {
+          "name": "mpd_2013\u00ad01.xlsx",
+          "url": "http://www.ggdc.net/maddison/maddison%C2%ADproject/data/mpd_2013%C2%AD01.xlsx",
+          "first_capture": "20220303070857",
+          "status": "302"
+        }
+      ]
+    },
+    {
+      "label": "World Values Survey (social sci)",
+      "url": "https://www.worldvaluessurvey.org",
+      "pages": 14,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files": 26,
+      "wayback_sets": {
+        "/js": 10,
+        "/.well-known": 6,
+        "/": 6,
+        "/maps": 3,
+        "/feeds": 1
+      },
+      "wayback_top": [
+        {
+          "name": "atom.xml",
+          "url": "https://www.worldvaluessurvey.org/atom.xml",
+          "first_capture": "20260223184424",
+          "status": "404"
+        },
+        {
+          "name": "Data.xml",
+          "url": "http://www.worldvaluessurvey.org/Data.xml",
+          "first_capture": "20140602002450",
+          "status": "302"
+        },
+        {
+          "name": "feed.xml",
+          "url": "https://www.worldvaluessurvey.org/feed.xml",
+          "first_capture": "20260223184504",
+          "status": "404"
+        },
+        {
+          "name": "all.atom.xml",
+          "url": "https://www.worldvaluessurvey.org/feeds/all.atom.xml",
+          "first_capture": "20260223184432",
+          "status": "404"
+        },
+        {
+          "name": "index.xml",
+          "url": "https://www.worldvaluessurvey.org/index.xml",
+          "first_capture": "20260223184438",
+          "status": "404"
+        },
+        {
+          "name": "Data.xml",
+          "url": "https://worldvaluessurvey.org/js/Data.xml",
+          "first_capture": "20231126144642",
+          "status": "302"
+        },
+        {
+          "name": "modules.data.csv",
+          "url": "https://worldvaluessurvey.org/js/modules.data.csv",
+          "first_capture": "20231126144707",
+          "status": "302"
+        },
+        {
+          "name": "modules.data.xml",
+          "url": "https://worldvaluessurvey.org/js/modules.data.xml",
+          "first_capture": "20231126144653",
+          "status": "302"
+        },
+        {
+          "name": "Data.xml",
+          "url": "https://worldvaluessurvey.org/maps/Data.xml",
+          "first_capture": "20231126143259",
+          "status": "200"
+        },
+        {
+          "name": "xmlviewer.tab.XML",
+          "url": "https://worldvaluessurvey.org/maps/xmlviewer.tab.XML",
+          "first_capture": "20231126153748",
+          "status": "302"
+        },
+        {
+          "name": "ai-plugin.json",
+          "url": "https://www.worldvaluessurvey.org/.well-known/ai-plugin.json",
+          "first_capture": "20230531191208",
+          "status": "-"
+        },
+        {
+          "name": "assetlinks.json",
+          "url": "https://www.worldvaluessurvey.org/.well-known/assetlinks.json",
+          "first_capture": "20230531191153",
+          "status": "302"
+        },
+        {
+          "name": "dnt-policy.txt",
+          "url": "https://www.worldvaluessurvey.org/.well-known/dnt-policy.txt",
+          "first_capture": "20230531191336",
+          "status": "302"
+        },
+        {
+          "name": "gpc.json",
+          "url": "https://www.worldvaluessurvey.org/.well-known/gpc.json",
+          "first_capture": "20230531191202",
+          "status": "302"
+        },
+        {
+          "name": "security.txt",
+          "url": "https://www.worldvaluessurvey.org/.well-known/security.txt",
+          "first_capture": "20230531191214",
+          "status": "302"
+        },
+        {
+          "name": "trust.txt",
+          "url": "https://www.worldvaluessurvey.org/.well-known/trust.txt",
+          "first_capture": "20230531191227",
+          "status": "302"
+        },
+        {
+          "name": "ads.txt",
+          "url": "http://worldvaluessurvey.org/ads.txt",
+          "first_capture": "20210518225101",
+          "status": "301"
+        },
+        {
+          "name": "app-ads.txt",
+          "url": "https://www.worldvaluessurvey.org/app-ads.txt",
+          "first_capture": "20230531191150",
+          "status": "302"
+        },
+        {
+          "name": "average-employee-sales.json",
+          "url": "https://worldvaluessurvey.org/js/average-employee-sales.json",
+          "first_capture": "20231126144654",
+          "status": "302"
+        },
+        {
+          "name": "chart-data.json",
+          "url": "https://worldvaluessurvey.org/js/chart-data.json",
+          "first_capture": "20231126144655",
+          "status": "302"
+        }
+      ]
+    },
+    {
+      "label": "UCDP conflict (social sci)",
+      "url": "https://ucdp.uu.se",
+      "pages": 1,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files": 6,
+      "wayback_sets": {
+        "/.well-known": 6
+      },
+      "wayback_top": [
+        {
+          "name": "ai-plugin.json",
+          "url": "https://ucdp.uu.se/.well-known/ai-plugin.json",
+          "first_capture": "20230605143518",
+          "status": "200"
+        },
+        {
+          "name": "assetlinks.json",
+          "url": "https://ucdp.uu.se/.well-known/assetlinks.json",
+          "first_capture": "20230605143554",
+          "status": "200"
+        },
+        {
+          "name": "dnt-policy.txt",
+          "url": "https://ucdp.uu.se/.well-known/dnt-policy.txt",
+          "first_capture": "20230605144328",
+          "status": "200"
+        },
+        {
+          "name": "gpc.json",
+          "url": "https://ucdp.uu.se/.well-known/gpc.json",
+          "first_capture": "20230605145248",
+          "status": "200"
+        },
+        {
+          "name": "security.txt",
+          "url": "https://ucdp.uu.se/.well-known/security.txt",
+          "first_capture": "20230605143912",
+          "status": "200"
+        },
+        {
+          "name": "trust.txt",
+          "url": "https://ucdp.uu.se/.well-known/trust.txt",
+          "first_capture": "20230605143455",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "Quality of Government (social sci)",
+      "url": "https://www.qog.pol.gu.se",
+      "pages": 1,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files": 8,
+      "wayback_sets": {
+        "/.well-known": 6,
+        "/": 2
+      },
+      "wayback_top": [
+        {
+          "name": "ai-plugin.json",
+          "url": "https://qog.pol.gu.se/.well-known/ai-plugin.json",
+          "first_capture": "20230604171450",
+          "status": "301"
+        },
+        {
+          "name": "assetlinks.json",
+          "url": "https://qog.pol.gu.se/.well-known/assetlinks.json",
+          "first_capture": "20230604171457",
+          "status": "301"
+        },
+        {
+          "name": "dnt-policy.txt",
+          "url": "https://qog.pol.gu.se/.well-known/dnt-policy.txt",
+          "first_capture": "20230604171450",
+          "status": "301"
+        },
+        {
+          "name": "gpc.json",
+          "url": "https://qog.pol.gu.se/.well-known/gpc.json",
+          "first_capture": "20230604171501",
+          "status": "301"
+        },
+        {
+          "name": "security.txt",
+          "url": "https://qog.pol.gu.se/.well-known/security.txt",
+          "first_capture": "20230604171556",
+          "status": "301"
+        },
+        {
+          "name": "trust.txt",
+          "url": "https://qog.pol.gu.se/.well-known/trust.txt",
+          "first_capture": "20230604171510",
+          "status": "301"
+        },
+        {
+          "name": "ads.txt",
+          "url": "https://qog.pol.gu.se/ads.txt",
+          "first_capture": "20230604171532",
+          "status": "301"
+        },
+        {
+          "name": "app-ads.txt",
+          "url": "https://qog.pol.gu.se/app-ads.txt",
+          "first_capture": "20230604171457",
+          "status": "301"
+        }
+      ]
+    }
+  ]
+}

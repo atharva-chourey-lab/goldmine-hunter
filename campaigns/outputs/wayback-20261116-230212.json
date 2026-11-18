@@ -1,0 +1,105 @@
+{
+  "domain": "brainmaps.org",
+  "data_files": [
+    {
+      "url": "https://brainmaps.org/.well-known/ai-plugin.json",
+      "name": "ai-plugin.json",
+      "first_capture": "20230602131751",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20230602131751id_/https://brainmaps.org/.well-known/ai-plugin.json"
+    },
+    {
+      "url": "https://brainmaps.org/.well-known/assetlinks.json",
+      "name": "assetlinks.json",
+      "first_capture": "20230531150619",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20230531150619id_/https://brainmaps.org/.well-known/assetlinks.json"
+    },
+    {
+      "url": "https://brainmaps.org/.well-known/dnt-policy.txt",
+      "name": "dnt-policy.txt",
+      "first_capture": "20230531152429",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20230531152429id_/https://brainmaps.org/.well-known/dnt-policy.txt"
+    },
+    {
+      "url": "https://brainmaps.org/.well-known/gpc.json",
+      "name": "gpc.json",
+      "first_capture": "20230531150610",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20230531150610id_/https://brainmaps.org/.well-known/gpc.json"
+    },
+    {
+      "url": "https://brainmaps.org/.well-known/security.txt",
+      "name": "security.txt",
+      "first_capture": "20230531150849",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20230531150849id_/https://brainmaps.org/.well-known/security.txt"
+    },
+    {
+      "url": "https://brainmaps.org/.well-known/trust.txt",
+      "name": "trust.txt",
+      "first_capture": "20230531150517",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20230531150517id_/https://brainmaps.org/.well-known/trust.txt"
+    },
+    {
+      "url": "http://brainmaps.org/ABAcor.txt",
+      "name": "ABAcor.txt",
+      "first_capture": "20120813004906",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20120813004906id_/http://brainmaps.org/ABAcor.txt"
+    },
+    {
+      "url": "http://brainmaps.org/ads.txt",
+      "name": "ads.txt",
+      "first_capture": "20210519013249",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20210519013249id_/http://brainmaps.org/ads.txt"
+    }
+  ],
+  "images": [
+    {
+      "url": "http://brainmaps.org/.jpg",
+      "name": ".jpg",
+      "first_capture": "20120813004837",
+      "status": "404",
+      "snapshot": "https://web.archive.org/web/20120813004837id_/http://brainmaps.org/.jpg"
+    },
+    {
+      "url": "http://brainmaps.org/2009.Janelia.Farm.BioImage.Informatics.jpg",
+      "name": "2009.Janelia.Farm.BioImage.Informatics.jpg",
+      "first_capture": "20101209183038",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20101209183038id_/http://brainmaps.org/2009.Janelia.Farm.BioImage.Informatics.jpg"
+    },
+    {
+      "url": "http://brainmaps.org/39-a-thumb.jpg",
+      "name": "39-a-thumb.jpg",
+      "first_capture": "20090716223551",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20090716223551id_/http://brainmaps.org/39-a-thumb.jpg"
+    },
+    {
+      "url": "http://brainmaps.org/39-a.jpg",
+      "name": "39-a.jpg",
+      "first_capture": "20091004100240",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20091004100240id_/http://brainmaps.org/39-a.jpg"
+    },
+    {
+      "url": "http://brainmaps.org/ajax-viewer-thumb.jpg",
+      "name": "ajax-viewer-thumb.jpg",
+      "first_capture": "20090716220014",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20090716220014id_/http://brainmaps.org/ajax-viewer-thumb.jpg"
+    },
+    {
+      "url": "http://brainmaps.org/ajax-viewer.jpg",
+      "name": "ajax-viewer.jpg",
+      "first_capture": "20090717232655",
+      "status": "200",
+      "snapshot": "https://web.archive.org/web/20090717232655id_/http://brainmaps.org/ajax-viewer.jpg"
+    }
+  ]
+}

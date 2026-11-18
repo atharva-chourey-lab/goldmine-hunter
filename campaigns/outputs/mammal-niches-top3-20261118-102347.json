@@ -1,0 +1,108 @@
+{
+  "mammal_niches_top": [
+    {
+      "rank_input_order": 1,
+      "slug": "primate-fingerprints-dermatoglyphics",
+      "name": "Primate fingerprints & dermatoglyphic archives",
+      "family": "A. Skin prints \u2014 fingers, palms, pads & noses",
+      "score": 9,
+      "score_justification": "The original fingerprint science was built on animal prints too \u2014 Cummins-era dermatoglyphic collections cover dozens of primate species, ridge counts never re-joined across collections.",
+      "keywords": [
+        "primate dermatoglyphics archive",
+        "ape monkey fingerprint ridge count data",
+        "dermatoglyphic collection photographs download",
+        "chimpanzee fingerprint identification study"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".pdf",
+        ".csv"
+      ],
+      "gold_words": [
+        "dermatoglyph",
+        "fingerprint",
+        "ridge count",
+        "triradius"
+      ],
+      "fidelity_card": {
+        "RAW": "Ink and rolled fingerprints, palm prints and dermatoglyphic tracings in anthropology and forensic collections",
+        "UNIT": "One finger/palm \u2014 thousands of prints across dozens of primate species in the classic collections, one ink-print protocol",
+        "LABEL_GAP": "Species/individual called from ridge pattern vs DNA taxonomy of the same zoo/museum animals (second ruler)",
+        "ANCHOR": "Zoo studbooks and museum specimens tied to print cards"
+      },
+      "headline_shape": "Police once fingerprinted the chimps at a zoo to rule them out of a crime \u2014 the apes' prints were that close to ours.",
+      "why_niche": "Dermatoglyphics was a mid-century industry whose collections sit in anthropology departments and forensic museums; genetics replaced it before its cross-species ridge data was ever pooled.",
+      "rank_by_score": 1
+    },
+    {
+      "rank_input_order": 6,
+      "slug": "cattle-muzzle-prints",
+      "name": "Cattle muzzle (nose) print registration archives",
+      "family": "A. Skin prints \u2014 fingers, palms, pads & noses",
+      "score": 9,
+      "score_justification": "The biggest fingerprint-style archive in the animal world: Japan's Wagyu Registry has ink muzzle prints for 3M+ beef cattle since 1948 \u2014 and it is a paper/card system.",
+      "keywords": [
+        "cattle muzzle print registration",
+        "wagyu nose print certificate archive",
+        "beppu nose print cattle identification",
+        "muzzle pattern cattle dataset"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".pdf",
+        ".csv"
+      ],
+      "gold_words": [
+        "muzzle",
+        "nose print",
+        "beppu",
+        "wagyu"
+      ],
+      "fidelity_card": {
+        "RAW": "Ink muzzle prints lifted on paper/cards at registration (before 4 months, again after 14 months in the Japanese system), plus modern muzzle photographs",
+        "UNIT": "One muzzle \u2014 millions registered in Japan since 1948, thousands in Petersen-era and university series elsewhere, one ink-lift protocol",
+        "LABEL_GAP": "Muzzle print ID vs ear-tag / RFID / DNA pedigree records for the same animals (second ruler)",
+        "ANCHOR": "The Wagyu Registry Association's own registration certificates (nose print + pedigree on one card)"
+      },
+      "headline_shape": "Japan has fingerprinted its finest cattle by nose since 1948 \u2014 over three million cows, each with a print card like a criminal record.",
+      "why_niche": "The registration archives are institutional paper; the computer-vision literature trains on a few hundred fresh photos and has never touched the historical card millions.",
+      "rank_by_score": 2
+    },
+    {
+      "rank_input_order": 9,
+      "slug": "paw-track-morphometrics-fit",
+      "name": "Paw-track morphometrics & FIT footprint archives",
+      "family": "B. Tracks, paws & gait",
+      "score": 9,
+      "score_justification": "WildTrack's FIT extracts 120+ measures per print and reports >90% species/sex/age accuracy across 13+ species \u2014 yet each species training set lives with its project, captive-known prints are the rarest data in tracking.",
+      "keywords": [
+        "footprint identification technology FIT dataset",
+        "animal track measurements csv download",
+        "WildTrack footprint database images",
+        "track morphometrics landmark data"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".csv",
+        ".xls"
+      ],
+      "gold_words": [
+        "footprint",
+        "track",
+        "FIT",
+        "morphometric"
+      ],
+      "fidelity_card": {
+        "RAW": "Footprint photographs taken to one ruler-and-slip protocol (WildTrack FIT and its predecessors), plus hand-measured track tables",
+        "UNIT": "One print/trail \u2014 training sets of known captive individuals per species, field trails by the thousand, 13+ species with FIT algorithms",
+        "LABEL_GAP": "Individual/sex/age called from print vs the known captive animal or collared wild animal that made it (second ruler)",
+        "ANCHOR": "Captive-animal known-identity trail sets (the FIT training gold standard)"
+      },
+      "headline_shape": "A photograph of a footprint can name the tiger, its sex and its age \u2014 trackers always knew; the measurement files proving it sit project by project.",
+      "why_niche": "FIT standardised the capture but not the custody: species datasets sit with NGOs, zoos and consultancies, and the pre-FIT hand-measured track tables were never digitised at all.",
+      "rank_by_score": 3
+    }
+  ]
+}

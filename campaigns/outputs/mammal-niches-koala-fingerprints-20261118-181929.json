@@ -1,0 +1,33 @@
+{
+  "mammal_niche_card": {
+    "slug": "koala-fingerprints",
+    "name": "Koala fingerprint collections",
+    "family": "A. Skin prints \u2014 fingers, palms, pads & noses",
+    "score": 8,
+    "rank": 9,
+    "RAW": "Ink prints and SEM fingertip images from wildlife-park and university anatomy collections",
+    "UNIT": "One fingertip \u2014 one species, tens of individuals in the published study, unknown numbers in zoo/wildlife-park files, one ink-print protocol",
+    "LABEL_GAP": "Koala ridge pattern vs human prints in the same forensic reference files (the second ruler is our own fingerprint system)",
+    "ANCHOR": "The 1997 Adelaide reference prints (Henneberg, Lambert & Leigh)",
+    "keywords": [
+      "koala fingerprint print collection",
+      "koala dermatoglyphics images",
+      "Henneberg koala fingerprint data",
+      "marsupial fingerprint ridge study"
+    ],
+    "headline": "A koala's fingerprint is nearly indistinguishable from a human's under a microscope \u2014 verified in 1997, and no, it has never actually turned up at a crime scene.",
+    "why_niche": "One famous study, then near-silence: wildlife parks handle koalas daily and no print collection was ever built on the 1997 foundation.",
+    "score_justification": "Headline is perfect and verified (Henneberg 1997), but the known print population is small \u2014 one species, tens of documented individuals \u2014 so archive depth caps the score.",
+    "signature_exts": [
+      ".jpg",
+      ".tif",
+      ".pdf"
+    ],
+    "gold_words": [
+      "koala",
+      "fingerprint",
+      "ridge",
+      "homoplasy"
+    ]
+  }
+}

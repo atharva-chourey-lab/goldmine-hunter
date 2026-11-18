@@ -1,0 +1,2202 @@
+{
+  "species": {
+    "Baboon": {
+      "site_files": {
+        "Telencephalon.nii.gz": {
+          "url": "https://braincatalogue.org/data/Baboon/Telencephalon.nii.gz",
+          "size": "397054"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Baboon/Hippocampus.nii.gz",
+          "size": "22573"
+        },
+        "Striatum.nii.gz": {
+          "url": "https://braincatalogue.org/data/Baboon/Striatum.nii.gz",
+          "size": "22570"
+        },
+        "MRI.nii.gz": {
+          "url": "https://braincatalogue.org/data/Baboon/MRI.nii.gz",
+          "size": "19140191"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Telencephalon.nii.gz"
+      ],
+      "labels_empty": [
+        "Hippocampus.nii.gz"
+      ],
+      "checks": {
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            301,
+            347,
+            220
+          ],
+          "pixdim_mm": [
+            0.2344,
+            0.2344,
+            0.23
+          ],
+          "voxels": 22978340,
+          "bytes": 22978692,
+          "md5": "7aed11a7c03bbbe437c999be6aaddda5",
+          "all_zero": true,
+          "verdict": "EMPTY PLACEHOLDER \u2014 correct grid, zero data"
+        },
+        "Telencephalon.nii.gz": {
+          "ok": true,
+          "dims": [
+            301,
+            347,
+            220
+          ],
+          "pixdim_mm": [
+            0.2344,
+            0.2344,
+            0.23
+          ],
+          "voxels": 22978340,
+          "bytes": 22978692,
+          "md5": "982a244ef87375fd69a0fdf4731ef709",
+          "all_zero": false
+        }
+      }
+    },
+    "Black_rhinoceros": {
+      "site_files": {
+        "mesh.ply": {
+          "url": "https://braincatalogue.org/data/Black_rhinoceros/mesh.ply",
+          "size": null
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Black_rhinoceros/Hippocampus.nii.gz",
+          "size": "39427"
+        },
+        "Atlas.nii.gz": {
+          "url": "https://braincatalogue.org/data/Black_rhinoceros/Atlas.nii.gz",
+          "size": "380087"
+        },
+        "MRI-n4.nii.gz": {
+          "url": "https://braincatalogue.org/data/Black_rhinoceros/MRI-n4.nii.gz",
+          "size": "9457983"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Atlas.nii.gz",
+        "Hippocampus.nii.gz"
+      ],
+      "labels_empty": [],
+      "checks": {
+        "Atlas.nii.gz": {
+          "ok": true,
+          "dims": [
+            265,
+            328,
+            143
+          ],
+          "pixdim_mm": [
+            0.45,
+            0.45,
+            0.45
+          ],
+          "voxels": 12429560,
+          "bytes": 12429912,
+          "md5": "9668d61fa676ac79e3deb522f55e3006",
+          "all_zero": false
+        },
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            265,
+            328,
+            143
+          ],
+          "pixdim_mm": [
+            0.45,
+            0.45,
+            0.45
+          ],
+          "voxels": 12429560,
+          "bytes": 12429912,
+          "md5": "9719bdd177607e4dd324014a80daa7b1",
+          "all_zero": false
+        }
+      }
+    },
+    "Blackbuck": {
+      "site_files": {
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Blackbuck/Hippocampus.nii.gz",
+          "size": "5629"
+        },
+        "Atlas.nii.gz": {
+          "url": "https://braincatalogue.org/data/Blackbuck/Atlas.nii.gz",
+          "size": "69165"
+        },
+        "MRI-n4.nii.gz": {
+          "url": "https://braincatalogue.org/data/Blackbuck/MRI-n4.nii.gz",
+          "size": "3799078"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Atlas.nii.gz"
+      ],
+      "labels_empty": [
+        "Hippocampus.nii.gz"
+      ],
+      "checks": {
+        "Atlas.nii.gz": {
+          "ok": true,
+          "dims": [
+            180,
+            240,
+            130
+          ],
+          "pixdim_mm": [
+            0.275,
+            0.275,
+            0.275
+          ],
+          "voxels": 5616000,
+          "bytes": 5616352,
+          "md5": "3d6fece9b8dafd724429f0f5b6595e29",
+          "all_zero": false
+        },
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            180,
+            240,
+            130
+          ],
+          "pixdim_mm": [
+            0.275,
+            0.275,
+            0.275
+          ],
+          "voxels": 5616000,
+          "bytes": 5616352,
+          "md5": "b74ad3b9403393c3fe99e5f966de2eaa",
+          "all_zero": true,
+          "verdict": "EMPTY PLACEHOLDER \u2014 correct grid, zero data"
+        }
+      }
+    },
+    "Bottlenose_dolphin": {
+      "site_files": {
+        "Atlas.nii.gz": {
+          "url": "https://braincatalogue.org/data/Bottlenose_dolphin/Atlas.nii.gz",
+          "size": "677652"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Bottlenose_dolphin/Hippocampus.nii.gz",
+          "size": "37087"
+        },
+        "Cerebellum.nii.gz": {
+          "url": "https://braincatalogue.org/data/Bottlenose_dolphin/Cerebellum.nii.gz",
+          "size": "60414"
+        },
+        "Corpus_callosum.nii.gz": {
+          "url": "https://braincatalogue.org/data/Bottlenose_dolphin/Corpus_callosum.nii.gz",
+          "size": "38949"
+        },
+        "MRI-n4.nii.gz": {
+          "url": "https://braincatalogue.org/data/Bottlenose_dolphin/MRI-n4.nii.gz",
+          "size": "31829009"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Atlas.nii.gz",
+        "Cerebellum.nii.gz"
+      ],
+      "labels_empty": [
+        "Hippocampus.nii.gz"
+      ],
+      "checks": {
+        "Atlas.nii.gz": {
+          "ok": true,
+          "dims": [
+            447,
+            380,
+            224
+          ],
+          "pixdim_mm": [
+            0.3008,
+            0.3008,
+            0.3
+          ],
+          "voxels": 38048640,
+          "bytes": 38048992,
+          "md5": "1408767b186e111fe4aa90b7c6f11c10",
+          "all_zero": false
+        },
+        "Cerebellum.nii.gz": {
+          "ok": true,
+          "dims": [
+            447,
+            380,
+            224
+          ],
+          "pixdim_mm": [
+            0.33,
+            0.33,
+            0.33
+          ],
+          "voxels": 38048640,
+          "bytes": 38048992,
+          "md5": "ae88743d2fcdad9336b3a20ba74c3a74",
+          "all_zero": false
+        },
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            447,
+            380,
+            224
+          ],
+          "pixdim_mm": [
+            0.3008,
+            0.3008,
+            0.3
+          ],
+          "voxels": 38048640,
+          "bytes": 38048992,
+          "md5": "b37265ad73b6f7c42bd5f877d9632726",
+          "all_zero": true,
+          "verdict": "EMPTY PLACEHOLDER \u2014 correct grid, zero data"
+        }
+      }
+    },
+    "Cat": {
+      "site_files": {
+        "mesh.ply": {
+          "url": "https://braincatalogue.org/data/Cat/mesh.ply",
+          "size": null
+        },
+        "Telencephalon.nii.gz": {
+          "url": "https://braincatalogue.org/data/Cat/Telencephalon.nii.gz",
+          "size": "131614"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Cat/Hippocampus.nii.gz",
+          "size": "24853"
+        },
+        "MRI-n4.nii.gz": {
+          "url": "https://braincatalogue.org/data/Cat/MRI-n4.nii.gz",
+          "size": "8593266"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Hippocampus.nii.gz",
+        "Telencephalon.nii.gz"
+      ],
+      "labels_empty": [],
+      "checks": {
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            219,
+            294,
+            182
+          ],
+          "pixdim_mm": [
+            0.2,
+            0.2,
+            0.2
+          ],
+          "voxels": 11718252,
+          "bytes": 11718604,
+          "md5": "c2ab766081fbf78e0b592492f8010ee1",
+          "all_zero": false
+        },
+        "Telencephalon.nii.gz": {
+          "ok": true,
+          "dims": [
+            219,
+            294,
+            182
+          ],
+          "pixdim_mm": [
+            0.2,
+            0.2,
+            0.2
+          ],
+          "voxels": 11718252,
+          "bytes": 11718604,
+          "md5": "d2c44ee53df36d1dba0a0c5fc71d9c0b",
+          "all_zero": false
+        }
+      }
+    },
+    "Cheetah": {
+      "site_files": {
+        "mesh.ply": {
+          "url": "https://braincatalogue.org/data/Cheetah/mesh.ply",
+          "size": null
+        },
+        "Telencephalon.nii.gz": {
+          "url": "https://braincatalogue.org/data/Cheetah/Telencephalon.nii.gz",
+          "size": "343176"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Cheetah/Hippocampus.nii.gz",
+          "size": "31588"
+        },
+        "MRI.nii.gz": {
+          "url": "https://braincatalogue.org/data/Cheetah/MRI.nii.gz",
+          "size": "14919956"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Hippocampus.nii.gz",
+        "Telencephalon.nii.gz"
+      ],
+      "labels_empty": [],
+      "checks": {
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            241,
+            371,
+            197
+          ],
+          "pixdim_mm": [
+            0.226,
+            0.226,
+            0.23
+          ],
+          "voxels": 17613967,
+          "bytes": 17614319,
+          "md5": "c3013c4da6719fb7e87ab84107bd9e85",
+          "all_zero": false
+        },
+        "Telencephalon.nii.gz": {
+          "ok": true,
+          "dims": [
+            241,
+            371,
+            197
+          ],
+          "pixdim_mm": [
+            0.226,
+            0.226,
+            0.23
+          ],
+          "voxels": 17613967,
+          "bytes": 17614319,
+          "md5": "505aee3fab2e03493c9ae3ffce7efe97",
+          "all_zero": false
+        }
+      }
+    },
+    "Chimpanzee": {
+      "site_files": {
+        "Atlas.nii.gz": {
+          "url": "https://braincatalogue.org/data/Chimpanzee/Atlas.nii.gz",
+          "size": "68456"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Chimpanzee/Hippocampus.nii.gz",
+          "size": "4294"
+        },
+        "Striatum.nii.gz": {
+          "url": "https://braincatalogue.org/data/Chimpanzee/Striatum.nii.gz",
+          "size": "6304"
+        },
+        "Cerebellum.nii.gz": {
+          "url": "https://braincatalogue.org/data/Chimpanzee/Cerebellum.nii.gz",
+          "size": "6473"
+        },
+        "MRI-n4.nii.gz": {
+          "url": "https://braincatalogue.org/data/Chimpanzee/MRI-n4.nii.gz",
+          "size": "2949599"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Atlas.nii.gz",
+        "Cerebellum.nii.gz"
+      ],
+      "labels_empty": [
+        "Hippocampus.nii.gz"
+      ],
+      "checks": {
+        "Atlas.nii.gz": {
+          "ok": true,
+          "dims": [
+            160,
+            180,
+            145
+          ],
+          "pixdim_mm": [
+            0.6,
+            0.6042,
+            0.6042
+          ],
+          "voxels": 4176000,
+          "bytes": 4176352,
+          "md5": "ba260e590e30213716c5a66ec3c9e6e7",
+          "all_zero": false
+        },
+        "Cerebellum.nii.gz": {
+          "ok": true,
+          "dims": [
+            160,
+            180,
+            145
+          ],
+          "pixdim_mm": [
+            0.33,
+            0.33,
+            0.33
+          ],
+          "voxels": 4176000,
+          "bytes": 4176352,
+          "md5": "2b4c28f1f5bcd746f157e8ea6e49aa80",
+          "all_zero": false
+        },
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            160,
+            180,
+            145
+          ],
+          "pixdim_mm": [
+            0.6,
+            0.6042,
+            0.6042
+          ],
+          "voxels": 4176000,
+          "bytes": 4176352,
+          "md5": "457f9ef7c49fe3922d6d4782db2b38e1",
+          "all_zero": true,
+          "verdict": "EMPTY PLACEHOLDER \u2014 correct grid, zero data"
+        }
+      }
+    },
+    "Crab-eating_macaque": {
+      "site_files": {
+        "Telencephalon.nii.gz": {
+          "url": "https://braincatalogue.org/data/Crab-eating_macaque/Telencephalon.nii.gz",
+          "size": "535326"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Crab-eating_macaque/Hippocampus.nii.gz",
+          "size": "32206"
+        },
+        "Striatum.nii.gz": {
+          "url": "https://braincatalogue.org/data/Crab-eating_macaque/Striatum.nii.gz",
+          "size": "32254"
+        },
+        "MRI.nii.gz": {
+          "url": "https://braincatalogue.org/data/Crab-eating_macaque/MRI.nii.gz",
+          "size": "21417962"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Telencephalon.nii.gz"
+      ],
+      "labels_empty": [
+        "Hippocampus.nii.gz"
+      ],
+      "checks": {
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            321,
+            405,
+            254
+          ],
+          "pixdim_mm": [
+            0.175,
+            0.175,
+            0.175
+          ],
+          "voxels": 33021270,
+          "bytes": 33021622,
+          "md5": "6c7646b832f7a0c1ecdf2f2ae982064a",
+          "all_zero": true,
+          "verdict": "EMPTY PLACEHOLDER \u2014 correct grid, zero data"
+        },
+        "Telencephalon.nii.gz": {
+          "ok": true,
+          "dims": [
+            321,
+            405,
+            254
+          ],
+          "pixdim_mm": [
+            0.175,
+            0.175,
+            0.175
+          ],
+          "voxels": 33021270,
+          "bytes": 33021622,
+          "md5": "14edd6771172a34a80415d92f7ed8a85",
+          "all_zero": false
+        }
+      }
+    },
+    "Demidoff's_dwarf_Galago": {
+      "site_files": {},
+      "new_vs_local": [],
+      "local_not_on_site": [
+        "Cerebrum.nii.gz",
+        "Hippocampus.nii.gz",
+        "MRI.nii.gz"
+      ],
+      "labels_real": [],
+      "labels_empty": [],
+      "checks": {}
+    },
+    "Ferret": {
+      "site_files": {
+        "mesh.ply": {
+          "url": "https://braincatalogue.org/data/Ferret/mesh.ply",
+          "size": null
+        },
+        "Neocortex.nii.gz": {
+          "url": "https://braincatalogue.org/data/Ferret/Neocortex.nii.gz",
+          "size": "206950"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Ferret/Hippocampus.nii.gz",
+          "size": "27350"
+        },
+        "Cerebellum.nii.gz": {
+          "url": "https://braincatalogue.org/data/Ferret/Cerebellum.nii.gz",
+          "size": "21547"
+        },
+        "MRI-n4.nii.gz": {
+          "url": "https://braincatalogue.org/data/Ferret/MRI-n4.nii.gz",
+          "size": "5249770"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Cerebellum.nii.gz",
+        "Hippocampus.nii.gz",
+        "Neocortex.nii.gz"
+      ],
+      "labels_empty": [],
+      "checks": {
+        "Cerebellum.nii.gz": {
+          "ok": true,
+          "dims": [
+            200,
+            384,
+            160
+          ],
+          "pixdim_mm": [
+            0.12,
+            0.12,
+            0.12
+          ],
+          "voxels": 12288000,
+          "bytes": 12288352,
+          "md5": "3f91a3a8366282b9c6c243b371183bc9",
+          "all_zero": false
+        },
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            200,
+            384,
+            160
+          ],
+          "pixdim_mm": [
+            0.12,
+            0.12,
+            0.12
+          ],
+          "voxels": 12288000,
+          "bytes": 12288352,
+          "md5": "6452ceab76eac22d01011a17443ca06f",
+          "all_zero": false
+        },
+        "Neocortex.nii.gz": {
+          "ok": true,
+          "dims": [
+            200,
+            384,
+            160
+          ],
+          "pixdim_mm": [
+            0.12,
+            0.12,
+            0.12
+          ],
+          "voxels": 12288000,
+          "bytes": 12288352,
+          "md5": "a4833801012e7e91f51c76b8004124e0",
+          "all_zero": false
+        }
+      }
+    },
+    "Giant_panda": {
+      "site_files": {
+        "Telencephalon.nii.gz": {
+          "url": "https://braincatalogue.org/data/Giant_panda/Telencephalon.nii.gz",
+          "size": "754001"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Giant_panda/Hippocampus.nii.gz",
+          "size": "55507"
+        },
+        "MRI.nii.gz": {
+          "url": "https://braincatalogue.org/data/Giant_panda/MRI.nii.gz",
+          "size": "31296317"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Hippocampus.nii.gz",
+        "Telencephalon.nii.gz"
+      ],
+      "labels_empty": [],
+      "checks": {
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            387,
+            442,
+            234
+          ],
+          "pixdim_mm": [
+            0.25,
+            0.25,
+            0.25
+          ],
+          "voxels": 40026636,
+          "bytes": 40026988,
+          "md5": "5e7a9c25c3a9966492bf0d2e13adb92a",
+          "all_zero": false
+        },
+        "Telencephalon.nii.gz": {
+          "ok": true,
+          "dims": [
+            387,
+            442,
+            234
+          ],
+          "pixdim_mm": [
+            0.25,
+            0.25,
+            0.25
+          ],
+          "voxels": 40026636,
+          "bytes": 40026988,
+          "md5": "6212031a29c4670683585028c55de352",
+          "all_zero": false
+        }
+      }
+    },
+    "Gibbon": {
+      "site_files": {
+        "Cerebrum.nii.gz": {
+          "url": "https://braincatalogue.org/data/Gibbon/Cerebrum.nii.gz",
+          "size": "37431"
+        },
+        "gibbon_buddy_reoriented_N4_max.nii.gz": {
+          "url": "https://braincatalogue.org/data/Gibbon/gibbon_buddy_reoriented_N4_max.nii.gz",
+          "size": "5707553"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [],
+      "labels_empty": [],
+      "checks": {}
+    },
+    "Giraffe": {
+      "site_files": {
+        "Telencephalon.nii.gz": {
+          "url": "https://braincatalogue.org/data/Giraffe/Telencephalon.nii.gz",
+          "size": "529802"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Giraffe/Hippocampus.nii.gz",
+          "size": "53456"
+        },
+        "MRI.nii.gz": {
+          "url": "https://braincatalogue.org/data/Giraffe/MRI.nii.gz",
+          "size": "24511916"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Hippocampus.nii.gz",
+        "Telencephalon.nii.gz"
+      ],
+      "labels_empty": [],
+      "checks": {
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            352,
+            476,
+            251
+          ],
+          "pixdim_mm": [
+            0.35,
+            0.35,
+            0.35
+          ],
+          "voxels": 42055552,
+          "bytes": 42055904,
+          "md5": "efa9a91683fb47b4cbfaa846afca441d",
+          "all_zero": false
+        },
+        "Telencephalon.nii.gz": {
+          "ok": true,
+          "dims": [
+            352,
+            476,
+            251
+          ],
+          "pixdim_mm": [
+            0.35,
+            0.35,
+            0.35
+          ],
+          "voxels": 42055552,
+          "bytes": 42055904,
+          "md5": "758dd42f29c530a36d59cf516aab62a9",
+          "all_zero": false
+        }
+      }
+    },
+    "Gorilla": {
+      "site_files": {
+        "Atlas.nii.gz": {
+          "url": "https://braincatalogue.org/data/Gorilla/Atlas.nii.gz",
+          "size": "146162"
+        },
+        "Cerebrum.nii.gz": {
+          "url": "https://braincatalogue.org/data/Gorilla/Cerebrum.nii.gz",
+          "size": "132801"
+        },
+        "Striatum.nii.gz": {
+          "url": "https://braincatalogue.org/data/Gorilla/Striatum.nii.gz",
+          "size": "5813"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Gorilla/Hippocampus.nii.gz",
+          "size": "5801"
+        },
+        "MRI-n4.nii.gz": {
+          "url": "https://braincatalogue.org/data/Gorilla/MRI-n4.nii.gz",
+          "size": "4640366"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Atlas.nii.gz"
+      ],
+      "labels_empty": [
+        "Hippocampus.nii.gz"
+      ],
+      "checks": {
+        "Atlas.nii.gz": {
+          "ok": true,
+          "dims": [
+            160,
+            224,
+            160
+          ],
+          "pixdim_mm": [
+            0.6,
+            0.5179,
+            0.5179
+          ],
+          "voxels": 5734400,
+          "bytes": 5734752,
+          "md5": "7761ba2675106e739b575a27763839fd",
+          "all_zero": false
+        },
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            160,
+            224,
+            160
+          ],
+          "pixdim_mm": [
+            0.6,
+            0.5179,
+            0.5179
+          ],
+          "voxels": 5734400,
+          "bytes": 5734752,
+          "md5": "e9069be81a8fa5828cb7868e55345723",
+          "all_zero": true,
+          "verdict": "EMPTY PLACEHOLDER \u2014 correct grid, zero data"
+        }
+      }
+    },
+    "Gray_wolf": {
+      "site_files": {
+        "Telencephalon.nii.gz": {
+          "url": "https://braincatalogue.org/data/Gray_wolf/Telencephalon.nii.gz",
+          "size": "215679"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Gray_wolf/Hippocampus.nii.gz",
+          "size": "11101"
+        },
+        "MRI.nii.gz": {
+          "url": "https://braincatalogue.org/data/Gray_wolf/MRI.nii.gz",
+          "size": "6942809"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Telencephalon.nii.gz"
+      ],
+      "labels_empty": [
+        "Hippocampus.nii.gz"
+      ],
+      "checks": {
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            231,
+            275,
+            177
+          ],
+          "pixdim_mm": [
+            0.25,
+            0.25,
+            0.25
+          ],
+          "voxels": 11243925,
+          "bytes": 11244277,
+          "md5": "2154e1a8889212b78ac91d7fe8a5269a",
+          "all_zero": true,
+          "verdict": "EMPTY PLACEHOLDER \u2014 correct grid, zero data"
+        },
+        "Telencephalon.nii.gz": {
+          "ok": true,
+          "dims": [
+            231,
+            275,
+            177
+          ],
+          "pixdim_mm": [
+            0.25,
+            0.25,
+            0.25
+          ],
+          "voxels": 11243925,
+          "bytes": 11244277,
+          "md5": "97f9af2256853f4cf7cd1d250dc38718",
+          "all_zero": false
+        }
+      }
+    },
+    "Grey-cheeked_mangabey": {
+      "site_files": {
+        "Telencephalon.nii.gz": {
+          "url": "https://braincatalogue.org/data/Grey-cheeked_mangabey/Telencephalon.nii.gz",
+          "size": "130911"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Grey-cheeked_mangabey/Hippocampus.nii.gz",
+          "size": "5889"
+        },
+        "MRI.nii.gz": {
+          "url": "https://braincatalogue.org/data/Grey-cheeked_mangabey/MRI.nii.gz",
+          "size": "5955133"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Telencephalon.nii.gz"
+      ],
+      "labels_empty": [
+        "Hippocampus.nii.gz"
+      ],
+      "checks": {
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            213,
+            186,
+            148
+          ],
+          "pixdim_mm": [
+            0.3,
+            0.3,
+            0.3
+          ],
+          "voxels": 5863464,
+          "bytes": 5863816,
+          "md5": "a183b86e5c85b3c32fc4f3d5d6556a83",
+          "all_zero": true,
+          "verdict": "EMPTY PLACEHOLDER \u2014 correct grid, zero data"
+        },
+        "Telencephalon.nii.gz": {
+          "ok": true,
+          "dims": [
+            213,
+            186,
+            148
+          ],
+          "pixdim_mm": [
+            0.3,
+            0.3,
+            0.3
+          ],
+          "voxels": 5863464,
+          "bytes": 5863816,
+          "md5": "372506ce7775f340ad79b25335859805",
+          "all_zero": false
+        }
+      }
+    },
+    "House_mouse": {
+      "site_files": {
+        "Telencephalon.nii.gz": {
+          "url": "https://braincatalogue.org/data/House_mouse/Telencephalon.nii.gz",
+          "size": "1012579"
+        },
+        "Mouse.nii.gz": {
+          "url": "https://braincatalogue.org/data/House_mouse/Mouse.nii.gz",
+          "size": "35162262"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Telencephalon.nii.gz"
+      ],
+      "labels_empty": [],
+      "checks": {
+        "Telencephalon.nii.gz": {
+          "ok": true,
+          "dims": [
+            420,
+            548,
+            282
+          ],
+          "pixdim_mm": [
+            0.03,
+            0.03,
+            0.03
+          ],
+          "voxels": 64905120,
+          "bytes": 64905472,
+          "md5": "da08bbe9ba258170fdec23d3ade42162",
+          "all_zero": false
+        }
+      }
+    },
+    "Human": {
+      "site_files": {
+        "mesh.ply": {
+          "url": "https://braincatalogue.org/data/Human/mesh.ply",
+          "size": null
+        },
+        "Atlas.nii.gz": {
+          "url": "https://braincatalogue.org/data/Human/Atlas.nii.gz",
+          "size": "127265"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Human/Hippocampus.nii.gz",
+          "size": "6829"
+        },
+        "Striatum.nii.gz": {
+          "url": "https://braincatalogue.org/data/Human/Striatum.nii.gz",
+          "size": "6840"
+        },
+        "MRI-n4.nii.gz": {
+          "url": "https://braincatalogue.org/data/Human/MRI-n4.nii.gz",
+          "size": "4131878"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Atlas.nii.gz"
+      ],
+      "labels_empty": [
+        "Hippocampus.nii.gz"
+      ],
+      "checks": {
+        "Atlas.nii.gz": {
+          "ok": true,
+          "dims": [
+            160,
+            250,
+            170
+          ],
+          "pixdim_mm": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "voxels": 6800000,
+          "bytes": 6800352,
+          "md5": "b773429b457e2cf19560257940c56096",
+          "all_zero": false
+        },
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            160,
+            250,
+            170
+          ],
+          "pixdim_mm": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "voxels": 6800000,
+          "bytes": 6800352,
+          "md5": "c4f517a319fd8804b4e474a46fe92c03",
+          "all_zero": true,
+          "verdict": "EMPTY PLACEHOLDER \u2014 correct grid, zero data"
+        }
+      }
+    },
+    "La_Plata_dolphin": {
+      "site_files": {
+        "Telencephalon.nii.gz": {
+          "url": "https://braincatalogue.org/data/La_Plata_dolphin/Telencephalon.nii.gz",
+          "size": "289959"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/La_Plata_dolphin/Hippocampus.nii.gz",
+          "size": "15937"
+        },
+        "MRI.nii.gz": {
+          "url": "https://braincatalogue.org/data/La_Plata_dolphin/MRI.nii.gz",
+          "size": "12311311"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Telencephalon.nii.gz"
+      ],
+      "labels_empty": [
+        "Hippocampus.nii.gz"
+      ],
+      "checks": {
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            316,
+            321,
+            160
+          ],
+          "pixdim_mm": [
+            0.25,
+            0.25,
+            0.25
+          ],
+          "voxels": 16229760,
+          "bytes": 16230112,
+          "md5": "edbb2f08d296c007446934087e4a5589",
+          "all_zero": true,
+          "verdict": "EMPTY PLACEHOLDER \u2014 correct grid, zero data"
+        },
+        "Telencephalon.nii.gz": {
+          "ok": true,
+          "dims": [
+            316,
+            321,
+            160
+          ],
+          "pixdim_mm": [
+            0.25,
+            0.25,
+            0.25
+          ],
+          "voxels": 16229760,
+          "bytes": 16230112,
+          "md5": "1eb6a727b4124a09815a1173d54ee007",
+          "all_zero": false
+        }
+      }
+    },
+    "Leopard": {
+      "site_files": {
+        "mesh.ply": {
+          "url": "https://braincatalogue.org/data/Leopard/mesh.ply",
+          "size": null
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Leopard/Hippocampus.nii.gz",
+          "size": "17521"
+        },
+        "Atlas.nii.gz": {
+          "url": "https://braincatalogue.org/data/Leopard/Atlas.nii.gz",
+          "size": "124540"
+        },
+        "MRI-n4.nii.gz": {
+          "url": "https://braincatalogue.org/data/Leopard/MRI-n4.nii.gz",
+          "size": "6211744"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Atlas.nii.gz",
+        "Hippocampus.nii.gz"
+      ],
+      "labels_empty": [],
+      "checks": {
+        "Atlas.nii.gz": {
+          "ok": true,
+          "dims": [
+            200,
+            280,
+            160
+          ],
+          "pixdim_mm": [
+            0.3307,
+            0.3307,
+            0.33
+          ],
+          "voxels": 8960000,
+          "bytes": 8960352,
+          "md5": "7b0636a9e169463d011996ce4f352328",
+          "all_zero": false
+        },
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            200,
+            280,
+            160
+          ],
+          "pixdim_mm": [
+            0.3307,
+            0.3307,
+            0.33
+          ],
+          "voxels": 8960000,
+          "bytes": 8960352,
+          "md5": "4cf53226bd25e527609edf83792e81da",
+          "all_zero": false
+        }
+      }
+    },
+    "Lion": {
+      "site_files": {
+        "mesh.ply": {
+          "url": "https://braincatalogue.org/data/Lion/mesh.ply",
+          "size": null
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Lion/Hippocampus.nii.gz",
+          "size": "42043"
+        },
+        "Telencephalon.nii.gz": {
+          "url": "https://braincatalogue.org/data/Lion/Telencephalon.nii.gz",
+          "size": "272280"
+        },
+        "MRI-n4.nii.gz": {
+          "url": "https://braincatalogue.org/data/Lion/MRI-n4.nii.gz",
+          "size": "13264819"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Hippocampus.nii.gz",
+        "Telencephalon.nii.gz"
+      ],
+      "labels_empty": [],
+      "checks": {
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            276,
+            334,
+            209
+          ],
+          "pixdim_mm": [
+            0.3,
+            0.3,
+            0.3
+          ],
+          "voxels": 19266456,
+          "bytes": 19266808,
+          "md5": "a48a94a56061a7b89f3824c2cfab1fbc",
+          "all_zero": false
+        },
+        "Telencephalon.nii.gz": {
+          "ok": true,
+          "dims": [
+            276,
+            334,
+            209
+          ],
+          "pixdim_mm": [
+            0.3,
+            0.3,
+            0.3
+          ],
+          "voxels": 19266456,
+          "bytes": 19266808,
+          "md5": "5429f29c5efbda8dda5acd0c849f66e1",
+          "all_zero": false
+        }
+      }
+    },
+    "Night_monkey": {
+      "site_files": {
+        "Telencephalon.nii.gz": {
+          "url": "https://braincatalogue.org/data/Night_monkey/Telencephalon.nii.gz",
+          "size": "61085"
+        },
+        "Cerebrum.nii.gz": {
+          "url": "https://braincatalogue.org/data/Night_monkey/Cerebrum.nii.gz",
+          "size": "51678"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Night_monkey/Hippocampus.nii.gz",
+          "size": "4991"
+        },
+        "MRI.nii.gz": {
+          "url": "https://braincatalogue.org/data/Night_monkey/MRI.nii.gz",
+          "size": "6182270"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Hippocampus.nii.gz",
+        "Telencephalon.nii.gz"
+      ],
+      "labels_empty": [],
+      "checks": {
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            179,
+            221,
+            125
+          ],
+          "pixdim_mm": [
+            0.25,
+            0.25,
+            0.25
+          ],
+          "voxels": 4944875,
+          "bytes": 4945227,
+          "md5": "87fdc278b2ddc1f49a181d9b2be08cf6",
+          "all_zero": false
+        },
+        "Telencephalon.nii.gz": {
+          "ok": true,
+          "dims": [
+            179,
+            221,
+            125
+          ],
+          "pixdim_mm": [
+            0.25,
+            0.25,
+            0.25
+          ],
+          "voxels": 4944875,
+          "bytes": 4945227,
+          "md5": "5747aee740ea1c7ce71779efbcb60e19",
+          "all_zero": false
+        }
+      }
+    },
+    "Nile_crocodile": {
+      "site_files": {
+        "mesh.ply": {
+          "url": "https://braincatalogue.org/data/Nile_crocodile/mesh.ply",
+          "size": null
+        },
+        "Telencephalon.nii.gz": {
+          "url": "https://braincatalogue.org/data/Nile_crocodile/Telencephalon.nii.gz",
+          "size": "45065"
+        },
+        "MRI.nii.gz": {
+          "url": "https://braincatalogue.org/data/Nile_crocodile/MRI.nii.gz",
+          "size": "656409"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Telencephalon.nii.gz"
+      ],
+      "labels_empty": [],
+      "checks": {
+        "Telencephalon.nii.gz": {
+          "ok": true,
+          "dims": [
+            109,
+            341,
+            80
+          ],
+          "pixdim_mm": [
+            0.3,
+            0.3,
+            0.3
+          ],
+          "voxels": 2973520,
+          "bytes": 2973872,
+          "md5": "1ed333bd4b79f1cc6dc953b2cf01c18a",
+          "all_zero": false
+        }
+      }
+    },
+    "Nursehound": {
+      "site_files": {
+        "Telencephalon.nii.gz": {
+          "url": "https://braincatalogue.org/data/Nursehound/Telencephalon.nii.gz",
+          "size": "124768"
+        },
+        "MRI.nii.gz": {
+          "url": "https://braincatalogue.org/data/Nursehound/MRI.nii.gz",
+          "size": "7395933"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Telencephalon.nii.gz"
+      ],
+      "labels_empty": [],
+      "checks": {
+        "Telencephalon.nii.gz": {
+          "ok": true,
+          "dims": [
+            211,
+            480,
+            141
+          ],
+          "pixdim_mm": [
+            0.35,
+            0.35,
+            0.35
+          ],
+          "voxels": 14280480,
+          "bytes": 14280832,
+          "md5": "aa3f9df46192f5d5ee791426843d5a84",
+          "all_zero": false
+        }
+      }
+    },
+    "Okapi": {
+      "site_files": {
+        "Telencephalon.nii.gz": {
+          "url": "https://braincatalogue.org/data/Okapi/Telencephalon.nii.gz",
+          "size": "539229"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Okapi/Hippocampus.nii.gz",
+          "size": "29151"
+        },
+        "MRI.nii.gz": {
+          "url": "https://braincatalogue.org/data/Okapi/MRI.nii.gz",
+          "size": "19497224"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Hippocampus.nii.gz",
+        "Telencephalon.nii.gz"
+      ],
+      "labels_empty": [],
+      "checks": {
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            303,
+            418,
+            233
+          ],
+          "pixdim_mm": [
+            0.3,
+            0.3,
+            0.3
+          ],
+          "voxels": 29510382,
+          "bytes": 29510734,
+          "md5": "59747c1e481ceae6e3e87ba591041d43",
+          "all_zero": false
+        },
+        "Telencephalon.nii.gz": {
+          "ok": true,
+          "dims": [
+            303,
+            418,
+            233
+          ],
+          "pixdim_mm": [
+            0.3,
+            0.3,
+            0.3
+          ],
+          "voxels": 29510382,
+          "bytes": 29510734,
+          "md5": "28e8260c4032b390080d65586394474f",
+          "all_zero": false
+        }
+      }
+    },
+    "Orangutan": {
+      "site_files": {
+        "mesh.ply": {
+          "url": "https://braincatalogue.org/data/Orangutan/mesh.ply",
+          "size": null
+        },
+        "Atlas.nii.gz": {
+          "url": "https://braincatalogue.org/data/Orangutan/Atlas.nii.gz",
+          "size": "187206"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Orangutan/Hippocampus.nii.gz",
+          "size": "10449"
+        },
+        "MRI-n4.nii.gz": {
+          "url": "https://braincatalogue.org/data/Orangutan/MRI-n4.nii.gz",
+          "size": "7466081"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Atlas.nii.gz"
+      ],
+      "labels_empty": [
+        "Hippocampus.nii.gz"
+      ],
+      "checks": {
+        "Atlas.nii.gz": {
+          "ok": true,
+          "dims": [
+            210,
+            240,
+            210
+          ],
+          "pixdim_mm": [
+            0.4,
+            0.4,
+            0.4
+          ],
+          "voxels": 10584000,
+          "bytes": 10584352,
+          "md5": "a4c454658cd008c2d56102fef55c7535",
+          "all_zero": false
+        },
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            210,
+            240,
+            210
+          ],
+          "pixdim_mm": [
+            0.4,
+            0.4,
+            0.4
+          ],
+          "voxels": 10584000,
+          "bytes": 10584352,
+          "md5": "d591945c8f8076f5f0e083f4d35f3c3e",
+          "all_zero": true,
+          "verdict": "EMPTY PLACEHOLDER \u2014 correct grid, zero data"
+        }
+      }
+    },
+    "Ostrich": {
+      "site_files": {
+        "Telencephalon.nii.gz": {
+          "url": "https://braincatalogue.org/data/Ostrich/Telencephalon.nii.gz",
+          "size": "183166"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Ostrich/Hippocampus.nii.gz",
+          "size": "8459"
+        },
+        "MRI.nii.gz": {
+          "url": "https://braincatalogue.org/data/Ostrich/MRI.nii.gz",
+          "size": "6643492"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Telencephalon.nii.gz"
+      ],
+      "labels_empty": [
+        "Hippocampus.nii.gz"
+      ],
+      "checks": {
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            201,
+            258,
+            164
+          ],
+          "pixdim_mm": [
+            0.2455,
+            0.2455,
+            0.25
+          ],
+          "voxels": 8504712,
+          "bytes": 8505064,
+          "md5": "d166b14bdb203580a1cdefc2281d34f6",
+          "all_zero": true,
+          "verdict": "EMPTY PLACEHOLDER \u2014 correct grid, zero data"
+        },
+        "Telencephalon.nii.gz": {
+          "ok": true,
+          "dims": [
+            201,
+            258,
+            164
+          ],
+          "pixdim_mm": [
+            0.2455,
+            0.2455,
+            0.25
+          ],
+          "voxels": 8504712,
+          "bytes": 8505064,
+          "md5": "e7c7e063288fe4d8ebe502ce9b6dc368",
+          "all_zero": false
+        }
+      }
+    },
+    "Plains_zebra": {
+      "site_files": {
+        "Telencephalon.nii.gz": {
+          "url": "https://braincatalogue.org/data/Plains_zebra/Telencephalon.nii.gz",
+          "size": "301011"
+        },
+        "MRI.nii.gz": {
+          "url": "https://braincatalogue.org/data/Plains_zebra/MRI.nii.gz",
+          "size": "23360265"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Telencephalon.nii.gz"
+      ],
+      "labels_empty": [],
+      "checks": {
+        "Telencephalon.nii.gz": {
+          "ok": true,
+          "dims": [
+            243,
+            313,
+            227
+          ],
+          "pixdim_mm": [
+            0.4,
+            0.4,
+            0.4
+          ],
+          "voxels": 17265393,
+          "bytes": 17265745,
+          "md5": "385af73a857b976db395391a38be8ad7",
+          "all_zero": false
+        }
+      }
+    },
+    "Platypus": {
+      "site_files": {
+        "Telencephalon.nii.gz": {
+          "url": "https://braincatalogue.org/data/Platypus/Telencephalon.nii.gz",
+          "size": "90135"
+        },
+        "MRI.nii.gz": {
+          "url": "https://braincatalogue.org/data/Platypus/MRI.nii.gz",
+          "size": "12538165"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Telencephalon.nii.gz"
+      ],
+      "labels_empty": [],
+      "checks": {
+        "Telencephalon.nii.gz": {
+          "ok": true,
+          "dims": [
+            187,
+            432,
+            192
+          ],
+          "pixdim_mm": [
+            0.25,
+            0.25,
+            0.25
+          ],
+          "voxels": 15510528,
+          "bytes": 15510880,
+          "md5": "31b50d909b44e37795d32457e26c8e27",
+          "all_zero": false
+        }
+      }
+    },
+    "Red-necked_wallaby": {
+      "site_files": {
+        "Atlas.nii.gz": {
+          "url": "https://braincatalogue.org/data/Red-necked_wallaby/Atlas.nii.gz",
+          "size": "31051"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Red-necked_wallaby/Hippocampus.nii.gz",
+          "size": "1382"
+        },
+        "MRI-n4.nii.gz": {
+          "url": "https://braincatalogue.org/data/Red-necked_wallaby/MRI-n4.nii.gz",
+          "size": "885914"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Atlas.nii.gz"
+      ],
+      "labels_empty": [
+        "Hippocampus.nii.gz"
+      ],
+      "checks": {
+        "Atlas.nii.gz": {
+          "ok": true,
+          "dims": [
+            69,
+            189,
+            90
+          ],
+          "pixdim_mm": [
+            0.5,
+            0.3125,
+            0.3125
+          ],
+          "voxels": 1173690,
+          "bytes": 1174042,
+          "md5": "3fdbef439d22c4d33b61afe95102ea73",
+          "all_zero": false
+        },
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            69,
+            189,
+            90
+          ],
+          "pixdim_mm": [
+            0.5,
+            0.3125,
+            0.3125
+          ],
+          "voxels": 1173690,
+          "bytes": 1174042,
+          "md5": "b7ab3027b52b481f2154476c3bfcdf34",
+          "all_zero": true,
+          "verdict": "EMPTY PLACEHOLDER \u2014 correct grid, zero data"
+        }
+      }
+    },
+    "Red_kangaroo": {
+      "site_files": {
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Red_kangaroo/Hippocampus.nii.gz",
+          "size": "8987"
+        },
+        "Atlas.nii.gz": {
+          "url": "https://braincatalogue.org/data/Red_kangaroo/Atlas.nii.gz",
+          "size": "65238"
+        },
+        "MRI-n4.nii.gz": {
+          "url": "https://braincatalogue.org/data/Red_kangaroo/MRI-n4.nii.gz",
+          "size": "2262468"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Atlas.nii.gz",
+        "Hippocampus.nii.gz"
+      ],
+      "labels_empty": [],
+      "checks": {
+        "Atlas.nii.gz": {
+          "ok": true,
+          "dims": [
+            110,
+            220,
+            120
+          ],
+          "pixdim_mm": [
+            0.5,
+            0.3125,
+            0.3125
+          ],
+          "voxels": 2904000,
+          "bytes": 2904352,
+          "md5": "fea15566e4ed6c8a2e3610ae2018068b",
+          "all_zero": false
+        },
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            110,
+            220,
+            120
+          ],
+          "pixdim_mm": [
+            0.33,
+            0.33,
+            0.33
+          ],
+          "voxels": 2904000,
+          "bytes": 2904352,
+          "md5": "acf1ebeea0166eedfdef74e1fc3a2843",
+          "all_zero": false
+        }
+      }
+    },
+    "Red_squirrel": {
+      "site_files": {
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Red_squirrel/Hippocampus.nii.gz",
+          "size": "36676"
+        },
+        "Atlas.nii.gz": {
+          "url": "https://braincatalogue.org/data/Red_squirrel/Atlas.nii.gz",
+          "size": "36076"
+        },
+        "MRI-n4.nii.gz": {
+          "url": "https://braincatalogue.org/data/Red_squirrel/MRI-n4.nii.gz",
+          "size": "1461306"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Atlas.nii.gz",
+        "Hippocampus.nii.gz"
+      ],
+      "labels_empty": [],
+      "checks": {
+        "Atlas.nii.gz": {
+          "ok": true,
+          "dims": [
+            150,
+            163,
+            105
+          ],
+          "pixdim_mm": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "voxels": 2567250,
+          "bytes": 2567602,
+          "md5": "a832d967b61b48517fbc7e984306eb70",
+          "all_zero": false
+        },
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            150,
+            163,
+            105
+          ],
+          "pixdim_mm": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "voxels": 2567250,
+          "bytes": 2567602,
+          "md5": "4585186a260bec3970e1dc8055b2dad4",
+          "all_zero": false
+        }
+      }
+    },
+    "Rhesus_macaque": {
+      "site_files": {
+        "Telencephalon.nii.gz": {
+          "url": "https://braincatalogue.org/data/Rhesus_macaque/Telencephalon.nii.gz",
+          "size": "160491"
+        },
+        "Cerebrum.nii.gz": {
+          "url": "https://braincatalogue.org/data/Rhesus_macaque/Cerebrum.nii.gz",
+          "size": "126101"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Rhesus_macaque/Hippocampus.nii.gz",
+          "size": "6395"
+        },
+        "Striatum.nii.gz": {
+          "url": "https://braincatalogue.org/data/Rhesus_macaque/Striatum.nii.gz",
+          "size": "6392"
+        },
+        "Cerebellum.nii.gz": {
+          "url": "https://braincatalogue.org/data/Rhesus_macaque/Cerebellum.nii.gz",
+          "size": "98970"
+        },
+        "MRI.nii.gz": {
+          "url": "https://braincatalogue.org/data/Rhesus_macaque/MRI.nii.gz",
+          "size": "11129902"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Cerebellum.nii.gz",
+        "Telencephalon.nii.gz"
+      ],
+      "labels_empty": [
+        "Hippocampus.nii.gz"
+      ],
+      "checks": {
+        "Cerebellum.nii.gz": {
+          "ok": true,
+          "dims": [
+            183,
+            235,
+            148
+          ],
+          "pixdim_mm": [
+            0.25,
+            0.25,
+            0.25
+          ],
+          "voxels": 6364740,
+          "bytes": 6365092,
+          "md5": "da4aa9df9e79d3964c8072613b04d2a3",
+          "all_zero": false
+        },
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            183,
+            235,
+            148
+          ],
+          "pixdim_mm": [
+            0.25,
+            0.25,
+            0.25
+          ],
+          "voxels": 6364740,
+          "bytes": 6365092,
+          "md5": "aacd9402ac460e4553b2a8a44b180393",
+          "all_zero": true,
+          "verdict": "EMPTY PLACEHOLDER \u2014 correct grid, zero data"
+        },
+        "Telencephalon.nii.gz": {
+          "ok": true,
+          "dims": [
+            183,
+            235,
+            148
+          ],
+          "pixdim_mm": [
+            0.25,
+            0.25,
+            0.25
+          ],
+          "voxels": 6364740,
+          "bytes": 6365092,
+          "md5": "980f66bbd1467a0831e619d74b5366de",
+          "all_zero": false
+        }
+      }
+    },
+    "Sloth_bear": {
+      "site_files": {
+        "mesh.ply": {
+          "url": "https://braincatalogue.org/data/Sloth_bear/mesh.ply",
+          "size": null
+        },
+        "MRI-n4.nii.gz": {
+          "url": "https://braincatalogue.org/data/Sloth_bear/MRI-n4.nii.gz",
+          "size": "13622051"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Sloth_bear/Hippocampus.nii.gz",
+          "size": "90721"
+        },
+        "Atlas.nii.gz": {
+          "url": "https://braincatalogue.org/data/Sloth_bear/Atlas.nii.gz",
+          "size": "243346"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Atlas.nii.gz",
+        "Hippocampus.nii.gz"
+      ],
+      "labels_empty": [],
+      "checks": {
+        "Atlas.nii.gz": {
+          "ok": true,
+          "dims": [
+            230,
+            300,
+            270
+          ],
+          "pixdim_mm": [
+            0.33,
+            0.33,
+            0.33
+          ],
+          "voxels": 18630000,
+          "bytes": 18630352,
+          "md5": "d4d4992d35cd1d1e7613c1fe9414cfa3",
+          "all_zero": false
+        },
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            230,
+            300,
+            270
+          ],
+          "pixdim_mm": [
+            0.33,
+            0.33,
+            0.33
+          ],
+          "voxels": 18630000,
+          "bytes": 18630352,
+          "md5": "5267cc26d8909e3f6a8f9cfdefe81ad9",
+          "all_zero": false
+        }
+      }
+    },
+    "Slow_loris": {
+      "site_files": {
+        "mesh.ply": {
+          "url": "https://braincatalogue.org/data/Slow_loris/mesh.ply",
+          "size": null
+        },
+        "Atlas.nii.gz": {
+          "url": "https://braincatalogue.org/data/Slow_loris/Atlas.nii.gz",
+          "size": "33938"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Slow_loris/Hippocampus.nii.gz",
+          "size": "2044"
+        },
+        "MRI-n4.nii.gz": {
+          "url": "https://braincatalogue.org/data/Slow_loris/MRI-n4.nii.gz",
+          "size": "993095"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Atlas.nii.gz"
+      ],
+      "labels_empty": [
+        "Hippocampus.nii.gz"
+      ],
+      "checks": {
+        "Atlas.nii.gz": {
+          "ok": true,
+          "dims": [
+            138,
+            140,
+            100
+          ],
+          "pixdim_mm": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "voxels": 1932000,
+          "bytes": 1932352,
+          "md5": "c91cd9c89e9607ee51e9dbfbf0c57e63",
+          "all_zero": false
+        },
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            138,
+            140,
+            100
+          ],
+          "pixdim_mm": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "voxels": 1932000,
+          "bytes": 1932352,
+          "md5": "e4349d0e2629defc9ea36edcca08308e",
+          "all_zero": true,
+          "verdict": "EMPTY PLACEHOLDER \u2014 correct grid, zero data"
+        }
+      }
+    },
+    "Thylacine": {
+      "site_files": {
+        "Cerebrum.nii.gz": {
+          "url": "https://braincatalogue.org/data/Thylacine/Cerebrum.nii.gz",
+          "size": "1155194"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/Thylacine/Hippocampus.nii.gz",
+          "size": "114862"
+        },
+        "MRI.nii.gz": {
+          "url": "https://braincatalogue.org/data/Thylacine/MRI.nii.gz",
+          "size": "86943380"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [],
+      "labels_empty": [
+        "Hippocampus.nii.gz"
+      ],
+      "checks": {
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            550,
+            551,
+            390
+          ],
+          "pixdim_mm": [
+            0.075,
+            0.075,
+            0.075
+          ],
+          "voxels": 118189500,
+          "bytes": 118189852,
+          "md5": "da8c7900914bd5ac4b6f7903a6178160",
+          "all_zero": true,
+          "verdict": "EMPTY PLACEHOLDER \u2014 correct grid, zero data"
+        }
+      }
+    },
+    "White-headed_capuchin": {
+      "site_files": {
+        "Cerebrum.nii.gz": {
+          "url": "https://braincatalogue.org/data/White-headed_capuchin/Cerebrum.nii.gz",
+          "size": "111576"
+        },
+        "Neocortex.nii.gz": {
+          "url": "https://braincatalogue.org/data/White-headed_capuchin/Neocortex.nii.gz",
+          "size": "139500"
+        },
+        "Telencephalon.nii.gz": {
+          "url": "https://braincatalogue.org/data/White-headed_capuchin/Telencephalon.nii.gz",
+          "size": "92631"
+        },
+        "Hippocampus.nii.gz": {
+          "url": "https://braincatalogue.org/data/White-headed_capuchin/Hippocampus.nii.gz",
+          "size": "5109"
+        },
+        "MRI.nii.gz": {
+          "url": "https://braincatalogue.org/data/White-headed_capuchin/MRI.nii.gz",
+          "size": "5267247"
+        }
+      },
+      "new_vs_local": [],
+      "local_not_on_site": [],
+      "labels_real": [
+        "Neocortex.nii.gz",
+        "Telencephalon.nii.gz"
+      ],
+      "labels_empty": [
+        "Hippocampus.nii.gz"
+      ],
+      "checks": {
+        "Hippocampus.nii.gz": {
+          "ok": true,
+          "dims": [
+            160,
+            223,
+            142
+          ],
+          "pixdim_mm": [
+            0.2833,
+            0.2833,
+            0.28
+          ],
+          "voxels": 5066560,
+          "bytes": 5066912,
+          "md5": "14987c322c2a187e9c1900b1b604326b",
+          "all_zero": true,
+          "verdict": "EMPTY PLACEHOLDER \u2014 correct grid, zero data"
+        },
+        "Neocortex.nii.gz": {
+          "ok": true,
+          "dims": [
+            160,
+            223,
+            142
+          ],
+          "pixdim_mm": [
+            0.2833,
+            0.2833,
+            0.28
+          ],
+          "voxels": 5066560,
+          "bytes": 5066912,
+          "md5": "fbe158356b44f58140253e239afa513b",
+          "all_zero": false
+        },
+        "Telencephalon.nii.gz": {
+          "ok": true,
+          "dims": [
+            160,
+            223,
+            142
+          ],
+          "pixdim_mm": [
+            0.2833,
+            0.2833,
+            0.28
+          ],
+          "voxels": 5066560,
+          "bytes": 5066912,
+          "md5": "7db0241bbbaa210b19d182334b22af4c",
+          "all_zero": false
+        }
+      }
+    }
+  },
+  "new_finds": []
+}

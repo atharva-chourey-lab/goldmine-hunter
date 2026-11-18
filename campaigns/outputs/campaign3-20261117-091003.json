@@ -1,0 +1,620 @@
+{
+  "campaign3_science": [
+    {
+      "label": "SILSO sunspot numbers (historical astro stats)",
+      "url": "https://www.sidc.be/SILSO/home",
+      "pages": 25,
+      "unique_data_files": 1,
+      "top": [
+        {
+          "name": "ROB_TSI_composite_latest.txt",
+          "url": "http://www.sidc.be/users/stevend/ROB_TSI_composite_latest.txt",
+          "score": 4
+        }
+      ],
+      "wayback_data_files": 64,
+      "wayback_sets": {
+        "/.well-known": 6,
+        "/": 3,
+        "/cactus/catalog/LASCO/2_5_0/2009/01/CME0002": 3,
+        "/cactus/catalog/LASCO/2_5_0/2009/01/CME0003": 3,
+        "/cactus/catalog/LASCO/2_5_0/2009/01/CME0010": 3,
+        "/cactus/catalog/LASCO/2_5_0/1998/02": 1,
+        "/cactus/catalog/LASCO/2_5_0/1998/03": 1,
+        "/cactus/catalog/LASCO/2_5_0/1998/04": 1,
+        "/cactus/catalog/LASCO/2_5_0/1999/05": 1,
+        "/cactus/catalog/LASCO/2_5_0/1999/08": 1,
+        "/cactus/catalog/LASCO/2_5_0/1999/11": 1,
+        "/cactus/catalog/LASCO/2_5_0/1999/12": 1
+      },
+      "wayback_top": [
+        {
+          "name": "atom.xml",
+          "url": "https://www.sidc.be/atom.xml",
+          "first_capture": "20241201160016",
+          "status": "404"
+        },
+        {
+          "name": "CME.mov",
+          "url": "https://www.sidc.be/cactus/catalog/LASCO/2_5_0/2009/01/CME0002/CME.mov",
+          "first_capture": "20261013072826",
+          "status": "200"
+        },
+        {
+          "name": "CME.mp4",
+          "url": "https://www.sidc.be/cactus/catalog/LASCO/2_5_0/2009/01/CME0002/CME.mp4",
+          "first_capture": "20261008170636",
+          "status": "206"
+        },
+        {
+          "name": "CME.mov",
+          "url": "https://www.sidc.be/cactus/catalog/LASCO/2_5_0/2009/01/CME0003/CME.mov",
+          "first_capture": "20261009131311",
+          "status": "200"
+        },
+        {
+          "name": "CME.mp4",
+          "url": "https://www.sidc.be/cactus/catalog/LASCO/2_5_0/2009/01/CME0003/CME.mp4",
+          "first_capture": "20261008232733",
+          "status": "200"
+        },
+        {
+          "name": "CME.mov",
+          "url": "https://www.sidc.be/cactus/catalog/LASCO/2_5_0/2009/01/CME0010/CME.mov",
+          "first_capture": "20261009132815",
+          "status": "200"
+        },
+        {
+          "name": "CME.mp4",
+          "url": "https://www.sidc.be/cactus/catalog/LASCO/2_5_0/2009/01/CME0010/CME.mp4",
+          "first_capture": "20261008170105",
+          "status": "206"
+        },
+        {
+          "name": "ai-plugin.json",
+          "url": "https://www.sidc.be/.well-known/ai-plugin.json",
+          "first_capture": "20230531134651",
+          "status": "404"
+        },
+        {
+          "name": "assetlinks.json",
+          "url": "https://www.sidc.be/.well-known/assetlinks.json",
+          "first_capture": "20230531134347",
+          "status": "404"
+        },
+        {
+          "name": "dnt-policy.txt",
+          "url": "https://www.sidc.be/.well-known/dnt-policy.txt",
+          "first_capture": "20230531134442",
+          "status": "404"
+        },
+        {
+          "name": "gpc.json",
+          "url": "https://www.sidc.be/.well-known/gpc.json",
+          "first_capture": "20230531134505",
+          "status": "404"
+        },
+        {
+          "name": "security.txt",
+          "url": "https://www.sidc.be/.well-known/security.txt",
+          "first_capture": "20230531134521",
+          "status": "404"
+        },
+        {
+          "name": "trust.txt",
+          "url": "https://www.sidc.be/.well-known/trust.txt",
+          "first_capture": "20230531134624",
+          "status": "404"
+        },
+        {
+          "name": "ads.txt",
+          "url": "http://sidc.be/ads.txt",
+          "first_capture": "20210518163717",
+          "status": "404"
+        },
+        {
+          "name": "app-ads.txt",
+          "url": "https://www.sidc.be/app-ads.txt",
+          "first_capture": "20230531134553",
+          "status": "404"
+        },
+        {
+          "name": "cmecat.txt",
+          "url": "https://www.sidc.be/cactus/catalog/LASCO/2_5_0/1998/02/cmecat.txt",
+          "first_capture": "20260610093736",
+          "status": "200"
+        },
+        {
+          "name": "cmecat.txt",
+          "url": "https://www.sidc.be/cactus/catalog/LASCO/2_5_0/1998/03/cmecat.txt",
+          "first_capture": "20260615175438",
+          "status": "200"
+        },
+        {
+          "name": "cmecat.txt",
+          "url": "https://www.sidc.be/cactus/catalog/LASCO/2_5_0/1998/04/cmecat.txt",
+          "first_capture": "20260608054744",
+          "status": "200"
+        },
+        {
+          "name": "cmecat.txt",
+          "url": "https://www.sidc.be/cactus/catalog/LASCO/2_5_0/1999/05/cmecat.txt",
+          "first_capture": "20260612140428",
+          "status": "200"
+        },
+        {
+          "name": "cmecat.txt",
+          "url": "https://www.sidc.be/cactus/catalog/LASCO/2_5_0/1999/08/cmecat.txt",
+          "first_capture": "20260607110427",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "FishBase species traits (ecology)",
+      "url": "https://www.fishbase.se",
+      "pages": 1,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files": 8,
+      "wayback_sets": {
+        "/.well-known": 6,
+        "/": 2
+      },
+      "wayback_top": [
+        {
+          "name": "ai-plugin.json",
+          "url": "https://www.fishbase.se/.well-known/ai-plugin.json",
+          "first_capture": "20230531170421",
+          "status": "404"
+        },
+        {
+          "name": "assetlinks.json",
+          "url": "https://www.fishbase.se/.well-known/assetlinks.json",
+          "first_capture": "20230531170234",
+          "status": "404"
+        },
+        {
+          "name": "dnt-policy.txt",
+          "url": "https://www.fishbase.se/.well-known/dnt-policy.txt",
+          "first_capture": "20230531170231",
+          "status": "404"
+        },
+        {
+          "name": "gpc.json",
+          "url": "https://www.fishbase.se/.well-known/gpc.json",
+          "first_capture": "20230531170331",
+          "status": "404"
+        },
+        {
+          "name": "security.txt",
+          "url": "https://www.fishbase.se/.well-known/security.txt",
+          "first_capture": "20230531170224",
+          "status": "404"
+        },
+        {
+          "name": "trust.txt",
+          "url": "https://www.fishbase.se/.well-known/trust.txt",
+          "first_capture": "20230531170301",
+          "status": "404"
+        },
+        {
+          "name": "ads.txt",
+          "url": "https://www.fishbase.se/ads.txt",
+          "first_capture": "20230531170245",
+          "status": "404"
+        },
+        {
+          "name": "app-ads.txt",
+          "url": "https://www.fishbase.se/app-ads.txt",
+          "first_capture": "20230531170110",
+          "status": "404"
+        }
+      ]
+    },
+    {
+      "label": "TimeTree divergence times (evolution)",
+      "url": "https://timetree.org",
+      "pages": 12,
+      "unique_data_files": 5,
+      "top": [
+        {
+          "name": "TT6_Amphibians_tip_metrics.csv",
+          "url": "https://timetree.org/downloads/biodiversity/TT6_Amphibians_tip_metrics.csv",
+          "score": 6
+        },
+        {
+          "name": "TT6_Gymnosperms_tip_metrics.csv",
+          "url": "https://timetree.org/downloads/biodiversity/TT6_Gymnosperms_tip_metrics.csv",
+          "score": 6
+        },
+        {
+          "name": "TT6_Mammals_tip_metrics.csv",
+          "url": "https://timetree.org/downloads/biodiversity/TT6_Mammals_tip_metrics.csv",
+          "score": 6
+        },
+        {
+          "name": "TT6_Reptiles_tip_metrics.csv",
+          "url": "https://timetree.org/downloads/biodiversity/TT6_Reptiles_tip_metrics.csv",
+          "score": 6
+        },
+        {
+          "name": "TT6_Tetrapods_tip_metrics.csv",
+          "url": "https://timetree.org/downloads/biodiversity/TT6_Tetrapods_tip_metrics.csv",
+          "score": 6
+        }
+      ],
+      "wayback_data_files": 15,
+      "wayback_sets": {
+        "/": 8,
+        "/.well-known": 6,
+        "/feeds": 1
+      },
+      "wayback_top": [
+        {
+          "name": "atom.xml",
+          "url": "https://timetree.org/atom.xml",
+          "first_capture": "20241229020745",
+          "status": "200"
+        },
+        {
+          "name": "feed.xml",
+          "url": "https://timetree.org/feed.xml",
+          "first_capture": "20241229022348",
+          "status": "200"
+        },
+        {
+          "name": "all.atom.xml",
+          "url": "https://timetree.org/feeds/all.atom.xml",
+          "first_capture": "20241229023133",
+          "status": "200"
+        },
+        {
+          "name": "index.xml",
+          "url": "https://timetree.org/index.xml",
+          "first_capture": "20241229015258",
+          "status": "200"
+        },
+        {
+          "name": "sitemap.xml",
+          "url": "https://www.timetree.org/sitemap.xml",
+          "first_capture": "20221011185312",
+          "status": "301"
+        },
+        {
+          "name": "ai-plugin.json",
+          "url": "https://www.timetree.org/.well-known/ai-plugin.json",
+          "first_capture": "20230608013244",
+          "status": "301"
+        },
+        {
+          "name": "assetlinks.json",
+          "url": "https://www.timetree.org/.well-known/assetlinks.json",
+          "first_capture": "20230608013309",
+          "status": "301"
+        },
+        {
+          "name": "dnt-policy.txt",
+          "url": "https://www.timetree.org/.well-known/dnt-policy.txt",
+          "first_capture": "20230608013302",
+          "status": "301"
+        },
+        {
+          "name": "gpc.json",
+          "url": "https://www.timetree.org/.well-known/gpc.json",
+          "first_capture": "20230608013242",
+          "status": "301"
+        },
+        {
+          "name": "security.txt",
+          "url": "https://timetree.org/.well-known/security.txt",
+          "first_capture": "20230608013347",
+          "status": "200"
+        },
+        {
+          "name": "trust.txt",
+          "url": "https://www.timetree.org/.well-known/trust.txt",
+          "first_capture": "20230608013254",
+          "status": "301"
+        },
+        {
+          "name": "ads.txt",
+          "url": "http://timetree.org/ads.txt",
+          "first_capture": "20210518221451",
+          "status": "200"
+        },
+        {
+          "name": "app-ads.txt",
+          "url": "https://www.timetree.org/app-ads.txt",
+          "first_capture": "20230608013302",
+          "status": "301"
+        },
+        {
+          "name": "llms.txt",
+          "url": "http://timetree.org/llms.txt",
+          "first_capture": "20260813024731",
+          "status": "200"
+        },
+        {
+          "name": "robots.txt",
+          "url": "http://timetree.org/robots.txt",
+          "first_capture": "20070721194826",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "Exoplanet Encyclopaedia (astro)",
+      "url": "https://exoplanet.eu",
+      "pages": 24,
+      "unique_data_files": 6,
+      "top": [
+        {
+          "name": "exoris_curves.json",
+          "url": "https://exoplanet.eu/static/catalog_legacy/json/exoris_curves.json",
+          "score": 4
+        },
+        {
+          "name": "plan_binall.txt",
+          "url": "https://lesia.obspm.fr/perso/philippe-thebault/plan_binall.txt",
+          "score": 4
+        },
+        {
+          "name": "plan_bin500au.txt",
+          "url": "https://lesia.obspm.fr/perso/philippe-thebault/plan_bin500au.txt",
+          "score": 4
+        },
+        {
+          "name": "bootstrap-icons.json",
+          "url": "https://exoplanet.eu/exo3d/node_modules/bootstrap-icons/font/bootstrap-icons.json",
+          "score": 4
+        },
+        {
+          "name": "plan_allbinallg.txt",
+          "url": "https://lira.obspm.fr/perso/philippe-thebault/plan_allbinallg.txt",
+          "score": 4
+        },
+        {
+          "name": "plan_circ.txt",
+          "url": "https://lesia.obspm.fr/perso/philippe-thebault/plan_circ.txt",
+          "score": 4
+        }
+      ],
+      "wayback_data_files": 10,
+      "wayback_sets": {
+        "/.well-known": 6,
+        "/": 2,
+        "/bibliography/books/papers": 1,
+        "/bibliography/papers": 1
+      },
+      "wayback_top": [
+        {
+          "name": "ai-plugin.json",
+          "url": "http://exoplanet.eu/.well-known/ai-plugin.json",
+          "first_capture": "20230707011022",
+          "status": "404"
+        },
+        {
+          "name": "assetlinks.json",
+          "url": "http://exoplanet.eu/.well-known/assetlinks.json",
+          "first_capture": "20230715040938",
+          "status": "404"
+        },
+        {
+          "name": "dnt-policy.txt",
+          "url": "http://exoplanet.eu/.well-known/dnt-policy.txt",
+          "first_capture": "20230714173821",
+          "status": "404"
+        },
+        {
+          "name": "gpc.json",
+          "url": "http://exoplanet.eu/.well-known/gpc.json",
+          "first_capture": "20230707012949",
+          "status": "404"
+        },
+        {
+          "name": "security.txt",
+          "url": "http://exoplanet.eu/.well-known/security.txt",
+          "first_capture": "20230715041256",
+          "status": "404"
+        },
+        {
+          "name": "trust.txt",
+          "url": "http://exoplanet.eu/.well-known/trust.txt",
+          "first_capture": "20230707005410",
+          "status": "404"
+        },
+        {
+          "name": "ads.txt",
+          "url": "http://exoplanet.eu/ads.txt",
+          "first_capture": "20210518145628",
+          "status": "404"
+        },
+        {
+          "name": "app-ads.txt",
+          "url": "http://exoplanet.eu/app-ads.txt",
+          "first_capture": "20230707010101",
+          "status": "404"
+        },
+        {
+          "name": "Argu-traces.txt",
+          "url": "http://exoplanet.eu/bibliography/books/papers/Argu-traces.txt",
+          "first_capture": "20170602224607",
+          "status": "404"
+        },
+        {
+          "name": "Argu-traces.txt",
+          "url": "http://exoplanet.eu/bibliography/papers/Argu-traces.txt",
+          "first_capture": "20200715233549",
+          "status": "404"
+        }
+      ]
+    },
+    {
+      "label": "Paleobiology Database (paleo)",
+      "url": "https://paleobiodb.org",
+      "pages": 14,
+      "unique_data_files": 4,
+      "top": [
+        {
+          "name": "rb.csv",
+          "url": "https://paleobiodb.org/classic/rb.csv",
+          "score": 6
+        },
+        {
+          "name": "rb.tsv",
+          "url": "https://paleobiodb.org/classic/rb.tsv",
+          "score": 6
+        },
+        {
+          "name": "rb.json",
+          "url": "https://paleobiodb.org/classic/rb.json",
+          "score": 4
+        },
+        {
+          "name": "list.json",
+          "url": "https://paleobiodb.org/app/values changed to match occs/list.json",
+          "score": 4
+        }
+      ],
+      "wayback_data_files": 10,
+      "wayback_sets": {
+        "/.well-known": 6,
+        "/": 3,
+        "/assets/pages": 1
+      },
+      "wayback_top": [
+        {
+          "name": "atom.xml",
+          "url": "https://paleobiodb.org/atom.xml",
+          "first_capture": "20250214101606",
+          "status": "404"
+        },
+        {
+          "name": "ai-plugin.json",
+          "url": "https://www.paleobiodb.org/.well-known/ai-plugin.json",
+          "first_capture": "20230614174617",
+          "status": "301"
+        },
+        {
+          "name": "assetlinks.json",
+          "url": "https://www.paleobiodb.org/.well-known/assetlinks.json",
+          "first_capture": "20230614174843",
+          "status": "-"
+        },
+        {
+          "name": "dnt-policy.txt",
+          "url": "https://www.paleobiodb.org/.well-known/dnt-policy.txt",
+          "first_capture": "20230614180249",
+          "status": "301"
+        },
+        {
+          "name": "gpc.json",
+          "url": "https://www.paleobiodb.org/.well-known/gpc.json",
+          "first_capture": "20230614182801",
+          "status": "301"
+        },
+        {
+          "name": "security.txt",
+          "url": "https://www.paleobiodb.org/.well-known/security.txt",
+          "first_capture": "20230614180219",
+          "status": "301"
+        },
+        {
+          "name": "trust.txt",
+          "url": "https://www.paleobiodb.org/.well-known/trust.txt",
+          "first_capture": "20230614175517",
+          "status": "301"
+        },
+        {
+          "name": "ads.txt",
+          "url": "http://paleobiodb.org/ads.txt",
+          "first_capture": "20210518154927",
+          "status": "301"
+        },
+        {
+          "name": "app-ads.txt",
+          "url": "https://paleobiodb.org/app-ads.txt",
+          "first_capture": "20230602042435",
+          "status": "404"
+        },
+        {
+          "name": "alert.txt",
+          "url": "https://paleobiodb.org/assets/pages/alert.txt",
+          "first_capture": "20200526115623",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "Gapminder historical stats (stats)",
+      "url": "https://www.gapminder.org",
+      "pages": 21,
+      "unique_data_files": 4,
+      "top": [
+        {
+          "name": "browserconfig.xml",
+          "url": "https://www.gapminder.org/icn/browserconfig.xml",
+          "score": 6
+        },
+        {
+          "name": "video_480x.mp4",
+          "url": "https://media.dollarstreet.org/6532d9589bcf8d9e05dc9251/eb27fa687dde48db8f622151e2c5eb56/videos/video_480x.mp4",
+          "score": 6
+        },
+        {
+          "name": "video.mp4",
+          "url": "https://media.dollarstreet.org/6532d9589bcf8d9e05dc9251/eb27fa687dde48db8f622151e2c5eb56/videos/video.mp4",
+          "score": 6
+        },
+        {
+          "name": "video_unedited.mp4",
+          "url": "https://media.dollarstreet.org/6532d9589bcf8d9e05dc9251/eb27fa687dde48db8f622151e2c5eb56/videos/video_unedited.mp4",
+          "score": 6
+        }
+      ],
+      "wayback_data_files": 6,
+      "wayback_sets": {
+        "/.well-known": 6
+      },
+      "wayback_top": [
+        {
+          "name": "ai-plugin.json",
+          "url": "https://www.gapminder.org/.well-known/ai-plugin.json",
+          "first_capture": "20230531140104",
+          "status": "404"
+        },
+        {
+          "name": "assetlinks.json",
+          "url": "https://www.gapminder.org/.well-known/assetlinks.json",
+          "first_capture": "20230602031729",
+          "status": "404"
+        },
+        {
+          "name": "dnt-policy.txt",
+          "url": "https://www.gapminder.org/.well-known/dnt-policy.txt",
+          "first_capture": "20230601225804",
+          "status": "404"
+        },
+        {
+          "name": "gpc.json",
+          "url": "https://www.gapminder.org/.well-known/gpc.json",
+          "first_capture": "20230602141515",
+          "status": "404"
+        },
+        {
+          "name": "security.txt",
+          "url": "https://www.gapminder.org/.well-known/security.txt",
+          "first_capture": "20230601212655",
+          "status": "404"
+        },
+        {
+          "name": "trust.txt",
+          "url": "https://www.gapminder.org/.well-known/trust.txt",
+          "first_capture": "20230531125724",
+          "status": "404"
+        }
+      ]
+    }
+  ]
+}

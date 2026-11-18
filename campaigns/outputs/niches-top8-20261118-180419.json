@@ -1,0 +1,281 @@
+{
+  "niches_top": [
+    {
+      "rank_input_order": 1,
+      "slug": "fish-otoliths",
+      "name": "Fish otolith (ear-stone) image & chemistry archives",
+      "family": "A. Animal bodies & senses",
+      "score": 9,
+      "score_justification": "Raw images + chemistry, dozens of lab collections, reader-vs-reader age gap, known-age anchors exist.",
+      "keywords": [
+        "otolith image archive jpg",
+        "sagitta otolith database download",
+        "otolith age reading csv xls",
+        "otolith microchemistry transect data"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".csv",
+        ".xls"
+      ],
+      "gold_words": [
+        "otolith",
+        "sagitta",
+        "annuli",
+        "microchem"
+      ],
+      "fidelity_card": {
+        "RAW": "High-resolution otolith photographs and LA-ICP-MS / isotope transect files on lab and institute sites",
+        "UNIT": "One fish specimen \u2014 hundreds per collection, dozens of species, same imaging protocol",
+        "LABEL_GAP": "Age read by reader A vs reader B vs chemistry; usually only published means survive",
+        "ANCHOR": "Known-age hatchery fish and bomb-radiocarbon validated ages"
+      },
+      "headline_shape": "A stone inside a fish's head has recorded every winter of its life \u2014 and two experts reading it can disagree by years.",
+      "why_niche": "Age labs keep their own image piles; there is no central reconciliation product, only per-lab atlases (AFORO, national collections) that never joined each other's readings.",
+      "rank_by_score": 1
+    },
+    {
+      "rank_input_order": 2,
+      "slug": "electric-fish-eod",
+      "name": "Weakly electric fish EOD waveform recordings",
+      "family": "A. Animal bodies & senses",
+      "score": 9,
+      "score_justification": "Raw .wav is the specimen; species-specific signal; taxonomy rewritten by DNA after recordings were filed by ear.",
+      "keywords": [
+        "electric organ discharge wav download",
+        "mormyrid EOD recordings archive",
+        "gymnotiform EOD waveform data",
+        "electric fish finder mp3 recordings"
+      ],
+      "signature_exts": [
+        ".wav",
+        ".mp3",
+        ".csv"
+      ],
+      "gold_words": [
+        "eod",
+        "discharge",
+        "waveform",
+        "mormyrid",
+        "gymnotiform"
+      ],
+      "fidelity_card": {
+        "RAW": "Uncompressed .wav/.mp3 electric-organ-discharge recordings with oscillogram exports, on lab and personal research sites",
+        "UNIT": "One recorded fish \u2014 hundreds of individuals, dozens of species per expedition, one electrode protocol",
+        "LABEL_GAP": "Species named by waveform at capture vs later DNA-barcode revisions of the same vouchers",
+        "ANCHOR": "Museum voucher specimens tied to recording numbers"
+      },
+      "headline_shape": "A fish that 'sees' with electricity broadcasts its own name in a waveform \u2014 and the recordings were filed under names DNA later changed.",
+      "why_niche": "A handful of labs (Cornell mormyrids, Crampton's gymnotiforms) hold expedition piles on their own sites; no cross-lab EOD library exists.",
+      "rank_by_score": 2
+    },
+    {
+      "rank_input_order": 6,
+      "slug": "frog-call-archives",
+      "name": "Frog & toad call archives (regional fonotecas)",
+      "family": "B. Other taxa",
+      "score": 9,
+      "score_justification": "The task's own example: raw .wav/.mp3 per species, regional sound libraries, call IDs vs DNA-split species.",
+      "keywords": [
+        "frog call archive wav",
+        "anuran calls download mp3",
+        "fonoteca frog recordings catalogue",
+        "toad advertisement call recordings site"
+      ],
+      "signature_exts": [
+        ".wav",
+        ".mp3",
+        ".csv"
+      ],
+      "gold_words": [
+        "call",
+        "anuran",
+        "frog",
+        "fonoteca",
+        "advertisement"
+      ],
+      "fidelity_card": {
+        "RAW": "Original .wav/.mp3 advertisement-call recordings with accession numbers, on regional fonoteca and lab sites",
+        "UNIT": "One calling male \u2014 thousands of accessions per fonoteca, hundreds of species, standard field-recorder protocol",
+        "LABEL_GAP": "Call filed under the species name at recording vs the DNA-split taxonomy of today (second ruler)",
+        "ANCHOR": "Voucher specimens and type-locality recordings"
+      },
+      "headline_shape": "A frog smaller than your thumbnail has a unique voice \u2014 and thousands of taped voices are filed under species that have since been split in three.",
+      "why_niche": "Fonoteca Zool\u00f3gica (Madrid), Fonoteca Neotropical and university piles each hold their own accessions; the big platforms host photos, not these accessioned raw calls.",
+      "rank_by_score": 3
+    },
+    {
+      "rank_input_order": 7,
+      "slug": "salmon-scale-archives",
+      "name": "Salmon & fish scale image archives",
+      "family": "B. Other taxa",
+      "score": 9,
+      "score_justification": "A century of scale envelopes; images are raw growth records; reader ages vs known-tag fish is a clean two-rulers setup.",
+      "keywords": [
+        "salmon scale image archive",
+        "fish scale samples collection envelopes",
+        "scale reading age data xls",
+        "historic scale collection digitised images"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".xls",
+        ".csv"
+      ],
+      "gold_words": [
+        "scale",
+        "circuli",
+        "age",
+        "smolt"
+      ],
+      "fidelity_card": {
+        "RAW": "Scale images (slides / scans) plus envelope metadata, held by fisheries labs, rivers trusts and agency image labs",
+        "UNIT": "One scale \u2014 thousands per river system per decade, one mounting and imaging protocol per lab",
+        "LABEL_GAP": "Age read from the scale vs known age of PIT-tagged / coded-wire-tagged fish (second ruler)",
+        "ANCHOR": "Tag-recovery fish of exactly known age"
+      },
+      "headline_shape": "A salmon carries its whole childhood \u2014 river years and ocean years \u2014 written in rings on a scale the size of a fingernail.",
+      "why_niche": "Every fisheries lab keeps its own scale library; the 2025 known-age validation set (254 fish) showed how rarely the big archives are ever checked against truth.",
+      "rank_by_score": 4
+    },
+    {
+      "rank_input_order": 16,
+      "slug": "longitudinal-growth-studies",
+      "name": "Longitudinal child growth study records",
+      "family": "D. Human body & medicine history",
+      "score": 9,
+      "score_justification": "Same child measured yearly for decades \u2014 the rarest design in human biology; most collections joined one consortium, the strays did not.",
+      "keywords": [
+        "longitudinal growth study records archive",
+        "child growth study radiographs collection",
+        "growth study cephalometric images download",
+        "Fels Bolton Brush records data"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".csv"
+      ],
+      "gold_words": [
+        "growth",
+        "cephalometr",
+        "longitudinal",
+        "radiograph"
+      ],
+      "fidelity_card": {
+        "RAW": "Serial radiographs, photographs, casts and measurement sheets per child, on growth-centre and foundation sites",
+        "UNIT": "One child \u2014 hundreds per study, measured at fixed ages under one protocol for 20+ years",
+        "LABEL_GAP": "Skeletal-maturity stage called by rater A vs rater B on the same films (second ruler)",
+        "ANCHOR": "The child's known chronological age and the Greulich\u2013Pyle / Tanner\u2013Whitehouse atlases built from these very films"
+      },
+      "headline_shape": "The same child, X-rayed every birthday from 2 to 25, is a ruler for human growing that no snapshot study can replace.",
+      "why_niche": "Nine US craniofacial collections were consolidated by the AAOF \u2014 but the non-craniofacial series, the non-US studies and the two un-joined collections remain on centre sites, un-reconciled.",
+      "rank_by_score": 5
+    },
+    {
+      "rank_input_order": 17,
+      "slug": "autopsy-cause-of-death-ledgers",
+      "name": "Hospital autopsy & cause-of-death ledgers (pre-1950)",
+      "family": "D. Human body & medicine history",
+      "score": 9,
+      "score_justification": "One hospital's dead, protocolled for 70 years; period diagnoses vs modern recoding is a textbook second ruler.",
+      "keywords": [
+        "autopsy reports archive 19th century hospital",
+        "cause of death register digitised pdf",
+        "dissection register archive download",
+        "postmortem records historical hospital data"
+      ],
+      "signature_exts": [
+        ".pdf",
+        ".csv",
+        ".jpg"
+      ],
+      "gold_words": [
+        "autopsy",
+        "postmortem",
+        "cause of death",
+        "register"
+      ],
+      "fidelity_card": {
+        "RAW": "Autopsy protocol books, dissection registers and death registers as PDFs/images on hospital, university and state archive sites",
+        "UNIT": "One hospital \u2014 thousands of protocols per institution, one protocol form for decades",
+        "LABEL_GAP": "Diagnosis written at death vs the same case recoded to modern ICD by historians (second ruler)",
+        "ANCHOR": "The hospitals' own published annual reports and Registrar-General series"
+      },
+      "headline_shape": "A hospital's dead, counted the same way for 70 years, show diseases disappearing before the drugs that cured them were invented.",
+      "why_niche": "Each archive digitised its own registers (Barts, Columbia, state asylums) as catalogue PDFs; nobody has built the cross-hospital case-level panel.",
+      "rank_by_score": 6
+    },
+    {
+      "rank_input_order": 21,
+      "slug": "river-gauge-charts",
+      "name": "River gauge recorder charts & staff-gauge ledgers",
+      "family": "E. Earth & weather vintages",
+      "score": 9,
+      "score_justification": "Rivers wrote their own diaries in ink for a century; chart archives sit in basin agencies, mostly unscanned or singly rescued.",
+      "keywords": [
+        "river gauge charts archive digitised",
+        "autographic water level charts history",
+        "staff gauge readings ledger pdf",
+        "hydrometric data rescue charts download"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".pdf",
+        ".csv"
+      ],
+      "gold_words": [
+        "gauge",
+        "chart",
+        "water level",
+        "hydrometr"
+      ],
+      "fidelity_card": {
+        "RAW": "Autographic recorder charts and staff-gauge ledger scans on basin-authority, archive and data-rescue project sites",
+        "UNIT": "One gauge station \u2014 hundreds of stations per country, weekly charts for decades, one recorder family",
+        "LABEL_GAP": "Level read off the chart vs discharge computed from the period rating curve (second ruler)",
+        "ANCHOR": "Modern gauging stations and surveyed gauge-zero benchmarks"
+      },
+      "headline_shape": "A river wrote down its own height, in ink, every hour for fifty years \u2014 most of those diaries have never been read by a computer.",
+      "why_niche": "Data rescue is project-by-project (Bavarian Danube 1826\u201394 was only rescued in 2025); each basin authority holds its own chart rooms and few series are public.",
+      "rank_by_score": 7
+    },
+    {
+      "rank_input_order": 46,
+      "slug": "long-term-crop-plot-books",
+      "name": "Long-term crop experiment plot books (beyond the flagships)",
+      "family": "J. Food, agriculture, sport & play",
+      "score": 9,
+      "score_justification": "Same plots, same treatments, a century of yields; the flagship (Rothamsted/Morrow) got curated \u2014 the other stations' plot books did not.",
+      "keywords": [
+        "long term agricultural experiment plot data",
+        "experiment station yield records archive",
+        "field trial plot book historical pdf",
+        "continuous cropping experiment data download"
+      ],
+      "signature_exts": [
+        ".pdf",
+        ".xls",
+        ".csv"
+      ],
+      "gold_words": [
+        "plot",
+        "yield",
+        "trial",
+        "experiment station"
+      ],
+      "fidelity_card": {
+        "RAW": "Plot books and yield tables (plot \u00d7 treatment \u00d7 year) in experiment-station reports and university archive PDFs",
+        "UNIT": "One plot \u2014 dozens of stations worldwide, each running one fixed layout for 50\u2013150 years",
+        "LABEL_GAP": "Yield printed in the station's annual report vs the plot book's own figure (second ruler)",
+        "ANCHOR": "The curated flagship datasets (Rothamsted eRA, Morrow Plots 2022) as method and benchmark"
+      },
+      "headline_shape": "The same field, planted the same way since 1876, is an experiment nobody alive will see the end of \u2014 and most stations' plot books were never turned into data.",
+      "why_niche": "Morrow Plots were only curated into a dataset in 2022 and Rothamsted has its own archive; the dozens of other long-term stations (Sanborn, Askov, Halle\u2026) publish reports, not plot-level panels.",
+      "rank_by_score": 8
+    }
+  ]
+}

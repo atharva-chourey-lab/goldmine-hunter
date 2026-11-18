@@ -1,0 +1,312 @@
+{
+  "campaign": [
+    {
+      "label": "SDSS data archive (astro)",
+      "url": "https://data.sdss.org",
+      "pages": 1,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files": 250
+    },
+    {
+      "label": "Glottolog (linguistics)",
+      "url": "https://glottolog.org",
+      "pages": 16,
+      "unique_data_files": 9,
+      "top": [
+        {
+          "name": "macroareas.geojson",
+          "url": "https://glottolog.org/macroareas.geojson",
+          "score": 6
+        },
+        {
+          "name": "languages_and_dialects_geo.csv",
+          "url": "https://zenodo.org/records/24104033/files/languages_and_dialects_geo.csv?download=1",
+          "score": 6
+        },
+        {
+          "name": "glottolog_languoid.csv",
+          "url": "https://zenodo.org/records/24104033/files/glottolog_languoid.csv",
+          "score": 6
+        },
+        {
+          "name": "glottolog_language.csv",
+          "url": "https://zenodo.org/records/21678175/files/glottolog_language.csv",
+          "score": 6
+        },
+        {
+          "name": "glottolog_languoid.csv.zip",
+          "url": "https://zenodo.org/records/24104033/files/glottolog_languoid.csv.zip?download=1",
+          "score": 4
+        },
+        {
+          "name": "glottolog_source.bib.zip",
+          "url": "https://zenodo.org/records/24104033/files/glottolog_source.bib.zip?download=1",
+          "score": 4
+        },
+        {
+          "name": "tree_glottolog_newick.txt",
+          "url": "https://zenodo.org/records/24104033/files/tree_glottolog_newick.txt?download=1",
+          "score": 4
+        },
+        {
+          "name": "glottolog_dataset.cldf.zip",
+          "url": "https://zenodo.org/records/21679655/files/glottolog_dataset.cldf.zip?download=1",
+          "score": 4
+        },
+        {
+          "name": "glottolog_language.csv.zip",
+          "url": "https://zenodo.org/records/21678175/files/glottolog_language.csv.zip?download=1",
+          "score": 4
+        }
+      ],
+      "wayback_data_files": 6
+    },
+    {
+      "label": "WALS language atlas (linguistics)",
+      "url": "https://wals.info",
+      "pages": 11,
+      "unique_data_files": 1,
+      "top": [
+        {
+          "name": "comments.json",
+          "url": "https://github.com/cldf-datasets/wals/blob/master/etc/comments.json",
+          "score": 4
+        }
+      ],
+      "wayback_data_files": 33
+    },
+    {
+      "label": "WorldClim (geo/climate)",
+      "url": "https://www.worldclim.org",
+      "pages": 3,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files": 727
+    },
+    {
+      "label": "Movebank animal tracking (ecology)",
+      "url": "https://www.movebank.org",
+      "pages": 20,
+      "unique_data_files": 12,
+      "top": [
+        {
+          "name": "Lists of points to label on the map in .csv",
+          "url": "https://www.movebank.org/cms/movebank-content/Lists of points to label on the map in .csv",
+          "score": 9
+        },
+        {
+          "name": "A desktop Java program to dynamically visualize and animate tracking data along with other data attributes. Supports exploratory analysis and export of videos for presentation. This program automatically reads .csv",
+          "url": "https://www.movebank.org/cms/movebank-content/A desktop Java program to dynamically visualize and animate tracking data along with other data attributes. Supports exploratory analysis and export of videos for presentation. This program automatically reads .csv",
+          "score": 9
+        },
+        {
+          "name": "video-1280.mp4",
+          "url": "https://www.movebank.org/downloads/video-1280.mp4",
+          "score": 6
+        },
+        {
+          "name": "header-movie.mp4",
+          "url": "https://www.movebank.org/img/header-movie.mp4",
+          "score": 6
+        },
+        {
+          "name": "Make a .geojson",
+          "url": "https://www.movebank.org/cms/movebank-content/Make a .geojson",
+          "score": 6
+        },
+        {
+          "name": "Use this .geojson",
+          "url": "https://www.movebank.org/cms/movebank-content/Use this .geojson",
+          "score": 6
+        },
+        {
+          "name": "includes tools to visualize animal tracking data as points and point densities with several static maps and define a spatial frame around the tracking data that is relevant for analysis. This spatial frame can be recorded as bounding box coordinates or saved as a .geojson",
+          "url": "https://www.movebank.org/cms/movebank-content/includes tools to visualize animal tracking data as points and point densities with several static maps and define a spatial frame around the tracking data that is relevant for analysis. This spatial frame can be recorded as bounding box coordinates or saved as a .geojson",
+          "score": 6
+        },
+        {
+          "name": "loaded as a .csv",
+          "url": "https://www.movebank.org/cms/movebank-content/loaded as a .csv",
+          "score": 6
+        },
+        {
+          "name": "a copy of your data from Movebank as a .csv",
+          "url": "https://www.movebank.org/cms/movebank-content/a copy of your data from Movebank as a .csv",
+          "score": 6
+        },
+        {
+          "name": "If you download a .csv",
+          "url": "https://www.movebank.org/cms/movebank-content/If you download a .csv",
+          "score": 6
+        },
+        {
+          "name": "TerrEcos.xml",
+          "url": "http://maps.tnc.org/files/metadata/TerrEcos.xml",
+          "score": 6
+        },
+        {
+          "name": "MovebankRaptorLabs_2013.zip",
+          "url": "https://www.movebank.org/cms/downloads/MovebankRaptorLabs_2013.zip",
+          "score": 4
+        }
+      ],
+      "wayback_data_files": 16
+    },
+    {
+      "label": "Open Heritage 3D (heritage)",
+      "url": "https://openheritage3d.org",
+      "pages": 9,
+      "unique_data_files": 6,
+      "top": [
+        {
+          "name": "DOI_lidar_terrestrial.zip",
+          "url": "https://openheritage3d.org/DOI_lidar_terrestrial.zip",
+          "score": 7
+        },
+        {
+          "name": "DOI_lidar_aerial.zip",
+          "url": "https://openheritage3d.org/DOI_lidar_aerial.zip",
+          "score": 7
+        },
+        {
+          "name": "DOI_photogrammetry_terrestrial.zip",
+          "url": "https://openheritage3d.org/DOI_photogrammetry_terrestrial.zip",
+          "score": 7
+        },
+        {
+          "name": "DOI_photogrammetry_aerial.zip",
+          "url": "https://openheritage3d.org/DOI_photogrammetry_aerial.zip",
+          "score": 7
+        },
+        {
+          "name": "DOI_short_range_scan.zip",
+          "url": "https://openheritage3d.org/DOI_short_range_scan.zip",
+          "score": 7
+        },
+        {
+          "name": "Open_Heritage_3D_Schema_ v0.3.xlsx",
+          "url": "https://www.openheritage3d.org/download/Open_Heritage_3D_Schema_ v0.3.xlsx",
+          "score": 6
+        }
+      ],
+      "wayback_data_files": 15
+    },
+    {
+      "label": "Marmoset Brain Atlas (neuro)",
+      "url": "https://www.marmosetbrain.org",
+      "pages": 8,
+      "unique_data_files": 3,
+      "top": [
+        {
+          "name": "marmoset_brain_template.zip",
+          "url": "http://r.marmosetbrain.org/marmoset_brain_template.zip",
+          "score": 7
+        },
+        {
+          "name": "marmoset_brain_template_readme.txt",
+          "url": "http://r.marmosetbrain.org/marmoset_brain_template_readme.txt",
+          "score": 7
+        },
+        {
+          "name": "splash_video.mp4",
+          "url": "https://www.marmosetbrain.org/static/images/splash_video.mp4",
+          "score": 6
+        }
+      ],
+      "wayback_data_files": 22
+    },
+    {
+      "label": "BrainInfo primate (neuro, old site)",
+      "url": "http://braininfo.rprc.washington.edu",
+      "pages": 10,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files": 0
+    },
+    {
+      "label": "Xeno-canto bird audio (ecology/media)",
+      "url": "https://xeno-canto.org",
+      "pages": 20,
+      "unique_data_files": 63,
+      "top": [
+        {
+          "name": "Most recordings available as .wav",
+          "url": "https://xeno-canto.org/Most recordings available as .wav",
+          "score": 9
+        },
+        {
+          "name": "file_original_speed.wav",
+          "url": "https://xeno-canto.org/help/file_original_speed.wav",
+          "score": 9
+        },
+        {
+          "name": "master_ioc_list_v11.2.xlsx",
+          "url": "https://worldbirdnames.org/master_ioc_list_v11.2.xlsx",
+          "score": 9
+        },
+        {
+          "name": "XC1194900-261115-100327-2xSchwarzkehlchen-m.f.-Para.wav",
+          "url": "https://xeno-canto.org/sounds/uploaded/WSTMKZEHKY/XC1194900-261115-100327-2xSchwarzkehlchen-m.f.-Para.wav",
+          "score": 6
+        },
+        {
+          "name": "XC1194899-20260531_232700.wav",
+          "url": "https://xeno-canto.org/sounds/uploaded/FCZINMYQPY/XC1194899-20260531_232700.wav",
+          "score": 6
+        },
+        {
+          "name": "XC1194898-2026_11_16-Unknown-Rusa-unicolor.wav",
+          "url": "https://xeno-canto.org/sounds/uploaded/CCUCXWCPSW/XC1194898-2026_11_16-Unknown-Rusa-unicolor.wav",
+          "score": 6
+        },
+        {
+          "name": "XC1194891-081126-maybe-bo2-song.wav",
+          "url": "https://xeno-canto.org/sounds/uploaded/ROUCVUDDPC/XC1194891-081126-maybe-bo2-song.wav",
+          "score": 6
+        },
+        {
+          "name": "XC1194868-260509_0470c.wav",
+          "url": "https://xeno-canto.org/sounds/uploaded/TJSRKPHQNP/XC1194868-260509_0470c.wav",
+          "score": 6
+        },
+        {
+          "name": "XC1194850-mystery_call_cleaned.wav",
+          "url": "https://xeno-canto.org/sounds/uploaded/RBNMSFIPHT/XC1194850-mystery_call_cleaned.wav",
+          "score": 6
+        },
+        {
+          "name": "XC1194794-20261114-1743-Noviglio-Lombardia.wav",
+          "url": "https://xeno-canto.org/sounds/uploaded/KIGKAHSUVR/XC1194794-20261114-1743-Noviglio-Lombardia.wav",
+          "score": 6
+        },
+        {
+          "name": "XC1194790-id002.wav",
+          "url": "https://xeno-canto.org/sounds/uploaded/NPHHAUSRVS/XC1194790-id002.wav",
+          "score": 6
+        },
+        {
+          "name": "XC1194789-id001.wav",
+          "url": "https://xeno-canto.org/sounds/uploaded/NPHHAUSRVS/XC1194789-id001.wav",
+          "score": 6
+        },
+        {
+          "name": "XC1148089 - New Ireland Friarbird - Philemon eichhorni.wav",
+          "url": "https://xeno-canto.org/XC1148089 - New Ireland Friarbird - Philemon eichhorni.wav",
+          "score": 6
+        },
+        {
+          "name": "As of September 29 2022 Xeno-canto accepts .wav",
+          "url": "https://xeno-canto.org/As of September 29 2022 Xeno-canto accepts .wav",
+          "score": 6
+        },
+        {
+          "name": "ME67 Mic and a Shure A96F line matching transformer. I record in .wav",
+          "url": "https://xeno-canto.org/particularly vocalizations since 2005. I use an Edirol R-09HR Recorder with a Sennheiser K6 /ME67 Mic and a Shure A96F line matching transformer. I record in .wav",
+          "score": 6
+        }
+      ],
+      "wayback_data_files": 0
+    }
+  ]
+}

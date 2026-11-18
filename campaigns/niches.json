@@ -1,0 +1,1735 @@
+{
+  "generated": "2026-11-18",
+  "doctrine": "niche keywords (2026-11-18)",
+  "selection_tests": [
+    "fidelity",
+    "headline",
+    "fragmentation"
+  ],
+  "count": 50,
+  "niches": [
+    {
+      "rank_input_order": 1,
+      "slug": "fish-otoliths",
+      "name": "Fish otolith (ear-stone) image & chemistry archives",
+      "family": "A. Animal bodies & senses",
+      "score": 7,
+      "score_justification": "Raw images + chemistry, dozens of lab collections, reader-vs-reader age gap, known-age anchors exist.",
+      "keywords": [
+        "otolith image archive jpg",
+        "sagitta otolith database download",
+        "otolith age reading csv xls",
+        "otolith microchemistry transect data"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".csv",
+        ".xls"
+      ],
+      "gold_words": [
+        "otolith",
+        "sagitta",
+        "annuli",
+        "microchem"
+      ],
+      "fidelity_card": {
+        "RAW": "High-resolution otolith photographs and LA-ICP-MS / isotope transect files on lab and institute sites",
+        "UNIT": "One fish specimen — hundreds per collection, dozens of species, same imaging protocol",
+        "LABEL_GAP": "Age read by reader A vs reader B vs chemistry; usually only published means survive",
+        "ANCHOR": "Known-age hatchery fish and bomb-radiocarbon validated ages"
+      },
+      "headline_shape": "A stone inside a fish's head has recorded every winter of its life — and two experts reading it can disagree by years.",
+      "why_niche": "Age labs keep their own image piles; there is no central reconciliation product, only per-lab atlases (AFORO, national collections) that never joined each other's readings.",
+      "rank_by_score": 1,
+      "score_pre_campaign6": 9,
+      "calibration_2026_11_18": "Campaign 6: both flagship hosts (AFORO, Otolitos UNAM) are interface-locked databases with zero file piles; AFORO is additionally mirrored to GBIF. Fragmentation premise failed at host level. 9->7."
+    },
+    {
+      "rank_input_order": 2,
+      "slug": "electric-fish-eod",
+      "name": "Weakly electric fish EOD waveform recordings",
+      "family": "A. Animal bodies & senses",
+      "score": 7,
+      "score_justification": "Raw .wav is the specimen; species-specific signal; taxonomy rewritten by DNA after recordings were filed by ear.",
+      "keywords": [
+        "electric organ discharge wav download",
+        "mormyrid EOD recordings archive",
+        "gymnotiform EOD waveform data",
+        "electric fish finder mp3 recordings"
+      ],
+      "signature_exts": [
+        ".wav",
+        ".mp3",
+        ".csv"
+      ],
+      "gold_words": [
+        "eod",
+        "discharge",
+        "waveform",
+        "mormyrid",
+        "gymnotiform"
+      ],
+      "fidelity_card": {
+        "RAW": "Uncompressed .wav/.mp3 electric-organ-discharge recordings with oscillogram exports, on lab and personal research sites",
+        "UNIT": "One recorded fish — hundreds of individuals, dozens of species per expedition, one electrode protocol",
+        "LABEL_GAP": "Species named by waveform at capture vs later DNA-barcode revisions of the same vouchers",
+        "ANCHOR": "Museum voucher specimens tied to recording numbers"
+      },
+      "headline_shape": "A fish that 'sees' with electricity broadcasts its own name in a waveform — and the recordings were filed under names DNA later changed.",
+      "why_niche": "A handful of labs (Cornell mormyrids, Crampton's gymnotiforms) hold expedition piles on their own sites; no cross-lab EOD library exists.",
+      "rank_by_score": 2,
+      "score_pre_campaign6": 9,
+      "calibration_2026_11_18": "Campaign 6: flagship lab (mormyrids.efishgenomics.com) deep-crawled 60 pages + Wayback audio-filter CDX — zero recordings surfaced. Premise failed at the named host. 9->7."
+    },
+    {
+      "rank_input_order": 6,
+      "slug": "frog-call-archives",
+      "name": "Frog & toad call archives (regional fonotecas)",
+      "family": "B. Other taxa",
+      "score": 9,
+      "score_justification": "The task's own example: raw .wav/.mp3 per species, regional sound libraries, call IDs vs DNA-split species.",
+      "keywords": [
+        "frog call archive wav",
+        "anuran calls download mp3",
+        "fonoteca frog recordings catalogue",
+        "toad advertisement call recordings site"
+      ],
+      "signature_exts": [
+        ".wav",
+        ".mp3",
+        ".csv"
+      ],
+      "gold_words": [
+        "call",
+        "anuran",
+        "frog",
+        "fonoteca",
+        "advertisement"
+      ],
+      "fidelity_card": {
+        "RAW": "Original .wav/.mp3 advertisement-call recordings with accession numbers, on regional fonoteca and lab sites",
+        "UNIT": "One calling male — thousands of accessions per fonoteca, hundreds of species, standard field-recorder protocol",
+        "LABEL_GAP": "Call filed under the species name at recording vs the DNA-split taxonomy of today (second ruler)",
+        "ANCHOR": "Voucher specimens and type-locality recordings"
+      },
+      "headline_shape": "A frog smaller than your thumbnail has a unique voice — and thousands of taped voices are filed under species that have since been split in three.",
+      "why_niche": "Fonoteca Zoológica (Madrid), Fonoteca Neotropical and university piles each hold their own accessions; the big platforms host photos, not these accessioned raw calls.",
+      "rank_by_score": 3,
+      "score_pre_campaign6": 9,
+      "calibration_2026_11_18": "Campaign 6: CONFIRMED at score — Fonoteca Zoologica pile verified GOLD (see SHORTLIST-CAMPAIGN6-WAVE1-2026-11-18.md). Score stands."
+    },
+    {
+      "rank_input_order": 7,
+      "slug": "salmon-scale-archives",
+      "name": "Salmon & fish scale image archives",
+      "family": "B. Other taxa",
+      "score": 8,
+      "score_justification": "A century of scale envelopes; images are raw growth records; reader ages vs known-tag fish is a clean two-rulers setup.",
+      "keywords": [
+        "salmon scale image archive",
+        "fish scale samples collection envelopes",
+        "scale reading age data xls",
+        "historic scale collection digitised images"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".xls",
+        ".csv"
+      ],
+      "gold_words": [
+        "scale",
+        "circuli",
+        "age",
+        "smolt"
+      ],
+      "fidelity_card": {
+        "RAW": "Scale images (slides / scans) plus envelope metadata, held by fisheries labs, rivers trusts and agency image labs",
+        "UNIT": "One scale — thousands per river system per decade, one mounting and imaging protocol per lab",
+        "LABEL_GAP": "Age read from the scale vs known age of PIT-tagged / coded-wire-tagged fish (second ruler)",
+        "ANCHOR": "Tag-recovery fish of exactly known age"
+      },
+      "headline_shape": "A salmon carries its whole childhood — river years and ocean years — written in rings on a scale the size of a fingernail.",
+      "why_niche": "Every fisheries lab keeps its own scale library; the 2025 known-age validation set (254 fish) showed how rarely the big archives are ever checked against truth.",
+      "rank_by_score": 4,
+      "score_pre_campaign6": 9,
+      "calibration_2026_11_18": "Campaign 6: NEFSC measurement spreadsheets are published (NOAA ODP), but the scale IMAGES — the niche's raw capture — sit on an internal NEFSC network; Burrishoole IFBA is catalogue-only on the web. Partial yield. 9->8."
+    },
+    {
+      "rank_input_order": 16,
+      "slug": "longitudinal-growth-studies",
+      "name": "Longitudinal child growth study records",
+      "family": "D. Human body & medicine history",
+      "score": 7,
+      "score_justification": "Same child measured yearly for decades — the rarest design in human biology; most collections joined one consortium, the strays did not.",
+      "keywords": [
+        "longitudinal growth study records archive",
+        "child growth study radiographs collection",
+        "growth study cephalometric images download",
+        "Fels Bolton Brush records data"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".csv"
+      ],
+      "gold_words": [
+        "growth",
+        "cephalometr",
+        "longitudinal",
+        "radiograph"
+      ],
+      "fidelity_card": {
+        "RAW": "Serial radiographs, photographs, casts and measurement sheets per child, on growth-centre and foundation sites",
+        "UNIT": "One child — hundreds per study, measured at fixed ages under one protocol for 20+ years",
+        "LABEL_GAP": "Skeletal-maturity stage called by rater A vs rater B on the same films (second ruler)",
+        "ANCHOR": "The child's known chronological age and the Greulich–Pyle / Tanner–Whitehouse atlases built from these very films"
+      },
+      "headline_shape": "The same child, X-rayed every birthday from 2 to 25, is a ruler for human growing that no snapshot study can replace.",
+      "why_niche": "Nine US craniofacial collections were consolidated by the AAOF — but the non-craniofacial series, the non-US studies and the two un-joined collections remain on centre sites, un-reconciled.",
+      "rank_by_score": 5,
+      "score_pre_campaign6": 9,
+      "calibration_2026_11_18": "Campaign 6: AAOF flagship consolidated (probe), and the named non-US stray (Harpenden) is inside the formal archive (UK Data Service 9330); Nittedal has no public web host. Fragmentation premise failing niche-wide. 9->7."
+    },
+    {
+      "rank_input_order": 17,
+      "slug": "autopsy-cause-of-death-ledgers",
+      "name": "Hospital autopsy & cause-of-death ledgers (pre-1950)",
+      "family": "D. Human body & medicine history",
+      "score": 9,
+      "score_justification": "One hospital's dead, protocolled for 70 years; period diagnoses vs modern recoding is a textbook second ruler.",
+      "keywords": [
+        "autopsy reports archive 19th century hospital",
+        "cause of death register digitised pdf",
+        "dissection register archive download",
+        "postmortem records historical hospital data"
+      ],
+      "signature_exts": [
+        ".pdf",
+        ".csv",
+        ".jpg"
+      ],
+      "gold_words": [
+        "autopsy",
+        "postmortem",
+        "cause of death",
+        "register"
+      ],
+      "fidelity_card": {
+        "RAW": "Autopsy protocol books, dissection registers and death registers as PDFs/images on hospital, university and state archive sites",
+        "UNIT": "One hospital — thousands of protocols per institution, one protocol form for decades",
+        "LABEL_GAP": "Diagnosis written at death vs the same case recoded to modern ICD by historians (second ruler)",
+        "ANCHOR": "The hospitals' own published annual reports and Registrar-General series"
+      },
+      "headline_shape": "A hospital's dead, counted the same way for 70 years, show diseases disappearing before the drugs that cured them were invented.",
+      "why_niche": "Each archive digitised its own registers (Barts, Columbia, state asylums) as catalogue PDFs; nobody has built the cross-hospital case-level panel.",
+      "rank_by_score": 6,
+      "score_pre_campaign6": 9,
+      "calibration_2026_11_18": "Campaign 6: material found exactly as carded (Barts registers, 5 vols live) but published-by-design — SILVER ceiling at the flagship. Score stands; grade ceiling noted."
+    },
+    {
+      "rank_input_order": 21,
+      "slug": "river-gauge-charts",
+      "name": "River gauge recorder charts & staff-gauge ledgers",
+      "family": "E. Earth & weather vintages",
+      "score": 7,
+      "score_justification": "Rivers wrote their own diaries in ink for a century; chart archives sit in basin agencies, mostly unscanned or singly rescued.",
+      "keywords": [
+        "river gauge charts archive digitised",
+        "autographic water level charts history",
+        "staff gauge readings ledger pdf",
+        "hydrometric data rescue charts download"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".pdf",
+        ".csv"
+      ],
+      "gold_words": [
+        "gauge",
+        "chart",
+        "water level",
+        "hydrometr"
+      ],
+      "fidelity_card": {
+        "RAW": "Autographic recorder charts and staff-gauge ledger scans on basin-authority, archive and data-rescue project sites",
+        "UNIT": "One gauge station — hundreds of stations per country, weekly charts for decades, one recorder family",
+        "LABEL_GAP": "Level read off the chart vs discharge computed from the period rating curve (second ruler)",
+        "ANCHOR": "Modern gauging stations and surveyed gauge-zero benchmarks"
+      },
+      "headline_shape": "A river wrote down its own height, in ink, every hour for fifty years — most of those diaries have never been read by a computer.",
+      "why_niche": "Data rescue is project-by-project (Bavarian Danube 1826–94 was only rescued in 2025); each basin authority holds its own chart rooms and few series are public.",
+      "rank_by_score": 7,
+      "score_pre_campaign6": 9,
+      "calibration_2026_11_18": "Campaign 6 (Irish basin): autographic charts are paper-only at OPW Headford; the rescued output is published (PANGAEA) and the live service is current-data only. Chart-scan premise failed for this basin, as it had for the Danube. 9->7."
+    },
+    {
+      "rank_input_order": 46,
+      "slug": "long-term-crop-plot-books",
+      "name": "Long-term crop experiment plot books (beyond the flagships)",
+      "family": "J. Food, agriculture, sport & play",
+      "score": 8,
+      "score_justification": "Same plots, same treatments, a century of yields; the flagship (Rothamsted/Morrow) got curated — the other stations' plot books did not.",
+      "keywords": [
+        "long term agricultural experiment plot data",
+        "experiment station yield records archive",
+        "field trial plot book historical pdf",
+        "continuous cropping experiment data download"
+      ],
+      "signature_exts": [
+        ".pdf",
+        ".xls",
+        ".csv"
+      ],
+      "gold_words": [
+        "plot",
+        "yield",
+        "trial",
+        "experiment station"
+      ],
+      "fidelity_card": {
+        "RAW": "Plot books and yield tables (plot × treatment × year) in experiment-station reports and university archive PDFs",
+        "UNIT": "One plot — dozens of stations worldwide, each running one fixed layout for 50–150 years",
+        "LABEL_GAP": "Yield printed in the station's annual report vs the plot book's own figure (second ruler)",
+        "ANCHOR": "The curated flagship datasets (Rothamsted eRA, Morrow Plots 2022) as method and benchmark"
+      },
+      "headline_shape": "The same field, planted the same way since 1876, is an experiment nobody alive will see the end of — and most stations' plot books were never turned into data.",
+      "why_niche": "Morrow Plots were only curated into a dataset in 2022 and Rothamsted has its own archive; the dozens of other long-term stations (Sanborn, Askov, Halle…) publish reports, not plot-level panels.",
+      "rank_by_score": 8,
+      "score_pre_campaign6": 9,
+      "calibration_2026_11_18": "Campaign 6: Sanborn Field yielded no plot-level file pile (crawl + sanborn-filtered CDX: pages/images only). Single-host evidence — smaller cut. 9->8."
+    },
+    {
+      "rank_input_order": 3,
+      "slug": "cephalopod-beaks",
+      "name": "Cephalopod beak collections from predator stomachs",
+      "family": "A. Animal bodies & senses",
+      "score": 8,
+      "score_justification": "Beaks are the only hard part that survives digestion; measurement piles sit in marine-lab theses and supplements.",
+      "keywords": [
+        "cephalopod beak measurements csv",
+        "squid beak identification guide pdf",
+        "octopus beak morphometrics data",
+        "beak collection stomach contents database"
+      ],
+      "signature_exts": [
+        ".csv",
+        ".xls",
+        ".jpg"
+      ],
+      "gold_words": [
+        "beak",
+        "rostral",
+        "cephalopod",
+        "morphometr"
+      ],
+      "fidelity_card": {
+        "RAW": "Beak photographs and rostral-length measurement tables from whale, seal and albatross stomach-content studies",
+        "UNIT": "One beak — thousands per predator-sampling programme, dozens of prey species, one measuring key",
+        "LABEL_GAP": "Prey species ID from beak keys vs DNA metabarcoding of the same stomachs (second ruler)",
+        "ANCHOR": "Whole-specimen beak-to-body regressions from museum material"
+      },
+      "headline_shape": "The only part of a giant squid that survives a whale's stomach is its beak — and the beak remembers how big the squid was.",
+      "why_niche": "Stomach-content programmes publish summary diet percentages; the beak-by-beak measurement piles stay on lab sites and in thesis appendices.",
+      "rank_by_score": 9
+    },
+    {
+      "rank_input_order": 4,
+      "slug": "bivalve-shell-rings",
+      "name": "Bivalve shell growth-ring (sclerochronology) image archives",
+      "family": "A. Animal bodies & senses",
+      "score": 8,
+      "score_justification": "Cross-section images are raw chronologies; each lab reads its own shells; isotope profiles are an independent ruler.",
+      "keywords": [
+        "sclerochronology shell image archive",
+        "clam shell growth increments data",
+        "bivalve cross section photograph collection",
+        "shell ring chronology csv"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".csv"
+      ],
+      "gold_words": [
+        "sclerochron",
+        "increment",
+        "shell",
+        "chronology"
+      ],
+      "fidelity_card": {
+        "RAW": "Shell cross-section / acetate-peel images and increment-width measurement files on sclerochronology lab sites",
+        "UNIT": "One shell — hundreds per site chronology, same sectioning and imaging protocol",
+        "LABEL_GAP": "Ring-count ages vs oxygen-isotope years measured on the same shell (second ruler)",
+        "ANCHOR": "Known-collection-date shells and crossdated master chronologies"
+      },
+      "headline_shape": "A clam on the seafloor has been keeping a yearly diary in its shell longer than most countries have existed.",
+      "why_niche": "Sclerochronology is a small community of labs with personal chronology pages; the image archives behind the published chronologies were never pooled.",
+      "rank_by_score": 10
+    },
+    {
+      "rank_input_order": 8,
+      "slug": "bird-egg-collections",
+      "name": "Bird egg & clutch collections (oology)",
+      "family": "B. Other taxa",
+      "score": 8,
+      "score_justification": "Egg photos + measurements per clutch; shell thickness is a pollution archive; collector registers vs digitised labels disagree.",
+      "keywords": [
+        "bird egg collection database photographs",
+        "oology clutch measurements csv",
+        "eggshell thickness data archive",
+        "museum egg collection catalogue download"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".csv",
+        ".xls"
+      ],
+      "gold_words": [
+        "egg",
+        "clutch",
+        "shell",
+        "oology"
+      ],
+      "fidelity_card": {
+        "RAW": "Clutch photographs, egg measurements and shell-thickness readings on museum and university collection sites",
+        "UNIT": "One clutch — tens of thousands across collections, same measurement conventions since the 1800s",
+        "LABEL_GAP": "Collector's handwritten register vs the museum's digitised label (second ruler, often conflicting)",
+        "ANCHOR": "Ratcliffe shell-thickness index and dated pre/post-DDT reference series"
+      },
+      "headline_shape": "An egg collected in 1890 still remembers the air of 1890 — its shell got measurably thinner when DDT arrived.",
+      "why_niche": "Egg collections were scattered when oology fell from fashion; small museums digitised their own drawers and nobody has joined the thickness series across them.",
+      "rank_by_score": 11
+    },
+    {
+      "rank_input_order": 11,
+      "slug": "seed-bank-germination-vintages",
+      "name": "Seed-bank germination-test vintages",
+      "family": "C. Plants, fungi & microbes",
+      "score": 8,
+      "score_justification": "Same accession re-tested for decades — a built-in time series; genebank reports are scattered PDFs, never one panel.",
+      "keywords": [
+        "seed bank germination test results archive",
+        "genebank viability monitoring data",
+        "accession germination percentage year report pdf",
+        "seed longevity trial data download"
+      ],
+      "signature_exts": [
+        ".pdf",
+        ".xls",
+        ".csv"
+      ],
+      "gold_words": [
+        "germination",
+        "viability",
+        "accession",
+        "seedbank"
+      ],
+      "fidelity_card": {
+        "RAW": "Germination-test result tables (accession × test year × % viable) in genebank reports and centre PDFs",
+        "UNIT": "One accession — thousands per genebank, re-tested on a fixed cycle under one protocol",
+        "LABEL_GAP": "Lab germination % vs field emergence of the same accession (second ruler)",
+        "ANCHOR": "FAO/IPGRI standard-protocol reference trials"
+      },
+      "headline_shape": "Seeds put to sleep in 1975 were woken up in 2025 — and some of them grew. Nobody has lined up all the wake-up calls in one table.",
+      "why_niche": "Each genebank publishes its own monitoring summaries in its own format and decade; the accession-level panel across banks was never assembled.",
+      "rank_by_score": 12
+    },
+    {
+      "rank_input_order": 12,
+      "slug": "diatom-type-slides",
+      "name": "Diatom slide & valve image collections",
+      "family": "C. Plants, fungi & microbes",
+      "score": 8,
+      "score_justification": "Glass valves photograph beautifully and forever; small personal databases hold the type-slide imagery.",
+      "keywords": [
+        "diatom image database download",
+        "diatom valve photographs collection",
+        "diatom type slide catalogue",
+        "diatom identification images csv"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".csv"
+      ],
+      "gold_words": [
+        "diatom",
+        "valve",
+        "frustule"
+      ],
+      "fidelity_card": {
+        "RAW": "Light- and SEM-micrographs of diatom valves with slide references, on personal and institute collection sites",
+        "UNIT": "One valve image — thousands per collection, standard microscopy protocol",
+        "LABEL_GAP": "Names from morphology atlases vs DNA metabarcoding of the same waters (second ruler)",
+        "ANCHOR": "Type slides in the historic herbaria (e.g. Hustedt collection)"
+      },
+      "headline_shape": "A one-celled alga builds itself a glass house finer than a cathedral window — and the glass outlives every name scientists give it.",
+      "why_niche": "Diatom taxonomy lives in a few experts' personal databases and slide cabinets; the imagery behind the standard atlases is scattered across institute pages.",
+      "rank_by_score": 13
+    },
+    {
+      "rank_input_order": 13,
+      "slug": "wood-anatomy-xylarium",
+      "name": "Wood anatomy (xylarium) section images",
+      "family": "C. Plants, fungi & microbes",
+      "score": 8,
+      "score_justification": "Microscope sections per timber species; commercial names are a second ruler that often lies; forensic value keeps it fragmented.",
+      "keywords": [
+        "wood anatomy image database",
+        "xylarium cross section photographs",
+        "wood identification microscopy archive",
+        "timber anatomy measurements csv"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".csv"
+      ],
+      "gold_words": [
+        "wood",
+        "xylem",
+        "anatomy",
+        "section"
+      ],
+      "fidelity_card": {
+        "RAW": "Transverse/radial/tangential section micrographs and feature codings on xylarium and lab sites",
+        "UNIT": "One wood sample — thousands of species across xylaria, one sectioning protocol",
+        "LABEL_GAP": "Commercial timber name on the sample vs anatomical identification (second ruler)",
+        "ANCHOR": "IAWA feature list and reference xylaria vouchers"
+      },
+      "headline_shape": "Every plank of wood carries a fingerprint in its pores — customs officers, museums and labs each keep a piece of the fingerprint file.",
+      "why_niche": "InsideWood joined one feature database, but the section imagery of the national xylaria sits on separate institute sites, much of it scanned once for a thesis.",
+      "rank_by_score": 14
+    },
+    {
+      "rank_input_order": 18,
+      "slug": "blood-group-surveys",
+      "name": "Pre-DNA blood-group population surveys (1919–1970s)",
+      "family": "D. Human body & medicine history",
+      "score": 8,
+      "score_justification": "Humanity's first genetic map, made with needles and antisera; the tables live in old supplements and society sites.",
+      "keywords": [
+        "blood group frequencies population table",
+        "ABO blood group survey data archive",
+        "serological anthropology data download",
+        "blood group distribution historical csv"
+      ],
+      "signature_exts": [
+        ".csv",
+        ".xls",
+        ".pdf"
+      ],
+      "gold_words": [
+        "blood group",
+        "ABO",
+        "Rh",
+        "frequency"
+      ],
+      "fidelity_card": {
+        "RAW": "Population frequency tables for ABO/Rh and other systems, in journal supplements and anthropological society files",
+        "UNIT": "One population sample — hundreds of populations worldwide, one serological protocol family",
+        "LABEL_GAP": "Allele frequencies implied by serology vs modern DNA frequencies for the same populations (second ruler)",
+        "ANCHOR": "Mourant's standard compilations as the published benchmark to audit against"
+      },
+      "headline_shape": "Before DNA, scientists mapped the whole human species with nothing but blood types, needles and trains — and their tables are still the only record for some peoples.",
+      "why_niche": "Mourant's books froze the published version; the underlying expedition tables and later regional surveys sit scattered in supplements nobody re-digitised.",
+      "rank_by_score": 15
+    },
+    {
+      "rank_input_order": 19,
+      "slug": "pathology-museum-jars",
+      "name": "Pathology museum specimen catalogues",
+      "family": "D. Human body & medicine history",
+      "score": 8,
+      "score_justification": "Wet specimens with 1800s diagnoses; modern re-diagnosis of the same jar is a stark second ruler.",
+      "keywords": [
+        "pathology museum specimen catalogue",
+        "anatomical museum collection database photographs",
+        "wet specimen catalogue download",
+        "medical museum specimens csv"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".csv",
+        ".pdf"
+      ],
+      "gold_words": [
+        "specimen",
+        "pathology",
+        "museum",
+        "wet preparation"
+      ],
+      "fidelity_card": {
+        "RAW": "Specimen photographs and catalogue entries (jar number, period diagnosis, provenance) on medical museum sites",
+        "UNIT": "One specimen — hundreds to thousands per museum, one cataloguing tradition",
+        "LABEL_GAP": "The 19th-century label diagnosis vs modern pathologist re-diagnosis (second ruler)",
+        "ANCHOR": "Linked case notes and postmortem records where they survive"
+      },
+      "headline_shape": "A jar on a museum shelf carries a diagnosis from 1850 that its doctors could not possibly have verified — modern medicine can, without opening the jar.",
+      "why_niche": "Every medical school museum catalogued its own shelves; the catalogues are small PDFs and pages, and cross-museum re-diagnosis has never been attempted.",
+      "rank_by_score": 16
+    },
+    {
+      "rank_input_order": 22,
+      "slug": "tide-marigrams",
+      "name": "Tide-gauge marigram rolls",
+      "family": "E. Earth & weather vintages",
+      "score": 8,
+      "score_justification": "Monthly means were consolidated (PSMSL); the raw hourly ink traces behind them were not.",
+      "keywords": [
+        "tide gauge marigram archive",
+        "historical tide charts digitised",
+        "sea level recorder rolls photographs",
+        "port tide gauge records download"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".pdf"
+      ],
+      "gold_words": [
+        "tide",
+        "marigram",
+        "sea level",
+        "gauge"
+      ],
+      "fidelity_card": {
+        "RAW": "Marigram (paper tide-curve) scans and port tide tables on hydrographic and port archive sites",
+        "UNIT": "One port — hundreds of ports, continuous hourly curves for decades",
+        "LABEL_GAP": "Monthly mean sea level published from the rolls vs re-derived from the raw curves (second ruler)",
+        "ANCHOR": "PSMSL monthly series and modern GNSS-referenced gauges"
+      },
+      "headline_shape": "Before satellites, the sea's slow rise was drawn by a pen floating on the tide itself — the pens' rolls are still in port archives.",
+      "why_niche": "PSMSL consolidated the monthly numbers decades ago; the underlying marigrams that could expose datum shifts sit in separate national archives.",
+      "rank_by_score": 17
+    },
+    {
+      "rank_input_order": 23,
+      "slug": "glacier-repeat-photos",
+      "name": "Glacier repeat-photography archives (club & survey)",
+      "family": "E. Earth & weather vintages",
+      "score": 8,
+      "score_justification": "Same viewpoint, same glacier, decades apart; alpine-club photo piles predate the official repeat-photo databases.",
+      "keywords": [
+        "glacier repeat photography archive",
+        "historical glacier photographs collection",
+        "glacier terminus survey photographs download",
+        "alpine club glacier photo archive"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".csv"
+      ],
+      "gold_words": [
+        "glacier",
+        "terminus",
+        "photograph",
+        "retreat"
+      ],
+      "fidelity_card": {
+        "RAW": "Dated glacier photographs from fixed viewpoints, on alpine-club, survey and regional archive sites",
+        "UNIT": "One glacier viewpoint — hundreds of glaciers, re-occupied photo points across a century",
+        "LABEL_GAP": "Terminus position paced/surveyed at the time vs measured off the photograph today (second ruler)",
+        "ANCHOR": "Published glacier inventories and surveyed terminus series"
+      },
+      "headline_shape": "Stand where a photographer stood in 1900 and take the same picture: the glacier that filled the frame is gone. Clubs took thousands of these pairs.",
+      "why_niche": "The famous repeat-photo databases hold the showcase pairs; alpine clubs' and surveyors' full sequences sit on club and cantonal sites, unmeasured.",
+      "rank_by_score": 18
+    },
+    {
+      "rank_input_order": 24,
+      "slug": "paper-seismograms",
+      "name": "Paper & film seismogram archives (pre-digital stations)",
+      "family": "E. Earth & weather vintages",
+      "score": 8,
+      "score_justification": "Ink seismograms are raw waveforms; phase picks in bulletins are the second ruler; regional observatories scanned their own drums.",
+      "keywords": [
+        "seismogram archive scans historical",
+        "paper seismograms digitised collection",
+        "helicorder film archive earthquake",
+        "old seismograph records photographs download"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".pdf"
+      ],
+      "gold_words": [
+        "seismogram",
+        "drum",
+        "station",
+        "earthquake"
+      ],
+      "fidelity_card": {
+        "RAW": "Scanned smoked-paper / photographic seismograms on observatory and university archive sites",
+        "UNIT": "One station — dozens of regional stations, continuous drums for decades",
+        "LABEL_GAP": "Phase picks printed in station bulletins vs re-picks from the scans (second ruler)",
+        "ANCHOR": "ISC / modern instrumental catalogues for the large events"
+      },
+      "headline_shape": "An earthquake in 1930 drew its own portrait on smoked paper — the portrait survives in observatory basements, the readings taken from it are a century old.",
+      "why_niche": "Big centres (USGS, INGV) digitised flagship stations; the long tail of colonial and university stations scanned what they could, locally, once.",
+      "rank_by_score": 19
+    },
+    {
+      "rank_input_order": 26,
+      "slug": "moonwatch-satellite-cards",
+      "name": "Moonwatch & amateur satellite-tracking observation cards",
+      "family": "F. Sky catalogues",
+      "score": 8,
+      "score_justification": "1957's citizen observers left timed position cards; the Smithsonian holds the programme, the observations were never recomputed with modern orbits.",
+      "keywords": [
+        "Moonwatch satellite tracking observations archive",
+        "amateur satellite observers records 1957",
+        "Baker-Nunn film archive observations",
+        "satellite tracking station logs download"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".pdf",
+        ".csv"
+      ],
+      "gold_words": [
+        "moonwatch",
+        "satellite",
+        "tracking",
+        "observation"
+      ],
+      "fidelity_card": {
+        "RAW": "Observation cards, station logs and Baker–Nunn film indexes on Smithsonian and amateur-astronomy archive sites",
+        "UNIT": "One station pass — 200+ Moonwatch stations worldwide, one timed-position protocol",
+        "LABEL_GAP": "Orbit computed in 1958 from the cards vs orbit recomputed today from the same cards (second ruler)",
+        "ANCHOR": "Modern satellite catalogues and known re-entry records"
+      },
+      "headline_shape": "In 1957, teenagers with telescopes and stopwatches tracked Sputnik by hand — their cards still hold orbits nobody has recomputed.",
+      "why_niche": "SAO's archive is catalogued, not data-published; observer-network ephemera sits between the Smithsonian and amateur societies, claimed by neither field.",
+      "rank_by_score": 20
+    },
+    {
+      "rank_input_order": 31,
+      "slug": "steam-engine-indicator-cards",
+      "name": "Steam-engine indicator diagram cards",
+      "family": "G. Chemistry, materials & built world",
+      "score": 8,
+      "score_justification": "An engine drew its own power curve in pencil; engineering societies hold card collections nobody has measured as a set.",
+      "keywords": [
+        "steam engine indicator diagram archive",
+        "indicator cards collection engine",
+        "steam engine test records pdf",
+        "indicator diagram measurements data"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".pdf",
+        ".csv"
+      ],
+      "gold_words": [
+        "indicator",
+        "diagram",
+        "steam",
+        "engine"
+      ],
+      "fidelity_card": {
+        "RAW": "Indicator-card scans (pressure–volume loops drawn by the engine itself) on engineering heritage and museum sites",
+        "UNIT": "One engine test — hundreds of carded engines in society collections, one instrument (the indicator)",
+        "LABEL_GAP": "Power computed from the card in its day vs recomputed by modern planimetry (second ruler)",
+        "ANCHOR": "Engines still in steam whose cards can be re-taken today"
+      },
+      "headline_shape": "A steam engine drew a picture of its own power, in pencil, on a card — and engineers filed the cards instead of the numbers.",
+      "why_niche": "Indicator cards survive in heritage-society and museum collections as pictures; the engineering literature used individual cards, never a measured population.",
+      "rank_by_score": 21
+    },
+    {
+      "rank_input_order": 32,
+      "slug": "dye-sample-books",
+      "name": "Victorian & trade dye sample books",
+      "family": "G. Chemistry, materials & built world",
+      "score": 8,
+      "score_justification": "Each swatch is a chemical experiment with its recipe attached; small museums digitised their own books, chemistry untested.",
+      "keywords": [
+        "dye sample book digitised collection",
+        "dyers sample book archive photographs",
+        "textile dye recipes historical book",
+        "aniline dye swatch collection"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".pdf",
+        ".csv"
+      ],
+      "gold_words": [
+        "dye",
+        "swatch",
+        "sample book",
+        "recipe"
+      ],
+      "fidelity_card": {
+        "RAW": "Dye sample book page images (swatch + recipe per sample) on museum and library digital collections",
+        "UNIT": "One swatch — thousands per book, dozens of books, one trade format",
+        "LABEL_GAP": "Dye named in the recipe vs dye identified by modern chemical analysis of the swatch (second ruler)",
+        "ANCHOR": "Modern HPLC / Raman dye reference libraries"
+      },
+      "headline_shape": "A Victorian dye book holds ten thousand colours, each with its recipe — and half the chemicals in it are now banned.",
+      "why_niche": "Sample books are catalogued as design history, one museum at a time; nobody has treated the swatch-plus-recipe pages as a chemical dataset.",
+      "rank_by_score": 22
+    },
+    {
+      "rank_input_order": 36,
+      "slug": "endangered-language-tape-shelves",
+      "name": "Endangered-language field tape shelves (finding aids)",
+      "family": "H. Language, sound & print",
+      "score": 8,
+      "score_justification": "The tapes are the raw capture; many exist only as catalogue cards on archive sites — the probe target is the shelf list itself.",
+      "keywords": [
+        "endangered language recordings archive catalogue",
+        "field tapes linguistics archive finding aid",
+        "language recordings reels collection list",
+        "indigenous language audio archive inventory"
+      ],
+      "signature_exts": [
+        ".pdf",
+        ".csv",
+        ".wav",
+        ".mp3"
+      ],
+      "gold_words": [
+        "tape",
+        "field recording",
+        "language",
+        "reel"
+      ],
+      "fidelity_card": {
+        "RAW": "Reel/cassette inventories and finding aids (speaker, language, date, tape number) on linguistics archive and lab sites — the index to undigitised raw audio",
+        "UNIT": "One tape — hundreds to thousands per archive shelf, standard field-recording practice",
+        "LABEL_GAP": "Language/dialect name on the tape box vs modern classification of the same variety (second ruler)",
+        "ANCHOR": "Digitised reference collections (e.g. ELAR/PARADISEC) for the varieties that were digitised"
+      },
+      "headline_shape": "A language with no living speakers may still have a voice — sitting on a shelf of tapes nobody has played in forty years.",
+      "why_niche": "The big language archives catalogue what they digitised; university closets full of field tapes appear, if at all, as a PDF finding aid on a department page.",
+      "rank_by_score": 23
+    },
+    {
+      "rank_input_order": 37,
+      "slug": "dialect-survey-recordings",
+      "name": "Regional dialect survey recordings & word lists",
+      "family": "H. Language, sound & print",
+      "score": 8,
+      "score_justification": "Surveys recorded the same word list in every village — a designed comparable set, scattered by region.",
+      "keywords": [
+        "dialect survey recordings archive",
+        "dialect atlas field recordings download",
+        "regional dialect word list data",
+        "dialect survey tapes collection"
+      ],
+      "signature_exts": [
+        ".wav",
+        ".mp3",
+        ".csv",
+        ".pdf"
+      ],
+      "gold_words": [
+        "dialect",
+        "survey",
+        "word list",
+        "pronunciation"
+      ],
+      "fidelity_card": {
+        "RAW": "Dialect survey audio and elicitation sheets on regional university and archive sites",
+        "UNIT": "One informant — hundreds per survey, the same questionnaire word list in every locality",
+        "LABEL_GAP": "Transcription made by the survey team vs the surviving audio re-heard today (second ruler)",
+        "ANCHOR": "Published dialect atlases drawn from the same surveys"
+      },
+      "headline_shape": "In the 1950s, recorders drove village to village asking everyone the same 300 words — the tapes of how a whole region spoke are in regional piles.",
+      "why_niche": "Each national/regional survey published its atlas and kept its own tapes; cross-survey audio was never pooled or re-transcribed.",
+      "rank_by_score": 24
+    },
+    {
+      "rank_input_order": 41,
+      "slug": "commodity-price-currents",
+      "name": "Printed commodity price currents (pre-1900 ports)",
+      "family": "I. Historical statistics, prices, maps",
+      "score": 8,
+      "score_justification": "Weekly one-page price sheets from every port — the stock ticker's ancestor; library scans are port-by-port.",
+      "keywords": [
+        "price current historical newspaper archive",
+        "commodity prices 19th century list download",
+        "prices current Liverpool archive pdf",
+        "market price list historical collection"
+      ],
+      "signature_exts": [
+        ".pdf",
+        ".jpg",
+        ".csv"
+      ],
+      "gold_words": [
+        "price current",
+        "prices",
+        "commodity",
+        "market"
+      ],
+      "fidelity_card": {
+        "RAW": "Price-current sheets (weekly printed commodity price lists) in port-city library and archive scans",
+        "UNIT": "One port-week — hundreds of ports × decades of weeks, a standard printed table",
+        "LABEL_GAP": "Price in the port's current vs the same week in the destination port's current (second ruler — arbitrage gap)",
+        "ANCHOR": "Published long-run price series (the benchmark these sheets fed)"
+      },
+      "headline_shape": "Before the ticker, the price of wheat crossed the ocean on a one-page sheet printed at the dock — and every port printed its own.",
+      "why_niche": "Economic historians built series city by city from these sheets; the sheets themselves are scanned, where at all, by the port's own library.",
+      "rank_by_score": 25
+    },
+    {
+      "rank_input_order": 42,
+      "slug": "fire-insurance-plans",
+      "name": "Fire insurance plans beyond the famous sets (Goad & local)",
+      "family": "I. Historical statistics, prices, maps",
+      "score": 8,
+      "score_justification": "Building-by-building risk maps for hundreds of towns; the famous US set is consolidated, the rest is not.",
+      "keywords": [
+        "fire insurance plan archive town",
+        "Goad fire insurance maps collection",
+        "insurance plan digitised maps download",
+        "fire plan historical town archive"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".pdf"
+      ],
+      "gold_words": [
+        "fire insurance",
+        "plan",
+        "Goad",
+        "building"
+      ],
+      "fidelity_card": {
+        "RAW": "Fire insurance plan sheets (footprint, material, use per building) on local archive and library sites",
+        "UNIT": "One town edition — hundreds of towns, revised editions over decades, one draughting convention",
+        "LABEL_GAP": "Building material/use coded on the plan vs the same street in trade directories (second ruler)",
+        "ANCHOR": "Modern cadastral / OpenStreetMap footprints for the surviving streetscape"
+      },
+      "headline_shape": "Insurers mapped every building in town — what it was made of, what would burn — and updated the map for fifty years.",
+      "why_niche": "Sanborn's US plans got a national programme; Goad's and local plans for the rest of the world sit in the town archives that commissioned them.",
+      "rank_by_score": 26
+    },
+    {
+      "rank_input_order": 47,
+      "slug": "photo-finish-film-strips",
+      "name": "Photo-finish film strips & hand-timing slips (pre-1968 sport)",
+      "family": "J. Food, agriculture, sport & play",
+      "score": 8,
+      "score_justification": "Finish films are raw measurement; official results were read off them once, by eye, and never re-measured.",
+      "keywords": [
+        "photo finish film archive athletics",
+        "photo finish prints historical races",
+        "hand timing slips archive sport",
+        "finish line photographs olympics archive"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".pdf"
+      ],
+      "gold_words": [
+        "photo finish",
+        "finish",
+        "timing",
+        "race"
+      ],
+      "fidelity_card": {
+        "RAW": "Photo-finish strips/prints and timing slips on federation, museum and broadcaster archive sites",
+        "UNIT": "One race — hundreds of championship races in the film era, one camera protocol per era",
+        "LABEL_GAP": "Time/result read at the time vs the same strip re-measured digitally today (second ruler)",
+        "ANCHOR": "Official results books as the published benchmark"
+      },
+      "headline_shape": "Some of sport's most famous finishes were decided by a strip of film that a judge read once, in 1960, and nobody has measured since.",
+      "why_niche": "Photo-finish film was working material, kept by federations and photo agencies in fragments; results books kept the verdict, not the evidence.",
+      "rank_by_score": 27
+    },
+    {
+      "rank_input_order": 5,
+      "slug": "bat-echolocation-libraries",
+      "name": "Regional bat echolocation call libraries",
+      "family": "A. Animal bodies & senses",
+      "score": 7,
+      "score_justification": "Raw full-spectrum calls are re-identifiable forever; regional libraries were built before the big platforms and never merged.",
+      "keywords": [
+        "bat call library wav download",
+        "echolocation call reference collection zip",
+        "bat detector recordings species csv",
+        "full spectrum bat calls archive"
+      ],
+      "signature_exts": [
+        ".wav",
+        ".csv",
+        ".zip"
+      ],
+      "gold_words": [
+        "echolocation",
+        "call",
+        "pipistrelle",
+        "myotis"
+      ],
+      "fidelity_card": {
+        "RAW": "Full-spectrum .wav call files with detector metadata, on regional bat-group and university lab sites",
+        "UNIT": "One call sequence — thousands per regional library, dozens of species, similar detector protocols",
+        "LABEL_GAP": "Species ID by call analyst vs DNA / roost-emergence identification of the same bats (second ruler)",
+        "ANCHOR": "Hand-released known-species reference calls"
+      },
+      "headline_shape": "A bat shouts its name in ultrasound every night — but half the regional call libraries call the same shout by different species.",
+      "why_niche": "National platforms exist, but the older regional .wav piles (bat groups, consultancies, theses) predate them and were never ingested or re-checked.",
+      "rank_by_score": 28
+    },
+    {
+      "rank_input_order": 9,
+      "slug": "butterfly-wing-drawers",
+      "name": "Butterfly & moth specimen drawer imaging",
+      "family": "B. Other taxa",
+      "score": 7,
+      "score_justification": "Drawer photos are raw pattern data; subspecies labels from wing pattern vs DNA barcodes is a live second ruler.",
+      "keywords": [
+        "butterfly collection drawer photographs",
+        "lepidoptera specimen images database",
+        "moth collection digitised drawers",
+        "butterfly wing pattern measurements"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".csv"
+      ],
+      "gold_words": [
+        "wing",
+        "drawer",
+        "lepidoptera",
+        "specimen"
+      ],
+      "fidelity_card": {
+        "RAW": "Whole-drawer and per-specimen wing photographs on regional museum and society collection sites",
+        "UNIT": "One specimen — thousands per collection, standard pinning and imaging",
+        "LABEL_GAP": "Subspecies assigned from wing pattern vs DNA barcode clusters (second ruler)",
+        "ANCHOR": "Type specimens and barcode-vouchered reference series"
+      },
+      "headline_shape": "A museum drawer holds a hundred butterflies pinned in 1920 — their wing patterns still argue with their DNA about who is who.",
+      "why_niche": "The big barcode library covers sequences, not the drawer photography of the older regional collections where the pattern-based names were made.",
+      "rank_by_score": 29
+    },
+    {
+      "rank_input_order": 10,
+      "slug": "snake-venom-spectra",
+      "name": "Snake venom proteomics spectra by population",
+      "family": "B. Other taxa",
+      "score": 7,
+      "score_justification": "Raw spectra per population; antivenom labels are a clinical second ruler; labs publish pooled profiles only.",
+      "keywords": [
+        "snake venom proteomics raw data",
+        "venom mass spectra download",
+        "venom variation population data xls",
+        "antivenom efficacy table archive"
+      ],
+      "signature_exts": [
+        ".raw",
+        ".mgf",
+        ".csv",
+        ".xls"
+      ],
+      "gold_words": [
+        "venom",
+        "proteom",
+        "spectra",
+        "antivenom"
+      ],
+      "fidelity_card": {
+        "RAW": "Mass-spectrometry runs and protein-family tables per venom pool, on toxinology lab sites and supplements",
+        "UNIT": "One venom pool — dozens of populations per species complex, similar LC-MS protocols",
+        "LABEL_GAP": "Species/population name on the vial vs antivenom neutralisation results (second ruler)",
+        "ANCHOR": "Reference venoms held by antivenom producers"
+      },
+      "headline_shape": "The same snake species can be a medical emergency in one valley and far less dangerous in the next — its venom keeps the receipts.",
+      "why_niche": "Toxinology is a cottage industry of national labs; each publishes its own population profiles and the raw runs rarely leave the lab site.",
+      "rank_by_score": 30
+    },
+    {
+      "rank_input_order": 14,
+      "slug": "heritage-tree-ring-cores",
+      "name": "Heritage dendrochronology — building & art timbers",
+      "family": "C. Plants, fungi & microbes",
+      "score": 7,
+      "score_justification": "Building-timber ring series live on heritage-lab sites, outside the climate tree-ring banks; radiocarbon is the anchor.",
+      "keywords": [
+        "dendrochronology building timbers data",
+        "tree ring dating historic buildings report",
+        "oak panel painting dendro data",
+        "ring width series download txt"
+      ],
+      "signature_exts": [
+        ".txt",
+        ".rwl",
+        ".csv",
+        ".pdf"
+      ],
+      "gold_words": [
+        "dendro",
+        "ring",
+        "timber",
+        "chronology"
+      ],
+      "fidelity_card": {
+        "RAW": "Ring-width series files (.rwl/.txt) and dating reports for building timbers and panel paintings, on heritage dendro lab sites",
+        "UNIT": "One timber — hundreds of dated buildings per lab, one crossdating protocol",
+        "LABEL_GAP": "Dendro date vs radiocarbon / documented construction date (second ruler)",
+        "ANCHOR": "Regional master chronologies held by the labs themselves"
+      },
+      "headline_shape": "The beam in a 600-year-old roof knows the year its tree was felled — to the year, sometimes to the season.",
+      "why_niche": "Climate dendro has its bank (ITRDB); heritage dendro — houses, ships, paintings — is dozens of small labs whose series files sit beside their client reports.",
+      "rank_by_score": 31
+    },
+    {
+      "rank_input_order": 15,
+      "slug": "phage-plaque-hostrange",
+      "name": "Bacteriophage plaque & host-range collections",
+      "family": "C. Plants, fungi & microbes",
+      "score": 7,
+      "score_justification": "Plaque photos + host-range tables per phage; genome labels arrived later and renamed the collection.",
+      "keywords": [
+        "bacteriophage collection host range table",
+        "phage plaque photographs archive",
+        "phage bank catalogue download",
+        "phage host range data csv"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".csv",
+        ".xls"
+      ],
+      "gold_words": [
+        "phage",
+        "plaque",
+        "host",
+        "lytic"
+      ],
+      "fidelity_card": {
+        "RAW": "Plaque photographs and host-range assay tables on university phage-bank and lab sites",
+        "UNIT": "One phage — hundreds per teaching/lab collection, standard plaque-assay protocol",
+        "LABEL_GAP": "Host range by plaque assay vs host predicted from genome (second ruler)",
+        "ANCHOR": "Reference host strains and typed type-phages"
+      },
+      "headline_shape": "A virus you cannot see leaves a clear hole in a lawn of bacteria that you can — and the hole's shape is its signature.",
+      "why_niche": "Phage banks are teaching-collection scale, kept by individual labs; the pre-genomic host-range tables were never re-checked against the genomes.",
+      "rank_by_score": 32
+    },
+    {
+      "rank_input_order": 20,
+      "slug": "orthodontic-dental-casts",
+      "name": "Orthodontic study-cast & ceph archives (non-growth-centre)",
+      "family": "D. Human body & medicine history",
+      "score": 7,
+      "score_justification": "Dental departments hold cast mountains; Angle classifications by different schools disagree on the same teeth.",
+      "keywords": [
+        "orthodontic study casts archive",
+        "dental cast measurements data",
+        "cephalometric archive download",
+        "orthodontic records collection photographs"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".stl",
+        ".csv"
+      ],
+      "gold_words": [
+        "cast",
+        "cephalometr",
+        "orthodont",
+        "occlusion"
+      ],
+      "fidelity_card": {
+        "RAW": "Study-cast scans/photos and cephalometric tracings on dental-school and society archive pages",
+        "UNIT": "One patient series — hundreds per department, standard impression protocol",
+        "LABEL_GAP": "Malocclusion class assigned by school A vs school B conventions (second ruler)",
+        "ANCHOR": "The AAOF growth collections as the untreated-growth reference anchor"
+      },
+      "headline_shape": "A century of plaster teeth in department cupboards records how human jaws changed — measured three different ways by three different schools.",
+      "why_niche": "The famous growth centres got consolidated; ordinary teaching-department cast archives stayed local, scanned piecemeal if at all.",
+      "rank_by_score": 33
+    },
+    {
+      "rank_input_order": 27,
+      "slug": "lunar-occultation-timings",
+      "name": "Lunar occultation & graze timing reports",
+      "family": "F. Sky catalogues",
+      "score": 7,
+      "score_justification": "Stopwatch timings measured the Moon's limb for a century; IOTA's files are personal-site era and never re-reduced against modern star positions.",
+      "keywords": [
+        "lunar occultation timings archive",
+        "graze occultation reports data",
+        "occultation observations download txt",
+        "IOTA occultation records"
+      ],
+      "signature_exts": [
+        ".txt",
+        ".csv",
+        ".pdf"
+      ],
+      "gold_words": [
+        "occultation",
+        "graze",
+        "timing",
+        "lunar limb"
+      ],
+      "fidelity_card": {
+        "RAW": "Observer timing reports (text/PDF) on IOTA section and personal astronomy sites",
+        "UNIT": "One event — thousands of timed disappearances per decade, one reporting protocol",
+        "LABEL_GAP": "Limb profile derived from 1970s timings vs the same timings re-reduced with modern satellite star positions (second ruler)",
+        "ANCHOR": "Kaguya / LOLA lunar limb profiles"
+      },
+      "headline_shape": "Amateurs with stopwatches mapped the mountains on the Moon's edge to a hair's breadth — using stars that have since been re-measured from space.",
+      "why_niche": "Occultation astronomy is a volunteer world of section coordinators and personal pages; reductions were published, the raw timing files mostly were not pooled.",
+      "rank_by_score": 34
+    },
+    {
+      "rank_input_order": 28,
+      "slug": "observatory-plate-logbooks",
+      "name": "Small-observatory glass plate logbooks & plate stacks",
+      "family": "F. Sky catalogues",
+      "score": 7,
+      "score_justification": "Plate logbooks are the index to a century of sky photos; big plate archives are famous, small observatories' are attic material.",
+      "keywords": [
+        "observatory plate archive logbook",
+        "glass plate collection catalogue download",
+        "photographic plate inventory observatory",
+        "plate logbook digitised pdf"
+      ],
+      "signature_exts": [
+        ".pdf",
+        ".csv",
+        ".jpg"
+      ],
+      "gold_words": [
+        "plate",
+        "logbook",
+        "glass",
+        "observatory"
+      ],
+      "fidelity_card": {
+        "RAW": "Plate logbook scans and plate-stack inventories on small observatory and university archive sites",
+        "UNIT": "One plate — thousands per observatory, one logbook tradition",
+        "LABEL_GAP": "Object named in the logbook vs what modern plate-solving finds on the plate (second ruler)",
+        "ANCHOR": "DASCH / APPLAUSE reductions for the flagship collections as method anchor"
+      },
+      "headline_shape": "A century of the night sky sits on glass in observatory attics — the logbooks that say what's on each plate are themselves fading paper.",
+      "why_niche": "Harvard and Sonneberg got digitisation programmes; the dozens of smaller plate stacks have, at best, a PDF logbook on an archive page.",
+      "rank_by_score": 35
+    },
+    {
+      "rank_input_order": 29,
+      "slug": "early-radio-astronomy-charts",
+      "name": "Early radio-astronomy chart recordings",
+      "family": "F. Sky catalogues",
+      "score": 7,
+      "score_justification": "Pen-chart drift scans are the raw data of radio astronomy's first decades; each observatory's charts were read once, by hand.",
+      "keywords": [
+        "early radio astronomy chart recordings",
+        "radio telescope pen chart archive",
+        "drift scan records historical",
+        "Jodrell Bank archive charts"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".pdf",
+        ".csv"
+      ],
+      "gold_words": [
+        "radio",
+        "chart",
+        "drift scan",
+        "receiver"
+      ],
+      "fidelity_card": {
+        "RAW": "Pen-chart / photographic drift-scan records and observing logs on observatory history and archive sites",
+        "UNIT": "One receiver chart — years of continuous drift scans per early observatory",
+        "LABEL_GAP": "Source fluxes read off charts at the time vs modern survey fluxes for the same sources (second ruler)",
+        "ANCHOR": "Modern radio catalogues (NVSS etc.) as the anchor sky"
+      },
+      "headline_shape": "The first maps of the radio sky were drawn by pens on paper tape, in real time, by night staff — the tapes were never re-read.",
+      "why_niche": "Radio astronomy's history is well told but its chart archives are observatory-by-observatory, mostly unscanned, and the field moved to digital too fast to consolidate them.",
+      "rank_by_score": 36
+    },
+    {
+      "rank_input_order": 33,
+      "slug": "concrete-test-ledgers",
+      "name": "Concrete & materials test ledgers (municipal labs)",
+      "family": "G. Chemistry, materials & built world",
+      "score": 7,
+      "score_justification": "Every structure began as crushed cubes; city lab ledgers are uniform, long, and almost entirely unscanned as data.",
+      "keywords": [
+        "concrete cube test records archive",
+        "materials testing laboratory ledger historical",
+        "cement strength test results 1920 pdf",
+        "municipal laboratory test records download"
+      ],
+      "signature_exts": [
+        ".pdf",
+        ".csv",
+        ".jpg"
+      ],
+      "gold_words": [
+        "concrete",
+        "cube",
+        "strength",
+        "test"
+      ],
+      "fidelity_card": {
+        "RAW": "Cube/cylinder crushing-test ledgers and cement test tables in municipal and university lab archive PDFs",
+        "UNIT": "One test — thousands per lab per decade, standard test forms",
+        "LABEL_GAP": "Strength recorded in the ledger vs the same structures' cores tested today (second ruler)",
+        "ANCHOR": "Modern standards' reference curves and surviving structure cores"
+      },
+      "headline_shape": "Every bridge and dam was once a tray of little concrete cubes, crushed one by one — the crushing ledgers are still on shelves.",
+      "why_niche": "Materials testing was municipal routine, archived as paperwork; engineering history used the standards, not the ledgers behind them.",
+      "rank_by_score": 37
+    },
+    {
+      "rank_input_order": 34,
+      "slug": "pigment-cross-sections",
+      "name": "Paint & pigment cross-section archives (conservation labs)",
+      "family": "G. Chemistry, materials & built world",
+      "score": 7,
+      "score_justification": "Layer stratigraphy per artwork; each museum lab holds its own section photos; Raman IDs are the second ruler.",
+      "keywords": [
+        "paint cross section image archive",
+        "pigment analysis conservation data",
+        "paint layer stratigraphy photographs",
+        "conservation science pigment database"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".csv",
+        ".pdf"
+      ],
+      "gold_words": [
+        "pigment",
+        "cross section",
+        "paint layer",
+        "conservation"
+      ],
+      "fidelity_card": {
+        "RAW": "Paint cross-section micrographs with layer notes, on museum conservation and lab sites",
+        "UNIT": "One sample — hundreds per museum lab, standard embedding/sectioning protocol",
+        "LABEL_GAP": "Pigment named from optical microscopy vs Raman / SEM-EDX identification (second ruler)",
+        "ANCHOR": "Reference pigment libraries (e.g. published IR/Raman spectra)"
+      },
+      "headline_shape": "A flake of paint the size of a pinhead contains every repainting a picture ever suffered — layer by layer, like tree rings.",
+      "why_niche": "Conservation labs publish case studies, not populations; the cross-section photos accumulate per-lab and are never compared across collections.",
+      "rank_by_score": 38
+    },
+    {
+      "rank_input_order": 38,
+      "slug": "playbill-programme-archives",
+      "name": "Theatre playbill & concert programme archives",
+      "family": "H. Language, sound & print",
+      "score": 7,
+      "score_justification": "Playbills are structured data in disguise (date, cast, works); small venues and libraries scanned their own runs.",
+      "keywords": [
+        "theatre playbill archive digitised",
+        "concert programme collection archive download",
+        "playbill database historical performances",
+        "opera programme archive photographs"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".pdf",
+        ".csv"
+      ],
+      "gold_words": [
+        "playbill",
+        "programme",
+        "cast",
+        "performance"
+      ],
+      "fidelity_card": {
+        "RAW": "Playbill/programme page images on theatre, library and local archive sites",
+        "UNIT": "One performance — thousands per venue run, one printed format for decades",
+        "LABEL_GAP": "Cast as printed in the playbill vs cast as reviewed in next day's press (second ruler)",
+        "ANCHOR": "Published performance annals of the flagship houses"
+      },
+      "headline_shape": "Every night for a hundred years, a theatre printed who sang what — the programmes remember performances no recording ever caught.",
+      "why_niche": "Flagship houses published their annals; the long tail of provincial theatres' programmes sits in local-library scans, unindexed as data.",
+      "rank_by_score": 39
+    },
+    {
+      "rank_input_order": 43,
+      "slug": "factory-payroll-wage-books",
+      "name": "Factory payroll & wage books (local archives)",
+      "family": "I. Historical statistics, prices, maps",
+      "score": 7,
+      "score_justification": "Worker-by-week wages are the raw data behind every published wage index; the books are in county record offices.",
+      "keywords": [
+        "factory wage book archive",
+        "payroll ledger historical mill records",
+        "wage records workers archive pdf",
+        "mill pay book digitised"
+      ],
+      "signature_exts": [
+        ".pdf",
+        ".jpg",
+        ".csv"
+      ],
+      "gold_words": [
+        "wage",
+        "payroll",
+        "ledger",
+        "mill"
+      ],
+      "fidelity_card": {
+        "RAW": "Payroll/wage book scans and transcriptions on local archive, mill-museum and record-office sites",
+        "UNIT": "One worker-week — hundreds of workers × decades per firm, standard ledger format",
+        "LABEL_GAP": "Wage in the firm's book vs the published industry wage series for the same year (second ruler)",
+        "ANCHOR": "Census occupational data and published wage benchmarks"
+      },
+      "headline_shape": "A mill's pay book knows what a twelve-year-old actually earned in 1880, week by week — the famous wage series are averages built from books like it.",
+      "why_niche": "Wage books survive firm by firm in local custody; historians sampled famous firms, and the rest were never transcribed as a panel.",
+      "rank_by_score": 40
+    },
+    {
+      "rank_input_order": 44,
+      "slug": "booth-level-election-gazettes",
+      "name": "Polling-booth-level historical election results in gazettes",
+      "family": "I. Historical statistics, prices, maps",
+      "score": 7,
+      "score_justification": "National results are consolidated at constituency level; booth-level returns sleep in official gazette PDFs.",
+      "keywords": [
+        "historical election results polling station gazette",
+        "election returns by booth archive pdf",
+        "parliamentary election results 19th century local",
+        "gazette election results download"
+      ],
+      "signature_exts": [
+        ".pdf",
+        ".csv",
+        ".jpg"
+      ],
+      "gold_words": [
+        "election",
+        "returns",
+        "booth",
+        "gazette"
+      ],
+      "fidelity_card": {
+        "RAW": "Booth/polling-place return tables in official gazette and local newspaper scans",
+        "UNIT": "One booth — thousands per election, standard return forms",
+        "LABEL_GAP": "Booth returns summed vs the officially declared constituency total (second ruler — they do not always agree)",
+        "ANCHOR": "Published constituency-level election databases"
+      },
+      "headline_shape": "Elections were decided booth by booth, and the booth numbers were printed once, in a gazette almost nobody kept.",
+      "why_niche": "Constituency databases are a mature product; the booth-level geography underneath them was never extracted from the gazette scans.",
+      "rank_by_score": 41
+    },
+    {
+      "rank_input_order": 48,
+      "slug": "seed-catalogue-varieties",
+      "name": "Seed catalogue variety listings (1880–1970)",
+      "family": "J. Food, agriculture, sport & play",
+      "score": 7,
+      "score_justification": "Every catalogue is a variety census with prices; variety names vs trial results is a second ruler for hype.",
+      "keywords": [
+        "seed catalogue archive historical varieties",
+        "nursery catalogue digitised collection download",
+        "seed catalogue prices varieties 1900 pdf",
+        "vegetable varieties catalogue archive"
+      ],
+      "signature_exts": [
+        ".pdf",
+        ".jpg",
+        ".csv"
+      ],
+      "gold_words": [
+        "seed catalogue",
+        "variety",
+        "cultivar",
+        "price"
+      ],
+      "fidelity_card": {
+        "RAW": "Seed/nursery catalogue page images and listings on library digital collections (e.g. biodiversity and trade-catalogue libraries)",
+        "UNIT": "One variety-listing — hundreds of firms × annual catalogues for a century",
+        "LABEL_GAP": "Variety praised in the catalogue vs the same variety in official trial results (second ruler)",
+        "ANCHOR": "Genebank accession records for varieties that survive"
+      },
+      "headline_shape": "A seed catalogue from 1900 lists 300 tomato varieties; your supermarket has six. The catalogues are the census of what was lost.",
+      "why_niche": "Trade-catalogue libraries digitised the famous firms; variety-level extraction across the long tail of regional seedsmen was never done.",
+      "rank_by_score": 42
+    },
+    {
+      "rank_input_order": 49,
+      "slug": "regional-menu-collections",
+      "name": "Regional restaurant menu collections",
+      "family": "J. Food, agriculture, sport & play",
+      "score": 7,
+      "score_justification": "Menus are dated price-and-dish censuses; the famous collection is one city — regional libraries hold the rest.",
+      "keywords": [
+        "restaurant menu collection archive library",
+        "historical menus digitised download",
+        "menu collection regional library photographs",
+        "hotel menu archive 19th century"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".pdf"
+      ],
+      "gold_words": [
+        "menu",
+        "restaurant",
+        "dish",
+        "price"
+      ],
+      "fidelity_card": {
+        "RAW": "Menu page images on regional library and historical society sites",
+        "UNIT": "One menu — hundreds per city collection, dated by design",
+        "LABEL_GAP": "Dish price on the menu vs the same dish in newspaper advertisements of the same week (second ruler)",
+        "ANCHOR": "Published price indices and the flagship menu collections as benchmark"
+      },
+      "headline_shape": "A 1910 menu prices a full dinner below today's coffee — and lists dishes that no longer exist anywhere on Earth.",
+      "why_niche": "NYPL's menu project made one city's collection famous; regional libraries hold comparable runs that were scanned as ephemera, not data.",
+      "rank_by_score": 43
+    },
+    {
+      "rank_input_order": 25,
+      "slug": "borehole-well-logs",
+      "name": "Borehole & water-well log archives",
+      "family": "E. Earth & weather vintages",
+      "score": 6,
+      "score_justification": "Drillers' logs are raw subsurface truth; state surveys each host their own scans; headline is weaker, hence the score.",
+      "keywords": [
+        "borehole logs archive download",
+        "water well logs database scans",
+        "drillers log records pdf",
+        "geological survey borehole records"
+      ],
+      "signature_exts": [
+        ".pdf",
+        ".jpg",
+        ".csv"
+      ],
+      "gold_words": [
+        "borehole",
+        "well log",
+        "driller",
+        "strata"
+      ],
+      "fidelity_card": {
+        "RAW": "Drillers' log sheets and borehole record scans on state geological survey and water-authority sites",
+        "UNIT": "One borehole — tens of thousands per state survey, standard log forms",
+        "LABEL_GAP": "Driller's plain-language strata vs geologist-coded lithology (second ruler)",
+        "ANCHOR": "Mapped bedrock geology and modern geophysical logs"
+      },
+      "headline_shape": "Every farm well ever drilled left a one-page X-ray of the ground beneath it — filed county by county, never joined up.",
+      "why_niche": "Well logs are a known resource class, but each survey's scans use different forms and portals; cross-region lithology panels remain unbuilt.",
+      "rank_by_score": 44
+    },
+    {
+      "rank_input_order": 30,
+      "slug": "sunspot-drawings",
+      "name": "Individual-observer sunspot drawings archives",
+      "family": "F. Sky catalogues",
+      "score": 6,
+      "score_justification": "Distinct from the (excluded, killed) sunspot-number series: the drawings themselves, per observer, are image data with personal equations built in.",
+      "keywords": [
+        "sunspot drawings archive observer",
+        "historical sunspot sketches collection",
+        "sunspot drawing digitised photographs",
+        "solar drawings observatory archive"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".pdf"
+      ],
+      "gold_words": [
+        "sunspot",
+        "drawing",
+        "solar",
+        "observer"
+      ],
+      "fidelity_card": {
+        "RAW": "Sunspot drawing sheets (observer, date, group sketch) on observatory and society archive sites",
+        "UNIT": "One observer-day — dozens of long-running observers, daily cadence for decades",
+        "LABEL_GAP": "Groups counted from the drawing vs the same observer's reported count (second ruler)",
+        "ANCHOR": "Modern SDO/HMI imagery for the overlap years and the published group-number benchmark"
+      },
+      "headline_shape": "For 150 years, people drew the Sun's spots by hand every clear day — each drawer quietly drew a slightly different Sun.",
+      "why_niche": "The number series built from drawings is consolidated (and was hunted/killed as a target); the drawing sheets themselves, observer by observer, sit in separate observatory archives.",
+      "rank_by_score": 45
+    },
+    {
+      "rank_input_order": 35,
+      "slug": "towing-tank-records",
+      "name": "Ship-model towing-tank test records",
+      "family": "G. Chemistry, materials & built world",
+      "score": 6,
+      "score_justification": "Towing tanks tested every hull form on paper first; university tank archives are local and film-era.",
+      "keywords": [
+        "towing tank test records archive",
+        "ship model basin test data historical",
+        "model hull resistance measurements pdf",
+        "towing tank film archive"
+      ],
+      "signature_exts": [
+        ".pdf",
+        ".csv",
+        ".jpg"
+      ],
+      "gold_words": [
+        "towing",
+        "hull",
+        "resistance",
+        "model"
+      ],
+      "fidelity_card": {
+        "RAW": "Model resistance-test tables, photos and films on university and naval tank archive pages",
+        "UNIT": "One hull model — hundreds per tank, standard towing protocol",
+        "LABEL_GAP": "Resistance measured in the tank vs the full-size ship's trial results (second ruler)",
+        "ANCHOR": "The surviving ships' documented service speeds"
+      },
+      "headline_shape": "Every great liner was first a wooden model dragged down a water tank — the drag numbers that chose its shape sit in tank archives.",
+      "why_niche": "Towing tanks were few and famous, but their test series were client work, archived per-institution and rarely published as data.",
+      "rank_by_score": 46
+    },
+    {
+      "rank_input_order": 39,
+      "slug": "collector-discographies-78rpm",
+      "name": "Collector discographies of 78rpm & folk recordings",
+      "family": "H. Language, sound & print",
+      "score": 6,
+      "score_justification": "Enthusiast discographers documented labels the industry archives lost; their files live on personal sites, dying with them.",
+      "keywords": [
+        "78rpm discography archive download",
+        "folk recording discography collector site",
+        "record label matrix discography data",
+        "ethnic recordings discography pdf"
+      ],
+      "signature_exts": [
+        ".pdf",
+        ".csv",
+        ".xls",
+        ".html"
+      ],
+      "gold_words": [
+        "discography",
+        "78rpm",
+        "matrix",
+        "label"
+      ],
+      "fidelity_card": {
+        "RAW": "Label discography files (matrix, take, personnel, date) on collector and society sites",
+        "UNIT": "One side — tens of thousands per label run, one discographic format per collector community",
+        "LABEL_GAP": "Session data from the discography vs the audio itself where copies survive (second ruler)",
+        "ANCHOR": "Company ledgers where published (e.g. label archives) as benchmark"
+      },
+      "headline_shape": "The complete story of a record label may exist only on one collector's website, built over thirty years of evenings.",
+      "why_niche": "Discography is a volunteer literature of personal sites and society PDFs; when a site lapses, a label's session history lapses with it.",
+      "rank_by_score": 47
+    },
+    {
+      "rank_input_order": 40,
+      "slug": "small-town-newspaper-pages",
+      "name": "Small-town newspaper page-image runs (non-US / pre-1923 gaps)",
+      "family": "H. Language, sound & print",
+      "score": 6,
+      "score_justification": "Page images are raw text-plus-ads; national programmes covered flagships, the local runs are library-by-library.",
+      "keywords": [
+        "local newspaper archive digitised pages",
+        "small town newspaper scans library collection",
+        "historical newspaper page images download",
+        "regional newspaper archive photographs"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".pdf",
+        ".tif"
+      ],
+      "gold_words": [
+        "newspaper",
+        "gazette",
+        "page",
+        "archive"
+      ],
+      "fidelity_card": {
+        "RAW": "Newspaper page-image runs on local library and archive sites",
+        "UNIT": "One issue — thousands per town title, daily/weekly cadence for decades",
+        "LABEL_GAP": "OCR text layer (where present) vs the printed page re-read (second ruler)",
+        "ANCHOR": "National newspaper programmes' titles as the coverage benchmark"
+      },
+      "headline_shape": "A small town's whole memory — prices, deaths, scandals, weather — ran in a weekly paper whose scans sit on one library's website.",
+      "why_niche": "National digitisation took the metropolitan titles; thousands of local runs were scanned by single libraries with no shared index or OCR standard.",
+      "rank_by_score": 48
+    },
+    {
+      "rank_input_order": 45,
+      "slug": "canal-traffic-ledgers",
+      "name": "Canal & inland-navigation traffic ledgers",
+      "family": "I. Historical statistics, prices, maps",
+      "score": 6,
+      "score_justification": "Boat-by-boat cargo tolls are a complete trade census for the pre-rail economy; ledgers sit with canal societies.",
+      "keywords": [
+        "canal traffic ledger archive",
+        "canal toll records boats cargo",
+        "inland navigation traffic returns pdf",
+        "canal company records tonnage download"
+      ],
+      "signature_exts": [
+        ".pdf",
+        ".jpg",
+        ".csv"
+      ],
+      "gold_words": [
+        "canal",
+        "toll",
+        "cargo",
+        "tonnage"
+      ],
+      "fidelity_card": {
+        "RAW": "Traffic/toll ledger scans on canal society, waterway archive and record-office sites",
+        "UNIT": "One boat passage — thousands per canal per decade, standard toll forms",
+        "LABEL_GAP": "Cargo declared for toll vs cargo in the receiving port's books (second ruler)",
+        "ANCHOR": "Published canal company annual tonnage summaries"
+      },
+      "headline_shape": "Every boat that moved coal in 1820 paid a toll and was written down — boat, owner, cargo, miles — in ledgers canal societies still hold.",
+      "why_niche": "Canal history is a society world; its ledgers were microfilmed or scanned locally, and the boat-level panel was never built.",
+      "rank_by_score": 49
+    },
+    {
+      "rank_input_order": 50,
+      "slug": "club-scorebooks-gate-ledgers",
+      "name": "Club sport scorebooks & gate ledgers (pre-1950)",
+      "family": "J. Food, agriculture, sport & play",
+      "score": 6,
+      "score_justification": "Scorebooks are the raw record behind sports databases; gate ledgers add the crowd. Club-level material is attic-grade.",
+      "keywords": [
+        "cricket scorebook archive digitised",
+        "football club gate receipts ledger archive",
+        "baseball scorebook historical collection",
+        "sports club records archive download"
+      ],
+      "signature_exts": [
+        ".pdf",
+        ".jpg",
+        ".csv"
+      ],
+      "gold_words": [
+        "scorebook",
+        "gate",
+        "ledger",
+        "match"
+      ],
+      "fidelity_card": {
+        "RAW": "Scorebook and gate-ledger scans on club, county and society archive sites",
+        "UNIT": "One match — hundreds of matches per club archive, standard scorebook format",
+        "LABEL_GAP": "Scorebook innings vs the next day's newspaper scorecard (second ruler)",
+        "ANCHOR": "Published results databases (the consolidated verdict layer)"
+      },
+      "headline_shape": "The official history of a football club may rest on one scorebook in a supporter's attic — crowds, scorers and all.",
+      "why_niche": "National sports databases consolidated top-flight results; the scorebooks and gate books of the ordinary clubs were scanned, if at all, by the clubs themselves.",
+      "rank_by_score": 50
+    }
+  ]
+}

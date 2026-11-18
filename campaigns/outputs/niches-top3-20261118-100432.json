@@ -1,0 +1,109 @@
+{
+  "niches_top": [
+    {
+      "rank_input_order": 1,
+      "slug": "fish-otoliths",
+      "name": "Fish otolith (ear-stone) image & chemistry archives",
+      "family": "A. Animal bodies & senses",
+      "score": 9,
+      "score_justification": "Raw images + chemistry, dozens of lab collections, reader-vs-reader age gap, known-age anchors exist.",
+      "keywords": [
+        "otolith image archive jpg",
+        "sagitta otolith database download",
+        "otolith age reading csv xls",
+        "otolith microchemistry transect data"
+      ],
+      "signature_exts": [
+        ".jpg",
+        ".tif",
+        ".csv",
+        ".xls"
+      ],
+      "gold_words": [
+        "otolith",
+        "sagitta",
+        "annuli",
+        "microchem"
+      ],
+      "fidelity_card": {
+        "RAW": "High-resolution otolith photographs and LA-ICP-MS / isotope transect files on lab and institute sites",
+        "UNIT": "One fish specimen \u2014 hundreds per collection, dozens of species, same imaging protocol",
+        "LABEL_GAP": "Age read by reader A vs reader B vs chemistry; usually only published means survive",
+        "ANCHOR": "Known-age hatchery fish and bomb-radiocarbon validated ages"
+      },
+      "headline_shape": "A stone inside a fish's head has recorded every winter of its life \u2014 and two experts reading it can disagree by years.",
+      "why_niche": "Age labs keep their own image piles; there is no central reconciliation product, only per-lab atlases (AFORO, national collections) that never joined each other's readings.",
+      "rank_by_score": 1
+    },
+    {
+      "rank_input_order": 2,
+      "slug": "electric-fish-eod",
+      "name": "Weakly electric fish EOD waveform recordings",
+      "family": "A. Animal bodies & senses",
+      "score": 9,
+      "score_justification": "Raw .wav is the specimen; species-specific signal; taxonomy rewritten by DNA after recordings were filed by ear.",
+      "keywords": [
+        "electric organ discharge wav download",
+        "mormyrid EOD recordings archive",
+        "gymnotiform EOD waveform data",
+        "electric fish finder mp3 recordings"
+      ],
+      "signature_exts": [
+        ".wav",
+        ".mp3",
+        ".csv"
+      ],
+      "gold_words": [
+        "eod",
+        "discharge",
+        "waveform",
+        "mormyrid",
+        "gymnotiform"
+      ],
+      "fidelity_card": {
+        "RAW": "Uncompressed .wav/.mp3 electric-organ-discharge recordings with oscillogram exports, on lab and personal research sites",
+        "UNIT": "One recorded fish \u2014 hundreds of individuals, dozens of species per expedition, one electrode protocol",
+        "LABEL_GAP": "Species named by waveform at capture vs later DNA-barcode revisions of the same vouchers",
+        "ANCHOR": "Museum voucher specimens tied to recording numbers"
+      },
+      "headline_shape": "A fish that 'sees' with electricity broadcasts its own name in a waveform \u2014 and the recordings were filed under names DNA later changed.",
+      "why_niche": "A handful of labs (Cornell mormyrids, Crampton's gymnotiforms) hold expedition piles on their own sites; no cross-lab EOD library exists.",
+      "rank_by_score": 2
+    },
+    {
+      "rank_input_order": 6,
+      "slug": "frog-call-archives",
+      "name": "Frog & toad call archives (regional fonotecas)",
+      "family": "B. Other taxa",
+      "score": 9,
+      "score_justification": "The task's own example: raw .wav/.mp3 per species, regional sound libraries, call IDs vs DNA-split species.",
+      "keywords": [
+        "frog call archive wav",
+        "anuran calls download mp3",
+        "fonoteca frog recordings catalogue",
+        "toad advertisement call recordings site"
+      ],
+      "signature_exts": [
+        ".wav",
+        ".mp3",
+        ".csv"
+      ],
+      "gold_words": [
+        "call",
+        "anuran",
+        "frog",
+        "fonoteca",
+        "advertisement"
+      ],
+      "fidelity_card": {
+        "RAW": "Original .wav/.mp3 advertisement-call recordings with accession numbers, on regional fonoteca and lab sites",
+        "UNIT": "One calling male \u2014 thousands of accessions per fonoteca, hundreds of species, standard field-recorder protocol",
+        "LABEL_GAP": "Call filed under the species name at recording vs the DNA-split taxonomy of today (second ruler)",
+        "ANCHOR": "Voucher specimens and type-locality recordings"
+      },
+      "headline_shape": "A frog smaller than your thumbnail has a unique voice \u2014 and thousands of taped voices are filed under species that have since been split in three.",
+      "why_niche": "Fonoteca Zool\u00f3gica (Madrid), Fonoteca Neotropical and university piles each hold their own accessions; the big platforms host photos, not these accessioned raw calls.",
+      "rank_by_score": 3
+    }
+  ]
+}

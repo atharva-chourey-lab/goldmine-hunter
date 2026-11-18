@@ -1,0 +1,856 @@
+{
+  "campaign7_mammal": [
+    {
+      "seed": 1,
+      "niche": "whale-fluke-trailing-edge",
+      "label": "Juneau Flukes (regional catalogue PDF)",
+      "url": "https://www.juneauflukes.org/",
+      "pages": 4,
+      "unique_data_files": 0,
+      "images": 22,
+      "top": [],
+      "wayback_data_files_status200": 3,
+      "wayback_data_files_raw": 11,
+      "wayback_sets_status200": {
+        "/": 2,
+        "/uploads/2/0/8/2/20826816": 1
+      },
+      "wayback_top": [
+        {
+          "name": "sitemap.xml",
+          "url": "https://www.juneauflukes.org/sitemap.xml",
+          "first_capture": "20240514073748",
+          "status": "200"
+        },
+        {
+          "name": "hw_feeding_call_sound_file.mp3",
+          "url": "http://www.juneauflukes.org/uploads/2/0/8/2/20826816/hw_feeding_call_sound_file.mp3",
+          "first_capture": "20170113022657",
+          "status": "200"
+        },
+        {
+          "name": "robots.txt",
+          "url": "http://www.juneauflukes.org/robots.txt",
+          "first_capture": "20131021143711",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "seed": 1,
+      "niche": "whale-fluke-trailing-edge",
+      "label": "Whitehead Lab, Dalhousie (sperm-whale Flukebook + papers)",
+      "url": "http://whitelab.biology.dal.ca/",
+      "pages": 3,
+      "unique_data_files": 19,
+      "images": 8,
+      "top": [
+        {
+          "name": "u.label",
+          "url": "http://whitelab.biology.dal.ca/u.label",
+          "score": 11
+        },
+        {
+          "name": "o.label",
+          "url": "http://whitelab.biology.dal.ca/o.label",
+          "score": 11
+        },
+        {
+          "name": "file.mp4",
+          "url": "http://whitelab.biology.dal.ca/video/7519c5_ce247e2f904a4cc994e216e464f190ea/360p/mp4/file.mp4",
+          "score": 6
+        },
+        {
+          "name": "filelist.xml",
+          "url": "http://whitelab.biology.dal.ca/SOCPROG/social_files/filelist.xml",
+          "score": 6
+        },
+        {
+          "name": "colorschememapping.xml",
+          "url": "http://whitelab.biology.dal.ca/SOCPROG/social_files/colorschememapping.xml",
+          "score": 6
+        },
+        {
+          "name": "manifests.json",
+          "url": "http://whitelab.biology.dal.ca/manifests/d90652a2-f5a1-4c7c-84c4-d4cdcc41f130/9292/manifests.json",
+          "score": 4
+        },
+        {
+          "name": "f512fcdec26704c7da6a309d7b11c311_r3.json",
+          "url": "http://whitelab.biology.dal.ca/f512fcdec26704c7da6a309d7b11c311_r3.json",
+          "score": 4
+        },
+        {
+          "name": "a7dbf879980a8e90e03d649b6f48fac4_r3.json",
+          "url": "http://whitelab.biology.dal.ca/a7dbf879980a8e90e03d649b6f48fac4_r3.json",
+          "score": 4
+        },
+        {
+          "name": "8367d4_26468a7df8a00cbeacdc499ee8d185d9_284.json",
+          "url": "http://whitelab.biology.dal.ca/8367d4_26468a7df8a00cbeacdc499ee8d185d9_284.json",
+          "score": 4
+        },
+        {
+          "name": "8367d4_9047e71eb6d8d3b89ee976a74318ddec_284.json",
+          "url": "http://whitelab.biology.dal.ca/8367d4_9047e71eb6d8d3b89ee976a74318ddec_284.json",
+          "score": 4
+        },
+        {
+          "name": "8367d4_faea570a35c2801bab0035169b1646cd_284.json",
+          "url": "http://whitelab.biology.dal.ca/8367d4_faea570a35c2801bab0035169b1646cd_284.json",
+          "score": 4
+        },
+        {
+          "name": "8367d4_5c28e67aff2d70c36cdf99548aa945d0_284.json",
+          "url": "http://whitelab.biology.dal.ca/8367d4_5c28e67aff2d70c36cdf99548aa945d0_284.json",
+          "score": 4
+        },
+        {
+          "name": "8367d4_5c3283b64edd69ebd97db97ea89030ff_288.json",
+          "url": "http://whitelab.biology.dal.ca/8367d4_5c3283b64edd69ebd97db97ea89030ff_288.json",
+          "score": 4
+        },
+        {
+          "name": "8367d4_2b677d64dce0d9a74ee89d58f757adeb_284.json",
+          "url": "http://whitelab.biology.dal.ca/8367d4_2b677d64dce0d9a74ee89d58f757adeb_284.json",
+          "score": 4
+        },
+        {
+          "name": "8367d4_9c70d337e598ac4eff8d7abb337bf732_284.json",
+          "url": "http://whitelab.biology.dal.ca/8367d4_9c70d337e598ac4eff8d7abb337bf732_284.json",
+          "score": 4
+        },
+        {
+          "name": "8367d4_2d7174be01cdd87a9ce5b2e684d82c2a_284.json",
+          "url": "http://whitelab.biology.dal.ca/8367d4_2d7174be01cdd87a9ce5b2e684d82c2a_284.json",
+          "score": 4
+        },
+        {
+          "name": "8367d4_13e23eefbffe4b3eb52ea5be45a73f95_284.json",
+          "url": "http://whitelab.biology.dal.ca/8367d4_13e23eefbffe4b3eb52ea5be45a73f95_284.json",
+          "score": 4
+        },
+        {
+          "name": "8367d4_158d2bc5f8a8b192beee014c45f80a32_284.json",
+          "url": "http://whitelab.biology.dal.ca/8367d4_158d2bc5f8a8b192beee014c45f80a32_284.json",
+          "score": 4
+        },
+        {
+          "name": "8367d4_e24bdd76484486be8b298fbf0155422e_285.json",
+          "url": "http://whitelab.biology.dal.ca/8367d4_e24bdd76484486be8b298fbf0155422e_285.json",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 11,
+      "wayback_data_files_raw": 52,
+      "wayback_sets_status200": {
+        "/lr": 3,
+        "/mm": 3,
+        "/labpub_files": 2,
+        "/SOCPROG": 2,
+        "/hw": 1
+      },
+      "wayback_top": [
+        {
+          "name": "colorschememapping.xml",
+          "url": "http://whitelab.biology.dal.ca:80/labpub_files/colorschememapping.xml",
+          "first_capture": "20180426215808",
+          "status": "200"
+        },
+        {
+          "name": "filelist.xml",
+          "url": "http://whitelab.biology.dal.ca:80/labpub_files/filelist.xml",
+          "first_capture": "20180426215928",
+          "status": "200"
+        },
+        {
+          "name": "codas.wav",
+          "url": "http://whitelab.biology.dal.ca:80/lr/codas.wav",
+          "first_capture": "20060721044323",
+          "status": "200"
+        },
+        {
+          "name": "codas2.wav",
+          "url": "http://whitelab.biology.dal.ca:80/lr/codas2.wav",
+          "first_capture": "20060721044225",
+          "status": "200"
+        },
+        {
+          "name": "pilot.wav",
+          "url": "http://whitelab.biology.dal.ca:80/lr/pilot.wav",
+          "first_capture": "20060721044337",
+          "status": "200"
+        },
+        {
+          "name": "Charlie_and_narwhal.mp3",
+          "url": "http://whitelab.biology.dal.ca:80/mm/Charlie_and_narwhal.mp3",
+          "first_capture": "20060708183645",
+          "status": "200"
+        },
+        {
+          "name": "Narwhal_aug_25.mp3",
+          "url": "http://whitelab.biology.dal.ca:80/mm/Narwhal_aug_25.mp3",
+          "first_capture": "20060708183625",
+          "status": "200"
+        },
+        {
+          "name": "nawhal_extract.mp3",
+          "url": "http://whitelab.biology.dal.ca/mm/nawhal_extract.mp3",
+          "first_capture": "20240203131905",
+          "status": "200"
+        },
+        {
+          "name": "social7f.zip",
+          "url": "http://whitelab.biology.dal.ca/hw/social7f.zip",
+          "first_capture": "20240828233542",
+          "status": "200"
+        },
+        {
+          "name": "SOCPROG2.8_uncompiled.zip",
+          "url": "http://whitelab.biology.dal.ca/SOCPROG/SOCPROG2.8_uncompiled.zip",
+          "first_capture": "20250127084358",
+          "status": "200"
+        },
+        {
+          "name": "SOCPROG2.9_uncompiled_old.zip",
+          "url": "http://whitelab.biology.dal.ca/SOCPROG/SOCPROG2.9_uncompiled_old.zip",
+          "first_capture": "20250127084322",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "seed": 1,
+      "niche": "whale-fluke-trailing-edge",
+      "label": "The Sperm Whale Project (Dominica)",
+      "url": "https://www.thespermwhaleproject.org/",
+      "pages": 14,
+      "unique_data_files": 0,
+      "images": 18,
+      "top": [],
+      "wayback_data_files_status200": 1,
+      "wayback_data_files_raw": 14,
+      "wayback_sets_status200": {
+        "/": 1
+      },
+      "wayback_top": [
+        {
+          "name": "sitemap.xml",
+          "url": "https://www.thespermwhaleproject.org/sitemap.xml",
+          "first_capture": "20220814073659",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "seed": 1,
+      "niche": "whale-fluke-trailing-edge",
+      "label": "Center for Coastal Studies (Gulf of Maine catalogue)",
+      "url": "https://coastalstudies.org/",
+      "pages": 15,
+      "unique_data_files": 0,
+      "images": 59,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "seed": 2,
+      "niche": "dolphin-dorsal-fin-notches",
+      "label": "Sarasota Dolphin Research Program (anchor; GoMDIS custody)",
+      "url": "https://sarasotadolphin.org/",
+      "pages": 15,
+      "unique_data_files": 1,
+      "images": 112,
+      "top": [
+        {
+          "name": "My-Movie.mp4",
+          "url": "https://sarasotadolphin.org/wp-content/uploads/2020/08/My-Movie.mp4",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 18,
+      "wayback_data_files_raw": 31,
+      "wayback_sets_status200": {
+        "/": 18
+      },
+      "wayback_top": [
+        {
+          "name": "asp-products-sitemap.xml",
+          "url": "https://sarasotadolphin.org/asp-products-sitemap.xml",
+          "first_capture": "20220701140731",
+          "status": "200"
+        },
+        {
+          "name": "author-sitemap.xml",
+          "url": "https://sarasotadolphin.org/author-sitemap.xml",
+          "first_capture": "20220701140727",
+          "status": "200"
+        },
+        {
+          "name": "avada_faq-sitemap.xml",
+          "url": "https://sarasotadolphin.org/avada_faq-sitemap.xml",
+          "first_capture": "20220701140827",
+          "status": "200"
+        },
+        {
+          "name": "avada_portfolio-sitemap.xml",
+          "url": "https://sarasotadolphin.org/avada_portfolio-sitemap.xml",
+          "first_capture": "20220701140742",
+          "status": "200"
+        },
+        {
+          "name": "category-sitemap.xml",
+          "url": "https://sarasotadolphin.org/category-sitemap.xml",
+          "first_capture": "20220701140747",
+          "status": "200"
+        },
+        {
+          "name": "element_category-sitemap.xml",
+          "url": "https://sarasotadolphin.org/element_category-sitemap.xml",
+          "first_capture": "20220701140741",
+          "status": "200"
+        },
+        {
+          "name": "faq_category-sitemap.xml",
+          "url": "https://sarasotadolphin.org/faq_category-sitemap.xml",
+          "first_capture": "20220701140732",
+          "status": "200"
+        },
+        {
+          "name": "frm_display-sitemap.xml",
+          "url": "https://sarasotadolphin.org/frm_display-sitemap.xml",
+          "first_capture": "20220701140831",
+          "status": "200"
+        },
+        {
+          "name": "fusion_tb_category-sitemap.xml",
+          "url": "https://sarasotadolphin.org/fusion_tb_category-sitemap.xml",
+          "first_capture": "20220701140729",
+          "status": "200"
+        },
+        {
+          "name": "page-sitemap.xml",
+          "url": "https://sarasotadolphin.org/page-sitemap.xml",
+          "first_capture": "20220701140739",
+          "status": "200"
+        },
+        {
+          "name": "portfolio_category-sitemap.xml",
+          "url": "https://sarasotadolphin.org/portfolio_category-sitemap.xml",
+          "first_capture": "20220701140728",
+          "status": "200"
+        },
+        {
+          "name": "post-sitemap.xml",
+          "url": "https://sarasotadolphin.org/post-sitemap.xml",
+          "first_capture": "20220701140731",
+          "status": "200"
+        },
+        {
+          "name": "post_tag-sitemap.xml",
+          "url": "https://sarasotadolphin.org/post_tag-sitemap.xml",
+          "first_capture": "20221006024715",
+          "status": "200"
+        },
+        {
+          "name": "publication_category-sitemap.xml",
+          "url": "https://sarasotadolphin.org/publication_category-sitemap.xml",
+          "first_capture": "20220701140729",
+          "status": "200"
+        },
+        {
+          "name": "publication_list-sitemap.xml",
+          "url": "https://sarasotadolphin.org/publication_list-sitemap.xml",
+          "first_capture": "20220701140824",
+          "status": "200"
+        },
+        {
+          "name": "sitemap_index.xml",
+          "url": "https://sarasotadolphin.org/sitemap_index.xml",
+          "first_capture": "20220701140708",
+          "status": "200"
+        },
+        {
+          "name": "slide-page-sitemap.xml",
+          "url": "https://sarasotadolphin.org/slide-page-sitemap.xml",
+          "first_capture": "20220701140739",
+          "status": "200"
+        },
+        {
+          "name": "robots.txt",
+          "url": "http://www.sarasotadolphin.org:80/robots.txt",
+          "first_capture": "20031017143704",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "seed": 3,
+      "niche": "elephant-ear-edge-veins",
+      "label": "Elephant Encyclopedia & Database (elephant.se, incl. Amboseli records)",
+      "url": "https://www.elephant.se/",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 3,
+      "wayback_data_files_raw": 12,
+      "wayback_sets_status200": {
+        "/": 3
+      },
+      "wayback_top": [
+        {
+          "name": "channel_log.txt",
+          "url": "http://www.elephant.se:80/channel_log.txt",
+          "first_capture": "20040605033405",
+          "status": "200"
+        },
+        {
+          "name": "counter.txt",
+          "url": "http://www.elephant.se:80/counter.txt",
+          "first_capture": "20040605040151",
+          "status": "200"
+        },
+        {
+          "name": "counterip.txt",
+          "url": "http://www.elephant.se:80/counterip.txt",
+          "first_capture": "20040605040531",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "seed": 3,
+      "niche": "elephant-ear-edge-veins",
+      "label": "ElephantVoices (Gorongosa/Mara; Who's Who is password-protected \u2014 custody only)",
+      "url": "https://www.elephantvoices.org/",
+      "pages": 15,
+      "unique_data_files": 1,
+      "images": 122,
+      "top": [
+        {
+          "name": "7c052b7919ae79977ed401a5f6e0f81ebcda0237.mp4",
+          "url": "https://cdn.sanity.io/files/1367lwmq/production/7c052b7919ae79977ed401a5f6e0f81ebcda0237.mp4",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 20,
+      "wayback_data_files_raw": 29,
+      "wayback_sets_status200": {
+        "//audio": 19,
+        "/audio": 1
+      },
+      "wayback_top": [
+        {
+          "name": "Talking_Animals_Audio_Archive_Joyce_Poole.mp3",
+          "url": "http://www.elephantvoices.org//audio/Talking_Animals_Audio_Archive_Joyce_Poole.mp3",
+          "first_capture": "20120204202216",
+          "status": "200"
+        },
+        {
+          "name": "204_NGW_092708_Hr2_SegA.mp3",
+          "url": "http://www.elephantvoices.org//audio/204_NGW_092708_Hr2_SegA.mp3",
+          "first_capture": "20120204202545",
+          "status": "200"
+        },
+        {
+          "name": "204_NGW_092708_Hr2_SegB.mp3",
+          "url": "http://www.elephantvoices.org//audio/204_NGW_092708_Hr2_SegB.mp3",
+          "first_capture": "20120204202317",
+          "status": "200"
+        },
+        {
+          "name": "B2611643_48.mp3",
+          "url": "http://www.elephantvoices.org//audio/B2611643_48.mp3",
+          "first_capture": "20120124053226",
+          "status": "200"
+        },
+        {
+          "name": "B3711329_48.mp3",
+          "url": "http://www.elephantvoices.org//audio/B3711329_48.mp3",
+          "first_capture": "20120124040159",
+          "status": "200"
+        },
+        {
+          "name": "B3903431_top.mp3",
+          "url": "http://www.elephantvoices.org//audio/B3903431_top.mp3",
+          "first_capture": "20120204202059",
+          "status": "200"
+        },
+        {
+          "name": "B4604247_48.mp3",
+          "url": "http://www.elephantvoices.org//audio/B4604247_48.mp3",
+          "first_capture": "20120127032828",
+          "status": "200"
+        },
+        {
+          "name": "c1900510_48series.mp3",
+          "url": "http://www.elephantvoices.org//audio/c1900510_48series.mp3",
+          "first_capture": "20120127063526",
+          "status": "200"
+        },
+        {
+          "name": "C2303017_48.mp3",
+          "url": "http://www.elephantvoices.org//audio/C2303017_48.mp3",
+          "first_capture": "20120127041156",
+          "status": "200"
+        },
+        {
+          "name": "C2403916_48.mp3",
+          "url": "http://www.elephantvoices.org//audio/C2403916_48.mp3",
+          "first_capture": "20120127053640",
+          "status": "200"
+        },
+        {
+          "name": "C2700009_48.mp3",
+          "url": "http://www.elephantvoices.org//audio/C2700009_48.mp3",
+          "first_capture": "20120127051006",
+          "status": "200"
+        },
+        {
+          "name": "C2701253_48.mp3",
+          "url": "http://www.elephantvoices.org//audio/C2701253_48.mp3",
+          "first_capture": "20120127033425",
+          "status": "200"
+        },
+        {
+          "name": "C2900413_bottom.mp3",
+          "url": "http://www.elephantvoices.org//audio/C2900413_bottom.mp3",
+          "first_capture": "20120204202107",
+          "status": "200"
+        },
+        {
+          "name": "echos_lets_go.mp3",
+          "url": "http://www.elephantvoices.org/audio/echos_lets_go.mp3",
+          "first_capture": "20160822055303",
+          "status": "200"
+        },
+        {
+          "name": "elephantvoices_elebeats_1_4mb.mp3",
+          "url": "http://www.elephantvoices.org//audio/elephantvoices_elebeats_1_4mb.mp3",
+          "first_capture": "20120206123830",
+          "status": "200"
+        },
+        {
+          "name": "ngwkd1213_hour2_seg1_cb1335378891.mp3",
+          "url": "http://www.elephantvoices.org//audio/ngwkd1213_hour2_seg1_cb1335378891.mp3",
+          "first_capture": "20120730050307",
+          "status": "200"
+        },
+        {
+          "name": "nrk_P2_elefanter_JPandPG1June2012.mp3",
+          "url": "http://www.elephantvoices.org//audio/nrk_P2_elefanter_JPandPG1June2012.mp3",
+          "first_capture": "20120722141426",
+          "status": "200"
+        },
+        {
+          "name": "poole_elephantvoices.mp3",
+          "url": "http://www.elephantvoices.org//audio/poole_elephantvoices.mp3",
+          "first_capture": "20120204202122",
+          "status": "200"
+        },
+        {
+          "name": "swradio_africa_210510.mp3",
+          "url": "http://www.elephantvoices.org//audio/swradio_africa_210510.mp3",
+          "first_capture": "20120204202404",
+          "status": "200"
+        },
+        {
+          "name": "verdt_aavite_poole_251007.mp3",
+          "url": "http://www.elephantvoices.org//audio/verdt_aavite_poole_251007.mp3",
+          "first_capture": "20120204202731",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "seed": 3,
+      "niche": "elephant-ear-edge-veins",
+      "label": "Amboseli Trust for Elephants (ATE)",
+      "url": "https://www.amboseliephants.org/",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "seed": 3,
+      "niche": "elephant-ear-edge-veins",
+      "label": "Save the Elephants (Samburu)",
+      "url": "https://www.savetheelephants.org/",
+      "pages": 2,
+      "unique_data_files": 1,
+      "images": 24,
+      "top": [
+        {
+          "name": "browserconfig.xml",
+          "url": "https://savetheelephants.org/wp-content/themes/save-the-elephants/assets/images/browserconfig.xml",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "seed": 4,
+      "niche": "primate-fingerprints-dermatoglyphics",
+      "label": "Wellcome Collection \u2014 Chimpanzee Fingerprints work page",
+      "url": "https://wellcomecollection.org/works/n9q6q77r",
+      "pages": 10,
+      "unique_data_files": 0,
+      "images": 93,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "seed": 4,
+      "niche": "primate-fingerprints-dermatoglyphics",
+      "label": "UCL Archives catalogue (Galton Papers)",
+      "url": "https://archives.ucl.ac.uk/",
+      "pages": 4,
+      "unique_data_files": 0,
+      "images": 10,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "seed": 5,
+      "niche": "cattle-muzzle-prints",
+      "label": "National Wagyu Registry Association (wagyu.or.jp)",
+      "url": "https://www.wagyu.or.jp/",
+      "pages": 1,
+      "unique_data_files": 3,
+      "images": 8,
+      "top": [
+        {
+          "name": ".label.label",
+          "url": "https://www.wagyu.or.jp/.label.label",
+          "score": 11
+        },
+        {
+          "name": ".label",
+          "url": "https://www.wagyu.or.jp/.label",
+          "score": 11
+        },
+        {
+          "name": "wlwmanifest.xml",
+          "url": "https://wagyu.or.jp/wp-includes/wlwmanifest.xml",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 1,
+      "wayback_data_files_raw": 2,
+      "wayback_sets_status200": {
+        "/": 1
+      },
+      "wayback_top": [
+        {
+          "name": "robots.txt",
+          "url": "http://wagyu.or.jp/robots.txt",
+          "first_capture": "20211220071214",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "seed": 5,
+      "niche": "cattle-muzzle-prints",
+      "label": "NLBC cattle ID search (second ruler; interface)",
+      "url": "https://www.id.nlbc.go.jp/",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "seed": 6,
+      "niche": "paw-track-morphometrics-fit",
+      "label": "WildTrack (FIT) \u2014 projects, not just homepage",
+      "url": "https://www.wildtrack.org/",
+      "pages": 25,
+      "unique_data_files": 4,
+      "images": 191,
+      "top": [
+        {
+          "name": "primaryCta.label",
+          "url": "https://www.wildtrack.org/primaryCta.label",
+          "score": 11
+        },
+        {
+          "name": "secondaryCta.label",
+          "url": "https://www.wildtrack.org/secondaryCta.label",
+          "score": 11
+        },
+        {
+          "name": "cta.label",
+          "url": "https://www.wildtrack.org/cta.label",
+          "score": 11
+        },
+        {
+          "name": "sitemap-index.xml",
+          "url": "https://www.wildtrack.org/sitemap-index.xml",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 7,
+      "wayback_data_files_raw": 20,
+      "wayback_sets_status200": {
+        "/": 6,
+        "/wp-includes": 1
+      },
+      "wayback_top": [
+        {
+          "name": "image-sitemap-1.xml",
+          "url": "https://wildtrack.org/image-sitemap-1.xml",
+          "first_capture": "20220716094756",
+          "status": "200"
+        },
+        {
+          "name": "index.xml",
+          "url": "https://www.wildtrack.org/index.xml",
+          "first_capture": "20250327185208",
+          "status": "200"
+        },
+        {
+          "name": "news-sitemap.xml",
+          "url": "https://wildtrack.org/news-sitemap.xml",
+          "first_capture": "20220716094755",
+          "status": "200"
+        },
+        {
+          "name": "sitemap-1.xml",
+          "url": "https://wildtrack.org/sitemap-1.xml",
+          "first_capture": "20220716094758",
+          "status": "200"
+        },
+        {
+          "name": "sitemap.xml",
+          "url": "https://wildtrack.org/sitemap.xml",
+          "first_capture": "20220716094740",
+          "status": "200"
+        },
+        {
+          "name": "video-sitemap-1.xml",
+          "url": "https://wildtrack.org/video-sitemap-1.xml",
+          "first_capture": "20220716094753",
+          "status": "200"
+        },
+        {
+          "name": "wlwmanifest.xml",
+          "url": "http://wildtrack.org/wp-includes/wlwmanifest.xml",
+          "first_capture": "20131005145643",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "seed": 7,
+      "niche": "whisker-spot-patterns",
+      "label": "Desert Lion Conservation (desertlion.info)",
+      "url": "http://www.desertlion.info/",
+      "pages": 20,
+      "unique_data_files": 0,
+      "images": 186,
+      "top": [],
+      "wayback_data_files_status200": 6,
+      "wayback_data_files_raw": 20,
+      "wayback_sets_status200": {
+        "/movie": 3,
+        "/.well-known": 1,
+        "/data/videos/3/2": 1,
+        "/photos/2010/09/06": 1
+      },
+      "wayback_top": [
+        {
+          "name": "video-ecoassist.mp4",
+          "url": "https://www.desertlion.info/data/videos/3/2/video-ecoassist.mp4",
+          "first_capture": "20240703053529",
+          "status": "200"
+        },
+        {
+          "name": "breeze2.mp3",
+          "url": "http://desertlion.info/movie/breeze2.mp3",
+          "first_capture": "20140707133357",
+          "status": "200"
+        },
+        {
+          "name": "cat_x3c.mov",
+          "url": "http://desertlion.info/movie/cat_x3c.mov",
+          "first_capture": "20140829110348",
+          "status": "200"
+        },
+        {
+          "name": "x25.mov",
+          "url": "http://desertlion.info/movie/x25.mov",
+          "first_capture": "20140829110808",
+          "status": "200"
+        },
+        {
+          "name": "ct_tina3.mp4",
+          "url": "http://www.desertlion.info/photos/2010/09/06/ct_tina3.mp4",
+          "first_capture": "20120322184541",
+          "status": "200"
+        },
+        {
+          "name": "security.txt",
+          "url": "https://www.desertlion.info/.well-known/security.txt",
+          "first_capture": "20230531212919",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "seed": 7,
+      "niche": "whisker-spot-patterns",
+      "label": "Endangered Wildlife Trust (Kruger lion whisker cataloguing)",
+      "url": "https://ewt.org.za/",
+      "pages": 1,
+      "unique_data_files": 0,
+      "images": 11,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "seed": 7,
+      "niche": "whisker-spot-patterns",
+      "label": "Wildlife Institute of India (Lion software)",
+      "url": "https://www.wii.gov.in/",
+      "pages": 10,
+      "unique_data_files": 1,
+      "images": 137,
+      "top": [
+        {
+          "name": "17503389546204.mp4",
+          "url": "https://www.wii.gov.in/uploads/banners/17503389546204.mp4",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    }
+  ]
+}

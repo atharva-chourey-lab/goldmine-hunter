@@ -1,0 +1,1866 @@
+{
+  "campaign5_gold": [
+    {
+      "label": "Penn World Table old vintages (econ history, RUG/GGDC \u2014 rug.nl host, PWT never hunted; Maddison on ggdc.net was C2)",
+      "url": "https://www.rug.nl/ggdc/productivity/pwt/",
+      "pages": 25,
+      "unique_data_files": 26,
+      "top": [
+        {
+          "name": "index.xml",
+          "url": "https://www.rug.nl/education/index.xml",
+          "score": 6
+        },
+        {
+          "name": "hna_bel_09.xls",
+          "url": "https://www.rug.nl/ggdc/docs/hna_bel_09.xls",
+          "score": 4
+        },
+        {
+          "name": "hna_fin_09.xls",
+          "url": "https://www.rug.nl/ggdc/docs/hna_fin_09.xls",
+          "score": 4
+        },
+        {
+          "name": "hna_fra_09.xls",
+          "url": "https://www.rug.nl/ggdc/docs/hna_fra_09.xls",
+          "score": 4
+        },
+        {
+          "name": "hna_ger_09.xls",
+          "url": "https://www.rug.nl/ggdc/docs/hna_ger_09.xls",
+          "score": 4
+        },
+        {
+          "name": "hna_ita_09.xls",
+          "url": "https://www.rug.nl/ggdc/docs/hna_ita_09.xls",
+          "score": 4
+        },
+        {
+          "name": "hna_nld_09.xls",
+          "url": "https://www.rug.nl/ggdc/docs/hna_nld_09.xls",
+          "score": 4
+        },
+        {
+          "name": "hna_esp_09.xls",
+          "url": "https://www.rug.nl/ggdc/docs/hna_esp_09.xls",
+          "score": 4
+        },
+        {
+          "name": "hna_swe_09.xls",
+          "url": "https://www.rug.nl/ggdc/docs/hna_swe_09.xls",
+          "score": 4
+        },
+        {
+          "name": "hna_gbr_09.xls",
+          "url": "https://www.rug.nl/ggdc/docs/hna_gbr_09.xls",
+          "score": 4
+        },
+        {
+          "name": "hna_bgr_09.xls",
+          "url": "https://www.rug.nl/ggdc/docs/hna_bgr_09.xls",
+          "score": 4
+        },
+        {
+          "name": "hna_csk_09.xls",
+          "url": "https://www.rug.nl/ggdc/docs/hna_csk_09.xls",
+          "score": 4
+        },
+        {
+          "name": "hna_hun_09.xls",
+          "url": "https://www.rug.nl/ggdc/docs/hna_hun_09.xls",
+          "score": 4
+        },
+        {
+          "name": "hna_pol_09.xls",
+          "url": "https://www.rug.nl/ggdc/docs/hna_pol_09.xls",
+          "score": 4
+        },
+        {
+          "name": "hna_rom_09.xls",
+          "url": "https://www.rug.nl/ggdc/docs/hna_rom_09.xls",
+          "score": 4
+        },
+        {
+          "name": "hna_yug_09.xls",
+          "url": "https://www.rug.nl/ggdc/docs/hna_yug_09.xls",
+          "score": 4
+        },
+        {
+          "name": "hna_usa_09.xls",
+          "url": "https://www.rug.nl/ggdc/docs/hna_usa_09.xls",
+          "score": 4
+        },
+        {
+          "name": "hna_chn_09.xls",
+          "url": "https://www.rug.nl/ggdc/docs/hna_chn_09.xls",
+          "score": 4
+        },
+        {
+          "name": "hna_ind_pre1900_09.xls",
+          "url": "https://www.rug.nl/ggdc/docs/hna_ind_pre1900_09.xls",
+          "score": 4
+        },
+        {
+          "name": "hna_ind_post1900_09.xls",
+          "url": "https://www.rug.nl/ggdc/docs/hna_ind_post1900_09.xls",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 5,
+      "wayback_data_files_raw": 11,
+      "wayback_sets_status200": {
+        "/_shared/addsearch": 2,
+        "/.well-known": 1,
+        "/_shared/metadata/documenttypes": 1,
+        "/_shared/metadata/status": 1
+      },
+      "wayback_top": [
+        {
+          "name": "newsarticle.xml",
+          "url": "http://www.rug.nl/_shared/metadata/documenttypes/newsarticle.xml",
+          "first_capture": "20160409233819",
+          "status": "200"
+        },
+        {
+          "name": "published.xml",
+          "url": "http://www.rug.nl/_shared/metadata/status/published.xml",
+          "first_capture": "20160409231934",
+          "status": "200"
+        },
+        {
+          "name": "pgp-key.txt",
+          "url": "https://www.rug.nl/.well-known/pgp-key.txt",
+          "first_capture": "20231101014146",
+          "status": "200"
+        },
+        {
+          "name": "facet-translations.json",
+          "url": "https://www.rug.nl/_shared/addsearch/facet-translations.json",
+          "first_capture": "20230310121725",
+          "status": "200"
+        },
+        {
+          "name": "translations.json",
+          "url": "https://www.rug.nl/_shared/addsearch/translations.json",
+          "first_capture": "20241106061709",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "Starling / Global Lexicostatistical Database (linguistics, Moscow school, old CGI site)",
+      "url": "https://starlingdb.org",
+      "pages": 7,
+      "unique_data_files": 5,
+      "top": [
+        {
+          "name": "filelist.xml",
+          "url": "https://starlingdb.org/new100/main_files/filelist.xml",
+          "score": 6
+        },
+        {
+          "name": "item0012.xml",
+          "url": "https://starlingdb.org/new100/main_files/item0012.xml",
+          "score": 6
+        },
+        {
+          "name": "props013.xml",
+          "url": "https://starlingdb.org/new100/main_files/props013.xml",
+          "score": 6
+        },
+        {
+          "name": "colorschememapping.xml",
+          "url": "https://starlingdb.org/new100/main_files/colorschememapping.xml",
+          "score": 6
+        },
+        {
+          "name": "timestr.zip",
+          "url": "https://starlingdb.org/timestr.zip",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 2,
+      "wayback_data_files_raw": 11,
+      "wayback_sets_status200": {
+        "/": 2
+      },
+      "wayback_top": [
+        {
+          "name": "bsh.xls",
+          "url": "https://starlingdb.org/bsh.xls",
+          "first_capture": "20220308004146",
+          "status": "200"
+        },
+        {
+          "name": "bshet.xls",
+          "url": "https://starlingdb.org/bshet.xls",
+          "first_capture": "20220308004544",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "CRU UEA climate data files (climate, university unit site)",
+      "url": "https://crudata.uea.ac.uk/cru/data/",
+      "pages": 1,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files_status200": 1532,
+      "wayback_data_files_raw": 1691,
+      "wayback_sets_status200": {
+        "/cru/data/temperature": 61,
+        "/cru/data/crutem3": 27,
+        "/cru/data/lwt/webdocs": 21,
+        "/cru/data/lwt/static_files": 16,
+        "/cru/data//riverflow/flowreconstruction/Rainfall_series": 15,
+        "/cru/data//riverflow/flowreconstruction/Reconstructed_flows": 15,
+        "/cru/data/drought": 12,
+        "/cru/data/paleo/jonesmann04": 12,
+        "/cru/data/nao": 10,
+        "/cru/data/crutem1": 9,
+        "/cru/data/crutem2": 9,
+        "/cru/data/crutem4": 9
+      },
+      "wayback_top": [
+        {
+          "name": "About_CRUTS_Code_Archives.txt",
+          "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.03/code_archives/About_CRUTS_Code_Archives.txt",
+          "first_capture": "20211025144053",
+          "status": "200"
+        },
+        {
+          "name": "archive.2004011744.updatedbs.tar.gz",
+          "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.04/code_archives/archive.2004011744.updatedbs.tar.gz",
+          "first_capture": "20250501170501",
+          "status": "200"
+        },
+        {
+          "name": "archive.2004151855.updatedat.tar.gz",
+          "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.04/code_archives/archive.2004151855.updatedat.tar.gz",
+          "first_capture": "20250501170031",
+          "status": "200"
+        },
+        {
+          "name": "About_CRUTS_Code_Archives.txt",
+          "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.05/code_archives/About_CRUTS_Code_Archives.txt",
+          "first_capture": "20220810115754",
+          "status": "200"
+        },
+        {
+          "name": "archive.2103041709.updatedbs.tar.gz",
+          "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.05/code_archives/archive.2103041709.updatedbs.tar.gz",
+          "first_capture": "20240502013349",
+          "status": "200"
+        },
+        {
+          "name": "archive.2103051243.updatedat.tar.gz",
+          "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.05/code_archives/archive.2103051243.updatedat.tar.gz",
+          "first_capture": "20240502010530",
+          "status": "200"
+        },
+        {
+          "name": "Format_of_CRU_TS_Observation_files.txt",
+          "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.05/observation.v4.05/Format_of_CRU_TS_Observation_files.txt",
+          "first_capture": "20240921003523",
+          "status": "200"
+        },
+        {
+          "name": "Release_Notes_CRU_TS4.05_observations.txt",
+          "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.05/observation.v4.05/Release_Notes_CRU_TS4.05_observations.txt",
+          "first_capture": "20240921003511",
+          "status": "200"
+        },
+        {
+          "name": "About_CRUTS_Code_Archives.txt",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.06/code_archives/About_CRUTS_Code_Archives.txt",
+          "first_capture": "20220808170908",
+          "status": "200"
+        },
+        {
+          "name": "archive.2204291209.updatedbs.tar.gz",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.06/code_archives/archive.2204291209.updatedbs.tar.gz",
+          "first_capture": "20220808170908",
+          "status": "200"
+        },
+        {
+          "name": "archive.2205201912.updatedat.tar.gz",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.06/code_archives/archive.2205201912.updatedat.tar.gz",
+          "first_capture": "20220808170908",
+          "status": "200"
+        },
+        {
+          "name": "Format_of_CRU_TS_Observation_files.txt",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.06/observation.v4.06/Format_of_CRU_TS_Observation_files.txt",
+          "first_capture": "20220808170916",
+          "status": "200"
+        },
+        {
+          "name": "Release_Notes_CRU_TS4.06_observations.txt",
+          "url": "http://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.06/observation.v4.06/Release_Notes_CRU_TS4.06_observations.txt",
+          "first_capture": "20220808170916",
+          "status": "200"
+        },
+        {
+          "name": "Format_of_CRU_TS_Observation_files.txt",
+          "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.07/observation.v4.07/Format_of_CRU_TS_Observation_files.txt",
+          "first_capture": "20240213021608",
+          "status": "200"
+        },
+        {
+          "name": "Release_Notes_CRU_TS4.07_observations.txt",
+          "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.07/observation.v4.07/Release_Notes_CRU_TS4.07_observations.txt",
+          "first_capture": "20240213021603",
+          "status": "200"
+        },
+        {
+          "name": "About_CRUTS_Code_Archives.txt",
+          "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.08/code_archives/About_CRUTS_Code_Archives.txt",
+          "first_capture": "20250124062428",
+          "status": "200"
+        },
+        {
+          "name": "archive.2406262226.updatedbs.tar.gz",
+          "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.08/code_archives/archive.2406262226.updatedbs.tar.gz",
+          "first_capture": "20250124060328",
+          "status": "200"
+        },
+        {
+          "name": "archive.2406270856.updatedat.tar.gz",
+          "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.08/code_archives/archive.2406270856.updatedat.tar.gz",
+          "first_capture": "20250124062305",
+          "status": "200"
+        },
+        {
+          "name": "About_CRUTS_Code_Archives.txt",
+          "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.09/code_archives/About_CRUTS_Code_Archives.txt",
+          "first_capture": "20250710220209",
+          "status": "200"
+        },
+        {
+          "name": "archive.2503051121.updatedbs.tar.gz",
+          "url": "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.09/code_archives/archive.2503051121.updatedbs.tar.gz",
+          "first_capture": "20250710192426",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "ATNF Pulsar Catalogue old versions (astro, CSIRO lab site)",
+      "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/",
+      "pages": 10,
+      "unique_data_files": 92,
+      "top": [
+        {
+          "name": "psrcat_pkg.tar.gz",
+          "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/downloads/psrcat_pkg.tar.gz",
+          "score": 4
+        },
+        {
+          "name": "psrcat_pkg.v2.9.0.tar.gz",
+          "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/downloads/psrcat_pkg.v2.9.0.tar.gz",
+          "score": 4
+        },
+        {
+          "name": "psrcat_pkg.v2.8.1.tar.gz",
+          "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/downloads/psrcat_pkg.v2.8.1.tar.gz",
+          "score": 4
+        },
+        {
+          "name": "psrcat_pkg.v2.8.0.tar.gz",
+          "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/downloads/psrcat_pkg.v2.8.0.tar.gz",
+          "score": 4
+        },
+        {
+          "name": "psrcat_pkg.v2.7.0.tar.gz",
+          "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/downloads/psrcat_pkg.v2.7.0.tar.gz",
+          "score": 4
+        },
+        {
+          "name": "psrcat_pkg.v2.6.5.tar.gz",
+          "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/downloads/psrcat_pkg.v2.6.5.tar.gz",
+          "score": 4
+        },
+        {
+          "name": "psrcat_pkg.v2.6.4.tar.gz",
+          "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/downloads/psrcat_pkg.v2.6.4.tar.gz",
+          "score": 4
+        },
+        {
+          "name": "psrcat_pkg.v2.6.3.tar.gz",
+          "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/downloads/psrcat_pkg.v2.6.3.tar.gz",
+          "score": 4
+        },
+        {
+          "name": "psrcat_pkg.v2.6.2.tar.gz",
+          "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/downloads/psrcat_pkg.v2.6.2.tar.gz",
+          "score": 4
+        },
+        {
+          "name": "psrcat_pkg.v2.6.1.tar.gz",
+          "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/downloads/psrcat_pkg.v2.6.1.tar.gz",
+          "score": 4
+        },
+        {
+          "name": "psrcat_pkg.v2.6.0.tar.gz",
+          "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/downloads/psrcat_pkg.v2.6.0.tar.gz",
+          "score": 4
+        },
+        {
+          "name": "psrcat_pkg.v2.5.1.tar.gz",
+          "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/downloads/psrcat_pkg.v2.5.1.tar.gz",
+          "score": 4
+        },
+        {
+          "name": "psrcat_pkg.v2.4.0.tar.gz",
+          "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/downloads/psrcat_pkg.v2.4.0.tar.gz",
+          "score": 4
+        },
+        {
+          "name": "psrcat_pkg.v2.3.0.tar.gz",
+          "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/downloads/psrcat_pkg.v2.3.0.tar.gz",
+          "score": 4
+        },
+        {
+          "name": "psrcat_pkg.v2.2.0.tar.gz",
+          "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/downloads/psrcat_pkg.v2.2.0.tar.gz",
+          "score": 4
+        },
+        {
+          "name": "psrcat_pkg.v2.1.1.tar.gz",
+          "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/downloads/psrcat_pkg.v2.1.1.tar.gz",
+          "score": 4
+        },
+        {
+          "name": "psrcat_pkg.v2.1.0.tar.gz",
+          "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/downloads/psrcat_pkg.v2.1.0.tar.gz",
+          "score": 4
+        },
+        {
+          "name": "psrcat_pkg.v2.0.1.tar.gz",
+          "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/downloads/psrcat_pkg.v2.0.1.tar.gz",
+          "score": 4
+        },
+        {
+          "name": "psrcat_pkg.v2.0.0.tar.gz",
+          "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/downloads/psrcat_pkg.v2.0.0.tar.gz",
+          "score": 4
+        },
+        {
+          "name": "psrcat_pkg.v1.9.tar.gz",
+          "url": "https://www.atnf.csiro.au/research/pulsar/psrcat/downloads/psrcat_pkg.v1.9.tar.gz",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 1,
+      "wayback_data_files_raw": 10,
+      "wayback_sets_status200": {
+        "/1kT/intmit/meetings": 1
+      },
+      "wayback_top": [
+        {
+          "name": "vienna.txt",
+          "url": "http://www.atnf.csiro.au:80/1kT/intmit/meetings/vienna.txt",
+          "first_capture": "20000530175317",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "Villanova White Dwarf Catalog (astro, university personal/lab site)",
+      "url": "http://www.astronomy.villanova.edu/WDCatalog/index.html",
+      "pages": 0,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files_status200": 3,
+      "wayback_data_files_raw": 18,
+      "wayback_sets_status200": {
+        "/": 1,
+        "/vas/doug": 1,
+        "/vas/gif": 1
+      },
+      "wayback_top": [
+        {
+          "name": "doug.mov",
+          "url": "http://www.astronomy.villanova.edu/vas/doug/doug.mov",
+          "first_capture": "20160103111134",
+          "status": "200"
+        },
+        {
+          "name": "gb_qtvr.mov",
+          "url": "http://www.astronomy.villanova.edu/vas/gif/gb_qtvr.mov",
+          "first_capture": "20160103110656",
+          "status": "200"
+        },
+        {
+          "name": "robots.txt",
+          "url": "http://astronomy.villanova.edu:80/robots.txt",
+          "first_capture": "20010629231646",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "CATH protein structure classification old releases (UCL lab site)",
+      "url": "https://www.cathdb.info",
+      "pages": 16,
+      "unique_data_files": 6,
+      "top": [
+        {
+          "name": "text.label",
+          "url": "https://www.cathdb.info/browse/text.label",
+          "score": 11
+        },
+        {
+          "name": ".atom.fa",
+          "url": "https://www.cathdb.info/.atom.fa",
+          "score": 6
+        },
+        {
+          "name": "file.fasta",
+          "url": "https://www.cathdb.info/path/to/file.fasta",
+          "score": 6
+        },
+        {
+          "name": "-v4_1_0.atom.fa",
+          "url": "https://www.cathdb.info/-v4_1_0.atom.fa",
+          "score": 6
+        },
+        {
+          "name": "-v4_3_0.fa",
+          "url": "https://www.cathdb.info/-v4_3_0.fa",
+          "score": 6
+        },
+        {
+          "name": "d3.json",
+          "url": "https://www.cathdb.info/browse/d3.json",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 348,
+      "wayback_data_files_raw": 391,
+      "wayback_sets_status200": {
+        "/api/data/derived_data/00001.00010.00010.00010/SSG5/1": 2,
+        "/api/data/derived_data/00001.00010.00010.00010/SSG5/10": 2,
+        "/api/data/derived_data/00001.00010.00010.00010/SSG5/11": 2,
+        "/api/data/derived_data/00001.00010.00010.00010/SSG5/12": 2,
+        "/api/data/derived_data/00001.00010.00010.00010/SSG5/13": 2,
+        "/api/data/derived_data/00001.00010.00010.00010/SSG5/14": 2,
+        "/api/data/derived_data/00001.00010.00010.00010/SSG5/15": 2,
+        "/api/data/derived_data/00001.00010.00010.00010/SSG5/16": 2,
+        "/api/data/derived_data/00001.00010.00010.00010/SSG5/17": 2,
+        "/api/data/derived_data/00001.00010.00010.00010/SSG5/18": 2,
+        "/api/data/derived_data/00001.00010.00010.00010/SSG5/19": 2,
+        "/api/data/derived_data/00001.00010.00010.00010/SSG5/2": 2
+      },
+      "wayback_top": [
+        {
+          "name": "00001.00010.00010.00010__SSG5__1.aln_domains_mafft.fa",
+          "url": "http://www.cathdb.info:80/api/data/derived_data/00001.00010.00010.00010/SSG5/1/00001.00010.00010.00010__SSG5__1.aln_domains_mafft.fa",
+          "first_capture": "20111217094720",
+          "status": "200"
+        },
+        {
+          "name": "00001.00010.00010.00010__SSG5__1.aln_reps.cora.fa",
+          "url": "http://www.cathdb.info:80/api/data/derived_data/00001.00010.00010.00010/SSG5/1/00001.00010.00010.00010__SSG5__1.aln_reps.cora.fa",
+          "first_capture": "20111217092120",
+          "status": "200"
+        },
+        {
+          "name": "00001.00010.00010.00010__SSG5__10.aln_domains_mafft.fa",
+          "url": "http://www.cathdb.info:80/api/data/derived_data/00001.00010.00010.00010/SSG5/10/00001.00010.00010.00010__SSG5__10.aln_domains_mafft.fa",
+          "first_capture": "20111217091728",
+          "status": "200"
+        },
+        {
+          "name": "00001.00010.00010.00010__SSG5__10.aln_reps.cora.fa",
+          "url": "http://www.cathdb.info:80/api/data/derived_data/00001.00010.00010.00010/SSG5/10/00001.00010.00010.00010__SSG5__10.aln_reps.cora.fa",
+          "first_capture": "20111217095237",
+          "status": "200"
+        },
+        {
+          "name": "00001.00010.00010.00010__SSG5__11.aln_domains_mafft.fa",
+          "url": "http://www.cathdb.info:80/api/data/derived_data/00001.00010.00010.00010/SSG5/11/00001.00010.00010.00010__SSG5__11.aln_domains_mafft.fa",
+          "first_capture": "20111217184612",
+          "status": "200"
+        },
+        {
+          "name": "00001.00010.00010.00010__SSG5__11.aln_reps.cora.fa",
+          "url": "http://www.cathdb.info:80/api/data/derived_data/00001.00010.00010.00010/SSG5/11/00001.00010.00010.00010__SSG5__11.aln_reps.cora.fa",
+          "first_capture": "20111217094726",
+          "status": "200"
+        },
+        {
+          "name": "00001.00010.00010.00010__SSG5__12.aln_domains_mafft.fa",
+          "url": "http://www.cathdb.info:80/api/data/derived_data/00001.00010.00010.00010/SSG5/12/00001.00010.00010.00010__SSG5__12.aln_domains_mafft.fa",
+          "first_capture": "20111217093851",
+          "status": "200"
+        },
+        {
+          "name": "00001.00010.00010.00010__SSG5__12.aln_reps.cora.fa",
+          "url": "http://www.cathdb.info:80/api/data/derived_data/00001.00010.00010.00010/SSG5/12/00001.00010.00010.00010__SSG5__12.aln_reps.cora.fa",
+          "first_capture": "20111221041903",
+          "status": "200"
+        },
+        {
+          "name": "00001.00010.00010.00010__SSG5__13.aln_domains_mafft.fa",
+          "url": "http://www.cathdb.info:80/api/data/derived_data/00001.00010.00010.00010/SSG5/13/00001.00010.00010.00010__SSG5__13.aln_domains_mafft.fa",
+          "first_capture": "20111217184226",
+          "status": "200"
+        },
+        {
+          "name": "00001.00010.00010.00010__SSG5__13.aln_reps.cora.fa",
+          "url": "http://www.cathdb.info:80/api/data/derived_data/00001.00010.00010.00010/SSG5/13/00001.00010.00010.00010__SSG5__13.aln_reps.cora.fa",
+          "first_capture": "20111222004327",
+          "status": "200"
+        },
+        {
+          "name": "00001.00010.00010.00010__SSG5__14.aln_domains_mafft.fa",
+          "url": "http://www.cathdb.info:80/api/data/derived_data/00001.00010.00010.00010/SSG5/14/00001.00010.00010.00010__SSG5__14.aln_domains_mafft.fa",
+          "first_capture": "20111217183854",
+          "status": "200"
+        },
+        {
+          "name": "00001.00010.00010.00010__SSG5__14.aln_reps.cora.fa",
+          "url": "http://www.cathdb.info:80/api/data/derived_data/00001.00010.00010.00010/SSG5/14/00001.00010.00010.00010__SSG5__14.aln_reps.cora.fa",
+          "first_capture": "20111220021050",
+          "status": "200"
+        },
+        {
+          "name": "00001.00010.00010.00010__SSG5__15.aln_domains_mafft.fa",
+          "url": "http://www.cathdb.info:80/api/data/derived_data/00001.00010.00010.00010/SSG5/15/00001.00010.00010.00010__SSG5__15.aln_domains_mafft.fa",
+          "first_capture": "20111217104417",
+          "status": "200"
+        },
+        {
+          "name": "00001.00010.00010.00010__SSG5__15.aln_reps.cora.fa",
+          "url": "http://www.cathdb.info:80/api/data/derived_data/00001.00010.00010.00010/SSG5/15/00001.00010.00010.00010__SSG5__15.aln_reps.cora.fa",
+          "first_capture": "20111217193919",
+          "status": "200"
+        },
+        {
+          "name": "00001.00010.00010.00010__SSG5__16.aln_domains_mafft.fa",
+          "url": "http://www.cathdb.info:80/api/data/derived_data/00001.00010.00010.00010/SSG5/16/00001.00010.00010.00010__SSG5__16.aln_domains_mafft.fa",
+          "first_capture": "20111220035411",
+          "status": "200"
+        },
+        {
+          "name": "00001.00010.00010.00010__SSG5__16.aln_reps.cora.fa",
+          "url": "http://www.cathdb.info:80/api/data/derived_data/00001.00010.00010.00010/SSG5/16/00001.00010.00010.00010__SSG5__16.aln_reps.cora.fa",
+          "first_capture": "20111217093128",
+          "status": "200"
+        },
+        {
+          "name": "00001.00010.00010.00010__SSG5__17.aln_domains_mafft.fa",
+          "url": "http://www.cathdb.info:80/api/data/derived_data/00001.00010.00010.00010/SSG5/17/00001.00010.00010.00010__SSG5__17.aln_domains_mafft.fa",
+          "first_capture": "20111222005706",
+          "status": "200"
+        },
+        {
+          "name": "00001.00010.00010.00010__SSG5__17.aln_reps.cora.fa",
+          "url": "http://www.cathdb.info:80/api/data/derived_data/00001.00010.00010.00010/SSG5/17/00001.00010.00010.00010__SSG5__17.aln_reps.cora.fa",
+          "first_capture": "20111217093136",
+          "status": "200"
+        },
+        {
+          "name": "00001.00010.00010.00010__SSG5__18.aln_domains_mafft.fa",
+          "url": "http://www.cathdb.info:80/api/data/derived_data/00001.00010.00010.00010/SSG5/18/00001.00010.00010.00010__SSG5__18.aln_domains_mafft.fa",
+          "first_capture": "20111221041908",
+          "status": "200"
+        },
+        {
+          "name": "00001.00010.00010.00010__SSG5__18.aln_reps.cora.fa",
+          "url": "http://www.cathdb.info:80/api/data/derived_data/00001.00010.00010.00010/SSG5/18/00001.00010.00010.00010__SSG5__18.aln_reps.cora.fa",
+          "first_capture": "20111220012409",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "SCOP protein classification old releases (MRC-LMB Cambridge lab site)",
+      "url": "https://scop.mrc-lmb.cam.ac.uk",
+      "pages": 1,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files_status200": 5,
+      "wayback_data_files_raw": 17,
+      "wayback_sets_status200": {
+        "/files": 3,
+        "/": 2
+      },
+      "wayback_top": [
+        {
+          "name": "scop_fa_represeq_lib20200228.fa",
+          "url": "http://scop.mrc-lmb.cam.ac.uk/files/scop_fa_represeq_lib20200228.fa",
+          "first_capture": "20201202224826",
+          "status": "200"
+        },
+        {
+          "name": "scop-cla-20200228.txt",
+          "url": "http://scop.mrc-lmb.cam.ac.uk/files/scop-cla-20200228.txt",
+          "first_capture": "20201202220621",
+          "status": "200"
+        },
+        {
+          "name": "scop-cla-latest.txt",
+          "url": "http://scop.mrc-lmb.cam.ac.uk/files/scop-cla-latest.txt",
+          "first_capture": "20210126172402",
+          "status": "200"
+        },
+        {
+          "name": "manifest.json",
+          "url": "http://scop.mrc-lmb.cam.ac.uk:80/manifest.json",
+          "first_capture": "20200119045438",
+          "status": "200"
+        },
+        {
+          "name": "robots.txt",
+          "url": "http://scop.mrc-lmb.cam.ac.uk:80/robots.txt",
+          "first_capture": "19990124000449",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "Pfam old releases (protein families, ex-Xfam lab site)",
+      "url": "https://pfam.xfam.org",
+      "pages": 0,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "label": "Particle Data Group historical editions (physics, LBL lab site)",
+      "url": "https://pdg.lbl.gov",
+      "pages": 18,
+      "unique_data_files": 1,
+      "top": [
+        {
+          "name": "mass_width_2026.txt",
+          "url": "https://pdg.lbl.gov/2026/mcdata/mass_width_2026.txt",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 7,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "label": "CLIO Infra historical statistics (social/econ history, IISH project site)",
+      "url": "https://clio-infra.eu",
+      "pages": 25,
+      "unique_data_files": 356,
+      "top": [
+        {
+          "name": "CompositeMeasureofWellbeing_Compact.xlsx",
+          "url": "https://clio-infra.eu/data/CompositeMeasureofWellbeing_Compact.xlsx",
+          "score": 9
+        },
+        {
+          "name": "LatentDemocracyVariable_Compact.xlsx",
+          "url": "https://clio-infra.eu/data/LatentDemocracyVariable_Compact.xlsx",
+          "score": 9
+        },
+        {
+          "name": "UnifiedDemocracyScores(UDS)_Compact.xlsx",
+          "url": "https://clio-infra.eu/data/UnifiedDemocracyScores(UDS)_Compact.xlsx",
+          "score": 9
+        },
+        {
+          "name": "GermanyDemocraticRepublic_1954_1990_all_data.xlsx",
+          "url": "https://clio-infra.eu/docs/GermanyDemocraticRepublic_1954_1990_all_data.xlsx",
+          "score": 9
+        },
+        {
+          "name": "CompositeMeasureofWellbeing_Broad.xlsx",
+          "url": "https://clio-infra.eu/data/CompositeMeasureofWellbeing_Broad.xlsx",
+          "score": 9
+        },
+        {
+          "name": "DataAtHistoricalBorders.xlsx",
+          "url": "https://clio-infra.eu/data/DataAtHistoricalBorders.xlsx",
+          "score": 6
+        },
+        {
+          "name": "CattleperCapita_Compact.xlsx",
+          "url": "https://clio-infra.eu/data/CattleperCapita_Compact.xlsx",
+          "score": 6
+        },
+        {
+          "name": "CroplandperCapita_Compact.xlsx",
+          "url": "https://clio-infra.eu/data/CroplandperCapita_Compact.xlsx",
+          "score": 6
+        },
+        {
+          "name": "GoatsperCapita_Compact.xlsx",
+          "url": "https://clio-infra.eu/data/GoatsperCapita_Compact.xlsx",
+          "score": 6
+        },
+        {
+          "name": "PastureperCapita_Compact.xlsx",
+          "url": "https://clio-infra.eu/data/PastureperCapita_Compact.xlsx",
+          "score": 6
+        },
+        {
+          "name": "PigsperCapita_Compact.xlsx",
+          "url": "https://clio-infra.eu/data/PigsperCapita_Compact.xlsx",
+          "score": 6
+        },
+        {
+          "name": "SheepperCapita_Compact.xlsx",
+          "url": "https://clio-infra.eu/data/SheepperCapita_Compact.xlsx",
+          "score": 6
+        },
+        {
+          "name": "TotalCattle_Compact.xlsx",
+          "url": "https://clio-infra.eu/data/TotalCattle_Compact.xlsx",
+          "score": 6
+        },
+        {
+          "name": "TotalCropland_Compact.xlsx",
+          "url": "https://clio-infra.eu/data/TotalCropland_Compact.xlsx",
+          "score": 6
+        },
+        {
+          "name": "TotalNumberofGoats_Compact.xlsx",
+          "url": "https://clio-infra.eu/data/TotalNumberofGoats_Compact.xlsx",
+          "score": 6
+        },
+        {
+          "name": "TotalNumberofPigs_Compact.xlsx",
+          "url": "https://clio-infra.eu/data/TotalNumberofPigs_Compact.xlsx",
+          "score": 6
+        },
+        {
+          "name": "TotalNumberofSheep_Compact.xlsx",
+          "url": "https://clio-infra.eu/data/TotalNumberofSheep_Compact.xlsx",
+          "score": 6
+        },
+        {
+          "name": "TotalPasture_Compact.xlsx",
+          "url": "https://clio-infra.eu/data/TotalPasture_Compact.xlsx",
+          "score": 6
+        },
+        {
+          "name": "FemalelifeexpectancyatBirth_Compact.xlsx",
+          "url": "https://clio-infra.eu/data/FemalelifeexpectancyatBirth_Compact.xlsx",
+          "score": 6
+        },
+        {
+          "name": "GlobalExtremePovertyCostofBasicNeeds_Compact.xlsx",
+          "url": "https://clio-infra.eu/data/GlobalExtremePovertyCostofBasicNeeds_Compact.xlsx",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 2901,
+      "wayback_data_files_raw": 3197,
+      "wayback_sets_status200": {
+        "/IndicatorsPerCountry": 2703,
+        "/data": 97,
+        "/Citations": 84,
+        "/docs": 16,
+        "/data/01%20-%20Wages%20and%20Prices": 1
+      },
+      "wayback_top": [
+        {
+          "name": "CompositeMeasureofWellbeing_Broad.xlsx",
+          "url": "https://clio-infra.eu/data/CompositeMeasureofWellbeing_Broad.xlsx",
+          "first_capture": "20201230035353",
+          "status": "200"
+        },
+        {
+          "name": "LatentDemocracyVariable_Broad.xlsx",
+          "url": "https://clio-infra.eu/data/LatentDemocracyVariable_Broad.xlsx",
+          "first_capture": "20201230035418",
+          "status": "200"
+        },
+        {
+          "name": "UnifiedDemocracyScores(UDS)_Broad.xlsx",
+          "url": "https://clio-infra.eu/data/UnifiedDemocracyScores(UDS)_Broad.xlsx",
+          "first_capture": "20220120062252",
+          "status": "200"
+        },
+        {
+          "name": "GermanyDemocraticRepublic_1954_1990_all_data.xlsx",
+          "url": "https://clio-infra.eu/docs/GermanyDemocraticRepublic_1954_1990_all_data.xlsx",
+          "first_capture": "20220217103444",
+          "status": "200"
+        },
+        {
+          "name": "Afghanistan_CompositeMeasureofWellbeing_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_CompositeMeasureofWellbeing_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "first_capture": "20201230035814",
+          "status": "200"
+        },
+        {
+          "name": "Afghanistan_LatentDemocracyVariable_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_LatentDemocracyVariable_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "first_capture": "20201230035815",
+          "status": "200"
+        },
+        {
+          "name": "Afghanistan_UnifiedDemocracyScoresUDS_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Afghanistan_UnifiedDemocracyScoresUDS_TerritorialRef_1946_2012_CCode_4.xlsx",
+          "first_capture": "20201230035815",
+          "status": "200"
+        },
+        {
+          "name": "Albania_CompositeMeasureofWellbeing_TerritorialRef_1946_2012_CCode_8.xlsx",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Albania_CompositeMeasureofWellbeing_TerritorialRef_1946_2012_CCode_8.xlsx",
+          "first_capture": "20201230040024",
+          "status": "200"
+        },
+        {
+          "name": "Albania_LatentDemocracyVariable_TerritorialRef_1946_2012_CCode_8.xlsx",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Albania_LatentDemocracyVariable_TerritorialRef_1946_2012_CCode_8.xlsx",
+          "first_capture": "20201230040026",
+          "status": "200"
+        },
+        {
+          "name": "Albania_UnifiedDemocracyScoresUDS_TerritorialRef_1946_2012_CCode_8.xlsx",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Albania_UnifiedDemocracyScoresUDS_TerritorialRef_1946_2012_CCode_8.xlsx",
+          "first_capture": "20201230040026",
+          "status": "200"
+        },
+        {
+          "name": "Algeria_CompositeMeasureofWellbeing_TerritorialRef_1962_2012_CCode_12.xlsx",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Algeria_CompositeMeasureofWellbeing_TerritorialRef_1962_2012_CCode_12.xlsx",
+          "first_capture": "20201230035529",
+          "status": "200"
+        },
+        {
+          "name": "Algeria_UnifiedDemocracyScoresUDS_TerritorialRef_1962_2012_CCode_12.xlsx",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Algeria_UnifiedDemocracyScoresUDS_TerritorialRef_1962_2012_CCode_12.xlsx",
+          "first_capture": "20201230035531",
+          "status": "200"
+        },
+        {
+          "name": "Andorra_CompositeMeasureofWellbeing_TerritorialRef_1993_2012_CCode_20.xlsx",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Andorra_CompositeMeasureofWellbeing_TerritorialRef_1993_2012_CCode_20.xlsx",
+          "first_capture": "20201230040027",
+          "status": "200"
+        },
+        {
+          "name": "Angola_CompositeMeasureofWellbeing_TerritorialRef_1975_2012_CCode_24.xlsx",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Angola_CompositeMeasureofWellbeing_TerritorialRef_1975_2012_CCode_24.xlsx",
+          "first_capture": "20201230035511",
+          "status": "200"
+        },
+        {
+          "name": "Angola_UnifiedDemocracyScoresUDS_TerritorialRef_1975_2012_CCode_24.xlsx",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Angola_UnifiedDemocracyScoresUDS_TerritorialRef_1975_2012_CCode_24.xlsx",
+          "first_capture": "20201230035512",
+          "status": "200"
+        },
+        {
+          "name": "AntiguaandBarbuda_CompositeMeasureofWellbeing_TerritorialRef_1981_2012_CCode_28.xlsx",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/AntiguaandBarbuda_CompositeMeasureofWellbeing_TerritorialRef_1981_2012_CCode_28.xlsx",
+          "first_capture": "20201230035629",
+          "status": "200"
+        },
+        {
+          "name": "AntiguaandBarbuda_UnifiedDemocracyScoresUDS_TerritorialRef_1981_2012_CCode_28.xlsx",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/AntiguaandBarbuda_UnifiedDemocracyScoresUDS_TerritorialRef_1981_2012_CCode_28.xlsx",
+          "first_capture": "20201230035629",
+          "status": "200"
+        },
+        {
+          "name": "Argentina_CompositeMeasureofWellbeing_TerritorialRef_1946_2012_CCode_32.xlsx",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Argentina_CompositeMeasureofWellbeing_TerritorialRef_1946_2012_CCode_32.xlsx",
+          "first_capture": "20201230035710",
+          "status": "200"
+        },
+        {
+          "name": "Argentina_LatentDemocracyVariable_TerritorialRef_1946_2012_CCode_32.xlsx",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Argentina_LatentDemocracyVariable_TerritorialRef_1946_2012_CCode_32.xlsx",
+          "first_capture": "20201230035711",
+          "status": "200"
+        },
+        {
+          "name": "Argentina_UnifiedDemocracyScoresUDS_TerritorialRef_1946_2012_CCode_32.xlsx",
+          "url": "https://clio-infra.eu/IndicatorsPerCountry/Argentina_UnifiedDemocracyScoresUDS_TerritorialRef_1946_2012_CCode_32.xlsx",
+          "first_capture": "20201230035712",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "Bank of England research datasets / Millennium of Macroeconomic Data vintages (econ history)",
+      "url": "https://www.bankofengland.co.uk/statistics/research-datasets",
+      "pages": 25,
+      "unique_data_files": 14,
+      "top": [
+        {
+          "name": "boe-nmg-household-survey-data-2004-11.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/boe-nmg-household-survey-data-2004-11.xlsx",
+          "score": 9
+        },
+        {
+          "name": "boe-nmg-household-survey-data.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/boe-nmg-household-survey-data.xlsx",
+          "score": 9
+        },
+        {
+          "name": "long-run.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/inflation-attitudes-survey/long-run.xlsx",
+          "score": 6
+        },
+        {
+          "name": "individual-responses.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/inflation-attitudes-survey/individual-responses.xlsx",
+          "score": 6
+        },
+        {
+          "name": "agentsscores.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/agents-summary/agentsscores.xlsx",
+          "score": 6
+        },
+        {
+          "name": "historic-agents-scores.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/agents-summary/historic-agents-scores.xlsx",
+          "score": 6
+        },
+        {
+          "name": "a-millennium-of-macroeconomic-data-for-the-uk.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/a-millennium-of-macroeconomic-data-for-the-uk.xlsx",
+          "score": 6
+        },
+        {
+          "name": "annual-data-on-the-boes-balance-sheet.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/annual-data-on-the-boes-balance-sheet.xlsx",
+          "score": 6
+        },
+        {
+          "name": "weekly-data-on-the-boes-balance-sheet-1844-to-2006.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/weekly-data-on-the-boes-balance-sheet-1844-to-2006.xlsx",
+          "score": 6
+        },
+        {
+          "name": "the-bank-of-england-as-lender-of-last-resort-historical-dataset.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/research/the-bank-of-england-as-lender-of-last-resort-historical-dataset.xlsx",
+          "score": 6
+        },
+        {
+          "name": "qe-related-data.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/qe-related-data.xlsx",
+          "score": 6
+        },
+        {
+          "name": "boc-boe-database.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/boc-boe-database.xlsx",
+          "score": 6
+        },
+        {
+          "name": "reporting-form-wcdmo.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/banknotes/wcdmo/reporting-form-wcdmo.xlsx",
+          "score": 6
+        },
+        {
+          "name": "reporting-form-xsd-file-wcdmo.zip",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/banknotes/wcdmo/reporting-form-xsd-file-wcdmo.zip",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 78,
+      "wayback_data_files_raw": 105,
+      "wayback_sets_status200": {
+        "/-/media/boe/files/bank-liabilities-survey/2018": 8,
+        "/-/media/boe/files/bank-liabilities-survey/2019": 7,
+        "/-/media/boe/files/bank-liabilities-survey/2020": 7,
+        "/-/media/boe/files/bank-liabilities-survey/2021": 6,
+        "/-/media/boe/files/agents-summary": 4,
+        "/-/media/boe/files/bank-liabilities-survey/2013": 4,
+        "/-/media/boe/files/bank-liabilities-survey/2014": 4,
+        "/-/media/boe/files/bank-liabilities-survey/2015": 4,
+        "/-/media/boe/files/bank-liabilities-survey/2016": 4,
+        "/-/media/boe/files/bank-liabilities-survey/2017": 4,
+        "/-/media/boe/files/bank-liabilities-survey/2022": 4,
+        "/-/media/boe/files/bank-liabilities-survey/2023": 4
+      },
+      "wayback_top": [
+        {
+          "name": "bank-liabilities-survey-annex---2018-q4.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/bank-liabilities-survey/2018/bank-liabilities-survey-annex---2018-q4.xlsx",
+          "first_capture": "20221224155757",
+          "status": "200"
+        },
+        {
+          "name": "bank-liabilities-survey-annex---2018-q4.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/bank-liabilities-survey/2018/bank-liabilities-survey-annex---2018-q4.xlsx?la=en&hash=EA131139A42B83A6944F1E354E80BAFFFC2E6E39",
+          "first_capture": "20220928183348",
+          "status": "200"
+        },
+        {
+          "name": "gertjan-vlieghe-entertainment-and-gifts.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/about/people/gertjan-vlieghe/gertjan-vlieghe-entertainment-and-gifts.xlsx",
+          "first_capture": "20210503043504",
+          "status": "200"
+        },
+        {
+          "name": "orgchart.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/about/people/orgchart.xlsx",
+          "first_capture": "20240120005622",
+          "status": "200"
+        },
+        {
+          "name": "agentsscores.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/agents-summary/agentsscores.xlsx",
+          "first_capture": "20201206053950",
+          "status": "200"
+        },
+        {
+          "name": "agentsscores.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/agents-summary/agentsscores.xlsx?la=en&hash=0EBBF01482F2B9579CD87EE5DBFECD6E1151A118&hash=0EBBF01482F2B9579CD87EE5DBFECD6E1151A118",
+          "first_capture": "20201122152846",
+          "status": "200"
+        },
+        {
+          "name": "agentsscores.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/agents-summary/agentsscores.xlsx?la%3Den%26hash%3D0EBBF01482F2B9579CD87EE5DBFECD6E1151A118",
+          "first_capture": "20210818115800",
+          "status": "200"
+        },
+        {
+          "name": "historic-agents-scores.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/agents-summary/historic-agents-scores.xlsx",
+          "first_capture": "20240120010139",
+          "status": "200"
+        },
+        {
+          "name": "2013-annex-q1.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/bank-liabilities-survey/2013/2013-annex-q1.xlsx?la=en&hash=CC64CDABA8BA4138CD2F9E9981B85CD4E3388FBA",
+          "first_capture": "20220928183357",
+          "status": "200"
+        },
+        {
+          "name": "2013-annex-q2.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/bank-liabilities-survey/2013/2013-annex-q2.xlsx?la=en&hash=E4E32599C3598F371404D9E8EE4D3837A40E267E",
+          "first_capture": "20220928212329",
+          "status": "200"
+        },
+        {
+          "name": "2013-annex-q3.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/bank-liabilities-survey/2013/2013-annex-q3.xlsx?la=en&hash=4EA862F66D3B8694E22407F261A71F5B23594644",
+          "first_capture": "20220928183352",
+          "status": "200"
+        },
+        {
+          "name": "2013-annex-q4.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/bank-liabilities-survey/2013/2013-annex-q4.xlsx?la=en&hash=056779B883BF982872141B9590B682408A070DB1",
+          "first_capture": "20220928183354",
+          "status": "200"
+        },
+        {
+          "name": "2014-annex-q1.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/bank-liabilities-survey/2014/2014-annex-q1.xlsx?la=en&hash=4634332E5591E1FA6667B575E03BB709FB78EB54",
+          "first_capture": "20220928183345",
+          "status": "200"
+        },
+        {
+          "name": "2014-annex-q2.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/bank-liabilities-survey/2014/2014-annex-q2.xlsx?la=en&hash=FD817BFB9E176A7FEC827E853133E7789F6E2000",
+          "first_capture": "20220928183351",
+          "status": "200"
+        },
+        {
+          "name": "2014-annex-q3.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/bank-liabilities-survey/2014/2014-annex-q3.xlsx?la=en&hash=91D5EB5D324FD3F8CC249D24944B17076798F54C",
+          "first_capture": "20220928183352",
+          "status": "200"
+        },
+        {
+          "name": "2014-annex-q4.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/bank-liabilities-survey/2014/2014-annex-q4.xlsx?la=en&hash=9EA951FDDF639287B6A5B47575CDBC9AA289BE21",
+          "first_capture": "20220928183349",
+          "status": "200"
+        },
+        {
+          "name": "2015-annex-q1.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/bank-liabilities-survey/2015/2015-annex-q1.xlsx?la=en&hash=83F1D67080AF74D88F94249BD0045D94736B4092",
+          "first_capture": "20220928212328",
+          "status": "200"
+        },
+        {
+          "name": "2015-annex-q2.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/bank-liabilities-survey/2015/2015-annex-q2.xlsx?la=en&hash=52F980D21F67EA134E7C2C31FAA1D466FB5F2517",
+          "first_capture": "20220928183348",
+          "status": "200"
+        },
+        {
+          "name": "2015-annex-q3.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/bank-liabilities-survey/2015/2015-annex-q3.xlsx?la=en&hash=5757528D35FAD37CC87223A7D87229556E9468BC",
+          "first_capture": "20220928183357",
+          "status": "200"
+        },
+        {
+          "name": "2015-annex-q4.xlsx",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/bank-liabilities-survey/2015/2015-annex-q4.xlsx?la%3Den%26hash%3D561ED7281739F5FD748DCC5AE79E26E663AD5A4D",
+          "first_capture": "20210821030641",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "UCSC Genome Browser goldenPath old assemblies (genomics, university lab downloads)",
+      "url": "https://hgdownload.soe.ucsc.edu/goldenPath/",
+      "pages": 1,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files_status200": 342,
+      "wayback_data_files_raw": 382,
+      "wayback_sets_status200": {
+        "/admin/exe/userApps.archive": 104,
+        "/admin": 88,
+        "/admin/exe": 22,
+        "/gbdb/apiMel2/scaffolds": 17,
+        "/admin/jksrc.archive": 4,
+        "/gbdb/ce1/mrna.134": 3,
+        "/gbdb/allMis1/ncbiRefSeq": 2,
+        "/gbdb/aotNan1/ncbiRefSeq": 2,
+        "/gbdb/bosTau9/ncbiRefSeq": 2,
+        "/gbdb/calJac4/ncbiRefSeq": 2,
+        "/gbdb/canFam3/ncbiRefSeq": 2,
+        "/gbdb/canFam4/ncbiRefSeq": 2
+      },
+      "wayback_top": [
+        {
+          "name": "fugu_v3_mask.fasta",
+          "url": "https://hgdownload.soe.ucsc.edu/gbdb/ce1/fuguSeq/fugu_v3_mask.fasta",
+          "first_capture": "20250812054242",
+          "status": "200"
+        },
+        {
+          "name": "fugu_v3.masked.fa",
+          "url": "https://hgdownload.soe.ucsc.edu/gbdb/ce2/fuguSeq/fugu_v3.masked.fa",
+          "first_capture": "20241014234721",
+          "status": "200"
+        },
+        {
+          "name": "seqNcbiRefSeq.rna.fa",
+          "url": "https://hgdownload.soe.ucsc.edu/gbdb/allMis1/ncbiRefSeq/seqNcbiRefSeq.rna.fa",
+          "first_capture": "20260316215442",
+          "status": "200"
+        },
+        {
+          "name": "dm1FBp.fa",
+          "url": "http://hgdownload.soe.ucsc.edu/gbdb/anoGam1/miscSeq/dm1FBp.fa",
+          "first_capture": "20250619031901",
+          "status": "200"
+        },
+        {
+          "name": "seqNcbiRefSeq.rna.fa",
+          "url": "http://hgdownload.soe.ucsc.edu/gbdb/aotNan1/ncbiRefSeq/seqNcbiRefSeq.rna.fa",
+          "first_capture": "20250617210633",
+          "status": "200"
+        },
+        {
+          "name": "Group1.fa",
+          "url": "https://hgdownload.soe.ucsc.edu/gbdb/apiMel2/scaffolds/Group1.fa",
+          "first_capture": "20240716152155",
+          "status": "200"
+        },
+        {
+          "name": "Group10.fa",
+          "url": "https://hgdownload.soe.ucsc.edu/gbdb/apiMel2/scaffolds/Group10.fa",
+          "first_capture": "20240716151526",
+          "status": "200"
+        },
+        {
+          "name": "Group11.fa",
+          "url": "https://hgdownload.soe.ucsc.edu/gbdb/apiMel2/scaffolds/Group11.fa",
+          "first_capture": "20240721021010",
+          "status": "200"
+        },
+        {
+          "name": "Group12.fa",
+          "url": "https://hgdownload.soe.ucsc.edu/gbdb/apiMel2/scaffolds/Group12.fa",
+          "first_capture": "20240721010645",
+          "status": "200"
+        },
+        {
+          "name": "Group13.fa",
+          "url": "https://hgdownload.soe.ucsc.edu/gbdb/apiMel2/scaffolds/Group13.fa",
+          "first_capture": "20240721001411",
+          "status": "200"
+        },
+        {
+          "name": "Group14.fa",
+          "url": "https://hgdownload.soe.ucsc.edu/gbdb/apiMel2/scaffolds/Group14.fa",
+          "first_capture": "20240716154746",
+          "status": "200"
+        },
+        {
+          "name": "Group15.fa",
+          "url": "https://hgdownload.soe.ucsc.edu/gbdb/apiMel2/scaffolds/Group15.fa",
+          "first_capture": "20240721003548",
+          "status": "200"
+        },
+        {
+          "name": "Group16.fa",
+          "url": "https://hgdownload.soe.ucsc.edu/gbdb/apiMel2/scaffolds/Group16.fa",
+          "first_capture": "20240716161116",
+          "status": "200"
+        },
+        {
+          "name": "Group2.fa",
+          "url": "https://hgdownload.soe.ucsc.edu/gbdb/apiMel2/scaffolds/Group2.fa",
+          "first_capture": "20240716144932",
+          "status": "200"
+        },
+        {
+          "name": "Group3.fa",
+          "url": "https://hgdownload.soe.ucsc.edu/gbdb/apiMel2/scaffolds/Group3.fa",
+          "first_capture": "20240716161916",
+          "status": "200"
+        },
+        {
+          "name": "Group4.fa",
+          "url": "https://hgdownload.soe.ucsc.edu/gbdb/apiMel2/scaffolds/Group4.fa",
+          "first_capture": "20240716154136",
+          "status": "200"
+        },
+        {
+          "name": "Group5.fa",
+          "url": "https://hgdownload.soe.ucsc.edu/gbdb/apiMel2/scaffolds/Group5.fa",
+          "first_capture": "20240716151457",
+          "status": "200"
+        },
+        {
+          "name": "Group6.fa",
+          "url": "https://hgdownload.soe.ucsc.edu/gbdb/apiMel2/scaffolds/Group6.fa",
+          "first_capture": "20240716143320",
+          "status": "200"
+        },
+        {
+          "name": "Group7.fa",
+          "url": "https://hgdownload.soe.ucsc.edu/gbdb/apiMel2/scaffolds/Group7.fa",
+          "first_capture": "20240716160902",
+          "status": "200"
+        },
+        {
+          "name": "Group8.fa",
+          "url": "https://hgdownload.soe.ucsc.edu/gbdb/apiMel2/scaffolds/Group8.fa",
+          "first_capture": "20240721010935",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "Tree of Life Web Project (evolution, old university project site)",
+      "url": "http://tolweb.org",
+      "pages": 25,
+      "unique_data_files": 2,
+      "top": [
+        {
+          "name": "556958.stm",
+          "url": "http://news.bbc.co.uk/hi/english/sci/tech/newsid_556000/556958.stm",
+          "score": 6
+        },
+        {
+          "name": "556984.stm",
+          "url": "http://news.bbc.co.uk/hi/english/sci/tech/newsid_556000/556984.stm",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 5,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "label": "Reptile Database old exports (ecology/herpetology, personal-project site)",
+      "url": "https://reptile-database.org",
+      "pages": 8,
+      "unique_data_files": 3,
+      "top": [
+        {
+          "name": "Genera_without_photos.xlsx",
+          "url": "http://www.reptile-database.org/db-info/Genera_without_photos.xlsx",
+          "score": 6
+        },
+        {
+          "name": "x6124.xml",
+          "url": "http://www.ups.edu/x6124.xml",
+          "score": 6
+        },
+        {
+          "name": "x6126.xml",
+          "url": "http://www.ups.edu/x6126.xml",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 53,
+      "wayback_data_files_raw": 69,
+      "wayback_sets_status200": {
+        "/data": 51,
+        "//data": 1,
+        "/db-info": 1
+      },
+      "wayback_top": [
+        {
+          "name": "Table_S1_published_type_catalogs.xlsx",
+          "url": "http://www.reptile-database.org:80/data/Table_S1_published_type_catalogs.xlsx",
+          "first_capture": "20191201055337",
+          "status": "200"
+        },
+        {
+          "name": "Garg2019_Table_S1.xlsx",
+          "url": "http://www.reptile-database.org/data/Garg2019_Table_S1.xlsx",
+          "first_capture": "20210718010722",
+          "status": "200"
+        },
+        {
+          "name": "Marshall_2020_SI_tables.xlsx",
+          "url": "http://www.reptile-database.org/data/Marshall_2020_SI_tables.xlsx",
+          "first_capture": "20220221074152",
+          "status": "200"
+        },
+        {
+          "name": "originaldescriptions2017.xlsx",
+          "url": "http://www.reptile-database.org/data/originaldescriptions2017.xlsx",
+          "first_capture": "20190331134232",
+          "status": "200"
+        },
+        {
+          "name": "reptile_checklist_2015_08.xlsx",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2015_08.xlsx",
+          "first_capture": "20150907145716",
+          "status": "200"
+        },
+        {
+          "name": "reptile_checklist_2015_12.xlsx",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2015_12.xlsx",
+          "first_capture": "20160505085955",
+          "status": "200"
+        },
+        {
+          "name": "reptile_checklist_2016_04.xlsx",
+          "url": "http://www.reptile-database.org:80/data/reptile_checklist_2016_04.xlsx",
+          "first_capture": "20161218095925",
+          "status": "200"
+        },
+        {
+          "name": "reptile_checklist_2016_08.xlsx",
+          "url": "http://www.reptile-database.org:80/data/reptile_checklist_2016_08.xlsx",
+          "first_capture": "20161218100049",
+          "status": "200"
+        },
+        {
+          "name": "reptile_checklist_2016_12.xlsx",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2016_12.xlsx",
+          "first_capture": "20170712110530",
+          "status": "200"
+        },
+        {
+          "name": "Reptile_checklist_2017_05.xlsx",
+          "url": "http://www.reptile-database.org:80/data/Reptile_checklist_2017_05.xlsx",
+          "first_capture": "20171117225233",
+          "status": "200"
+        },
+        {
+          "name": "Reptile_checklist_2017_10.xlsx",
+          "url": "http://www.reptile-database.org:80/data/Reptile_checklist_2017_10.xlsx",
+          "first_capture": "20171025102014",
+          "status": "200"
+        },
+        {
+          "name": "Reptile_checklist_2018_02.xlsx",
+          "url": "http://www.reptile-database.org/data/Reptile_checklist_2018_02.xlsx",
+          "first_capture": "20190331134243",
+          "status": "200"
+        },
+        {
+          "name": "Reptile_checklist_2018_07.xlsx",
+          "url": "http://www.reptile-database.org/data/Reptile_checklist_2018_07.xlsx",
+          "first_capture": "20190331134249",
+          "status": "200"
+        },
+        {
+          "name": "Reptile_checklist_2018_11.xlsx",
+          "url": "http://www.reptile-database.org/data/Reptile_checklist_2018_11.xlsx",
+          "first_capture": "20190331134227",
+          "status": "200"
+        },
+        {
+          "name": "Reptile_checklist_2019_04.xlsx",
+          "url": "http://www.reptile-database.org:80/data/Reptile_checklist_2019_04.xlsx",
+          "first_capture": "20191201055841",
+          "status": "200"
+        },
+        {
+          "name": "Reptile_checklist_2019_08.xlsx",
+          "url": "http://www.reptile-database.org:80/data/Reptile_checklist_2019_08.xlsx",
+          "first_capture": "20191201055311",
+          "status": "200"
+        },
+        {
+          "name": "Reptile_checklist_2019_12.xlsx",
+          "url": "http://www.reptile-database.org:80/data/Reptile_checklist_2019_12.xlsx",
+          "first_capture": "20200209002035",
+          "status": "200"
+        },
+        {
+          "name": "reptile_checklist_2020_04.xlsx",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2020_04.xlsx",
+          "first_capture": "20201028172809",
+          "status": "200"
+        },
+        {
+          "name": "reptile_checklist_2020_08.xlsx",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2020_08.xlsx",
+          "first_capture": "20201002202504",
+          "status": "200"
+        },
+        {
+          "name": "reptile_checklist_2020_12.xlsx",
+          "url": "http://www.reptile-database.org/data/reptile_checklist_2020_12.xlsx",
+          "first_capture": "20220223014334",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "OEIS integer sequences catalogue stack (maths catalogue, foundation site)",
+      "url": "https://oeis.org",
+      "pages": 25,
+      "unique_data_files": 5,
+      "top": [
+        {
+          "name": "oeis.xml",
+          "url": "https://oeis.org/oeis.xml",
+          "score": 6
+        },
+        {
+          "name": "a005132.mov",
+          "url": "https://oeis.org/A005132/a005132.mov",
+          "score": 6
+        },
+        {
+          "name": "b001006.txt",
+          "url": "https://oeis.org/A001006/b001006.txt",
+          "score": 4
+        },
+        {
+          "name": "sg.txt",
+          "url": "http://NeilSloane.com/doc/sg.txt",
+          "score": 4
+        },
+        {
+          "name": "Supp3.txt",
+          "url": "https://oeis.org/w/images/6/6d/Supp3.txt",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 379,
+      "wayback_data_files_raw": 392,
+      "wayback_sets_status200": {
+        "/A000004": 6,
+        "/A000040": 6,
+        "/A000001": 5,
+        "/A000088": 5,
+        "/A000129": 4,
+        "/A000170": 4,
+        "/A000002": 3,
+        "/A000041": 3,
+        "/A000079": 3,
+        "/A000146": 3,
+        "/A000179": 3,
+        "/A000217": 3
+      },
+      "wayback_top": [
+        {
+          "name": "a000001.txt",
+          "url": "http://oeis.org:80/A000001/a000001.txt",
+          "first_capture": "20161115192037",
+          "status": "200"
+        },
+        {
+          "name": "a000001_4.txt",
+          "url": "https://oeis.org/A000001/a000001_4.txt",
+          "first_capture": "20260414180248",
+          "status": "200"
+        },
+        {
+          "name": "b000001.txt",
+          "url": "http://oeis.org:80/A000001/b000001.txt",
+          "first_capture": "20110110013400",
+          "status": "200"
+        },
+        {
+          "name": "b000001_1.txt",
+          "url": "https://oeis.org/A000001/b000001_1.txt",
+          "first_capture": "20220305124540",
+          "status": "200"
+        },
+        {
+          "name": "b000001_2.txt",
+          "url": "https://oeis.org/A000001/b000001_2.txt",
+          "first_capture": "20220305124559",
+          "status": "200"
+        },
+        {
+          "name": "a000002.spl.txt",
+          "url": "http://oeis.org:80/A000002/a000002.spl.txt",
+          "first_capture": "20190521035713",
+          "status": "200"
+        },
+        {
+          "name": "a000002_50K.7z",
+          "url": "https://oeis.org/A000002/a000002_50K.7z",
+          "first_capture": "20171109085847",
+          "status": "200"
+        },
+        {
+          "name": "b000002.txt",
+          "url": "http://oeis.org:80/A000002/b000002.txt",
+          "first_capture": "20110513231100",
+          "status": "200"
+        },
+        {
+          "name": "b000003.txt",
+          "url": "http://oeis.org:80/A000003/b000003.txt",
+          "first_capture": "20110219194112",
+          "status": "200"
+        },
+        {
+          "name": "b000004.txt",
+          "url": "http://oeis.org:80/A000004/b000004.txt",
+          "first_capture": "20110628024059",
+          "status": "200"
+        },
+        {
+          "name": "b000004.txt",
+          "url": "http://oeis.org/A000004/b000004.txt?1000",
+          "first_capture": "20130731054343",
+          "status": "200"
+        },
+        {
+          "name": "b000004.txt",
+          "url": "http://oeis.org/A000004/b000004.txt?10000",
+          "first_capture": "20130731003159",
+          "status": "200"
+        },
+        {
+          "name": "b000004.txt",
+          "url": "http://oeis.org/A000004/b000004.txt?100000",
+          "first_capture": "20130731015351",
+          "status": "200"
+        },
+        {
+          "name": "b000004.txt",
+          "url": "https://oeis.org/A000004/b000004.txt?100000=",
+          "first_capture": "20260803100256",
+          "status": "200"
+        },
+        {
+          "name": "b000004.txt",
+          "url": "https://oeis.org/A000004/b000004.txt?10000=",
+          "first_capture": "20260803100256",
+          "status": "200"
+        },
+        {
+          "name": "a000005_25M.7z",
+          "url": "https://oeis.org/A000005/a000005_25M.7z",
+          "first_capture": "20170729182910",
+          "status": "200"
+        },
+        {
+          "name": "b000005.txt",
+          "url": "http://oeis.org/A000005/b000005.txt",
+          "first_capture": "20101129191149",
+          "status": "200"
+        },
+        {
+          "name": "a000006_100M.7z",
+          "url": "https://oeis.org/A000006/a000006_100M.7z",
+          "first_capture": "20211018050723",
+          "status": "200"
+        },
+        {
+          "name": "b000006.txt",
+          "url": "http://oeis.org:80/A000006/b000006.txt",
+          "first_capture": "20110702115634",
+          "status": "200"
+        },
+        {
+          "name": "a000007.txt",
+          "url": "http://oeis.org/A000007/a000007.txt",
+          "first_capture": "20160415160204",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "D-PLACE cross-cultural database (anthropology/linguistics project site)",
+      "url": "https://d-place.org",
+      "pages": 14,
+      "unique_data_files": 1,
+      "top": [
+        {
+          "name": "languages.geojson",
+          "url": "https://d-place.org/languages.geojson?societyset=dplace-dataset-carneiro4",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 71,
+      "wayback_data_files_raw": 84,
+      "wayback_sets_status200": {
+        "/parameters": 56,
+        "/": 15
+      },
+      "wayback_top": [
+        {
+          "name": "Elevation.geojson",
+          "url": "https://d-place.org/parameters/Elevation.geojson?layer=Elevation",
+          "first_capture": "20231030233021",
+          "status": "200"
+        },
+        {
+          "name": "languages.geojson",
+          "url": "https://d-place.org/languages.geojson?societyset=Binford&layer=Binford",
+          "first_capture": "20200830073004",
+          "status": "200"
+        },
+        {
+          "name": "languages.geojson",
+          "url": "https://d-place.org/languages.geojson?societyset=dplace-dataset-ccmc&layer=dplace-dataset-ccmc",
+          "first_capture": "20240518003613",
+          "status": "200"
+        },
+        {
+          "name": "languages.geojson",
+          "url": "https://d-place.org/languages.geojson?societyset=EA&layer=EA",
+          "first_capture": "20200830073002",
+          "status": "200"
+        },
+        {
+          "name": "languages.geojson",
+          "url": "https://d-place.org/languages.geojson?societyset=SCCS&layer=SCCS",
+          "first_capture": "20200830073002",
+          "status": "200"
+        },
+        {
+          "name": "languages.geojson",
+          "url": "https://d-place.org/languages.geojson?societyset=WNAI&layer=WNAI",
+          "first_capture": "20200830073003",
+          "status": "200"
+        },
+        {
+          "name": "languages.geojson",
+          "url": "https://d-place.org/languages.geojson?societyset=Binford",
+          "first_capture": "20190824153404",
+          "status": "200"
+        },
+        {
+          "name": "languages.geojson",
+          "url": "https://d-place.org/languages.geojson?societyset=dplace-dataset-carneiro",
+          "first_capture": "20240907204339",
+          "status": "200"
+        },
+        {
+          "name": "languages.geojson",
+          "url": "https://d-place.org/languages.geojson?societyset=dplace-dataset-carneiro4",
+          "first_capture": "20251211113516",
+          "status": "200"
+        },
+        {
+          "name": "languages.geojson",
+          "url": "https://d-place.org/languages.geojson?societyset=dplace-dataset-carneiro6",
+          "first_capture": "20251211124540",
+          "status": "200"
+        },
+        {
+          "name": "languages.geojson",
+          "url": "https://d-place.org/languages.geojson?societyset=dplace-dataset-ccmc",
+          "first_capture": "20240228084940",
+          "status": "200"
+        },
+        {
+          "name": "languages.geojson",
+          "url": "https://d-place.org/languages.geojson?societyset=EA",
+          "first_capture": "20190824154839",
+          "status": "200"
+        },
+        {
+          "name": "languages.geojson",
+          "url": "https://d-place.org/languages.geojson?societyset=SCCS",
+          "first_capture": "20190824164056",
+          "status": "200"
+        },
+        {
+          "name": "languages.geojson",
+          "url": "https://d-place.org/languages.geojson?societyset=WNAI",
+          "first_capture": "20190824161758",
+          "status": "200"
+        },
+        {
+          "name": "19.geojson",
+          "url": "https://www.d-place.org/parameters/19.geojson",
+          "first_capture": "20200806163040",
+          "status": "200"
+        },
+        {
+          "name": "2.geojson",
+          "url": "https://www.d-place.org/parameters/2.geojson",
+          "first_capture": "20250316223330",
+          "status": "200"
+        },
+        {
+          "name": "20.geojson",
+          "url": "https://www.d-place.org/parameters/20.geojson",
+          "first_capture": "20250316223847",
+          "status": "200"
+        },
+        {
+          "name": "21.geojson",
+          "url": "https://www.d-place.org/parameters/21.geojson",
+          "first_capture": "20250316224812",
+          "status": "200"
+        },
+        {
+          "name": "22.geojson",
+          "url": "https://www.d-place.org/parameters/22.geojson",
+          "first_capture": "20250316225744",
+          "status": "200"
+        },
+        {
+          "name": "23.geojson",
+          "url": "https://www.d-place.org/parameters/23.geojson",
+          "first_capture": "20250316230710",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "label": "Minor Planet Center data (astro catalogue, observatory site)",
+      "url": "https://www.minorplanetcenter.net/data",
+      "pages": 0,
+      "unique_data_files": 0,
+      "top": [],
+      "wayback_data_files_status200": 2,
+      "wayback_data_files_raw": 11,
+      "wayback_sets_status200": {
+        "/asteroid_explorers": 1,
+        "/blog/wp-includes": 1
+      },
+      "wayback_top": [
+        {
+          "name": "asteroid_data.json",
+          "url": "http://www.minorplanetcenter.net:80/asteroid_explorers/asteroid_data.json",
+          "first_capture": "20151026125757",
+          "status": "200"
+        },
+        {
+          "name": "wlwmanifest.xml",
+          "url": "http://minorplanetcenter.net:80/blog/wp-includes/wlwmanifest.xml",
+          "first_capture": "20100911111248",
+          "status": "200"
+        }
+      ]
+    }
+  ]
+}

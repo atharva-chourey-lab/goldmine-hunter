@@ -1,0 +1,10 @@
+{
+  "fidelity_card": {
+    "system": "morpho_ct",
+    "label": "Skeletal micro-CT (MorphoSource/DigiMorph)",
+    "RAW": "raw capture types ('.ply', '.stl', '.obj', '.nii', '.nii.gz', '.tif', '.tiff') / words ('mesh', 'surface', 'ct', 'microct', 'scan', 'specimen')",
+    "UNIT": "specimen / species \u2014 same bone set across taxa",
+    "LABEL_GAP": "2D photos / few-landmark papers vs full 3D meshes",
+    "ANCHOR": "published landmarks / dissection measurements (e.g. Mallet 2019)"
+  }
+}
