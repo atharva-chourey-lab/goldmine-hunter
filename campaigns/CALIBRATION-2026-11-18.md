@@ -304,3 +304,36 @@ site publishes by design. What has paid, four times now
 (Brain Catalogue, Maddison, Fonozoo, Manatee), is a site
 nobody adopted: still on its original host, in its original
 form, in a medium the formal system does not ingest.
+
+## Addendum — Campaigns 13–16 (2026-11-18, registry-generated, mammal first)
+
+35 niches fired (mammal ranks 34–50 — the mammal registry is now
+EXHAUSTED at 50/50; broad ranks 28–45). Result: **NO GOLD, NO
+DIAMOND. 1 small SILVER (UNLV menus, C16), 18 INVENTORY, 16 KILL.**
+Running tally after C1–16: **3 GOLD (Fonozoo C6, Manatee C8, LAGS
+C10), 0 DIAMOND.**
+
+New calibration laws from this block:
+- **Completion is the new failure shape at score 7 (broad):** the
+  field hasn't just built infrastructure, it has already RUN the
+  registry card's headline comparison (lunar occultations re-reduced
+  by VizieR itself; APPLAUSE plate-solving applied). Add a
+  pre-flight "has the comparison been run?" check to niche scoring.
+- **Premise errors are a real class:** livestock-iris was retinal
+  (Optibrand, vendor-defunct custody); vibrissae follicle maps are
+  species-stereotyped, not individual — the niche's ID premise was
+  false, not just its custody bad. Score premise risk explicitly.
+- **Custody Mapper post-probe confirmation:** CUSTODY-1's only
+  prospective KILL (factory-payroll) was confirmed by probe at all
+  three hosts — the mapper's hard-custody signals in card text are
+  trustworthy; its PROBE class remains the honest default elsewhere.
+- **Wayback statuscode 226 blind spot:** the dead UCLA FTP sunspot
+  tree holds ≥10k captures, ALL status 226 (FTP transfer-complete);
+  the standing 200-filter reads zero. Still not gold there (deleted
+  mirror of a formally digitised set), but the filter needs a 226
+  exception for FTP-mirror domains before it costs a real find.
+- Mammal 6–7 band confirmed again: everything exists, nothing is
+  loose files. The registry's remaining broad tail (ranks 46–50,
+  all 6) should be expected to behave the same; the queue's centre
+  of gravity shifts to minting the pairs already found (LAGS×DASS,
+  Burger×Dembitzer) rather than more registry waves.

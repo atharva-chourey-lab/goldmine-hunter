@@ -135,3 +135,64 @@ Sample files downloaded during campaign verification passes are NOT redistribute
 | turkish-atd-1970.pdf | 921950 | `65946c224532dad75fcd19b93f3d8708` |
 | wisconsin-wolf-2026.pdf | 3821391 | `482b49a25cd9780f6735b9831cc52f88` |
 | wti-seizure-guide.pdf | 13586838 | `bd2e3db9148cd8beadd0f4f6dc587533` |
+
+## gold/campaign13-verify
+
+| File | Bytes | md5 |
+|---|---|---|
+| bc-muledeer-chart.pdf | 515345 | `42614960d5178b85348fd571f7ffa389` |
+| fortcarson-bc-sample-sheet.pdf | 1142308 | `453bf972e78bcacf27a1940294ee3409` |
+| hyena-id-review.pdf | 2666543 | `a712890fd55d8ab178209cba52915a77` |
+| illinois4h-notch-sheet.pdf | 505747 | `6da342356320f88e618d6dc0ee509c59` |
+| intech-retinal-protocol.pdf | 422548 | `7dab7636f1c71db8654028f20a86c44d` |
+| mdpi-horse-iris.pdf | 6838585 | `37348bda857d6baf47fe63c2fee4fd78` |
+| mn-livestock-handbook.pdf | 6221710 | `63a586da5e71cc6e3ea3e14bc12592f8` |
+| msu-hyena-project-data.zip | 11122106 | `9cdcf9dfc9f987889959489d9c83915c` |
+| mt-fwp-bighorn-1999.pdf | 31876 | `64bab5d4f04f956c793cd4d04f454749` |
+| mt-fwp-bighorn-2001.pdf | 72448 | `be11083a326c1e53028c05414a65648e` |
+| mt-fwp-bighorn-2006.pdf | 89050 | `e9a596a0e9d50081775e121cea94b864` |
+| nwsgc-2012-proceedings.pdf | 7013004 | `ec9a9fccd7888b32eca2e56b64bd36b8` |
+| rices-whale-fig3-scar.jpg | 418501 | `08cc7bed06933f890faccf9f40a5e9c7` |
+| rices-whale-fig7-scar.jpg | 392046 | `56cbfd8b921938b8aaf236603dfc4c95` |
+
+## gold/campaign14-verify
+
+| File | Bytes | md5 |
+|---|---|---|
+| fsi-bear-taphonomy-2023.pdf | 8129153 | `cf324f33b567f7a9431fcd4176074877` |
+| hair-atlas-212-213.pdf | 366797 | `ae85cf94a6b587d04b165d7af7fa7eda` |
+| hair-atlas-90-91.pdf | 331346 | `f26160b28d560b5ddd1192352f538835` |
+| hyena-medulla-bhl.pdf | 2977512 | `09d0f7cb51114e0738e6b90f8f9d5d56` |
+| mdpi-claw-bears-2022.pdf | 1511530 | `1128dafabbcbde822a4ce878ff6667af` |
+| nmsu-tracks-561.pdf | 2380760 | `82ee64f0ebff7112fd6e1aafb4c3e82e` |
+| zsi-ratufa-trichotaxonomy.pdf | 826447 | `3c6881dcd662aa22aa905db8ae1f81a6` |
+
+## gold/campaign15-verify
+
+| File | Bytes | md5 |
+|---|---|---|
+| asl-bb1_x3.wav | 615066 | `0367e05db142028355931bef2ba78f51` |
+| avisoft-wb-Myotis_mystacinus_1_s.wav | 30144 | `2304af56356337acf402bf70427bc4af` |
+| bamona-collage-transparent-croppedheight.png | 262042 | `1fd99582489760eab719a3f2bd6cbd3b` |
+| bell-cosmic-search.pdf | 219993 | `ae235ef2876df43dc21f1e89c5f21698` |
+| bigear-cs13-reber.pdf | 605705 | `14e1ee2bd29c746c9ea7ba49ae6349ed` |
+| biocosmos-image_occurrences_manifest.json | 2320 | `97fa444f0f8bfdc3e1ecba28f753575c` |
+| iota-rasc2026-lunar.pdf | 768476 | `3025b34433fa03927f834fc63f989fa3` |
+| lunar-eurosit.dat | 257 | `f3578d3c0ed4e2dc9919cb7ea7bd1fc5` |
+| phage-table2-5-hostrange.pdf | 11314 | `709893b31d3ad1bb3f6c6c564055eb42` |
+| venom-ammodytes-Uniprot_8750_serpentes_CanNIso_2674_entries_220210 | 734737 | `ee636ac5eb8d2b37d493a1a6a3b8d46a` |
+| venom-monticola-Uniprot_8570_serpentes_reviewed_CandIso_2747_entri | 726279 | `0978f197c287b771ec44b1aca5c16196` |
+
+## gold/campaign16-verify
+
+| File | Bytes | md5 |
+|---|---|---|
+| bgs-ags-api-sample.geojson | 4586 | `fab20084c0142b1828ad7b86c170b277` |
+| clowes-c10028.pdf | 2868690 | `b4a95bc820b0be00789121c4d88233a9` |
+| clowes-c10042a-d.pdf | 18824836 | `40df21f5368c0bb200aa29aafc4a5e9f` |
+| clowes-c10057.pdf | 3362589 | `e7fd160041bb06b087073a15f20b3bed` |
+| gazette-india-1953-election.pdf | 1284429 | `6ba8251366b90328199b470b62665698` |
+| jcu-Pioneer_CT_1883_to_1906.pdf | 86802 | `a26a3a4f600f28e0c3f311ce6c402c62` |
+| kso-19990102_1049.dat | 1459 | `e990a1279610845affb5d00e8da323b6` |
+| mwo-drawing-dr170104.jpg | 157839 | `08f7c54d2f523bc1381f3de5f2b49110` |
+| uci-concrete+compressive+strength.zip | 34444 | `eba3e28907d4515244165b6b2c311b7b` |

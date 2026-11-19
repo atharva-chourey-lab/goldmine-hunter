@@ -1,0 +1,1030 @@
+{
+  "campaign16_broad3b": [
+    {
+      "niche": "concrete-test-ledgers",
+      "label": "Datadory \u2014 UCI Concrete Compressive Strength dataset page (1,030 lab records, published)",
+      "url": "https://www.datadory.com/datasets/construction-materials/concrete-compressive-strength-dataset",
+      "pages": 10,
+      "unique_data_files": 3,
+      "images": 0,
+      "top": [
+        {
+          "name": "rss.xml",
+          "url": "https://www.datadory.com/rss.xml",
+          "score": 6
+        },
+        {
+          "name": "_Dict.zip",
+          "url": "https://www.datadory.com/use-cases/_Dict.zip",
+          "score": 4
+        },
+        {
+          "name": "json.zip",
+          "url": "https://www.datadory.com/use-cases/json.zip",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "concrete-test-ledgers",
+      "label": "archive.org \u2014 Concrete journal 1930-10 (published test tables inside a journal issue, not a lab ledger)",
+      "url": "https://archive.org/download/concrete_1930-10_37_4/concrete_1930-10_37_4.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "pigment-cross-sections",
+      "label": "ICCROM Sample Archives \u2014 OPD Collection of Cross- and Thin-Sections (15,400 sections, access on request)",
+      "url": "https://samplearchives.iccrom.org/oggetti/41651-opd-collection-of-cross-and-thin-sections?i=2",
+      "pages": 9,
+      "unique_data_files": 2,
+      "images": 6,
+      "top": [
+        {
+          "name": "D.label",
+          "url": "https://samplearchives.iccrom.org/browse/D.label",
+          "score": 11
+        },
+        {
+          "name": "ae.label",
+          "url": "https://samplearchives.iccrom.org/browse/ae.label",
+          "score": 11
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "pigment-cross-sections",
+      "label": "Clowes Collection \u2014 Notes to the User (technical reports with cross-sections, published catalogue)",
+      "url": "https://paintings.theclowescollection.org/notes-to-the-user/",
+      "pages": 19,
+      "unique_data_files": 0,
+      "images": 126,
+      "top": [],
+      "wayback_data_files_status200": 1,
+      "wayback_data_files_raw": 14,
+      "wayback_sets_status200": {
+        "/": 1
+      },
+      "wayback_top": [
+        {
+          "name": "sitemap.xml",
+          "url": "https://paintings.theclowescollection.org/sitemap.xml",
+          "first_capture": "20230805165412",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "pigment-cross-sections",
+      "label": "Rijksmuseum Paint Sample Database \u2014 MW2016 description (psa.rijksmuseum.nl, login-gated interface)",
+      "url": "https://mw2016.museumsandtheweb.com/glami/rijksmuseum-paint-sample-database-2/index.html",
+      "pages": 5,
+      "unique_data_files": 10,
+      "images": 22,
+      "top": [
+        {
+          "name": "wlwmanifest.xml",
+          "url": "https://mw2016.museumsandtheweb.com/wp-includes/wlwmanifest.xml",
+          "score": 6
+        },
+        {
+          "name": "embed3a13.json",
+          "url": "https://mw2016.museumsandtheweb.com/wp-json/oembed/1.0/embed3a13.json",
+          "score": 4
+        },
+        {
+          "name": "4.json",
+          "url": "https://mw2016.museumsandtheweb.com/wp-json/wp/v2/pages/4.json",
+          "score": 4
+        },
+        {
+          "name": "embed3547.json",
+          "url": "https://mw2016.museumsandtheweb.com/wp-json/oembed/1.0/embed3547.json",
+          "score": 4
+        },
+        {
+          "name": "26.json",
+          "url": "https://mw2016.museumsandtheweb.com/wp-json/wp/v2/pages/26.json",
+          "score": 4
+        },
+        {
+          "name": "embed3c1c.json",
+          "url": "https://mw2016.museumsandtheweb.com/wp-json/oembed/1.0/embed3c1c.json",
+          "score": 4
+        },
+        {
+          "name": "2258.json",
+          "url": "https://mw2016.museumsandtheweb.com/wp-json/wp/v2/pages/2258.json",
+          "score": 4
+        },
+        {
+          "name": "embed2d3d.json",
+          "url": "https://mw2016.museumsandtheweb.com/wp-json/oembed/1.0/embed2d3d.json",
+          "score": 4
+        },
+        {
+          "name": "36.json",
+          "url": "https://mw2016.museumsandtheweb.com/wp-json/wp/v2/pages/36.json",
+          "score": 4
+        },
+        {
+          "name": "embed2288.json",
+          "url": "https://mw2016.museumsandtheweb.com/wp-json/oembed/1.0/embed2288.json",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "pigment-cross-sections",
+      "label": "Tate CHSA \u2014 RICHeS page (16,000+ cross-sections, physical+digital, in-person/request access)",
+      "url": "https://www.riches.ukri.org/funding/riches-investments/tranche-1-collections/establishing-tates-conservation-and-heritage-science-archive-chsa/",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "playbill-programme-archives",
+      "label": "British Library Research Repository \u2014 Theatrical playbills OCR dataset (264 vols, DOI 10.21250/pb2)",
+      "url": "https://bl.iro.bl.uk/entities/product/3876be77-0625-4234-a6bd-2fac173a0712",
+      "pages": 10,
+      "unique_data_files": 249,
+      "images": 15,
+      "top": [
+        {
+          "name": "collection.edit.template.label",
+          "url": "https://bl.iro.bl.uk/entities/product/collection.edit.template.label",
+          "score": 14
+        },
+        {
+          "name": "context-menu.actions.label",
+          "url": "https://bl.iro.bl.uk/entities/product/context-menu.actions.label",
+          "score": 14
+        },
+        {
+          "name": "curation-task.task.generatesubtitles.label",
+          "url": "https://bl.iro.bl.uk/entities/product/curation-task.task.generatesubtitles.label",
+          "score": 14
+        },
+        {
+          "name": "curation-task.task.vscan.label",
+          "url": "https://bl.iro.bl.uk/entities/product/curation-task.task.vscan.label",
+          "score": 14
+        },
+        {
+          "name": "item.edit.tabs.status.buttons.withdraw.label",
+          "url": "https://bl.iro.bl.uk/entities/product/item.edit.tabs.status.buttons.withdraw.label",
+          "score": 14
+        },
+        {
+          "name": "qa-withdrawn.create.modal.form.summary.label",
+          "url": "https://bl.iro.bl.uk/entities/product/qa-withdrawn.create.modal.form.summary.label",
+          "score": 14
+        },
+        {
+          "name": "qa-withdrawn.create.modal.form.summary2.label",
+          "url": "https://bl.iro.bl.uk/entities/product/qa-withdrawn.create.modal.form.summary2.label",
+          "score": 14
+        },
+        {
+          "name": "search.filters.filter.original_bundle_filenames.label",
+          "url": "https://bl.iro.bl.uk/entities/product/search.filters.filter.original_bundle_filenames.label",
+          "score": 14
+        },
+        {
+          "name": "search.filters.filter.original_bundle_descriptions.label",
+          "url": "https://bl.iro.bl.uk/entities/product/search.filters.filter.original_bundle_descriptions.label",
+          "score": 14
+        },
+        {
+          "name": "curation-task.task.rawtoaccess.label",
+          "url": "https://bl.iro.bl.uk/entities/product/curation-task.task.rawtoaccess.label",
+          "score": 14
+        },
+        {
+          "name": "curation-task.task.scannedpdf.label",
+          "url": "https://bl.iro.bl.uk/entities/product/curation-task.task.scannedpdf.label",
+          "score": 14
+        },
+        {
+          "name": "curation-task.task.rawimagesinpdf.label",
+          "url": "https://bl.iro.bl.uk/entities/product/curation-task.task.rawimagesinpdf.label",
+          "score": 14
+        },
+        {
+          "name": "is-archived_condition.label",
+          "url": "https://bl.iro.bl.uk/entities/product/is-archived_condition.label",
+          "score": 14
+        },
+        {
+          "name": "is-withdrawn_condition.label",
+          "url": "https://bl.iro.bl.uk/entities/product/is-withdrawn_condition.label",
+          "score": 14
+        },
+        {
+          "name": "dynamic-form-array.sortable-list.label",
+          "url": "https://bl.iro.bl.uk/entities/product/dynamic-form-array.sortable-list.label",
+          "score": 14
+        },
+        {
+          "name": "admin.registries.bitstream-formats.edit.description.label",
+          "url": "https://bl.iro.bl.uk/entities/product/admin.registries.bitstream-formats.edit.description.label",
+          "score": 11
+        },
+        {
+          "name": "admin.registries.bitstream-formats.edit.extensions.label",
+          "url": "https://bl.iro.bl.uk/entities/product/admin.registries.bitstream-formats.edit.extensions.label",
+          "score": 11
+        },
+        {
+          "name": "admin.registries.bitstream-formats.edit.internal.label",
+          "url": "https://bl.iro.bl.uk/entities/product/admin.registries.bitstream-formats.edit.internal.label",
+          "score": 11
+        },
+        {
+          "name": "admin.registries.bitstream-formats.edit.mimetype.label",
+          "url": "https://bl.iro.bl.uk/entities/product/admin.registries.bitstream-formats.edit.mimetype.label",
+          "score": 11
+        },
+        {
+          "name": "admin.registries.bitstream-formats.edit.shortDescription.label",
+          "url": "https://bl.iro.bl.uk/entities/product/admin.registries.bitstream-formats.edit.shortDescription.label",
+          "score": 11
+        },
+        {
+          "name": "admin.registries.bitstream-formats.edit.supportLevel.label",
+          "url": "https://bl.iro.bl.uk/entities/product/admin.registries.bitstream-formats.edit.supportLevel.label",
+          "score": 11
+        },
+        {
+          "name": "advanced-workflow-action.rating.form.rating.label",
+          "url": "https://bl.iro.bl.uk/entities/product/advanced-workflow-action.rating.form.rating.label",
+          "score": 11
+        },
+        {
+          "name": "advanced-workflow-action.rating.form.review.label",
+          "url": "https://bl.iro.bl.uk/entities/product/advanced-workflow-action.rating.form.review.label",
+          "score": 11
+        },
+        {
+          "name": "audit.export.form.start-date.label",
+          "url": "https://bl.iro.bl.uk/entities/product/audit.export.form.start-date.label",
+          "score": 11
+        },
+        {
+          "name": "audit.export.form.end-date.label",
+          "url": "https://bl.iro.bl.uk/entities/product/audit.export.form.end-date.label",
+          "score": 11
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "playbill-programme-archives",
+      "label": "blplaybills.org \u2014 independent site over BL open playbill data (84,000+ bills)",
+      "url": "https://www.blplaybills.org/",
+      "pages": 2,
+      "unique_data_files": 0,
+      "images": 7,
+      "top": [],
+      "wayback_data_files_status200": 3,
+      "wayback_data_files_raw": 17,
+      "wayback_sets_status200": {
+        "/": 2,
+        "/videos": 1
+      },
+      "wayback_top": [
+        {
+          "name": "grid-item-recording.mov",
+          "url": "https://blplaybills.org/videos/grid-item-recording.mov",
+          "first_capture": "20251119002537",
+          "status": "200"
+        },
+        {
+          "name": "sitemap.xml",
+          "url": "https://blplaybills.org/sitemap.xml",
+          "first_capture": "20230524022732",
+          "status": "200"
+        },
+        {
+          "name": "manifest.json",
+          "url": "https://www.blplaybills.org/manifest.json",
+          "first_capture": "20260222141301",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "playbill-programme-archives",
+      "label": "archive.org \u2014 Playbill, Plymouth Theatre 'The Happy Time' 1951 (single item)",
+      "url": "https://archive.org/details/playbill_the_plymouth_theatre_the_happy_time",
+      "pages": 5,
+      "unique_data_files": 0,
+      "images": 20,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "playbill-programme-archives",
+      "label": "British Library libguide \u2014 Rare Books: Playbills (digitised set + microfilm note)",
+      "url": "https://bl.libguides.com/reference-services/rare-books/playbills",
+      "pages": 5,
+      "unique_data_files": 0,
+      "images": 8,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "factory-payroll-wage-books",
+      "label": "JCU Library Archives \u2014 Pioneer Sugar Mill Archive (wages books PMR/WB/1-13 listed, physical location)",
+      "url": "https://libserver.jcu.edu.au/specials/Archives/pioneer.html",
+      "pages": 2,
+      "unique_data_files": 0,
+      "images": 16,
+      "top": [],
+      "wayback_data_files_status200": 877,
+      "wayback_data_files_raw": 877,
+      "wayback_sets_status200": {
+        "/specials/Archives/Stations": 662,
+        "/infolit/Introduction_to_AMA_11/assets/js/ar": 27,
+        "/infolit/APA_7th_reference_lists/assets/js/ar": 17,
+        "/infolit/MESH/dr": 16,
+        "/": 8,
+        "//infolit/EndNoteX9/Installing_EndNote_Styles/dr": 7,
+        "//infolit/EndNoteX9/Installing_journal_abbreviations/dr": 7,
+        "//infolit/Introduction_to_APA_7/dr": 7,
+        "/.well-known": 6,
+        "//infolit/EndNoteX9/EndNote_find_full_text/dr": 6,
+        "//infolit/EndNoteX9/EndNote_Online/dr": 6,
+        "//infolit/Harvard/dr": 6
+      },
+      "wayback_top": [
+        {
+          "name": "atom.xml",
+          "url": "https://libserver.jcu.edu.au/atom.xml",
+          "first_capture": "20250324233841",
+          "status": "200"
+        },
+        {
+          "name": "feed.xml",
+          "url": "https://libserver.jcu.edu.au/feed.xml",
+          "first_capture": "20250325003549",
+          "status": "200"
+        },
+        {
+          "name": "all.atom.xml",
+          "url": "https://libserver.jcu.edu.au/feeds/all.atom.xml",
+          "first_capture": "20250324224055",
+          "status": "200"
+        },
+        {
+          "name": "index.xml",
+          "url": "https://libserver.jcu.edu.au/index.xml",
+          "first_capture": "20250324223703",
+          "status": "200"
+        },
+        {
+          "name": "Mouse.mp3",
+          "url": "https://libserver.jcu.edu.au/infolit/APA_7th_reference_lists/ar/Mouse.mp3",
+          "first_capture": "20260520112335",
+          "status": "200"
+        },
+        {
+          "name": "1300567.mp3",
+          "url": "https://libserver.jcu.edu.au/infolit/APA_7th_reference_lists/assets/js/ar/1300567.mp3",
+          "first_capture": "20250412052326",
+          "status": "200"
+        },
+        {
+          "name": "1990043.mp3",
+          "url": "https://libserver.jcu.edu.au/infolit/APA_7th_reference_lists/assets/js/ar/1990043.mp3",
+          "first_capture": "20250412052405",
+          "status": "200"
+        },
+        {
+          "name": "1990045.mp3",
+          "url": "https://libserver.jcu.edu.au/infolit/APA_7th_reference_lists/assets/js/ar/1990045.mp3",
+          "first_capture": "20250412052508",
+          "status": "200"
+        },
+        {
+          "name": "1990229.mp3",
+          "url": "https://libserver.jcu.edu.au/infolit/APA_7th_reference_lists/assets/js/ar/1990229.mp3",
+          "first_capture": "20250412052518",
+          "status": "200"
+        },
+        {
+          "name": "1990235.mp3",
+          "url": "https://libserver.jcu.edu.au/infolit/APA_7th_reference_lists/assets/js/ar/1990235.mp3",
+          "first_capture": "20250412052529",
+          "status": "200"
+        },
+        {
+          "name": "1990237.mp3",
+          "url": "https://libserver.jcu.edu.au/infolit/APA_7th_reference_lists/assets/js/ar/1990237.mp3",
+          "first_capture": "20250412052407",
+          "status": "200"
+        },
+        {
+          "name": "1990249.mp3",
+          "url": "https://libserver.jcu.edu.au/infolit/APA_7th_reference_lists/assets/js/ar/1990249.mp3",
+          "first_capture": "20250412052355",
+          "status": "200"
+        },
+        {
+          "name": "1990251.mp3",
+          "url": "https://libserver.jcu.edu.au/infolit/APA_7th_reference_lists/assets/js/ar/1990251.mp3",
+          "first_capture": "20250412052421",
+          "status": "200"
+        },
+        {
+          "name": "1996827.mp3",
+          "url": "https://libserver.jcu.edu.au/infolit/APA_7th_reference_lists/assets/js/ar/1996827.mp3",
+          "first_capture": "20250412052241",
+          "status": "200"
+        },
+        {
+          "name": "2043670.mp3",
+          "url": "https://libserver.jcu.edu.au/infolit/APA_7th_reference_lists/assets/js/ar/2043670.mp3",
+          "first_capture": "20250412052418",
+          "status": "200"
+        },
+        {
+          "name": "2049241.mp3",
+          "url": "https://libserver.jcu.edu.au/infolit/APA_7th_reference_lists/assets/js/ar/2049241.mp3",
+          "first_capture": "20250412052515",
+          "status": "200"
+        },
+        {
+          "name": "2051268.mp3",
+          "url": "https://libserver.jcu.edu.au/infolit/APA_7th_reference_lists/assets/js/ar/2051268.mp3",
+          "first_capture": "20250412052511",
+          "status": "200"
+        },
+        {
+          "name": "2051275.mp3",
+          "url": "https://libserver.jcu.edu.au/infolit/APA_7th_reference_lists/assets/js/ar/2051275.mp3",
+          "first_capture": "20250412052342",
+          "status": "200"
+        },
+        {
+          "name": "2052532.mp3",
+          "url": "https://libserver.jcu.edu.au/infolit/APA_7th_reference_lists/assets/js/ar/2052532.mp3",
+          "first_capture": "20250412052403",
+          "status": "200"
+        },
+        {
+          "name": "2052735.mp3",
+          "url": "https://libserver.jcu.edu.au/infolit/APA_7th_reference_lists/assets/js/ar/2052735.mp3",
+          "first_capture": "20250412052251",
+          "status": "200"
+        },
+        {
+          "name": "KeyClick.mp3",
+          "url": "https://libserver.jcu.edu.au/infolit/APA_7th_reference_lists/assets/js/ar/KeyClick.mp3",
+          "first_capture": "20250412052503",
+          "status": "200"
+        },
+        {
+          "name": "Mouse.mp3",
+          "url": "https://libserver.jcu.edu.au/infolit/APA_7th_reference_lists/assets/js/ar/Mouse.mp3",
+          "first_capture": "20250412052426",
+          "status": "200"
+        },
+        {
+          "name": "PRISMAEndnote_AM_V3.mp4",
+          "url": "https://libserver.jcu.edu.au/infolit/ENDNOTE_PRISMA_With%20Chapters/PRISMAEndnote_AM_V3.mp4",
+          "first_capture": "20231030085713",
+          "status": "200"
+        },
+        {
+          "name": "PRISMAEndnote_AM_V3_config.xml",
+          "url": "https://libserver.jcu.edu.au/infolit/ENDNOTE_PRISMA_With%20Chapters/PRISMAEndnote_AM_V3_config.xml",
+          "first_capture": "20231030091659",
+          "status": "200"
+        },
+        {
+          "name": "Mouse.mp3",
+          "url": "https://libserver.jcu.edu.au/infolit/Introduction_to_AMA_11/ar/Mouse.mp3",
+          "first_capture": "20250305165922",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "factory-payroll-wage-books",
+      "label": "Derbyshire Record Office CalmView \u2014 Mill hands weekly wages book D6948/E/9/4 (catalogue record, 1 volume)",
+      "url": "https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D6948%2FE%2F9%2F4",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "factory-payroll-wage-books",
+      "label": "Georgia Tech \u2014 Fulton Bag and Cotton Mills history/records (payroll + 50k personnel cards, restricted)",
+      "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/history.html",
+      "pages": 6,
+      "unique_data_files": 0,
+      "images": 4,
+      "top": [],
+      "wayback_data_files_status200": 25,
+      "wayback_data_files_raw": 27,
+      "wayback_sets_status200": {
+        "/fulton_bag/ms004/text": 24,
+        "/barnard/data": 1
+      },
+      "wayback_top": [
+        {
+          "name": "barnard-objects.csv",
+          "url": "https://exhibit-archive.library.gatech.edu/barnard/data/barnard-objects.csv",
+          "first_capture": "20261023113348",
+          "status": "200"
+        },
+        {
+          "name": "ms004-034.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-034.txt",
+          "first_capture": "20251213113630",
+          "status": "200"
+        },
+        {
+          "name": "ms004-035.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-035.txt",
+          "first_capture": "20260128053510",
+          "status": "200"
+        },
+        {
+          "name": "ms004-044.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-044.txt",
+          "first_capture": "20251228191930",
+          "status": "200"
+        },
+        {
+          "name": "ms004-045.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-045.txt",
+          "first_capture": "20251211062445",
+          "status": "200"
+        },
+        {
+          "name": "ms004-046.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-046.txt",
+          "first_capture": "20251210025619",
+          "status": "200"
+        },
+        {
+          "name": "ms004-047.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-047.txt",
+          "first_capture": "20251213235829",
+          "status": "200"
+        },
+        {
+          "name": "ms004-052.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-052.txt",
+          "first_capture": "20251214162051",
+          "status": "200"
+        },
+        {
+          "name": "ms004-114.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-114.txt",
+          "first_capture": "20251212072522",
+          "status": "200"
+        },
+        {
+          "name": "ms004-176.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-176.txt",
+          "first_capture": "20251210094823",
+          "status": "200"
+        },
+        {
+          "name": "ms004-177.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-177.txt",
+          "first_capture": "20251211142916",
+          "status": "200"
+        },
+        {
+          "name": "ms004-191.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-191.txt",
+          "first_capture": "20251212011637",
+          "status": "200"
+        },
+        {
+          "name": "ms004-193.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-193.txt",
+          "first_capture": "20240503161753",
+          "status": "200"
+        },
+        {
+          "name": "ms004-202.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-202.txt",
+          "first_capture": "20251211231139",
+          "status": "200"
+        },
+        {
+          "name": "ms004-203.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-203.txt",
+          "first_capture": "20251219035437",
+          "status": "200"
+        },
+        {
+          "name": "ms004-204.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-204.txt",
+          "first_capture": "20251215160823",
+          "status": "200"
+        },
+        {
+          "name": "ms004-220.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-220.txt",
+          "first_capture": "20260113035025",
+          "status": "200"
+        },
+        {
+          "name": "ms004-223.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-223.txt",
+          "first_capture": "20251227032217",
+          "status": "200"
+        },
+        {
+          "name": "ms004-226.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-226.txt",
+          "first_capture": "20251214172543",
+          "status": "200"
+        },
+        {
+          "name": "ms004-227.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-227.txt",
+          "first_capture": "20251211154648",
+          "status": "200"
+        },
+        {
+          "name": "ms004-230.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-230.txt",
+          "first_capture": "20251211070732",
+          "status": "200"
+        },
+        {
+          "name": "ms004-231.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-231.txt",
+          "first_capture": "20251218032641",
+          "status": "200"
+        },
+        {
+          "name": "ms004-232.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-232.txt",
+          "first_capture": "20251214164117",
+          "status": "200"
+        },
+        {
+          "name": "ms004-246.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-246.txt",
+          "first_capture": "20251211134558",
+          "status": "200"
+        },
+        {
+          "name": "ms004-256.txt",
+          "url": "https://exhibit-archive.library.gatech.edu/fulton_bag/ms004/text/ms004-256.txt",
+          "first_capture": "20251211212146",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "booth-level-election-gazettes",
+      "label": "archive.org \u2014 Mysore Gazette 1948 text PDF (polling stations/booths statement inside)",
+      "url": "https://archive.org/download/karnataka-state-archives-2026-348623/362_PART_2_5_3_JULY_DEC_1948_409_text.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "booth-level-election-gazettes",
+      "label": "archive.org \u2014 Himachal Pradesh Gazette 1986-09-13 text PDF (election petition, constituency totals)",
+      "url": "https://archive.org/download/in.gazette.himachalarchive.1986-09-13.3691/3691_text.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "booth-level-election-gazettes",
+      "label": "archive.org \u2014 Gazette of India 1953 election notification PDF",
+      "url": "https://archive.org/download/in.gazette.e.1953.219/E-2260-1953-0009-104687.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "seed-catalogue-varieties",
+      "label": "NYBG Mertz Library \u2014 Nursery and Seed Catalogs guide (58,000 items catalogued, 1,400 pre-1923 digitised)",
+      "url": "https://libguides.nybg.org/c.php?g=655017&",
+      "pages": 10,
+      "unique_data_files": 2,
+      "images": 106,
+      "top": [
+        {
+          "name": "i.fa",
+          "url": "https://libguides.nybg.org/i.fa",
+          "score": 6
+        },
+        {
+          "name": "ahc.MSS961-ead.xml",
+          "url": "https://libguides.nybg.org/ead/ahc.MSS961-ead.xml",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "seed-catalogue-varieties",
+      "label": "archive.org \u2014 1926 catalogue, Northern Seed & Nursery Co. (USDA Gilbert collection item)",
+      "url": "https://archive.org/download/CAT31322813/CAT31322813_bw.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "seed-catalogue-varieties",
+      "label": "archive.org \u2014 1906 seed catalogue, Nebraska Seed Co. (USDA Gilbert collection item)",
+      "url": "https://archive.org/download/CAT31288032/CAT31288032_bw.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "regional-menu-collections",
+      "label": "UNLV Special Collections \u2014 Bohn-Bettoni menu item (men000606, Menus: The Art of Dining)",
+      "url": "https://special.library.unlv.edu/ark%3A/62930/d1br8mz4h",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "regional-menu-collections",
+      "label": "UNLV \u2014 Bohn-Bettoni Menu Collection finding aid PDF (MS-00793, 12.68 cu ft physical)",
+      "url": "https://special.library.unlv.edu/sites/default/files/finding-aids/MS-00793.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "regional-menu-collections",
+      "label": "Curating Menus \u2014 NYPL What's on the Menu data dictionary (CSV export at menus.nypl.org/data)",
+      "url": "http://curatingmenus.org/data_dictionary/",
+      "pages": 1,
+      "unique_data_files": 4,
+      "images": 0,
+      "top": [
+        {
+          "name": "MenuItem.csv",
+          "url": "http://curatingmenus.org/data_dictionary/MenuItem.csv",
+          "score": 6
+        },
+        {
+          "name": "Dish.csv",
+          "url": "http://curatingmenus.org/data_dictionary/Dish.csv",
+          "score": 6
+        },
+        {
+          "name": "Menu.csv",
+          "url": "http://curatingmenus.org/data_dictionary/Menu.csv",
+          "score": 6
+        },
+        {
+          "name": "MenuPage.csv",
+          "url": "http://curatingmenus.org/data_dictionary/MenuPage.csv",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "borehole-well-logs",
+      "label": "USGS Geolog Locator page (7,000+ digital borehole geophysical logs, formal database)",
+      "url": "https://www.USGS.gov/centers/oklahoma-texas-water-science-center/science/geolog-locator",
+      "pages": 10,
+      "unique_data_files": 2,
+      "images": 113,
+      "top": [
+        {
+          "name": "Coasts_Animation.mp4",
+          "url": "https://usgs-ocapsv2-public-output-media.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/video/Coasts_Animation/MP4/Coasts_Animation.mp4",
+          "score": 6
+        },
+        {
+          "name": "20Animation.mp4",
+          "url": "https://www.USGS.gov/science/science-explorer/20Animation.mp4",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "borehole-well-logs",
+      "label": "Washington Geologic Information Portal (subsurface database, formal portal)",
+      "url": "https://dnr.wa.gov/washington-geological-survey/publications-and-data/geologic-information-portal",
+      "pages": 10,
+      "unique_data_files": 3,
+      "images": 59,
+      "top": [
+        {
+          "name": "fp_form_murrelet_calculator.xlsx",
+          "url": "https://dnr.wa.gov/sites/default/files/2025-03/fp_form_murrelet_calculator.xlsx",
+          "score": 6
+        },
+        {
+          "name": "ger_portal_tsunami_hazard.zip",
+          "url": "https://fortress.wa.gov/dnr/geologydata/publications/data_download/ger_portal_tsunami_hazard.zip",
+          "score": 4
+        },
+        {
+          "name": "ger_ms2026-03_orient_15_min_quad.zip",
+          "url": "https://dnr.wa.gov/sites/default/files/2026-10/ger_ms2026-03_orient_15_min_quad.zip",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "borehole-well-logs",
+      "label": "TechnicalGIS \u2014 BGS AGS borehole index worked example (OGC API + AGS export, formal BGS service)",
+      "url": "https://ns2.technicalgis.com/tutorials/read-validate-ags4-python/",
+      "pages": 5,
+      "unique_data_files": 3,
+      "images": 223,
+      "top": [
+        {
+          "name": "rss.xml",
+          "url": "https://ns2.technicalgis.com/rss.xml",
+          "score": 6
+        },
+        {
+          "name": "sitemap-index.xml",
+          "url": "https://ns2.technicalgis.com/sitemap-index.xml",
+          "score": 6
+        },
+        {
+          "name": "r.json",
+          "url": "https://ns2.technicalgis.com/tutorials/read-validate-ags4-python/r.json",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "sunspot-drawings",
+      "label": "Mount Wilson Observatory \u2014 Solar Observing (daily sunspot drawing archive since 1917)",
+      "url": "https://www.mtwilson.edu/solar-observing/",
+      "pages": 10,
+      "unique_data_files": 0,
+      "images": 52,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "sunspot-drawings",
+      "label": "UCLA obs.astro.ucla.edu \u2014 Historical Sunspot Drawing Resource Page (20th-century observers)",
+      "url": "http://obs.astro.ucla.edu/resource3.html",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 1,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "sunspot-drawings",
+      "label": "UCLA obs.astro.ucla.edu \u2014 Mt Wilson 150-Foot Tower Sunspot Drawing page",
+      "url": "http://obs.astro.ucla.edu/150_draw.html",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "sunspot-drawings",
+      "label": "Carnegie Science \u2014 Object 26 Sunspot Drawings (Plate Archives, digitised via MWO site)",
+      "url": "https://carnegiescience.edu/news/object-26-sunspot-drawings",
+      "pages": 5,
+      "unique_data_files": 4,
+      "images": 118,
+      "top": [
+        {
+          "name": "browserconfig.xml",
+          "url": "https://carnegiescience.edu/themes/carnegie_science/img/favicons/browserconfig.xml",
+          "score": 6
+        },
+        {
+          "name": "Mike_VerticalVideo_Final-Small.mp4",
+          "url": "https://carnegiescience.edu/sites/default/files/2025-05/Mike_VerticalVideo_Final-Small.mp4",
+          "score": 6
+        },
+        {
+          "name": "John_VerticalVideo_Final_Small.mp4",
+          "url": "https://carnegiescience.edu/sites/default/files/2025-05/John_VerticalVideo_Final_Small.mp4",
+          "score": 6
+        },
+        {
+          "name": "Solange_VerticalVideo-Final_Small.mp4",
+          "url": "https://carnegiescience.edu/sites/default/files/2025-05/Solange_VerticalVideo-Final_Small.mp4",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    }
+  ]
+}

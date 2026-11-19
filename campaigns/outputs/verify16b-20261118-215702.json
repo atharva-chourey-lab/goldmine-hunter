@@ -1,0 +1,449 @@
+{
+  "verify16b": {
+    "uci": {
+      "status": 200,
+      "file_links": [
+        "/static/public/165/concrete+compressive+strength.zip"
+      ]
+    },
+    "uci_sample": {
+      "label": "UCI concrete dataset file",
+      "url": "https://archive.ics.uci.edu/static/public/165/concrete+compressive+strength.zip",
+      "http_status": 200,
+      "bytes_downloaded": 34444,
+      "truncated_at_cap": false,
+      "content_type": null,
+      "error": null,
+      "md5_full": "eba3e28907d4515244165b6b2c311b7b",
+      "md5_head1mb": "eba3e28907d4515244165b6b2c311b7b",
+      "looks_html": false,
+      "zip_entries": [
+        "Concrete_Data.xls",
+        "Concrete_Readme.txt"
+      ],
+      "zip_n_entries": 2,
+      "verdict": "REAL \u2014 valid zip (xlsx/zip family)",
+      "saved_to": "gold/campaign16-verify/uci-concrete+compressive+strength.zip"
+    },
+    "ia_playbill_djvu": {
+      "label": "IA playbill djvu text (Plymouth Theatre, The Happy Time, 1951)",
+      "url": "https://archive.org/download/playbill_the_plymouth_theatre_the_happy_time/playbill_the_plymouth_theatre_the_happy_time_djvu.txt",
+      "http_status": 401,
+      "bytes_downloaded": 172,
+      "truncated_at_cap": false,
+      "content_type": null,
+      "error": null,
+      "md5_full": "28c5f434e4ab2e2a682400cb005fb08b",
+      "md5_head1mb": "28c5f434e4ab2e2a682400cb005fb08b",
+      "looks_html": true,
+      "verdict": "PHANTOM \u2014 HTML page, not data"
+    },
+    "ia_playbill_pdf_retry": {
+      "label": "IA playbill PDF retry (cap 6MB)",
+      "url": "https://archive.org/download/playbill_the_plymouth_theatre_the_happy_time/playbill_the_plymouth_theatre_the_happy_time.pdf",
+      "http_status": 403,
+      "bytes_downloaded": 4868,
+      "truncated_at_cap": false,
+      "content_type": "text/html; charset=utf-8",
+      "error": null,
+      "md5_full": "8553d84e8a48d8e103e7c50719df5eac",
+      "md5_head1mb": "8553d84e8a48d8e103e7c50719df5eac",
+      "looks_html": true,
+      "verdict": "PHANTOM \u2014 HTML page, not data"
+    },
+    "jcu_pdfs": [
+      "Pioneer CT 1883 to 1906.pdf",
+      "Pioneer CT 1907 to 1913.pdf",
+      "Pioneer CT 1914 to 1920.pdf",
+      "Pioneer CT 1921 to 1931.pdf",
+      "Pioneer CT 1932 to 1963.pdf",
+      "Pioneer Letterbooks 1884 to 1942.pdf",
+      "pioneermaps.pdf"
+    ],
+    "jcu_listing_sample": {
+      "label": "JCU Pioneer series listing PDF",
+      "url": "https://libserver.jcu.edu.au/specials/Archives/Pioneer%20CT%201883%20to%201906.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 86802,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "a26a3a4f600f28e0c3f311ce6c402c62",
+      "md5_head1mb": "a26a3a4f600f28e0c3f311ce6c402c62",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign16-verify/jcu-Pioneer_CT_1883_to_1906.pdf"
+    },
+    "unlv_node": {
+      "status": null,
+      "tif_refs": []
+    },
+    "unlv_cdx_tif": {
+      "collapsed": 147,
+      "ok200": 147,
+      "files": [
+        {
+          "ts": "20240819073503",
+          "url": "https://special.library.unlv.edu/_flysystem/fedora/MEN%20Menus/MEN%20Archival%20Images/men000017.tif",
+          "length": "15002235"
+        },
+        {
+          "ts": "20240709181811",
+          "url": "https://special.library.unlv.edu/_flysystem/fedora/MEN%20Menus/MEN%20Archival%20Images/men000105.tif",
+          "length": "15943399"
+        },
+        {
+          "ts": "20240816160654",
+          "url": "https://special.library.unlv.edu/_flysystem/fedora/MEN%20Menus/MEN%20Archival%20Images/men000116.tif",
+          "length": "48564133"
+        },
+        {
+          "ts": "20250411045259",
+          "url": "https://special.library.unlv.edu/_flysystem/fedora/MEN%20Menus/MEN%20Archival%20Images/men000160.tif",
+          "length": "5535768"
+        },
+        {
+          "ts": "20250411093446",
+          "url": "https://special.library.unlv.edu/_flysystem/fedora/MEN%20Menus/MEN%20Archival%20Images/men000226.tif",
+          "length": "6131734"
+        },
+        {
+          "ts": "20250412024000",
+          "url": "https://special.library.unlv.edu/_flysystem/fedora/MEN%20Menus/MEN%20Archival%20Images/men000233.tif",
+          "length": "16824952"
+        },
+        {
+          "ts": "20250411094027",
+          "url": "https://special.library.unlv.edu/_flysystem/fedora/MEN%20Menus/MEN%20Archival%20Images/men000239.tif",
+          "length": "16749935"
+        },
+        {
+          "ts": "20230616072302",
+          "url": "https://special.library.unlv.edu/_flysystem/fedora/MEN%20Menus/MEN%20Archival%20Images/men000412.tif",
+          "length": "164304873"
+        },
+        {
+          "ts": "20250412011754",
+          "url": "https://special.library.unlv.edu/_flysystem/fedora/MEN%20Menus/MEN%20Archival%20Images/men000516.tif",
+          "length": "15073198"
+        },
+        {
+          "ts": "20240709175612",
+          "url": "https://special.library.unlv.edu/_flysystem/fedora/MEN%20Menus/MEN%20Archival%20Images/men000534.tif",
+          "length": "23225646"
+        }
+      ]
+    },
+    "unlv_wb_tif_sample": {
+      "url": "https://web.archive.org/web/20240819073503id_/https://special.library.unlv.edu/_flysystem/fedora/MEN%20Menus/MEN%20Archival%20Images/men000017.tif",
+      "http_status": 200,
+      "bytes_downloaded": 3014656,
+      "md5_head1mb": "7e71ee1560383d1e6efd1597623ee71f",
+      "first_bytes_hex": "49492a0008000000",
+      "verdict": "REAL \u2014 TIFF image (II/MM magic)"
+    },
+    "curatingmenus_samples": [
+      {
+        "label": "curatingmenus data-dictionary Dish.csv",
+        "url": "http://curatingmenus.org/data_dictionary/Dish.csv",
+        "http_status": 404,
+        "bytes_downloaded": 379,
+        "truncated_at_cap": false,
+        "content_type": "text/html; charset=utf-8",
+        "error": null,
+        "md5_full": "e02cd3f8ba964300564962feae602bcc",
+        "md5_head1mb": "e02cd3f8ba964300564962feae602bcc",
+        "looks_html": true,
+        "verdict": "PHANTOM \u2014 HTML page, not data"
+      },
+      {
+        "label": "curatingmenus data-dictionary Menu.csv",
+        "url": "http://curatingmenus.org/data_dictionary/Menu.csv",
+        "http_status": 404,
+        "bytes_downloaded": 379,
+        "truncated_at_cap": false,
+        "content_type": "text/html; charset=utf-8",
+        "error": null,
+        "md5_full": "2fd62609ca5f59120a72c4d85203ca4e",
+        "md5_head1mb": "2fd62609ca5f59120a72c4d85203ca4e",
+        "looks_html": true,
+        "verdict": "PHANTOM \u2014 HTML page, not data"
+      }
+    ],
+    "nypl_support_page": {
+      "status": 200,
+      "menu_data_links": []
+    },
+    "ia_usda_seed_exact": 93315,
+    "howard_detail": {
+      "howard.astro.ucla.edu/pub/obs/drawings/1999/*": {
+        "n": 328,
+        "statuses": {
+          "226": 328
+        },
+        "sample": [
+          [
+            "20151203102420",
+            "ftp://howard.astro.ucla.edu/pub/obs/drawings/1999/",
+            "226",
+            "2728",
+            "application/octet-stream"
+          ],
+          [
+            "20151203102427",
+            "ftp://howard.astro.ucla.edu/pub/obs/drawings/1999/dr990101.gif",
+            "226",
+            "94536",
+            "application/octet-stream"
+          ],
+          [
+            "20151203102429",
+            "ftp://howard.astro.ucla.edu/pub/obs/drawings/1999/dr990102.gif",
+            "226",
+            "76146",
+            "application/octet-stream"
+          ],
+          [
+            "20151203102431",
+            "ftp://howard.astro.ucla.edu/pub/obs/drawings/1999/dr990103.gif",
+            "226",
+            "52581",
+            "application/octet-stream"
+          ],
+          [
+            "20151203102433",
+            "ftp://howard.astro.ucla.edu/pub/obs/drawings/1999/dr990104.gif",
+            "226",
+            "91546",
+            "application/octet-stream"
+          ],
+          [
+            "20151203102435",
+            "ftp://howard.astro.ucla.edu/pub/obs/drawings/1999/dr990105.gif",
+            "226",
+            "113346",
+            "application/octet-stream"
+          ],
+          [
+            "20151203102438",
+            "ftp://howard.astro.ucla.edu/pub/obs/drawings/1999/dr990106.gif",
+            "226",
+            "80366",
+            "application/octet-stream"
+          ],
+          [
+            "20151203102440",
+            "ftp://howard.astro.ucla.edu/pub/obs/drawings/1999/dr990107.gif",
+            "226",
+            "68545",
+            "application/octet-stream"
+          ]
+        ]
+      },
+      "howard.astro.ucla.edu/pub/obs/drawings/*": {
+        "n": 3000,
+        "statuses": {
+          "226": 3000
+        },
+        "sample": [
+          [
+            "20151203074439",
+            "ftp://howard.astro.ucla.edu/pub/obs/drawings/",
+            "226",
+            "6144",
+            "application/octet-stream"
+          ],
+          [
+            "20151203104548",
+            "ftp://howard.astro.ucla.edu/pub/obs/drawings/1917/",
+            "226",
+            "2627",
+            "application/octet-stream"
+          ],
+          [
+            "20151203104554",
+            "ftp://howard.astro.ucla.edu/pub/obs/drawings/1917/dr170104.jpg",
+            "226",
+            "156091",
+            "application/octet-stream"
+          ],
+          [
+            "20151203104556",
+            "ftp://howard.astro.ucla.edu/pub/obs/drawings/1917/dr170106.jpg",
+            "226",
+            "78517",
+            "application/octet-stream"
+          ],
+          [
+            "20151203104558",
+            "ftp://howard.astro.ucla.edu/pub/obs/drawings/1917/dr170107.jpg",
+            "226",
+            "135290",
+            "application/octet-stream"
+          ],
+          [
+            "20151203104600",
+            "ftp://howard.astro.ucla.edu/pub/obs/drawings/1917/dr170109.jpg",
+            "226",
+            "128677",
+            "application/octet-stream"
+          ],
+          [
+            "20151203104602",
+            "ftp://howard.astro.ucla.edu/pub/obs/drawings/1917/dr170110.jpg",
+            "226",
+            "169678",
+            "application/octet-stream"
+          ],
+          [
+            "20151203104605",
+            "ftp://howard.astro.ucla.edu/pub/obs/drawings/1917/dr170114.jpg",
+            "226",
+            "172299",
+            "application/octet-stream"
+          ]
+        ]
+      }
+    },
+    "kso_detail": {
+      "n": 84,
+      "statuses": {
+        "200": 82,
+        "404": 1,
+        "301": 1
+      },
+      "sample": [
+        [
+          "20070228132444",
+          "http://cesar.kso.ac.at:80/sunspot_drawings/",
+          "200",
+          "1543",
+          "text/html"
+        ],
+        [
+          "20210619155549",
+          "http://cesar.kso.ac.at/sunspot_drawings/1946/kanz_drawx_fd_19460206_1020_icon.jpg",
+          "200",
+          "2796",
+          "image/jpeg"
+        ],
+        [
+          "20210613170618",
+          "http://cesar.kso.ac.at/sunspot_drawings/1946/kanz_drawx_fd_19460727_0700_icon.jpg",
+          "200",
+          "2681",
+          "image/jpeg"
+        ],
+        [
+          "20220319230628",
+          "http://cesar.kso.ac.at/sunspot_drawings/1947/",
+          "200",
+          "4306",
+          "text/html"
+        ],
+        [
+          "20210613171120",
+          "http://cesar.kso.ac.at/sunspot_drawings/1947/kanz_drawx_fd_19470310_0900_icon.jpg",
+          "200",
+          "3011",
+          "image/jpeg"
+        ],
+        [
+          "20210619160051",
+          "http://cesar.kso.ac.at/sunspot_drawings/1947/kanz_drawx_fd_19470408_0945_icon.jpg",
+          "200",
+          "2997",
+          "image/jpeg"
+        ],
+        [
+          "20210613165615",
+          "http://cesar.kso.ac.at/sunspot_drawings/1951/kanz_drawx_fd_19510517_1030_icon.jpg",
+          "200",
+          "2027",
+          "image/jpeg"
+        ],
+        [
+          "20070816135435",
+          "http://cesar.kso.ac.at/sunspot_drawings/1957/",
+          "200",
+          "3209",
+          "text/html"
+        ],
+        [
+          "20210619160552",
+          "http://cesar.kso.ac.at/sunspot_drawings/1982/kanz_drawx_fd_19820210_0740_icon.jpg",
+          "200",
+          "1644",
+          "image/jpeg"
+        ],
+        [
+          "20210619161053",
+          "http://cesar.kso.ac.at/sunspot_drawings/1982/kanz_drawx_fd_19820617_0632_icon.jpg",
+          "200",
+          "1563",
+          "image/jpeg"
+        ]
+      ]
+    },
+    "kso_auto_hrefs": [
+      "/sunspot_drawings/",
+      "1993/",
+      "1998/",
+      "1999/",
+      "2000/",
+      "2001/",
+      "2002/",
+      "2003/",
+      "2004/",
+      "2005/",
+      "2006/",
+      "2007/",
+      "2008/",
+      "2009/",
+      "2010/",
+      "2011/",
+      "2012/",
+      "2013/",
+      "2014/",
+      "2015/",
+      "2016/",
+      "2017/",
+      "2018/",
+      "2019/",
+      "2020/"
+    ],
+    "mwo_drawings_page": {
+      "status": 200,
+      "hrefs_sample": [
+        "//ssl.gstatic.com/docs/doclist/images/drive_favicon_2026_32dp.png",
+        "/_/AppsNotifyUi/manifest.json",
+        "/_/drive_fe/_/ss/k=drive_fe.main.XFPEVDMgpxc.L.X.O/am=B9DjAVAIZE_4S_AfAAAADIDZFhUCxGABBgwmgIE/d=0/br=1/rs=AFB8gsxhJ-vE1cxdK0vePoeBT8wzbMKBqA",
+        "/opensearch.xml",
+        "https://accounts.google.com/ServiceLogin?hl=en&amp;passive=true&amp;continue=https://drive.google.com/drive/folders/1qR-0r-G02fWowukZVtX8AwmYen79O35t%3Fusp%3Dsharing&amp;service=writely&amp;ec=GAZAMQ",
+        "https://drive.google.com/?tab=oo",
+        "https://support.google.com/a/answer/33864",
+        "https://support.google.com/drive/answer/2375082",
+        "https://www.google.com/intl/en/about/products?tab=oh"
+      ],
+      "images": [
+        "//www.gstatic.com/images/branding/productlogos/drive_2026/v1/web-48dp/logo_drive_2026_color_1x_web_48dp.png",
+        "https://ssl.gstatic.com/gb/images/bar/al-icon.png",
+        "https://www.gstatic.com/images/icons/material/system/1x/broken_image_grey600_18dp.png"
+      ]
+    },
+    "mwo_drawing_sample": {
+      "label": "MWO sunspot drawing image (mtwilson.edu)",
+      "url": "https://www.mtwilson.edu//www.gstatic.com/images/branding/productlogos/drive_2026/v1/web-48dp/logo_drive_2026_color_1x_web_48dp.png",
+      "http_status": 404,
+      "bytes_downloaded": 175316,
+      "truncated_at_cap": false,
+      "content_type": "text/html; charset=UTF-8",
+      "error": null,
+      "md5_full": "bb1087aec31005524d19955d1fe81257",
+      "md5_head1mb": "bb1087aec31005524d19955d1fe81257",
+      "looks_html": true,
+      "verdict": "PHANTOM \u2014 HTML page, not data"
+    }
+  }
+}

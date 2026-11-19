@@ -1,0 +1,275 @@
+{
+  "verify16c": {
+    "howard_tree": {
+      "collapsed_cap10000": 10000,
+      "statuses": {
+        "226": 10000
+      },
+      "per_year_sample": {
+        "1917": 310,
+        "1918": 287,
+        "1919": 316,
+        "1920": 277,
+        "1921": 271,
+        "1922": 185,
+        "1923": 146,
+        "1924": 246,
+        "1925": 291,
+        "1926": 311,
+        "1927": 307,
+        "1928": 322,
+        "1929": 331,
+        "1930": 312,
+        "1931": 276,
+        "1932": 248,
+        "1933": 137,
+        "1934": 203,
+        "1935": 303,
+        "1936": 304,
+        "1937": 313,
+        "1938": 310,
+        "1939": 329,
+        "1940": 321,
+        "1941": 291,
+        "1942": 328,
+        "1943": 286,
+        "1944": 202,
+        "1945": 305,
+        "1946": 329,
+        "1947": 329,
+        "1948": 319,
+        "1949": 324,
+        "1950": 341,
+        "1951": 289
+      },
+      "sample_rows": [
+        [
+          "20151203074439",
+          "ftp://howard.astro.ucla.edu/pub/obs/drawings/",
+          "226",
+          "6144",
+          "application/octet-stream"
+        ],
+        [
+          "20151203104548",
+          "ftp://howard.astro.ucla.edu/pub/obs/drawings/1917/",
+          "226",
+          "2627",
+          "application/octet-stream"
+        ],
+        [
+          "20151203104554",
+          "ftp://howard.astro.ucla.edu/pub/obs/drawings/1917/dr170104.jpg",
+          "226",
+          "156091",
+          "application/octet-stream"
+        ],
+        [
+          "20151203104556",
+          "ftp://howard.astro.ucla.edu/pub/obs/drawings/1917/dr170106.jpg",
+          "226",
+          "78517",
+          "application/octet-stream"
+        ],
+        [
+          "20151203104558",
+          "ftp://howard.astro.ucla.edu/pub/obs/drawings/1917/dr170107.jpg",
+          "226",
+          "135290",
+          "application/octet-stream"
+        ],
+        [
+          "20151203104600",
+          "ftp://howard.astro.ucla.edu/pub/obs/drawings/1917/dr170109.jpg",
+          "226",
+          "128677",
+          "application/octet-stream"
+        ],
+        [
+          "20151203104602",
+          "ftp://howard.astro.ucla.edu/pub/obs/drawings/1917/dr170110.jpg",
+          "226",
+          "169678",
+          "application/octet-stream"
+        ],
+        [
+          "20151203104605",
+          "ftp://howard.astro.ucla.edu/pub/obs/drawings/1917/dr170114.jpg",
+          "226",
+          "172299",
+          "application/octet-stream"
+        ],
+        [
+          "20151203104607",
+          "ftp://howard.astro.ucla.edu/pub/obs/drawings/1917/dr170116.jpg",
+          "226",
+          "87067",
+          "application/octet-stream"
+        ],
+        [
+          "20151203104610",
+          "ftp://howard.astro.ucla.edu/pub/obs/drawings/1917/dr170122.jpg",
+          "226",
+          "98140",
+          "application/octet-stream"
+        ]
+      ]
+    },
+    "howard_sample": {
+      "label": "MWO sunspot drawing via Wayback (howard FTP tree, status-226 capture)",
+      "url": "https://web.archive.org/web/20151203104554id_/ftp://howard.astro.ucla.edu/pub/obs/drawings/1917/dr170104.jpg",
+      "http_status": 200,
+      "bytes_downloaded": 157839,
+      "truncated_at_cap": false,
+      "content_type": "application/octet-stream",
+      "error": null,
+      "md5_full": "08f7c54d2f523bc1381f3de5f2b49110",
+      "md5_head1mb": "08f7c54d2f523bc1381f3de5f2b49110",
+      "looks_html": false,
+      "verdict": "REAL \u2014 JPEG image",
+      "jpeg": true,
+      "saved_to": "gold/campaign16-verify/mwo-drawing-dr170104.jpg"
+    },
+    "kso_cdx_detail": {
+      "n": 84,
+      "ok200": 82,
+      "sample": [
+        [
+          "20070228132444",
+          "http://cesar.kso.ac.at:80/sunspot_drawings/",
+          "200",
+          "1543",
+          "text/html"
+        ],
+        [
+          "20210619155549",
+          "http://cesar.kso.ac.at/sunspot_drawings/1946/kanz_drawx_fd_19460206_1020_icon.jpg",
+          "200",
+          "2796",
+          "image/jpeg"
+        ],
+        [
+          "20210613170618",
+          "http://cesar.kso.ac.at/sunspot_drawings/1946/kanz_drawx_fd_19460727_0700_icon.jpg",
+          "200",
+          "2681",
+          "image/jpeg"
+        ],
+        [
+          "20220319230628",
+          "http://cesar.kso.ac.at/sunspot_drawings/1947/",
+          "200",
+          "4306",
+          "text/html"
+        ],
+        [
+          "20210613171120",
+          "http://cesar.kso.ac.at/sunspot_drawings/1947/kanz_drawx_fd_19470310_0900_icon.jpg",
+          "200",
+          "3011",
+          "image/jpeg"
+        ],
+        [
+          "20210619160051",
+          "http://cesar.kso.ac.at/sunspot_drawings/1947/kanz_drawx_fd_19470408_0945_icon.jpg",
+          "200",
+          "2997",
+          "image/jpeg"
+        ],
+        [
+          "20210613165615",
+          "http://cesar.kso.ac.at/sunspot_drawings/1951/kanz_drawx_fd_19510517_1030_icon.jpg",
+          "200",
+          "2027",
+          "image/jpeg"
+        ],
+        [
+          "20070816135435",
+          "http://cesar.kso.ac.at/sunspot_drawings/1957/",
+          "200",
+          "3209",
+          "text/html"
+        ],
+        [
+          "20210619160552",
+          "http://cesar.kso.ac.at/sunspot_drawings/1982/kanz_drawx_fd_19820210_0740_icon.jpg",
+          "200",
+          "1644",
+          "image/jpeg"
+        ],
+        [
+          "20210619161053",
+          "http://cesar.kso.ac.at/sunspot_drawings/1982/kanz_drawx_fd_19820617_0632_icon.jpg",
+          "200",
+          "1563",
+          "image/jpeg"
+        ],
+        [
+          "20210613165113",
+          "http://cesar.kso.ac.at/sunspot_drawings/1982/kanz_drawx_fd_19820715_0715_icon.jpg",
+          "200",
+          "1578",
+          "image/jpeg"
+        ],
+        [
+          "20210619161555",
+          "http://cesar.kso.ac.at/sunspot_drawings/1988/kanz_drawx_fd_19880630_0730_icon.jpg",
+          "200",
+          "1583",
+          "image/jpeg"
+        ]
+      ]
+    },
+    "kso_1999": {
+      "status": 200,
+      "hrefs": [
+        "/sunspot_drawings/automatic/",
+        "19990102_1049.dat",
+        "19990102_1049.jpg",
+        "19990102_1049.spot",
+        "19990102_1049_draw.png",
+        "19990102_1102.dat",
+        "19990102_1102.jpg",
+        "19990102_1102.spot",
+        "19990102_1102_draw.png",
+        "19990102_1104.dat",
+        "19990102_1104.jpg",
+        "19990102_1104.spot",
+        "19990102_1104_draw.png",
+        "19990104_0850.dat",
+        "19990104_0850.jpg",
+        "19990104_0850.spot",
+        "19990104_0850_draw.png",
+        "19990104_1110.dat",
+        "19990104_1110.jpg",
+        "19990104_1110.spot",
+        "19990104_1110_draw.png",
+        "19990104_1115.dat",
+        "19990104_1115.jpg",
+        "19990104_1115.spot",
+        "19990104_1115_draw.png",
+        "19990106_0915.dat",
+        "19990106_0915.jpg",
+        "19990106_0915.spot",
+        "19990106_0915_draw.png",
+        "19990106_0918.dat"
+      ]
+    },
+    "kso_sample": {
+      "label": "KSO sunspot drawing file (1999)",
+      "url": "https://cesar.kso.ac.at/sunspot_drawings/automatic/1999/19990102_1049.dat",
+      "http_status": 200,
+      "bytes_downloaded": 1459,
+      "truncated_at_cap": false,
+      "content_type": "video/mpeg",
+      "error": null,
+      "md5_full": "e990a1279610845affb5d00e8da323b6",
+      "md5_head1mb": "e990a1279610845affb5d00e8da323b6",
+      "looks_html": false,
+      "lines_sampled": 26,
+      "first_line": "19990102_1049",
+      "verdict": "REAL \u2014 decodable text data",
+      "saved_to": "gold/campaign16-verify/kso-19990102_1049.dat"
+    }
+  }
+}

@@ -15,9 +15,9 @@
    "rank_input_order": 1,
    "slug": "primate-fingerprints-dermatoglyphics",
    "name": "Primate fingerprints & dermatoglyphic archives",
-   "family": "A. Skin prints \u2014 fingers, palms, pads & noses",
+   "family": "A. Skin prints — fingers, palms, pads & noses",
    "score": 7,
-   "score_justification": "The original fingerprint science was built on animal prints too \u2014 Cummins-era dermatoglyphic collections cover dozens of primate species, ridge counts never re-joined across collections.",
+   "score_justification": "The original fingerprint science was built on animal prints too — Cummins-era dermatoglyphic collections cover dozens of primate species, ridge counts never re-joined across collections.",
    "keywords": [
     "primate dermatoglyphics archive",
     "ape monkey fingerprint ridge count data",
@@ -38,11 +38,11 @@
    ],
    "fidelity_card": {
     "RAW": "Ink and rolled fingerprints, palm prints and dermatoglyphic tracings in anthropology and forensic collections",
-    "UNIT": "One finger/palm \u2014 thousands of prints across dozens of primate species in the classic collections, one ink-print protocol",
+    "UNIT": "One finger/palm — thousands of prints across dozens of primate species in the classic collections, one ink-print protocol",
     "LABEL_GAP": "Species/individual called from ridge pattern vs DNA taxonomy of the same zoo/museum animals (second ruler)",
     "ANCHOR": "Zoo studbooks and museum specimens tied to print cards"
    },
-   "headline_shape": "Police once fingerprinted the chimps at a zoo to rule them out of a crime \u2014 the apes' prints were that close to ours.",
+   "headline_shape": "Police once fingerprinted the chimps at a zoo to rule them out of a crime — the apes' prints were that close to ours.",
    "why_niche": "Dermatoglyphics was a mid-century industry whose collections sit in anthropology departments and forensic museums; genetics replaced it before its cross-species ridge data was ever pooled.",
    "rank_by_score": 1,
    "score_pre_campaign7": 9,
@@ -52,9 +52,9 @@
    "rank_input_order": 6,
    "slug": "cattle-muzzle-prints",
    "name": "Cattle muzzle (nose) print registration archives",
-   "family": "A. Skin prints \u2014 fingers, palms, pads & noses",
+   "family": "A. Skin prints — fingers, palms, pads & noses",
    "score": 6,
-   "score_justification": "The biggest fingerprint-style archive in the animal world: Japan's Wagyu Registry has ink muzzle prints for 3M+ beef cattle since 1948 \u2014 and it is a paper/card system.",
+   "score_justification": "The biggest fingerprint-style archive in the animal world: Japan's Wagyu Registry has ink muzzle prints for 3M+ beef cattle since 1948 — and it is a paper/card system.",
    "keywords": [
     "cattle muzzle print registration",
     "wagyu nose print certificate archive",
@@ -75,15 +75,15 @@
    ],
    "fidelity_card": {
     "RAW": "Ink muzzle prints lifted on paper/cards at registration (before 4 months, again after 14 months in the Japanese system), plus modern muzzle photographs",
-    "UNIT": "One muzzle \u2014 millions registered in Japan since 1948, thousands in Petersen-era and university series elsewhere, one ink-lift protocol",
+    "UNIT": "One muzzle — millions registered in Japan since 1948, thousands in Petersen-era and university series elsewhere, one ink-lift protocol",
     "LABEL_GAP": "Muzzle print ID vs ear-tag / RFID / DNA pedigree records for the same animals (second ruler)",
     "ANCHOR": "The Wagyu Registry Association's own registration certificates (nose print + pedigree on one card)"
    },
-   "headline_shape": "Japan has fingerprinted its finest cattle by nose since 1948 \u2014 over three million cows, each with a print card like a criminal record.",
+   "headline_shape": "Japan has fingerprinted its finest cattle by nose since 1948 — over three million cows, each with a print card like a criminal record.",
    "why_niche": "The registration archives are institutional paper; the computer-vision literature trains on a few hundred fresh photos and has never touched the historical card millions.",
    "rank_by_score": 2,
    "score_pre_campaign7": 9,
-   "calibration_2026_11_18_campaign7": "Campaign 7: KILL-for-recovery \u2014 zero digital surface anywhere probed; the 3M+ print archive is paper/certificate by design. Score cut reflects hunter-recoverable gold only; the custody finding stands (see calibration)."
+   "calibration_2026_11_18_campaign7": "Campaign 7: KILL-for-recovery — zero digital surface anywhere probed; the 3M+ print archive is paper/certificate by design. Score cut reflects hunter-recoverable gold only; the custody finding stands (see calibration)."
   },
   {
    "rank_input_order": 9,
@@ -91,7 +91,7 @@
    "name": "Paw-track morphometrics & FIT footprint archives",
    "family": "B. Tracks, paws & gait",
    "score": 7,
-   "score_justification": "WildTrack's FIT extracts 120+ measures per print and reports >90% species/sex/age accuracy across 13+ species \u2014 yet each species training set lives with its project, captive-known prints are the rarest data in tracking.",
+   "score_justification": "WildTrack's FIT extracts 120+ measures per print and reports >90% species/sex/age accuracy across 13+ species — yet each species training set lives with its project, captive-known prints are the rarest data in tracking.",
    "keywords": [
     "footprint identification technology FIT dataset",
     "animal track measurements csv download",
@@ -111,15 +111,15 @@
    ],
    "fidelity_card": {
     "RAW": "Footprint photographs taken to one ruler-and-slip protocol (WildTrack FIT and its predecessors), plus hand-measured track tables",
-    "UNIT": "One print/trail \u2014 training sets of known captive individuals per species, field trails by the thousand, 13+ species with FIT algorithms",
+    "UNIT": "One print/trail — training sets of known captive individuals per species, field trails by the thousand, 13+ species with FIT algorithms",
     "LABEL_GAP": "Individual/sex/age called from print vs the known captive animal or collared wild animal that made it (second ruler)",
     "ANCHOR": "Captive-animal known-identity trail sets (the FIT training gold standard)"
    },
-   "headline_shape": "A photograph of a footprint can name the tiger, its sex and its age \u2014 trackers always knew; the measurement files proving it sit project by project.",
+   "headline_shape": "A photograph of a footprint can name the tiger, its sex and its age — trackers always knew; the measurement files proving it sit project by project.",
    "why_niche": "FIT standardised the capture but not the custody: species datasets sit with NGOs, zoos and consultancies, and the pre-FIT hand-measured track tables were never digitised at all.",
    "rank_by_score": 3,
    "score_pre_campaign7": 9,
-   "calibration_2026_11_18_campaign7": "Campaign 7: KILL \u2014 FIT training libraries (tapir 426 imgs/36 indiv.; otter CNN 2,500 imgs) are project-held; software is a JMP add-in by request; no per-species file piles on any surface probed."
+   "calibration_2026_11_18_campaign7": "Campaign 7: KILL — FIT training libraries (tapir 426 imgs/36 indiv.; otter CNN 2,500 imgs) are project-held; software is a JMP add-in by request; no per-species file piles on any surface probed."
   },
   {
    "rank_input_order": 17,
@@ -127,7 +127,7 @@
    "name": "Whale fluke trailing-edge photo-ID catalogues",
    "family": "C. Flukes, fins, ears & callosities",
    "score": 7,
-   "score_justification": "39 North-Pacific catalogues were unified by Happywhale (27,956 individuals) \u2014 proof of value AND the narrowing: the un-joined remainder is film-era, Southern Ocean and non-humpback catalogues.",
+   "score_justification": "39 North-Pacific catalogues were unified by Happywhale (27,956 individuals) — proof of value AND the narrowing: the un-joined remainder is film-era, Southern Ocean and non-humpback catalogues.",
    "keywords": [
     "whale fluke photo identification catalogue",
     "humpback fluke catalog archive download",
@@ -147,11 +147,11 @@
    ],
    "fidelity_card": {
     "RAW": "Fluke photographs (film-era prints/slides and digital) in regional whale research catalogues",
-    "UNIT": "One fluke \u2014 tens of thousands of individuals globally; 39 catalogues in the North Pacific alone, one underside-photo protocol",
+    "UNIT": "One fluke — tens of thousands of individuals globally; 39 catalogues in the North Pacific alone, one underside-photo protocol",
     "LABEL_GAP": "Fluke match vs genetic sample taken at the same encounter (second ruler)",
     "ANCHOR": "The Happywhale/NPPID unified North Pacific set as the benchmark of what joining yields"
    },
-   "headline_shape": "Every humpback's tail is a fingerprint in black and white \u2014 the world spent 50 years photographing them and is only now joining the albums.",
+   "headline_shape": "Every humpback's tail is a fingerprint in black and white — the world spent 50 years photographing them and is only now joining the albums.",
    "why_niche": "Happywhale joined the North Pacific digital era; the pre-digital slide cabinets, the Southern Ocean and Atlantic regional catalogues, and sperm-whale fluke sets remain separate piles.",
    "rank_by_score": 4,
    "score_pre_campaign7": 9,
@@ -163,7 +163,7 @@
    "name": "Dolphin dorsal-fin notch catalogues",
    "family": "C. Flukes, fins, ears & callosities",
    "score": 7,
-   "score_justification": "Sarasota alone holds 5,000+ fin images since 1970 and GoMDIS joins 35 Gulf catalogues (23,444 animals) \u2014 outside the Gulf, hundreds of FinBase-era catalogues never joined anything.",
+   "score_justification": "Sarasota alone holds 5,000+ fin images since 1970 and GoMDIS joins 35 Gulf catalogues (23,444 animals) — outside the Gulf, hundreds of FinBase-era catalogues never joined anything.",
    "keywords": [
     "dolphin dorsal fin catalogue download",
     "bottlenose dolphin photo ID FinBase",
@@ -184,11 +184,11 @@
    ],
    "fidelity_card": {
     "RAW": "Dorsal-fin photographs and FinBase/Access-era catalogue databases on lab and institute sites",
-    "UNIT": "One fin \u2014 hundreds of regional catalogues, hundreds to thousands of individuals each, one trailing-edge protocol since W\u00fcrsig 1977",
+    "UNIT": "One fin — hundreds of regional catalogues, hundreds to thousands of individuals each, one trailing-edge protocol since Würsig 1977",
     "LABEL_GAP": "Fin ID vs freeze-brand/tag/genetic identity of the same dolphin (second ruler)",
     "ANCHOR": "Sarasota's known-history individuals (births/deaths observed since 1970)"
    },
-   "headline_shape": "A dolphin's fin collects nicks like a passport collects stamps \u2014 labs have filed the passports bay by bay for fifty years.",
+   "headline_shape": "A dolphin's fin collects nicks like a passport collects stamps — labs have filed the passports bay by bay for fifty years.",
    "why_niche": "FinBase standardised hundreds of local catalogues on desktop databases that were never networked; GoMDIS proved joining works for one gulf and stopped there.",
    "rank_by_score": 5,
    "score_pre_campaign7": 9,
@@ -200,7 +200,7 @@
    "name": "Elephant ear edge, tear & vein ID archives",
    "family": "C. Flukes, fins, ears & callosities",
    "score": 7,
-   "score_justification": "Amboseli has ID'd 1,600+ elephants since 1972 by ear tears/holes/veins on physical ID cards; every long-term site (Gorongosa, Mara, Samburu\u2026) keeps its own card tradition.",
+   "score_justification": "Amboseli has ID'd 1,600+ elephants since 1972 by ear tears/holes/veins on physical ID cards; every long-term site (Gorongosa, Mara, Samburu…) keeps its own card tradition.",
    "keywords": [
     "elephant ear identification cards archive",
     "Amboseli elephant ID ear tears",
@@ -221,23 +221,23 @@
    ],
    "fidelity_card": {
     "RAW": "Photographic ear ID cards (physical card files, later digital) recording ear edge tears, holes and vein patterns, per long-term study site",
-    "UNIT": "One ear \u2014 1,600+ known individuals at Amboseli, hundreds to thousands per other site, one card-and-photo protocol per site tradition",
+    "UNIT": "One ear — 1,600+ known individuals at Amboseli, hundreds to thousands per other site, one card-and-photo protocol per site tradition",
     "LABEL_GAP": "Ear ID vs DNA from dung/biopsy and vs tusk/body marks recorded on the same card (second rulers)",
     "ANCHOR": "Amboseli's known-birth individuals (exact ages since 1972)"
    },
-   "headline_shape": "An elephant's ear is a torn, veined map no other elephant shares \u2014 researchers have carried its ID cards in Land Cruiser gloveboxes for fifty years.",
+   "headline_shape": "An elephant's ear is a torn, veined map no other elephant shares — researchers have carried its ID cards in Land Cruiser gloveboxes for fifty years.",
    "why_niche": "The ID-card tradition is per-site and partly still physical; Gorongosa's Who's Who went digital behind a password, Amboseli's cards span paper and digital, and no cross-site ear archive exists.",
    "rank_by_score": 6,
    "score_pre_campaign7": 9,
-   "calibration_2026_11_18_campaign7": "Campaign 7: KILL/INVENTORY \u2014 ID cards stay in project custody (Who's Who password-protected by design); elephant.se is a published database mirror, not the card archive; ATE unreachable from this client."
+   "calibration_2026_11_18_campaign7": "Campaign 7: KILL/INVENTORY — ID cards stay in project custody (Who's Who password-protected by design); elephant.se is a published database mirror, not the card archive; ATE unreachable from this client."
   },
   {
    "rank_input_order": 41,
    "slug": "whisker-spot-patterns",
-   "name": "Whisker-spot (vibrissae) pattern catalogues \u2014 lions & pinnipeds",
+   "name": "Whisker-spot (vibrissae) pattern catalogues — lions & pinnipeds",
    "family": "F. Faces, ears, eyes, scars, tails & whiskers",
    "score": 7,
-   "score_justification": "Pennycuick & Rudnai's 1970 lion method is pure pattern: dot maps of whisker follicles, still used in Kruger/India (WII's Lion software) and re-invented for sea lions \u2014 three literatures, one geometry, zero joining.",
+   "score_justification": "Pennycuick & Rudnai's 1970 lion method is pure pattern: dot maps of whisker follicles, still used in Kruger/India (WII's Lion software) and re-invented for sea lions — three literatures, one geometry, zero joining.",
    "keywords": [
     "whisker spot pattern lion identification",
     "vibrissae pattern sea lion identification",
@@ -257,15 +257,15 @@
    ],
    "fidelity_card": {
     "RAW": "Whisker-spot dot maps and muzzle photographs in lion and pinniped ID catalogues",
-    "UNIT": "One muzzle \u2014 hundreds of lions per park catalogue (method since 1970), pinniped sets of 50\u20131,000, dot-map protocol",
+    "UNIT": "One muzzle — hundreds of lions per park catalogue (method since 1970), pinniped sets of 50–1,000, dot-map protocol",
     "LABEL_GAP": "Whisker ID vs scar/ear-mark ID and genetic ID in the same individuals (second rulers)",
     "ANCHOR": "Australian sea lion known-individual sets used to validate the method (99% pattern uniqueness at n=50)"
    },
-   "headline_shape": "A lion's whisker dots are a star chart printed on its muzzle \u2014 rangers have read the same chart since 1970 and kept it park by park.",
+   "headline_shape": "A lion's whisker dots are a star chart printed on its muzzle — rangers have read the same chart since 1970 and kept it park by park.",
    "why_niche": "The lion, sea-lion and seal whisker literatures cite different ancestors and hold separate catalogues; the shared point-pattern geometry has never been run across them.",
    "rank_by_score": 7,
    "score_pre_campaign7": 9,
-   "calibration_2026_11_18_campaign7": "Campaign 7: KILL for catalogues \u2014 Desert Lion's file surface is field-photo galleries + published reports (INVENTORY); no whisker-pattern file pile on any host probed; sea-lion validation set is literature-only."
+   "calibration_2026_11_18_campaign7": "Campaign 7: KILL for catalogues — Desert Lion's file surface is field-photo galleries + published reports (INVENTORY); no whisker-pattern file pile on any host probed; sea-lion validation set is literature-only."
   },
   {
    "rank_input_order": 48,
@@ -294,23 +294,23 @@
    ],
    "fidelity_card": {
     "RAW": "Cuticular scale casts (gelatin/cellulose impressions), SEM surface images and photomicrographs in forensic hair atlases",
-    "UNIT": "One hair \u2014 150+ species in the Texas atlas, 100+ in the Indian and Australian atlases, one cast-and-mount protocol per atlas tradition",
+    "UNIT": "One hair — 150+ species in the Texas atlas, 100+ in the Indian and Australian atlases, one cast-and-mount protocol per atlas tradition",
     "LABEL_GAP": "Species called from scale cast vs DNA barcoding of the same hair/specimen (second ruler)",
     "ANCHOR": "Museum-vouchered hairs (atlas specimens tied to skins/skulls)"
    },
-   "headline_shape": "A single guard hair carries a scale pattern like a fingerprint \u2014 forensic atlases were built continent by continent and never checked against each other.",
+   "headline_shape": "A single guard hair carries a scale pattern like a fingerprint — forensic atlases were built continent by continent and never checked against each other.",
    "why_niche": "Hair ID is a forensic service literature: regional atlases (Texas 2009, ZSI series, Brunner & Coman 1974) each keyed their own fauna with their own scale vocabulary.",
    "rank_by_score": 8,
    "score_pre_campaign8": 9,
-   "calibration_2026_11_18_campaign8": "Campaign 8: material and loose-file hosting real (CMU personal pages, 57 species), but every surface is a deliberate publication \u2014 atlas PDFs, teaching pages, journal trees. Strandedness over-predicted; SILVER ceiling at the surfaces checked. 9 -> 8."
+   "calibration_2026_11_18_campaign8": "Campaign 8: material and loose-file hosting real (CMU personal pages, 57 species), but every surface is a deliberate publication — atlas PDFs, teaching pages, journal trees. Strandedness over-predicted; SILVER ceiling at the surfaces checked. 9 -> 8."
   },
   {
    "rank_input_order": 2,
    "slug": "koala-fingerprints",
    "name": "Koala fingerprint collections",
-   "family": "A. Skin prints \u2014 fingers, palms, pads & noses",
+   "family": "A. Skin prints — fingers, palms, pads & noses",
    "score": 5,
-   "score_justification": "Headline is perfect and verified (Henneberg 1997), but the known print population is small \u2014 one species, tens of documented individuals \u2014 so archive depth caps the score.",
+   "score_justification": "Headline is perfect and verified (Henneberg 1997), but the known print population is small — one species, tens of documented individuals — so archive depth caps the score.",
    "keywords": [
     "koala fingerprint print collection",
     "koala dermatoglyphics images",
@@ -330,23 +330,23 @@
    ],
    "fidelity_card": {
     "RAW": "Ink prints and SEM fingertip images from wildlife-park and university anatomy collections",
-    "UNIT": "One fingertip \u2014 one species, tens of individuals in the published study, unknown numbers in zoo/wildlife-park files, one ink-print protocol",
+    "UNIT": "One fingertip — one species, tens of individuals in the published study, unknown numbers in zoo/wildlife-park files, one ink-print protocol",
     "LABEL_GAP": "Koala ridge pattern vs human prints in the same forensic reference files (the second ruler is our own fingerprint system)",
     "ANCHOR": "The 1997 Adelaide reference prints (Henneberg, Lambert & Leigh)"
    },
-   "headline_shape": "A koala's fingerprint is nearly indistinguishable from a human's under a microscope \u2014 verified in 1997, and no, it has never actually turned up at a crime scene.",
+   "headline_shape": "A koala's fingerprint is nearly indistinguishable from a human's under a microscope — verified in 1997, and no, it has never actually turned up at a crime scene.",
    "why_niche": "One famous study, then near-silence: wildlife parks handle koalas daily and no print collection was ever built on the 1997 foundation.",
    "rank_by_score": 9,
    "score_pre_campaign8": 8,
-   "calibration_2026_11_18_campaign8": "Campaign 8: decisively falsified as a file hunt \u2014 no collection host exists anywhere probed; the surface is two small papers (n~20 + n=3). Any larger set is in Henneberg's Adelaide custody, offline. Paper-only. 8 -> 5."
+   "calibration_2026_11_18_campaign8": "Campaign 8: decisively falsified as a file hunt — no collection host exists anywhere probed; the surface is two small papers (n~20 + n=3). Any larger set is in Henneberg's Adelaide custody, offline. Paper-only. 8 -> 5."
   },
   {
    "rank_input_order": 5,
    "slug": "dog-nose-prints",
    "name": "Dog nose-print archives",
-   "family": "A. Skin prints \u2014 fingers, palms, pads & noses",
+   "family": "A. Skin prints — fingers, palms, pads & noses",
    "score": 6,
-   "score_justification": "Petersen took 350+ animal nose prints in 1922; kennel clubs and insurers ran nose-print registries for decades \u2014 paper archives, modern apps are rebuilding from zero.",
+   "score_justification": "Petersen took 350+ animal nose prints in 1922; kennel clubs and insurers ran nose-print registries for decades — paper archives, modern apps are rebuilding from zero.",
    "keywords": [
     "dog nose print identification archive",
     "canine nose print registry records",
@@ -367,11 +367,11 @@
    ],
    "fidelity_card": {
     "RAW": "Ink nose prints on index cards and nose photographs in kennel-club, insurer and lab collections",
-    "UNIT": "One nose \u2014 registries ran to thousands of dogs; the 2021 viability study re-proved uniqueness on 70 dogs / 19 breeds, one ink-or-camera protocol per era",
+    "UNIT": "One nose — registries ran to thousands of dogs; the 2021 viability study re-proved uniqueness on 70 dogs / 19 breeds, one ink-or-camera protocol per era",
     "LABEL_GAP": "Nose pattern ID vs microchip/tag records for the same dogs (second ruler)",
     "ANCHOR": "Longitudinal re-prints of the same dog months apart (pattern invariance series)"
    },
-   "headline_shape": "Your dog's nose print is its fingerprint \u2014 kennel clubs were filing them on index cards a century ago.",
+   "headline_shape": "Your dog's nose print is its fingerprint — kennel clubs were filing them on index cards a century ago.",
    "why_niche": "Historic nose-print registries were paper and breed-club local; the smartphone-era startups each built tiny private datasets and none inherited the card archives.",
    "rank_by_score": 10,
    "score_pre_campaign8": 8,
@@ -383,7 +383,7 @@
    "name": "Plaster track-cast museum collections",
    "family": "B. Tracks, paws & gait",
    "score": 6,
-   "score_justification": "Museums hold drawers of plaster paw casts \u2014 snow leopard, wolf, lynx \u2014 made when casts were the data; catalogued as objects, never measured as a set.",
+   "score_justification": "Museums hold drawers of plaster paw casts — snow leopard, wolf, lynx — made when casts were the data; catalogued as objects, never measured as a set.",
    "keywords": [
     "plaster track cast collection museum",
     "animal track casts catalogue",
@@ -404,11 +404,11 @@
    ],
    "fidelity_card": {
     "RAW": "Plaster and latex track casts with specimen labels in natural-history museum collections",
-    "UNIT": "One cast \u2014 hundreds per large collection, dozens of species, one cast-making tradition across a century",
+    "UNIT": "One cast — hundreds per large collection, dozens of species, one cast-making tradition across a century",
     "LABEL_GAP": "Species/sex on the cast label vs the cast re-measured today against FIT-style morphometrics (second ruler)",
     "ANCHOR": "Casts tied to collected specimens or known zoo animals"
    },
-   "headline_shape": "Before cameras, scientists carried plaster to the snow and poured the footprint itself \u2014 museums still hold the drawers of poured paws.",
+   "headline_shape": "Before cameras, scientists carried plaster to the snow and poured the footprint itself — museums still hold the drawers of poured paws.",
    "why_niche": "Cast collections were catalogued by accession, not by measurement; nobody has run a single morphometric pass across a museum's cast drawers.",
    "rank_by_score": 11,
    "score_pre_campaign8": 8,
@@ -441,12 +441,12 @@
    ],
    "fidelity_card": {
     "RAW": "Footprint photographs and forefoot-circumference measurement sheets from known-age elephant studies and ranger monitoring",
-    "UNIT": "One footprint \u2014 calibration series from known-age individuals (Amboseli), monitoring trails by the thousand across Africa/Asia",
+    "UNIT": "One footprint — calibration series from known-age individuals (Amboseli), monitoring trails by the thousand across Africa/Asia",
     "LABEL_GAP": "Age read from the footprint vs the elephant's known birth year in the long-term ID catalogues (second ruler)",
     "ANCHOR": "Amboseli known-age individuals measured directly"
    },
-   "headline_shape": "You can read an elephant's age off the print its front foot leaves in the dust \u2014 if you have the calibration walks, and almost nobody kept them.",
-   "why_niche": "The method is used by rangers everywhere; the underlying known-age measurement series live in a few theses and project files from the 1980s\u20132000s.",
+   "headline_shape": "You can read an elephant's age off the print its front foot leaves in the dust — if you have the calibration walks, and almost nobody kept them.",
+   "why_niche": "The method is used by rangers everywhere; the underlying known-age measurement series live in a few theses and project files from the 1980s–2000s.",
    "rank_by_score": 12,
    "score_pre_campaign8": 8,
    "calibration_2026_11_18_campaign8": "Campaign 8: the calibration-grade data is either already formally published (Parker/UF IR, 3,199 cases as CSV) or custody-only (ATE Access databases). Method's data layer is integrated/custodial, not stranded. 8 -> 7."
@@ -477,11 +477,11 @@
    ],
    "fidelity_card": {
     "RAW": "Aerial and boat photographs of head callosity patterns in consortium and regional catalogues",
-    "UNIT": "One head \u2014 ~400 living North Atlantic individuals, thousands in southern catalogues, aerial-photo protocol since Payne's 1970s work",
+    "UNIT": "One head — ~400 living North Atlantic individuals, thousands in southern catalogues, aerial-photo protocol since Payne's 1970s work",
     "LABEL_GAP": "Callosity ID vs genetic profiles from biopsy of the same whales (second ruler)",
     "ANCHOR": "The North Atlantic Right Whale Consortium catalogue as the curated anchor"
    },
-   "headline_shape": "The rough white patches on a right whale's head are as fixed as a face \u2014 whale watchers have read them from planes since the seventies.",
+   "headline_shape": "The rough white patches on a right whale's head are as fixed as a face — whale watchers have read them from planes since the seventies.",
    "why_niche": "Three ocean basins built three callosity catalogues in three institutions; cross-basin matching (whales do cross) rests on personal correspondence, not a joined archive.",
    "rank_by_score": 13,
    "score_pre_campaign8": 8,
@@ -493,7 +493,7 @@
    "name": "Manatee scar & tail photo-ID system archives",
    "family": "C. Flukes, fins, ears & callosities",
    "score": 9,
-   "score_justification": "Florida's MIPS system has matched manatees by scars/tail notches since the 1970s \u2014 a state-run pattern archive with sketch-era roots, mirrored by separate Caribbean/Brazil sets.",
+   "score_justification": "Florida's MIPS system has matched manatees by scars/tail notches since the 1970s — a state-run pattern archive with sketch-era roots, mirrored by separate Caribbean/Brazil sets.",
    "keywords": [
     "manatee photo identification system MIPS",
     "manatee scar catalogue identification",
@@ -514,15 +514,15 @@
    ],
    "fidelity_card": {
     "RAW": "Underwater photographs and hand-drawn scar sketches in the Manatee Photo-ID System and sister programmes",
-    "UNIT": "One manatee \u2014 thousands of individuals in Florida alone since the 1970s, sketch-then-photo protocol",
+    "UNIT": "One manatee — thousands of individuals in Florida alone since the 1970s, sketch-then-photo protocol",
     "LABEL_GAP": "Scar-pattern ID vs PIT-tag/genetic identity recorded at rescue/health assessments (second ruler)",
     "ANCHOR": "Rescued manatees whose identity is known absolutely at release"
    },
-   "headline_shape": "A manatee is known by its propeller scars \u2014 the state of Florida keeps a mugshot file, part sketchbook, part database.",
+   "headline_shape": "A manatee is known by its propeller scars — the state of Florida keeps a mugshot file, part sketchbook, part database.",
    "why_niche": "MIPS is an agency system with restricted doors; the sketch-era archive and the non-Florida programmes were never part of any public pattern set.",
    "rank_by_score": 14,
    "score_pre_campaign8": 8,
-   "calibration_2026_11_18_campaign8": "Campaign 8: GOLD \u2014 Hartley's frozen April-2013 Practical Scar Sheet set (~200 Blue Spring individuals) stranded on the SMC archive subdomain, absent from MIPS, sample-verified and visually inspected. Score raised on confirmation (frog-call precedent). 8 -> 9."
+   "calibration_2026_11_18_campaign8": "Campaign 8: GOLD — Hartley's frozen April-2013 Practical Scar Sheet set (~200 Blue Spring individuals) stranded on the SMC archive subdomain, absent from MIPS, sample-verified and visually inspected. Score raised on confirmation (frog-call precedent). 8 -> 9."
   },
   {
    "rank_input_order": 23,
@@ -530,7 +530,7 @@
    "name": "Rhino ear-notch & horn-profile ID records",
    "family": "C. Flukes, fins, ears & callosities",
    "score": 6,
-   "score_justification": "Distinct from the landed rhino forearm work: this is the applied ID system \u2014 ear notches cut by managers plus horn silhouette profiles, kept per-reserve in sighting books. (Forearm centroid work excluded.)",
+   "score_justification": "Distinct from the landed rhino forearm work: this is the applied ID system — ear notches cut by managers plus horn silhouette profiles, kept per-reserve in sighting books. (Forearm centroid work excluded.)",
    "keywords": [
     "rhino ear notch identification records",
     "rhino horn profile individual identification",
@@ -550,15 +550,15 @@
    ],
    "fidelity_card": {
     "RAW": "Ear-notch diagrams, horn-profile photographs and sighting-book pages from reserves and rhino monitoring programmes",
-    "UNIT": "One rhino \u2014 hundreds per reserve, thousands across programmes, notch-code + profile-photo protocol",
+    "UNIT": "One rhino — hundreds per reserve, thousands across programmes, notch-code + profile-photo protocol",
     "LABEL_GAP": "Notch/horn ID vs DNA from ear-tissue taken at the notching itself, and horn DNA (RhODIS) (second rulers)",
     "ANCHOR": "RhODIS forensic horn-DNA database as the cross-check anchor"
    },
-   "headline_shape": "Rhino managers cut a code into the ear and read the horn's silhouette like a skyline \u2014 each reserve keeps its own skyline book.",
+   "headline_shape": "Rhino managers cut a code into the ear and read the horn's silhouette like a skyline — each reserve keeps its own skyline book.",
    "why_niche": "Ear-notching is universal practice and per-reserve paperwork; horn profiles accumulate in monitoring photos that no cross-reserve system ingests.",
    "rank_by_score": 15,
    "score_pre_campaign11": 8,
-   "calibration_2026_11_18_campaign11": "Campaign 11: KILL for recovery \u2014 notch/horn records are per-reserve anti-poaching custody; the anchor (RhODIS, 180,000+ samples by 2024) is a law-enforcement forensic system. No file surface anywhere probed. 8 -> 6."
+   "calibration_2026_11_18_campaign11": "Campaign 11: KILL for recovery — notch/horn records are per-reserve anti-poaching custody; the anchor (RhODIS, 180,000+ samples by 2024) is a law-enforcement forensic system. No file surface anywhere probed. 8 -> 6."
   },
   {
    "rank_input_order": 24,
@@ -566,7 +566,7 @@
    "name": "Pinniped pelage-pattern photo-ID (ringed & monk seals)",
    "family": "C. Flukes, fins, ears & callosities",
    "score": 7,
-   "score_justification": "Saimaa's SealID set (57 seals, 2,080 images) proved a pelage dataset can be published \u2014 and exposed how many seal colonies still match patterns by eye from slide boxes.",
+   "score_justification": "Saimaa's SealID set (57 seals, 2,080 images) proved a pelage dataset can be published — and exposed how many seal colonies still match patterns by eye from slide boxes.",
    "keywords": [
     "seal pelage pattern photo identification",
     "ringed seal fur pattern catalogue",
@@ -586,21 +586,21 @@
    ],
    "fidelity_card": {
     "RAW": "Seal flank photographs (slides, then digital) in colony photo-ID catalogues",
-    "UNIT": "One flank pattern \u2014 hundreds of individuals per colony catalogue (Saimaa ~400 animals; Cap Blanc monk seals since 1993), haul-out photo protocol",
+    "UNIT": "One flank pattern — hundreds of individuals per colony catalogue (Saimaa ~400 animals; Cap Blanc monk seals since 1993), haul-out photo protocol",
     "LABEL_GAP": "Pelage ID vs flipper-tag / telemetry identity of the same seal (second ruler)",
     "ANCHOR": "SealID's expert-matched public benchmark set (57 individuals, 2,080 images)"
    },
-   "headline_shape": "A ringed seal wears a fingerprint made of rings over its whole body \u2014 no two seals have ever worn the same one.",
+   "headline_shape": "A ringed seal wears a fingerprint made of rings over its whole body — no two seals have ever worn the same one.",
    "why_niche": "Each seal colony's catalogue belongs to its research group; slide-era catalogues (monk seals 1990s) predate the ML datasets and were never digitised into them.",
    "rank_by_score": 16,
    "score_pre_campaign11": 8,
-   "calibration_2026_11_18_campaign11": "Campaign 11: SILVER ceiling \u2014 flagship (SealID, 57 seals/2,080 images) is a deliberate DOI release in Fairdata; colony catalogues are programme/agency custody (Cap Blanc slides; NOAA InPort 'No Distributions available'). 8 -> 7."
+   "calibration_2026_11_18_campaign11": "Campaign 11: SILVER ceiling — flagship (SealID, 57 seals/2,080 images) is a deliberate DOI release in Fairdata; colony catalogues are programme/agency custody (Cap Blanc slides; NOAA InPort 'No Distributions available'). 8 -> 7."
   },
   {
    "rank_input_order": 25,
    "slug": "tiger-stripe-catalogues",
    "name": "Tiger stripe-pattern camera-trap catalogues",
-   "family": "D. Coat patterns \u2014 stripes, rosettes, spots & scales",
+   "family": "D. Coat patterns — stripes, rosettes, spots & scales",
    "score": 6,
    "score_justification": "Every tiger's stripes are mapped by camera traps nationally, but the catalogues are security-sealed per country/programme; the pattern data behind published counts is the stranded layer.",
    "keywords": [
@@ -622,21 +622,21 @@
    ],
    "fidelity_card": {
     "RAW": "Camera-trap flank photographs and stripe-matching files in national and NGO tiger programmes",
-    "UNIT": "One flank \u2014 thousands of individuals across range countries, standard paired-camera protocol",
+    "UNIT": "One flank — thousands of individuals across range countries, standard paired-camera protocol",
     "LABEL_GAP": "Stripe ID vs genetic ID from scat collected in the same grids (second ruler)",
     "ANCHOR": "India's national tiger estimation archive as the (restricted) anchor set"
    },
-   "headline_shape": "No two tigers share a stripe map \u2014 countries count their tigers from stripe photographs and then lock the photographs away.",
+   "headline_shape": "No two tigers share a stripe map — countries count their tigers from stripe photographs and then lock the photographs away.",
    "why_niche": "Counts are published, pattern files are not; each programme's catalogue is a silo justified by poaching risk, so cross-border tigers are matched by personal contact.",
    "rank_by_score": 17,
    "score_pre_campaign11": 8,
-   "calibration_2026_11_18_campaign11": "Campaign 11: KILL for recovery \u2014 the real catalogue is India's national NTCA/WII archive, restricted by design (poaching); only public stripe files are the ExtractCompare demo handful (INVENTORY). 8 -> 6."
+   "calibration_2026_11_18_campaign11": "Campaign 11: KILL for recovery — the real catalogue is India's national NTCA/WII archive, restricted by design (poaching); only public stripe files are the ExtractCompare demo handful (INVENTORY). 8 -> 6."
   },
   {
    "rank_input_order": 26,
    "slug": "leopard-jaguar-rosettes",
    "name": "Leopard & jaguar rosette catalogues",
-   "family": "D. Coat patterns \u2014 stripes, rosettes, spots & scales",
+   "family": "D. Coat patterns — stripes, rosettes, spots & scales",
    "score": 7,
    "score_justification": "Rosettes ID individuals across hundreds of separate camera-trap studies; Wildbook ingests some, the long tail of thesis-era catalogues is the niche.",
    "keywords": [
@@ -658,11 +658,11 @@
    ],
    "fidelity_card": {
     "RAW": "Camera-trap rosette photographs and matching spreadsheets from individual study sites",
-    "UNIT": "One rosette flank \u2014 dozens to hundreds of individuals per study, hundreds of studies, paired-camera protocol",
+    "UNIT": "One rosette flank — dozens to hundreds of individuals per study, hundreds of studies, paired-camera protocol",
     "LABEL_GAP": "Rosette ID vs GPS-collar/genetic identity in the same study animals (second ruler)",
     "ANCHOR": "Long-term sites (e.g. Cockscomb jaguars, since the 1980s) with known individuals"
    },
-   "headline_shape": "A jaguar's rosettes are a star-map only it wears \u2014 every valley's researchers keep their own atlas of the same sky.",
+   "headline_shape": "A jaguar's rosettes are a star-map only it wears — every valley's researchers keep their own atlas of the same sky.",
    "why_niche": "Camera-trap science is study-shaped: each project publishes a density estimate and keeps its rosette catalogue in a drawer or a dead laptop.",
    "rank_by_score": 18,
    "score_pre_campaign11": 8,
@@ -672,7 +672,7 @@
    "rank_input_order": 27,
    "slug": "zebra-stripe-patterns",
    "name": "Zebra stripe-pattern ID archives",
-   "family": "D. Coat patterns \u2014 stripes, rosettes, spots & scales",
+   "family": "D. Coat patterns — stripes, rosettes, spots & scales",
    "score": 7,
    "score_justification": "Stripe ID began with hand-drawn zebra codes in the 1960s (Petersen 1972); Grevy's/plains catalogues per ecosystem, plus the famous mare-foal recognition experiments' photo files.",
    "keywords": [
@@ -695,23 +695,23 @@
    ],
    "fidelity_card": {
     "RAW": "Stripe photographs and hand-coded stripe diagrams from ecosystem monitoring programmes",
-    "UNIT": "One flank/shoulder pattern \u2014 thousands of individuals in the large ecosystem catalogues, photo protocol since the film era",
+    "UNIT": "One flank/shoulder pattern — thousands of individuals in the large ecosystem catalogues, photo protocol since the film era",
     "LABEL_GAP": "Stripe ID vs ear-notch/collar/genetic identity in the same herds (second ruler)",
     "ANCHOR": "Long-term known-individual herds (e.g. Grevy's in Kenya) as anchor"
    },
-   "headline_shape": "A zebra's stripes are a barcode its own foal learns by heart \u2014 scientists have been photocopying the barcodes since the sixties.",
+   "headline_shape": "A zebra's stripes are a barcode its own foal learns by heart — scientists have been photocopying the barcodes since the sixties.",
    "why_niche": "Zebra ID moved from drawn codes to StripeSpotter-era software per project; the drawn-code archives and most ecosystem catalogues were never merged.",
    "rank_by_score": 19,
    "score_pre_campaign11": 8,
-   "calibration_2026_11_18_campaign11": "Campaign 11: SILVER ceiling \u2014 public layer is deliberate releases (GZGC via LILA; StripeSpotter 2011); drawn-code era is paper, ecosystem catalogues did not surface. 8 -> 7."
+   "calibration_2026_11_18_campaign11": "Campaign 11: SILVER ceiling — public layer is deliberate releases (GZGC via LILA; StripeSpotter 2011); drawn-code era is paper, ecosystem catalogues did not surface. 8 -> 7."
   },
   {
    "rank_input_order": 28,
    "slug": "giraffe-coat-patterns",
    "name": "Giraffe coat-pattern ID archives",
-   "family": "D. Coat patterns \u2014 stripes, rosettes, spots & scales",
+   "family": "D. Coat patterns — stripes, rosettes, spots & scales",
    "score": 7,
-   "score_justification": "Giraffe spots are lifelong and individual; tower-by-tower catalogues across Africa, Wildbook for Giraffe ingests a fraction \u2014 the rest are ranger/guide photo files.",
+   "score_justification": "Giraffe spots are lifelong and individual; tower-by-tower catalogues across Africa, Wildbook for Giraffe ingests a fraction — the rest are ranger/guide photo files.",
    "keywords": [
     "giraffe coat pattern identification catalogue",
     "giraffe spot pattern individual database",
@@ -731,11 +731,11 @@
    ],
    "fidelity_card": {
     "RAW": "Flank/torso coat-pattern photographs in reserve and research catalogues",
-    "UNIT": "One torso pattern \u2014 hundreds to thousands per population catalogue, right-flank photo convention",
+    "UNIT": "One torso pattern — hundreds to thousands per population catalogue, right-flank photo convention",
     "LABEL_GAP": "Coat ID vs GPS-collar and genetic identity in monitored populations (second ruler)",
     "ANCHOR": "Long-term Serengeti/Murchison known-individual sets"
    },
-   "headline_shape": "A giraffe wears its name in patches big enough to read from a safari vehicle \u2014 every reserve reads a different page.",
+   "headline_shape": "A giraffe wears its name in patches big enough to read from a safari vehicle — every reserve reads a different page.",
    "why_niche": "Tourism and research both photograph giraffes constantly; the ID catalogues sit with individual reserves and guides' hard drives, Wildbook coverage notwithstanding.",
    "rank_by_score": 20,
    "score_pre_campaign11": 8,
@@ -768,11 +768,11 @@
    ],
    "fidelity_card": {
     "RAW": "Jaw photographs/specimens and wear-score sheets in agency and university game collections",
-    "UNIT": "One jaw \u2014 known-age reference sets of hundreds per species; agency-scored jaws by the hundred thousand, standard wear-chart protocol",
-    "LABEL_GAP": "Wear age vs cementum-annuli age from the same jaw (second ruler \u2014 the classic two-rulers pair)",
+    "UNIT": "One jaw — known-age reference sets of hundreds per species; agency-scored jaws by the hundred thousand, standard wear-chart protocol",
+    "LABEL_GAP": "Wear age vs cementum-annuli age from the same jaw (second ruler — the classic two-rulers pair)",
     "ANCHOR": "Known-age penned deer/elk herds whose jaws built the original charts"
    },
-   "headline_shape": "A deer's teeth are a clock every hunter is taught to read \u2014 the clock was set from a few hundred jaws and never re-checked against the true ages.",
+   "headline_shape": "A deer's teeth are a clock every hunter is taught to read — the clock was set from a few hundred jaws and never re-checked against the true ages.",
    "why_niche": "Wear charts are regional (each agency its own poster) and their reference jaw collections sit in freezers and museum drawers, un-cross-validated.",
    "rank_by_score": 21,
    "score_pre_campaign11": 8,
@@ -784,7 +784,7 @@
    "name": "Cementum-annuli tooth-age laboratory archives",
    "family": "E. Teeth, horns, antlers & wings",
    "score": 6,
-   "score_justification": "One lab (Matson's) has sectioned teeth since 1969 for agencies continent-wide \u2014 annuli counts vs the wear ages and harvest records on the same animals are a ready two-rulers panel.",
+   "score_justification": "One lab (Matson's) has sectioned teeth since 1969 for agencies continent-wide — annuli counts vs the wear ages and harvest records on the same animals are a ready two-rulers panel.",
    "keywords": [
     "cementum annuli age data archive",
     "tooth section age laboratory records",
@@ -805,15 +805,15 @@
    ],
    "fidelity_card": {
     "RAW": "Tooth cross-section images and annuli count records in ageing-lab and agency files",
-    "UNIT": "One tooth \u2014 hundreds of thousands of teeth sectioned across species since 1969, one histology protocol per lab",
+    "UNIT": "One tooth — hundreds of thousands of teeth sectioned across species since 1969, one histology protocol per lab",
     "LABEL_GAP": "Cementum age vs tooth-wear age and vs known age for marked animals (two second rulers)",
     "ANCHOR": "Known-age marked bears/deer submitted blind to the labs"
    },
-   "headline_shape": "Slice a tooth and count the winters in its root \u2014 the labs that do it hold a half-century of slices nobody lined up against the ages everyone guessed in the field.",
+   "headline_shape": "Slice a tooth and count the winters in its root — the labs that do it hold a half-century of slices nobody lined up against the ages everyone guessed in the field.",
    "why_niche": "Ageing is a service industry: labs return a number, agencies file it, and the section images plus the field guesses were never joined into one audit set.",
    "rank_by_score": 22,
    "score_pre_campaign11": 8,
-   "calibration_2026_11_18_campaign11": "Campaign 11: KILL for recovery \u2014 service-industry custody (Matson's, since 1969): ages are client deliverables, sections/field guesses never joined publicly; the one loose full report (MN DNR 2006) is 404 with no Wayback copy found. 8 -> 6."
+   "calibration_2026_11_18_campaign11": "Campaign 11: KILL for recovery — service-industry custody (Matson's, since 1969): ages are client deliverables, sections/field guesses never joined publicly; the one loose full report (MN DNR 2006) is 404 with no Wayback copy found. 8 -> 6."
   },
   {
    "rank_input_order": 40,
@@ -821,7 +821,7 @@
    "name": "Primate & chimpanzee face-pattern ID archives",
    "family": "F. Faces, ears, eyes, scars, tails & whiskers",
    "score": 7,
-   "score_justification": "Chimp faces were ID'd by human eye at Gombe/Ta\u00ef for 60 years; ChimpFace-era ML now trains on scraped sets while the sites' own portrait archives stay home.",
+   "score_justification": "Chimp faces were ID'd by human eye at Gombe/Taï for 60 years; ChimpFace-era ML now trains on scraped sets while the sites' own portrait archives stay home.",
    "keywords": [
     "chimpanzee face recognition archive",
     "primate individual identification photographs",
@@ -841,21 +841,21 @@
    ],
    "fidelity_card": {
     "RAW": "Portrait ID photographs and face-description cards from long-term primate field sites",
-    "UNIT": "One face \u2014 hundreds of known individuals per site (Gombe since 1960), thousands across sites, portrait protocol",
+    "UNIT": "One face — hundreds of known individuals per site (Gombe since 1960), thousands across sites, portrait protocol",
     "LABEL_GAP": "Face ID vs genetic ID from faecal DNA of the same chimps (second ruler)",
     "ANCHOR": "Known-pedigree individuals at the long-term sites"
    },
-   "headline_shape": "Researchers at Gombe know two hundred chimpanzee faces the way you know your family's \u2014 the portrait files that taught them are still at the field stations.",
+   "headline_shape": "Researchers at Gombe know two hundred chimpanzee faces the way you know your family's — the portrait files that taught them are still at the field stations.",
    "why_niche": "Face archives are field-site patrimony; the ML community built its own small scraped datasets rather than joining the sites' sixty years of portraits.",
    "rank_by_score": 23,
    "score_pre_campaign11": 8,
-   "calibration_2026_11_18_campaign11": "Campaign 11: INVENTORY \u2014 ML world scraped its own published set (ChimpFace 5,559/90) while site portrait archives (Gombe/JGI) stay field-site patrimony. 8 -> 7."
+   "calibration_2026_11_18_campaign11": "Campaign 11: INVENTORY — ML world scraped its own published set (ChimpFace 5,559/90) while site portrait archives (Gombe/JGI) stay field-site patrimony. 8 -> 7."
   },
   {
    "rank_input_order": 3,
    "slug": "primate-palm-sole-dermatoglyphics",
    "name": "Primate & clinical palm/sole dermatoglyphics (atd angle archives)",
-   "family": "A. Skin prints \u2014 fingers, palms, pads & noses",
+   "family": "A. Skin prints — fingers, palms, pads & noses",
    "score": 5,
    "score_justification": "Palmar atd angles and sole patterns fill medical-genetics archives (Down syndrome diagnostics era) plus primate atlases; two literatures never met.",
    "keywords": [
@@ -877,11 +877,11 @@
    ],
    "fidelity_card": {
     "RAW": "Palm and sole prints with measured atd angles and pattern maps, in clinical genetics files and primate atlases",
-    "UNIT": "One palm/sole \u2014 thousands of clinical prints, hundreds of primate specimens, one measurement convention",
+    "UNIT": "One palm/sole — thousands of clinical prints, hundreds of primate specimens, one measurement convention",
     "LABEL_GAP": "Pattern diagnosis from prints vs chromosome/DNA diagnosis of the same patients and species (second ruler)",
     "ANCHOR": "Karyotyped clinical series and museum primate material"
    },
-   "headline_shape": "Doctors once read a baby's palm the way they now read its chromosomes \u2014 the angle in the palm was a genetic test.",
+   "headline_shape": "Doctors once read a baby's palm the way they now read its chromosomes — the angle in the palm was a genetic test.",
    "why_niche": "Clinical dermatoglyphics died the day karyotyping arrived; its print archives sit in medical-school files, unlinked to the primate dermatoglyphic collections that used the same measures.",
    "rank_by_score": 24,
    "score_pre_campaign12": 7,
@@ -891,7 +891,7 @@
    "rank_input_order": 4,
    "slug": "paw-pad-ridge-patterns",
    "name": "Paw-pad surface & ridge pattern atlases (bears, raccoons, carnivores)",
-   "family": "A. Skin prints \u2014 fingers, palms, pads & noses",
+   "family": "A. Skin prints — fingers, palms, pads & noses",
    "score": 6,
    "score_justification": "Pad photos/casts are how trackers separate look-alike species; pad atlases are regional, hand-drawn era, never pooled.",
    "keywords": [
@@ -913,11 +913,11 @@
    ],
    "fidelity_card": {
     "RAW": "Paw-pad photographs, casts and drawn pad maps in tracking atlases and museum collections",
-    "UNIT": "One pad \u2014 dozens of carnivore/omnivore species per atlas, hundreds of specimens, standard pad-on-glass or cast protocol",
+    "UNIT": "One pad — dozens of carnivore/omnivore species per atlas, hundreds of specimens, standard pad-on-glass or cast protocol",
     "LABEL_GAP": "Species called from pad pattern vs the track/trail it came from and DNA from scat at the same site (second rulers)",
     "ANCHOR": "Zoo and museum specimens photographed pad-up"
    },
-   "headline_shape": "A raccoon's hand looks eerily like a tiny human hand \u2014 and its palm print is in the tracking atlases to prove it.",
+   "headline_shape": "A raccoon's hand looks eerily like a tiny human hand — and its palm print is in the tracking atlases to prove it.",
    "why_niche": "Tracking literature is a cottage world of regional guides; the pad reference photos behind them live in authors' and museums' files, not in any shared atlas.",
    "rank_by_score": 25,
    "score_pre_campaign12": 7,
@@ -950,11 +950,11 @@
    ],
    "fidelity_card": {
     "RAW": "Paw measurement cards/ledgers from harvest check stations, plus track-measurement tables in agency reports",
-    "UNIT": "One paw \u2014 thousands of harvested bears per jurisdiction across decades, one measuring-board protocol per agency",
+    "UNIT": "One paw — thousands of harvested bears per jurisdiction across decades, one measuring-board protocol per agency",
     "LABEL_GAP": "Sex/age from paw size vs DNA/tooth-cementum determination on the same bear (second ruler)",
     "ANCHOR": "Check-station bears with both paw cards and cementum ages"
    },
-   "headline_shape": "A dead bear's back foot was measured to guess its sex \u2014 the guess was written down for fifty years before anyone checked it against DNA.",
+   "headline_shape": "A dead bear's back foot was measured to guess its sex — the guess was written down for fifty years before anyone checked it against DNA.",
    "why_niche": "Harvest records are jurisdiction paperwork; the paw-size rules in the hunting guides descend from ledgers nobody re-audited.",
    "rank_by_score": 26,
    "score_pre_campaign12": 7,
@@ -987,11 +987,11 @@
    ],
    "fidelity_card": {
     "RAW": "Track measurement tables (length/width/gait) from wolf and carnivore snow surveys, agency reports and tracker archives",
-    "UNIT": "One track set \u2014 thousands per national survey across decades, ruler-in-photo or calliper protocol",
+    "UNIT": "One track set — thousands per national survey across decades, ruler-in-photo or calliper protocol",
     "LABEL_GAP": "Species called from the track vs DNA from scat/hair collected on the same survey line (second ruler)",
     "ANCHOR": "Tracks of known captive wolves, dogs and coyotes measured the same way"
    },
-   "headline_shape": "A wolf and a big dog leave nearly the same footprint \u2014 the argument about which one crossed the farm is settled from tables nobody has pooled.",
+   "headline_shape": "A wolf and a big dog leave nearly the same footprint — the argument about which one crossed the farm is settled from tables nobody has pooled.",
    "why_niche": "Each country's monitoring programme publishes summary presence maps; the measurement-level track tables stay in project reports and trackers' notebooks.",
    "rank_by_score": 27,
    "score_pre_campaign12": 7,
@@ -1003,7 +1003,7 @@
    "name": "Snow-track gait & stride archives (lynx, wolverine, mustelids)",
    "family": "B. Tracks, paws & gait",
    "score": 6,
-   "score_justification": "Nordic snow-tracking transects recorded stride/gait patterns for decades \u2014 a designed comparable set, province by province.",
+   "score_justification": "Nordic snow-tracking transects recorded stride/gait patterns for decades — a designed comparable set, province by province.",
    "keywords": [
     "snow tracking transect data archive",
     "lynx track gait measurements",
@@ -1023,11 +1023,11 @@
    ],
    "fidelity_card": {
     "RAW": "Snow-transect record cards and gait diagrams from Nordic and boreal wildlife triangle / survey schemes",
-    "UNIT": "One track crossing \u2014 tens of thousands of transect crossings per country across decades, standard route protocol",
+    "UNIT": "One track crossing — tens of thousands of transect crossings per country across decades, standard route protocol",
     "LABEL_GAP": "Species from gait pattern vs camera/DNA confirmation in the same survey areas (second ruler)",
     "ANCHOR": "Finland's wildlife-triangle long-run series as the published benchmark"
    },
-   "headline_shape": "In deep snow an animal writes its name in stride \u2014 surveyors read the same script every winter for forty years and filed it by province.",
+   "headline_shape": "In deep snow an animal writes its name in stride — surveyors read the same script every winter for forty years and filed it by province.",
    "why_niche": "Snow tracking is a Nordic institutional tradition with paper-era roots; digitisation happened province by province and the gait-level records were left behind the presence counts.",
    "rank_by_score": 28,
    "score_pre_campaign12": 7,
@@ -1039,7 +1039,7 @@
    "name": "Elephant tusk shape & configuration records",
    "family": "C. Flukes, fins, ears & callosities",
    "score": 6,
-   "score_justification": "Tusk shape is the second ID feature on every elephant card and the trait poaching selects on (Gorongosa tusklessness) \u2014 but it changes with breakage, capping the score.",
+   "score_justification": "Tusk shape is the second ID feature on every elephant card and the trait poaching selects on (Gorongosa tusklessness) — but it changes with breakage, capping the score.",
    "keywords": [
     "elephant tusk shape identification records",
     "tusk configuration individual elephant data",
@@ -1059,11 +1059,11 @@
    ],
    "fidelity_card": {
     "RAW": "Tusk shape/configuration fields and photographs inside elephant ID databases and ivory-seizure records",
-    "UNIT": "One tusk pair \u2014 thousands of registered individuals across site databases, card-description protocol",
-    "LABEL_GAP": "Tusk ID vs ear ID on the same individual (second ruler \u2014 two pattern systems, one animal)",
+    "UNIT": "One tusk pair — thousands of registered individuals across site databases, card-description protocol",
+    "LABEL_GAP": "Tusk ID vs ear ID on the same individual (second ruler — two pattern systems, one animal)",
     "ANCHOR": "Seized-ivory DNA assignments back to populations (the forensic anchor)"
    },
-   "headline_shape": "An elephant's tusks are as personal as handwriting \u2014 and in one park, war selected the elephants whose tusks never grew.",
+   "headline_shape": "An elephant's tusks are as personal as handwriting — and in one park, war selected the elephants whose tusks never grew.",
    "why_niche": "Tusk data rides inside ear-ID databases and seizure labs, never extracted as its own cross-site pattern record.",
    "rank_by_score": 29,
    "score_pre_campaign12": 7,
@@ -1073,7 +1073,7 @@
    "rank_input_order": 29,
    "slug": "cheetah-spot-patterns",
    "name": "Cheetah spot & tear-mark ID files",
-   "family": "D. Coat patterns \u2014 stripes, rosettes, spots & scales",
+   "family": "D. Coat patterns — stripes, rosettes, spots & scales",
    "score": 6,
    "score_justification": "Cheetah ID leans on spot patterns plus tail rings and tear marks; Serengeti's decades of ID photos are one project, farm-level Namibian files are another world.",
    "keywords": [
@@ -1095,11 +1095,11 @@
    ],
    "fidelity_card": {
     "RAW": "Spot-pattern ID photographs and drawn ID sheets from long-term cheetah projects and farmer/researcher files",
-    "UNIT": "One flank/face \u2014 hundreds of known individuals in the Serengeti project alone since the 1970s, photo protocol",
+    "UNIT": "One flank/face — hundreds of known individuals in the Serengeti project alone since the 1970s, photo protocol",
     "LABEL_GAP": "Spot ID vs radio-collar/genetic identity in the same animals (second ruler)",
     "ANCHOR": "Serengeti Cheetah Project's known-pedigree individuals"
    },
-   "headline_shape": "A cheetah can be told from its spots and the black tear-lines on its face \u2014 the projects that learned the faces never shared the album.",
+   "headline_shape": "A cheetah can be told from its spots and the black tear-lines on its face — the projects that learned the faces never shared the album.",
    "why_niche": "Fewer, larger projects than leopards, but the same shape: ID albums are project property, and the pre-digital Serengeti sheets are one fire away from loss.",
    "rank_by_score": 30,
    "score_pre_campaign12": 7,
@@ -1109,7 +1109,7 @@
    "rank_input_order": 30,
    "slug": "snow-leopard-rosettes",
    "name": "Snow leopard rosette & tail catalogues",
-   "family": "D. Coat patterns \u2014 stripes, rosettes, spots & scales",
+   "family": "D. Coat patterns — stripes, rosettes, spots & scales",
    "score": 6,
    "score_justification": "The hardest coat catalogue: 12 range countries, tiny densities, every programme's rosette files precious and separate; scores capped by access and sample size.",
    "keywords": [
@@ -1131,11 +1131,11 @@
    ],
    "fidelity_card": {
     "RAW": "Camera-trap rosette and tail photographs in range-country programme files",
-    "UNIT": "One flank \u2014 tens of individuals per valley study, hundreds range-wide in files, paired-camera protocol",
+    "UNIT": "One flank — tens of individuals per valley study, hundreds range-wide in files, paired-camera protocol",
     "LABEL_GAP": "Rosette ID vs genetic ID from the large scat programmes (second ruler)",
     "ANCHOR": "Mongolia's long-term collared population as anchor"
    },
-   "headline_shape": "The ghost cat's coat is the only name it answers to \u2014 twelve countries keep twelve partial ghost albums.",
+   "headline_shape": "The ghost cat's coat is the only name it answers to — twelve countries keep twelve partial ghost albums.",
    "why_niche": "Snow leopard science is grant-by-grant and valley-by-valley; the global programme publishes status maps, not the pattern files beneath them.",
    "rank_by_score": 31,
    "score_pre_campaign12": 7,
@@ -1145,7 +1145,7 @@
    "rank_input_order": 31,
    "slug": "painted-dog-coat-patterns",
    "name": "African wild dog coat-pattern ID archives",
-   "family": "D. Coat patterns \u2014 stripes, rosettes, spots & scales",
+   "family": "D. Coat patterns — stripes, rosettes, spots & scales",
    "score": 6,
    "score_justification": "No two painted dogs share a coat; pack catalogues per park are guide-and-researcher photo books, some running since the 1990s.",
    "keywords": [
@@ -1167,11 +1167,11 @@
    ],
    "fidelity_card": {
     "RAW": "Coat-pattern ID photographs and pack catalogues from parks and den-monitoring projects",
-    "UNIT": "One flank \u2014 dozens per pack, hundreds per park catalogue, photo protocol at dens and sightings",
+    "UNIT": "One flank — dozens per pack, hundreds per park catalogue, photo protocol at dens and sightings",
     "LABEL_GAP": "Coat ID vs ear-notch/collar identity in monitored packs (second ruler)",
     "ANCHOR": "Long-term Selous/Kruger known packs"
    },
-   "headline_shape": "Every painted dog is a one-off painting \u2014 rangers name the paintings, and the name-books stay in the parks.",
+   "headline_shape": "Every painted dog is a one-off painting — rangers name the paintings, and the name-books stay in the parks.",
    "why_niche": "Pack catalogues are working tools of individual parks and guides; when a project ends, its coat archive typically ends with it.",
    "rank_by_score": 32,
    "score_pre_campaign12": 7,
@@ -1181,9 +1181,9 @@
    "rank_input_order": 32,
    "slug": "pangolin-scale-patterns",
    "name": "Pangolin scale-pattern & seizure ID records",
-   "family": "D. Coat patterns \u2014 stripes, rosettes, spots & scales",
+   "family": "D. Coat patterns — stripes, rosettes, spots & scales",
    "score": 5,
-   "score_justification": "Pangolin scales carry individual pattern and are the seized commodity itself \u2014 rescue-centre ID photos and seizure inventories are two unjoined pattern archives.",
+   "score_justification": "Pangolin scales carry individual pattern and are the seized commodity itself — rescue-centre ID photos and seizure inventories are two unjoined pattern archives.",
    "keywords": [
     "pangolin scale pattern identification",
     "pangolin individual identification photographs",
@@ -1203,11 +1203,11 @@
    ],
    "fidelity_card": {
     "RAW": "Dorsal scale-pattern photographs from rescue/rehab centres and confiscated-scale inventory photographs",
-    "UNIT": "One scale field \u2014 hundreds of rescued individuals per large centre; seizure lots by the tonne, photo protocol at intake",
+    "UNIT": "One scale field — hundreds of rescued individuals per large centre; seizure lots by the tonne, photo protocol at intake",
     "LABEL_GAP": "Scale-pattern ID vs DNA sampled at the same intake/seizure (second ruler)",
     "ANCHOR": "Rehab centres' known residents photographed repeatedly"
    },
-   "headline_shape": "A pangolin's scales are its armour and its price tag \u2014 the rescued ones are photographed, the seized ones are weighed, and the two records never meet.",
+   "headline_shape": "A pangolin's scales are its armour and its price tag — the rescued ones are photographed, the seized ones are weighed, and the two records never meet.",
    "why_niche": "Pangolin work is split between welfare centres (photos, no genetics budget) and enforcement (genetics, no pattern archive); the pattern system itself is barely studied.",
    "rank_by_score": 33,
    "score_pre_campaign12": 7,
@@ -1218,7 +1218,7 @@
    "slug": "dental-casts-mammal",
    "name": "Mammal dental casts & tooth-row pattern collections",
    "family": "E. Teeth, horns, antlers & wings",
-   "score": 7,
+   "score": 5,
    "score_justification": "Dental casts are how mammalogy measured tooth rows before CT; cast drawers in museums carry collector-era labels that CT-era taxonomy revised.",
    "keywords": [
     "dental cast collection mammal museum",
@@ -1240,20 +1240,22 @@
    ],
    "fidelity_card": {
     "RAW": "Plaster dental casts and tooth-row photographs in museum and dental-school collections",
-    "UNIT": "One tooth row \u2014 hundreds to thousands of casts per collection across dozens of species, impression protocol",
+    "UNIT": "One tooth row — hundreds to thousands of casts per collection across dozens of species, impression protocol",
     "LABEL_GAP": "Cast-era species labels vs modern CT/morphometric re-identification of the same specimens (second ruler)",
     "ANCHOR": "Type specimens whose casts circulated to other museums"
    },
-   "headline_shape": "Before scanners, a mammal's teeth travelled the world as plaster \u2014 the plaster is still in the drawers, wearing the old names.",
+   "headline_shape": "Before scanners, a mammal's teeth travelled the world as plaster — the plaster is still in the drawers, wearing the old names.",
    "why_niche": "Cast collections were teaching infrastructure; digitisation prioritised skulls, and the cast drawers kept their paper labels.",
-   "rank_by_score": 34
+   "rank_by_score": 34,
+   "score_pre_campaign13": 7,
+   "calibration_2026_11_18_campaign13": "Campaign 13: KILL/PHYSICAL. Swindler primate casts are museum drawers (AMNH/Smithsonian/Field/Cleveland); only web surface is the Primate Dentition book. No cast files anywhere probed."
   },
   {
    "rank_input_order": 36,
    "slug": "antler-tine-records",
    "name": "Antler tine & beam record archives (trophy and cast-antler series)",
    "family": "E. Teeth, horns, antlers & wings",
-   "score": 7,
+   "score": 6,
    "score_justification": "Record books scored antlers for a century; cast-antler series from known bucks (same animal, yearly sheds) are growth curves hiding in trophy rooms.",
    "keywords": [
     "antler records scoring archive data",
@@ -1275,20 +1277,22 @@
    ],
    "fidelity_card": {
     "RAW": "Antler measurement sheets, score charts and shed-antler series photographs in record-book, agency and ranch collections",
-    "UNIT": "One antler set \u2014 record books hold tens of thousands of scored heads; known-buck shed series run 5\u201310 yearly sets per animal, one scoring protocol (Boone & Crockett / SCI / CIC)",
+    "UNIT": "One antler set — record books hold tens of thousands of scored heads; known-buck shed series run 5–10 yearly sets per animal, one scoring protocol (Boone & Crockett / SCI / CIC)",
     "LABEL_GAP": "Score-book age/identity vs the same buck's known history and yearly sheds (second ruler)",
     "ANCHOR": "Pen-raised known-age bucks with complete shed series"
    },
-   "headline_shape": "The same buck drops a bigger crown every year and picks it up nowhere \u2014 hunters kept the crowns, and together they are his growth chart.",
+   "headline_shape": "The same buck drops a bigger crown every year and picks it up nowhere — hunters kept the crowns, and together they are his growth chart.",
    "why_niche": "Trophy records were compiled for ranking, not biology; shed series sit with ranches and collectors, and agencies' measurement sheets were never pooled with them.",
-   "rank_by_score": 35
+   "rank_by_score": 35,
+   "score_pre_campaign13": 7,
+   "calibration_2026_11_18_campaign13": "Campaign 13: KILL/FORMAL. Boone & Crockett 64k+ records behind subscription Big Game Records LIVE 2.0 platform; only blank score sheets loose."
   },
   {
    "rank_input_order": 37,
    "slug": "horn-annuli-age-records",
-   "name": "Horn growth-ring (annuli) age records \u2014 sheep, goats, ibex",
+   "name": "Horn growth-ring (annuli) age records — sheep, goats, ibex",
    "family": "E. Teeth, horns, antlers & wings",
-   "score": 7,
+   "score": 6,
    "score_justification": "Bighorn/ibex ages are read off horn rings at check stations; the ring counts were validated on a few known-age herds and then applied continent-wide.",
    "keywords": [
     "horn annuli age bighorn sheep data",
@@ -1310,20 +1314,22 @@
    ],
    "fidelity_card": {
     "RAW": "Horn photographs, segment-length measurement sheets and annuli counts in agency and alpine-club collections",
-    "UNIT": "One horn \u2014 thousands of checked rams/ibex per jurisdiction across decades, tape-and-photo protocol",
+    "UNIT": "One horn — thousands of checked rams/ibex per jurisdiction across decades, tape-and-photo protocol",
     "LABEL_GAP": "Ring age vs cementum age and vs known age of marked animals (second rulers)",
     "ANCHOR": "Known-age marked herds (e.g. Ram Mountain bighorns) as the anchor"
    },
-   "headline_shape": "A ram wears its birthdays as rings on its horns \u2014 check stations have read them for decades and filed the readings by district.",
+   "headline_shape": "A ram wears its birthdays as rings on its horns — check stations have read them for decades and filed the readings by district.",
    "why_niche": "Horn ageing is agency routine in a dozen jurisdictions with a dozen filing systems; the validation herds are famous, the routine counts unexamined.",
-   "rank_by_score": 36
+   "rank_by_score": 36,
+   "score_pre_campaign13": 7,
+   "calibration_2026_11_18_campaign13": "Campaign 13: INVENTORY/FORMAL. Montana FWP per-ram district tables as loose PDFs (1999/2001/2006, sample-verified); validation vs cementum already run (NWSGC 2012)."
   },
   {
    "rank_input_order": 39,
    "slug": "bat-wing-venation",
    "name": "Bat wing venation & membrane pattern archives",
    "family": "E. Teeth, horns, antlers & wings",
-   "score": 7,
+   "score": 5,
    "score_justification": "Wing veins and membrane scars ID bats in the hand; banding-era wing photographs and venation drawings sit in chiroptera collections, pre-dating the DNA revisions of bat taxonomy.",
    "keywords": [
     "bat wing venation identification",
@@ -1345,21 +1351,23 @@
    ],
    "fidelity_card": {
     "RAW": "Spread-wing photographs and venation tracings in bat research and museum collections",
-    "UNIT": "One wing \u2014 thousands of banded bats per long-term study, dozens of species per regional collection, wing-against-light photo protocol",
+    "UNIT": "One wing — thousands of banded bats per long-term study, dozens of species per regional collection, wing-against-light photo protocol",
     "LABEL_GAP": "Wing-based species ID vs DNA barcode of the same banded bat (second ruler)",
     "ANCHOR": "Banding records tying wing photos to recaptures"
    },
-   "headline_shape": "A bat's wing is a hand with the fingers stretched into a sail \u2014 the veins map like a palm print, and banders photographed them for decades.",
+   "headline_shape": "A bat's wing is a hand with the fingers stretched into a sail — the veins map like a palm print, and banders photographed them for decades.",
    "why_niche": "Bat taxonomy was rebuilt by DNA while the wing-photo files of the banding era stayed with their collectors; nobody re-ran the old wings against the new names.",
-   "rank_by_score": 37
+   "rank_by_score": 37,
+   "score_pre_campaign13": 7,
+   "calibration_2026_11_18_campaign13": "Campaign 13: KILL/CUSTODY. Amelon 2017 (1,212 photos/230 bats) + Seheult 2025 (328/58) lab-held, no file surface; both already ran individual-matching."
   },
   {
    "rank_input_order": 43,
    "slug": "livestock-iris-patterns",
    "name": "Livestock iris-pattern ID records",
    "family": "F. Faces, ears, eyes, scars, tails & whiskers",
-   "score": 7,
-   "score_justification": "Iris ID was piloted for cattle/horses in the 2000s (IrisScan-era trials) and abandoned for RFID \u2014 the trial image sets are stranded pilots, perfect hunter shape.",
+   "score": 5,
+   "score_justification": "Iris ID was piloted for cattle/horses in the 2000s (IrisScan-era trials) and abandoned for RFID — the trial image sets are stranded pilots, perfect hunter shape.",
    "keywords": [
     "cattle iris recognition identification trial",
     "horse iris pattern identification system",
@@ -1380,21 +1388,23 @@
    ],
    "fidelity_card": {
     "RAW": "Iris photographs and match-score files from livestock biometric pilot trials (universities, defunct startups)",
-    "UNIT": "One iris \u2014 hundreds to thousands of animals per trial series, fixed-camera protocol",
+    "UNIT": "One iris — hundreds to thousands of animals per trial series, fixed-camera protocol",
     "LABEL_GAP": "Iris match vs RFID/DNA identity of the same animals (second ruler)",
     "ANCHOR": "Trial herds with full tag records"
    },
-   "headline_shape": "For a few years, cows were going to log in with their eyes \u2014 the iris trials were run, photographed, and shelved when ear tags won.",
+   "headline_shape": "For a few years, cows were going to log in with their eyes — the iris trials were run, photographed, and shelved when ear tags won.",
    "why_niche": "Pilot-era data lives with defunct vendors and thesis appendices; the livestock-biometrics literature cites the trials without their image sets ever surfacing.",
-   "rank_by_score": 38
+   "rank_by_score": 38,
+   "score_pre_campaign13": 7,
+   "calibration_2026_11_18_campaign13": "Campaign 13: KILL/CUSTODY. Card conflated iris with retinal: trials were Optibrand retinal, database defunct with vendor (317 beef + 159 sheep, zero surfaced); true-iris sets by-request only."
   },
   {
    "rank_input_order": 44,
    "slug": "ear-notch-punch-registries",
    "name": "Ear-notch & ear-punch record systems (livestock and wildlife)",
    "family": "F. Faces, ears, eyes, scars, tails & whiskers",
-   "score": 7,
-   "score_justification": "The pig litter-notch system and cattle notch codes are pattern languages recorded on registration cards for a century \u2014 applied marks, but archived like print collections.",
+   "score": 5,
+   "score_justification": "The pig litter-notch system and cattle notch codes are pattern languages recorded on registration cards for a century — applied marks, but archived like print collections.",
    "keywords": [
     "ear notch system pig litter identification records",
     "cattle ear notch registration archive",
@@ -1414,21 +1424,23 @@
    ],
    "fidelity_card": {
     "RAW": "Ear-notch diagrams on registration cards, breed-association records and wildlife marking logs",
-    "UNIT": "One notched ear \u2014 millions of pigs/cattle registered under notch codes since the early 1900s, standard notch-position charts",
+    "UNIT": "One notched ear — millions of pigs/cattle registered under notch codes since the early 1900s, standard notch-position charts",
     "LABEL_GAP": "Notch code as read from the card vs the animal's pedigree/DNA record (second ruler)",
     "ANCHOR": "Breed associations' master registration books"
    },
-   "headline_shape": "A pig's ear is punched with its litter number like a train ticket \u2014 the ticket stubs fill a century of farm record books.",
+   "headline_shape": "A pig's ear is punched with its litter number like a train ticket — the ticket stubs fill a century of farm record books.",
    "why_niche": "Notch systems are taught in every animal-science course and archived nowhere centrally; association card files are the only corpus and they are paper.",
-   "rank_by_score": 39
+   "rank_by_score": 39,
+   "score_pre_campaign13": 7,
+   "calibration_2026_11_18_campaign13": "Campaign 13: KILL/PAPER. Universal 1-3-9-27-81 code published everywhere but officialdom is paper by law (9 CFR 71.19 book of record)."
   },
   {
    "rank_input_order": 45,
    "slug": "hyena-ear-notch-id",
    "name": "Spotted hyena ear-notch & spot ID archives",
    "family": "F. Faces, ears, eyes, scars, tails & whiskers",
-   "score": 7,
-   "score_justification": "Hyena ID combines natural ear notches, spots and scars \u2014 the Mara/Talek clan archives run since 1979 with drawn ear diagrams per animal.",
+   "score": 6,
+   "score_justification": "Hyena ID combines natural ear notches, spots and scars — the Mara/Talek clan archives run since 1979 with drawn ear diagrams per animal.",
    "keywords": [
     "spotted hyena ear notch identification",
     "hyena individual identification ear diagrams",
@@ -1448,21 +1460,23 @@
    ],
    "fidelity_card": {
     "RAW": "Drawn ear-notch diagrams, spot photos and ID files from long-term hyena projects",
-    "UNIT": "One ear/flank \u2014 hundreds of known hyenas in the Mara archive since 1979, dozens in Ngorongoro and other clan studies, diagram protocol",
+    "UNIT": "One ear/flank — hundreds of known hyenas in the Mara archive since 1979, dozens in Ngorongoro and other clan studies, diagram protocol",
     "LABEL_GAP": "Ear/spot ID vs genetic ID from darting samples of the same hyenas (second ruler)",
     "ANCHOR": "Known-pedigree clan members (births observed)"
    },
    "headline_shape": "A hyena's torn ear is its signature, drawn by hand into the clan file the day it is first recognised.",
    "why_niche": "Clan archives are single-lab treasures (the Mara files span 45 years); no second clan's ear diagrams have ever been compared with them.",
-   "rank_by_score": 40
+   "rank_by_score": 40,
+   "score_pre_campaign13": 7,
+   "calibration_2026_11_18_campaign13": "Campaign 13: INVENTORY. Ear/spot albums vehicle-carried project custody, but Holekamp Lab DB published by design (live zip verified, 991 individuals, 61k sessions) with no ear diagrams/ID photos in it."
   },
   {
    "rank_input_order": 46,
    "slug": "scar-based-photo-id",
    "name": "Scar & wound-pattern photo-ID archives (cross-species)",
    "family": "F. Faces, ears, eyes, scars, tails & whiskers",
-   "score": 7,
-   "score_justification": "Scars are the accidental ID system \u2014 shark-bite scars on seals, propeller scars on manatees/dugongs, fight scars on hippos \u2014 each programme sketches them alone.",
+   "score": 6,
+   "score_justification": "Scars are the accidental ID system — shark-bite scars on seals, propeller scars on manatees/dugongs, fight scars on hippos — each programme sketches them alone.",
    "keywords": [
     "scar based photo identification animals",
     "shark bite scar identification seal archive",
@@ -1483,20 +1497,22 @@
    ],
    "fidelity_card": {
     "RAW": "Scar sketches and wound photographs in photo-ID programme files across taxa",
-    "UNIT": "One scar pattern \u2014 hundreds to thousands of individuals per programme, sketch-then-photo protocol",
+    "UNIT": "One scar pattern — hundreds to thousands of individuals per programme, sketch-then-photo protocol",
     "LABEL_GAP": "Scar ID vs tag/genetic ID recorded at the same encounters (second ruler)",
     "ANCHOR": "Rescue/rehab animals with known identity and dated wound photos"
    },
-   "headline_shape": "An animal's worst day becomes its ID card \u2014 the scar sketches are filed species by species, programme by programme.",
+   "headline_shape": "An animal's worst day becomes its ID card — the scar sketches are filed species by species, programme by programme.",
    "why_niche": "Scar ID is always the backup system inside another programme's catalogue, never extracted or compared as a pattern archive in its own right.",
-   "rank_by_score": 41
+   "rank_by_score": 41,
+   "score_pre_campaign13": 7,
+   "calibration_2026_11_18_campaign13": "Campaign 13: INVENTORY/FORMAL. Scar ID lives inside single-programme catalogues (in-paper or programme-held); manatee arm was Campaign 8's gold."
   },
   {
    "rank_input_order": 49,
    "slug": "hair-medulla-cross-sections",
    "name": "Hair medulla & cross-section pattern atlases",
    "family": "G. Hair & applied-mark pattern atlases",
-   "score": 7,
+   "score": 6,
    "score_justification": "The second preparation of forensic hair work: medulla types and cross-section shapes keyed separately from scale casts, often by different authors for the same fauna.",
    "keywords": [
     "hair medulla pattern identification mammals",
@@ -1518,20 +1534,22 @@
    ],
    "fidelity_card": {
     "RAW": "Whole-mount medulla photomicrographs and hair cross-section images with medullary-index tables",
-    "UNIT": "One hair section \u2014 dozens to 150+ species per atlas, sectioning protocol",
-    "LABEL_GAP": "Medulla-based species call vs scale-cast call on the same hairs (second ruler \u2014 the two preparations audit each other)",
+    "UNIT": "One hair section — dozens to 150+ species per atlas, sectioning protocol",
+    "LABEL_GAP": "Medulla-based species call vs scale-cast call on the same hairs (second ruler — the two preparations audit each other)",
     "ANCHOR": "Vouchered museum hairs sectioned and cast in parallel in the classic atlases"
    },
-   "headline_shape": "Cut a hair across and it shows a tiny patterned core \u2014 a second fingerprint inside the first, keyed in separate books.",
+   "headline_shape": "Cut a hair across and it shows a tiny patterned core — a second fingerprint inside the first, keyed in separate books.",
    "why_niche": "Medulla/cross-section data rides inside the same regional atlases as the casts but was tabulated separately and never joined across regions either.",
-   "rank_by_score": 42
+   "rank_by_score": 42,
+   "score_pre_campaign14": 7,
+   "calibration_2026_11_18_campaign14": "Campaign 14: INVENTORY/FORMAL. hairatlas.hu = exactly 10 sample-spread PDFs of Toth 2017's 307pp commercial book - a deliberate sample, not the atlas."
   },
   {
    "rank_input_order": 7,
    "slug": "sheep-goat-nose-prints",
    "name": "Sheep & goat nose-print and muzzle records",
-   "family": "A. Skin prints \u2014 fingers, palms, pads & noses",
-   "score": 6,
+   "family": "A. Skin prints — fingers, palms, pads & noses",
+   "score": 5,
    "score_justification": "Same system as cattle, a tenth the attention: show and sale sheep/goats were nose-printed for identity in fraud disputes; records are society-level paper.",
    "keywords": [
     "sheep nose print identification",
@@ -1552,21 +1570,23 @@
    ],
    "fidelity_card": {
     "RAW": "Ink nose prints and muzzle photographs in breed-society and agricultural-college collections",
-    "UNIT": "One muzzle \u2014 hundreds to thousands per society/college series, same ink-lift protocol as cattle",
+    "UNIT": "One muzzle — hundreds to thousands per society/college series, same ink-lift protocol as cattle",
     "LABEL_GAP": "Nose ID vs ear-tag and tattoo records for the same animals (second ruler)",
     "ANCHOR": "Agricultural-college teaching series with known animals"
    },
-   "headline_shape": "Sheep were nose-printed to catch show-ring fraud \u2014 the print proved the prize ram was a substitute.",
+   "headline_shape": "Sheep were nose-printed to catch show-ring fraud — the print proved the prize ram was a substitute.",
    "why_niche": "A footnote literature beside the cattle work; breed societies kept their own cards and no cross-society set was ever assembled.",
-   "rank_by_score": 43
+   "rank_by_score": 43,
+   "score_pre_campaign14": 6,
+   "calibration_2026_11_18_campaign14": "Campaign 14: KILL/PAPER. Only systematic series (Indiana 4-H, 491 beef + 220 sheep) is ink prints on index cards, never digitised; modern work uses face photos, a different ruler."
   },
   {
    "rank_input_order": 8,
    "slug": "cat-nose-leather-patterns",
    "name": "Cat nose-leather pattern records",
-   "family": "A. Skin prints \u2014 fingers, palms, pads & noses",
-   "score": 6,
-   "score_justification": "Pet-ID folklore says the cat nose is unique; the actual old evidence is thin vet/clinic photo files \u2014 a claim waiting for its archive, hence the lower score.",
+   "family": "A. Skin prints — fingers, palms, pads & noses",
+   "score": 5,
+   "score_justification": "Pet-ID folklore says the cat nose is unique; the actual old evidence is thin vet/clinic photo files — a claim waiting for its archive, hence the lower score.",
    "keywords": [
     "cat nose print unique identification",
     "feline nose leather pattern photograph",
@@ -1584,20 +1604,22 @@
    ],
    "fidelity_card": {
     "RAW": "Nose-leather photographs in vet-clinic, shelter and cattery files; a small patent-era print literature",
-    "UNIT": "One nose \u2014 hundreds in scattered clinic/shelter photo sets, no standard protocol (that absence is itself the finding to test)",
+    "UNIT": "One nose — hundreds in scattered clinic/shelter photo sets, no standard protocol (that absence is itself the finding to test)",
     "LABEL_GAP": "Nose pattern vs microchip identity for the same cats (second ruler)",
     "ANCHOR": "Shelter intake photo series where chip ID is recorded"
    },
-   "headline_shape": "Every cat's nose is said to be one of a kind \u2014 but unlike dogs and cattle, nobody ever built the card file to prove it.",
+   "headline_shape": "Every cat's nose is said to be one of a kind — but unlike dogs and cattle, nobody ever built the card file to prove it.",
    "why_niche": "The claim circulates in pet culture with almost no archival base; any systematic clinic photo piles sit unexamined in shelter systems.",
-   "rank_by_score": 44
+   "rank_by_score": 44,
+   "score_pre_campaign14": 6,
+   "calibration_2026_11_18_campaign14": "Campaign 14: KILL/PAPER. Entire rigorous base is one 2025 paper (n=157, stamp-pad prints on paper); no dataset or registry exists."
   },
   {
    "rank_input_order": 15,
    "slug": "hoof-cloven-track-systems",
    "name": "Hoof & cloven-track measurement systems (deer, livestock, poaching forensics)",
    "family": "B. Tracks, paws & gait",
-   "score": 6,
+   "score": 5,
    "score_justification": "Deer/sheep/goat/cattle slot measurements are poaching-case evidence; reference sets are police/lab-local and small, hence the score.",
    "keywords": [
     "hoof print identification measurements",
@@ -1618,20 +1640,22 @@
    ],
    "fidelity_card": {
     "RAW": "Hoof-print photographs, casts and slot-measurement tables in forensic and game-warden reference sets",
-    "UNIT": "One hoof print \u2014 hundreds per reference collection, dozens of ungulate species, ruler protocol",
+    "UNIT": "One hoof print — hundreds per reference collection, dozens of ungulate species, ruler protocol",
     "LABEL_GAP": "Species called from the slot vs the animal carcass/DNA in the same poaching case (second ruler)",
     "ANCHOR": "Farm and zoo ungulates printed on known ground"
    },
-   "headline_shape": "Two toes in the mud can put a poacher in court \u2014 if the reference prints for every hoofed suspect were ever gathered in one place.",
+   "headline_shape": "Two toes in the mud can put a poacher in court — if the reference prints for every hoofed suspect were ever gathered in one place.",
    "why_niche": "Hoof ID is casework knowledge held by wildlife forensic labs and wardens; their reference casts and photos were never published as a set.",
-   "rank_by_score": 45
+   "rank_by_score": 45,
+   "score_pre_campaign14": 6,
+   "calibration_2026_11_18_campaign14": "Campaign 14: INVENTORY/FORMAL. Measurement layer survives only in published guides (NMSU Circular 561 verified); forensic reference cast sets surfaced nowhere."
   },
   {
    "rank_input_order": 16,
    "slug": "claw-mark-archives",
    "name": "Claw-mark & scratch-tree archives (bears, big cats)",
    "family": "B. Tracks, paws & gait",
-   "score": 6,
+   "score": 5,
    "score_justification": "Claw spacing on marked trees is measured in bear/cat studies plot by plot; a real system but the archives are thin and local, hence 6.",
    "keywords": [
     "bear claw mark tree measurements",
@@ -1651,21 +1675,23 @@
    ],
    "fidelity_card": {
     "RAW": "Photographs and spacing/height measurements of claw marks on trees and posts, from bear and big-cat field studies",
-    "UNIT": "One marked tree \u2014 hundreds per study area, tape-and-photo protocol",
+    "UNIT": "One marked tree — hundreds per study area, tape-and-photo protocol",
     "LABEL_GAP": "Species/individual suggested from claw spacing vs camera-trap photos at the same trees (second ruler)",
     "ANCHOR": "Marks made by known captive bears/cats on standard posts"
    },
-   "headline_shape": "A bear signs the tree it rubs \u2014 the width of its claw strokes is a signature researchers measure and then file away study by study.",
+   "headline_shape": "A bear signs the tree it rubs — the width of its claw strokes is a signature researchers measure and then file away study by study.",
    "why_niche": "Claw-mark data is a by-product of habitat studies; no cross-study archive of mark measurements exists.",
-   "rank_by_score": 46
+   "rank_by_score": 46,
+   "score_pre_campaign14": 6,
+   "calibration_2026_11_18_campaign14": "Campaign 14: KILL/PAPER. Records are paper templates; the un-run comparison was run - Steinmetz & Garshelis 2008 (n=43, 121 imprints, 95% classified)."
   },
   {
    "rank_input_order": 38,
    "slug": "bite-mark-records",
    "name": "Bite-mark & tooth-pit records (predation and forensic)",
    "family": "E. Teeth, horns, antlers & wings",
-   "score": 6,
-   "score_justification": "Tooth-pit spacing on bones identifies the predator in fossil and modern kill studies; reference bite sets are few and lab-local \u2014 real but thin, hence 6.",
+   "score": 5,
+   "score_justification": "Tooth-pit spacing on bones identifies the predator in fossil and modern kill studies; reference bite sets are few and lab-local — real but thin, hence 6.",
    "keywords": [
     "bite mark tooth pit measurements predator",
     "tooth mark bone identification data",
@@ -1685,21 +1711,23 @@
    ],
    "fidelity_card": {
     "RAW": "Bite/tooth-pit photographs and spacing measurements on bone, from taphonomy labs and kill-site studies",
-    "UNIT": "One bitten bone \u2014 hundreds per taphonomy reference set, calliper protocol",
+    "UNIT": "One bitten bone — hundreds per taphonomy reference set, calliper protocol",
     "LABEL_GAP": "Biter called from pit spacing vs DNA/feeding-trial bites by known animals (second ruler)",
     "ANCHOR": "Feeding-trial bones from known captive predators"
    },
-   "headline_shape": "The spacing of two punctures in bone can name the jaws that made them \u2014 palaeontologists and wardens measure the same holes and never compare notes.",
+   "headline_shape": "The spacing of two punctures in bone can name the jaws that made them — palaeontologists and wardens measure the same holes and never compare notes.",
    "why_niche": "Bite-mark reference work is split between fossil taphonomy and wildlife forensics, each with small private reference sets.",
-   "rank_by_score": 47
+   "rank_by_score": 47,
+   "score_pre_campaign14": 6,
+   "calibration_2026_11_18_campaign14": "Campaign 14: KILL/PHYSICAL. Tooth-pit data lives as tables in taphonomy papers and on lab-held bones; no reference archive has a file surface."
   },
   {
    "rank_input_order": 42,
    "slug": "vibrissae-follicle-maps",
    "name": "Vibrissae follicle & mystacial pad maps (small mammals & pinnipeds)",
    "family": "F. Faces, ears, eyes, scars, tails & whiskers",
-   "score": 6,
-   "score_justification": "Whisker follicle arrangements are mapped whisker-by-whisker in neuroscience (barrel cortex) and pinniped sensory labs \u2014 deep data, narrow archives, hence 6.",
+   "score": 5,
+   "score_justification": "Whisker follicle arrangements are mapped whisker-by-whisker in neuroscience (barrel cortex) and pinniped sensory labs — deep data, narrow archives, hence 6.",
    "keywords": [
     "vibrissae follicle map mystacial pad",
     "whisker follicle arrangement pattern study",
@@ -1720,21 +1748,23 @@
    ],
    "fidelity_card": {
     "RAW": "Follicle maps and mystacial-pad photographs/drawings from sensory-neuroscience and pinniped labs",
-    "UNIT": "One whisker pad \u2014 tens to hundreds of mapped individuals per lab across a dozen species, dissection/photo protocol",
-    "LABEL_GAP": "Follicle-map identity vs the same animal's whisker-spot photo ID (second ruler \u2014 two readings of one pad)",
+    "UNIT": "One whisker pad — tens to hundreds of mapped individuals per lab across a dozen species, dissection/photo protocol",
+    "LABEL_GAP": "Follicle-map identity vs the same animal's whisker-spot photo ID (second ruler — two readings of one pad)",
     "ANCHOR": "Lab colonies where the same individuals are mapped and photographed"
    },
-   "headline_shape": "Every whisker has an address, and the brain keeps a map of the addresses \u2014 the address books are drawn lab by lab and never compared across species.",
+   "headline_shape": "Every whisker has an address, and the brain keeps a map of the addresses — the address books are drawn lab by lab and never compared across species.",
    "why_niche": "A methods detail inside neuroscience papers; the comparative pattern data was never the point of any single lab, so nobody assembled it.",
-   "rank_by_score": 48
+   "rank_by_score": 48,
+   "score_pre_campaign14": 6,
+   "calibration_2026_11_18_campaign14": "Campaign 14: KILL/CUSTODY + premise falsified. Follicle maps are paper figures and the arrangement is species-stereotyped, not individual - not an ID system."
   },
   {
    "rank_input_order": 47,
    "slug": "tail-pattern-systems",
    "name": "Tail pattern & tail-ring ID systems (lemurs, raccoons, cats, marine mammals)",
    "family": "F. Faces, ears, eyes, scars, tails & whiskers",
-   "score": 6,
-   "score_justification": "Tail rings/notches close many ID calls (cheetah tail tips, lemur rings, dolphin tail stocks) but are recorded as a field inside other catalogues \u2014 thinnest standalone archive here, hence 6.",
+   "score": 4,
+   "score_justification": "Tail rings/notches close many ID calls (cheetah tail tips, lemur rings, dolphin tail stocks) but are recorded as a field inside other catalogues — thinnest standalone archive here, hence 6.",
    "keywords": [
     "tail ring pattern identification animal",
     "lemur tail pattern individual identification",
@@ -1754,21 +1784,23 @@
    ],
    "fidelity_card": {
     "RAW": "Tail photographs and ring/notch diagrams inside multi-feature ID catalogues",
-    "UNIT": "One tail \u2014 hundreds of individuals per host catalogue, photo protocol shared with the host system",
+    "UNIT": "One tail — hundreds of individuals per host catalogue, photo protocol shared with the host system",
     "LABEL_GAP": "Tail ID vs the host catalogue's primary feature (flank/face) for the same animal (second ruler)",
     "ANCHOR": "Catalogues where tail photos were taken at every encounter (cheetah, dolphin sets)"
    },
-   "headline_shape": "Half of a cheetah's name is written on the last white rings of its tail \u2014 tail patterns are everyone's second clue and nobody's archive.",
+   "headline_shape": "Half of a cheetah's name is written on the last white rings of its tail — tail patterns are everyone's second clue and nobody's archive.",
    "why_niche": "Tail data exists only as a column in other systems' files; a tail-first pass over those files has never been run.",
-   "rank_by_score": 49
+   "rank_by_score": 49,
+   "score_pre_campaign14": 6,
+   "calibration_2026_11_18_campaign14": "Campaign 14: KILL. No tail-first archive exists even in principle; tail data is only a field inside host catalogues already hunted (C7/C12). Thinnest card in the registry."
   },
   {
    "rank_input_order": 50,
    "slug": "lab-animal-marking-records",
    "name": "Lab-animal marking-pattern records (ear punch, toe clip, tattoo archives)",
    "family": "G. Hair & applied-mark pattern atlases",
-   "score": 6,
-   "score_justification": "Colonies marked animals by punch/clip codes for a century; the marking logs of famous long-lived colonies are identity infrastructure that outlived the experiments \u2014 archival, hence 6.",
+   "score": 5,
+   "score_justification": "Colonies marked animals by punch/clip codes for a century; the marking logs of famous long-lived colonies are identity infrastructure that outlived the experiments — archival, hence 6.",
    "keywords": [
     "laboratory animal ear punch marking records",
     "toe clip marking code archive",
@@ -1788,13 +1820,15 @@
    ],
    "fidelity_card": {
     "RAW": "Marking code charts and colony marking logs from long-running laboratory and field colonies",
-    "UNIT": "One marked animal \u2014 thousands per colony across decades, standard punch-position code charts (several rival charts)",
+    "UNIT": "One marked animal — thousands per colony across decades, standard punch-position code charts (several rival charts)",
     "LABEL_GAP": "Mark as logged vs genotype/pedigree of the same animal in the colony records (second ruler)",
     "ANCHOR": "Colonies with complete pedigrees (e.g. classic mouse/rat colonies)"
    },
-   "headline_shape": "Generations of lab mice were named by holes punched in their ears \u2014 the punch charts are a pattern language filed with the colony books.",
+   "headline_shape": "Generations of lab mice were named by holes punched in their ears — the punch charts are a pattern language filed with the colony books.",
    "why_niche": "Marking charts were standardised locally and published as methods figures; the logs themselves are institutional archives, consulted by nobody outside the colony.",
-   "rank_by_score": 50
+   "rank_by_score": 50,
+   "score_pre_campaign14": 6,
+   "calibration_2026_11_18_campaign14": "Campaign 14: INVENTORY/FORMAL (charts) + KILL (logs). Punch/toe-clip/tattoo charts are published methods figures; colony logs institutional, no file surface."
   }
  ]
 }

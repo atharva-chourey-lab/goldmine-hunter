@@ -1,0 +1,112 @@
+{
+  "verify15b": {
+    "asl_bb1": {
+      "label": "ASL bb1_x3.wav (own wp-content upload)",
+      "url": "https://animalsoundlabs.pl/wp-content/uploads/2018/07/bb1_x3.wav",
+      "http_status": 200,
+      "bytes_downloaded": 615066,
+      "truncated_at_cap": false,
+      "content_type": "audio/x-wav",
+      "error": null,
+      "md5_full": "0367e05db142028355931bef2ba78f51",
+      "md5_head1mb": "0367e05db142028355931bef2ba78f51",
+      "looks_html": false,
+      "verdict": "REAL \u2014 WAV audio (RIFF/WAVE)",
+      "wav": true,
+      "saved_to": "gold/campaign15-verify/asl-bb1_x3.wav"
+    },
+    "avisoft_wav_cdx": {
+      "collapsed": 98,
+      "ok200": 90,
+      "smallest": [
+        {
+          "ts": "20130125110534",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_mystacinus_1_s.wav",
+          "length": "6206"
+        },
+        {
+          "ts": "20130125110727",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_bechsteinii_2_s.wav",
+          "length": "8378"
+        },
+        {
+          "ts": "20130125112306",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_mystacinus_2_s.wav",
+          "length": "8399"
+        },
+        {
+          "ts": "20130125110527",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_brandtii_1_s.wav",
+          "length": "8653"
+        },
+        {
+          "ts": "20130125110927",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Pipistrellus_pygmaeus_2_s.wav",
+          "length": "9519"
+        },
+        {
+          "ts": "20130125111919",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_myotis_1_s.wav",
+          "length": "10050"
+        },
+        {
+          "ts": "20130125110539",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Pipistrellus_pipistrellus_4_s.wav",
+          "length": "12067"
+        },
+        {
+          "ts": "20130125111201",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_bechsteinii_4_s.wav",
+          "length": "13746"
+        },
+        {
+          "ts": "20130125110652",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Pipistrellus_kuhlii_1_s.wav",
+          "length": "14459"
+        },
+        {
+          "ts": "20130125104426",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Nyctalus_noctula_3_s.wav",
+          "length": "16118"
+        }
+      ]
+    },
+    "avisoft_wav_sample": {
+      "label": "Avisoft batcalls wb wav (6206 B CDX)",
+      "url": "https://web.archive.org/web/20130125110534id_/http://www.avisoft.com/batcalls/europe/playback/Myotis_mystacinus_1_s.wav",
+      "http_status": 200,
+      "bytes_downloaded": 30144,
+      "truncated_at_cap": false,
+      "content_type": "audio/x-wav",
+      "error": null,
+      "md5_full": "2304af56356337acf402bf70427bc4af",
+      "md5_head1mb": "2304af56356337acf402bf70427bc4af",
+      "looks_html": false,
+      "verdict": "REAL \u2014 WAV audio (RIFF/WAVE)",
+      "wav": true,
+      "saved_to": "gold/campaign15-verify/avisoft-wb-Myotis_mystacinus_1_s.wav"
+    },
+    "batcalls_live_head": {
+      "status": null,
+      "error": "HTTPConnectionPool(host='hatch-egress-proxy', port=3128): Max retries exceeded with url: http://batcalls.com/europe/play"
+    },
+    "he_report": {
+      "status": null,
+      "error": "(\"Connection broken: InvalidChunkLength(got length b'', 0 bytes read)\", InvalidChunkLength(got length b'', 0 bytes read))"
+    },
+    "ads_record": {
+      "status": null,
+      "error": "(\"Connection broken: InvalidChunkLength(got length b'', 0 bytes read)\", InvalidChunkLength(got length b'', 0 bytes read))"
+    },
+    "vizier_readme_http": {
+      "label": "VizieR VI/132C ReadMe via http (head)",
+      "url": "http://cdsarc.cds.unistra.fr/viz-bin/ReadMe/VI/132C?format=txt",
+      "http_status": null,
+      "bytes_downloaded": 0,
+      "truncated_at_cap": false,
+      "content_type": null,
+      "error": "HTTPConnectionPool(host='hatch-egress-proxy', port=3128): Max retries exceeded with url: http://cdsarc.cds.unistra.fr/viz-bin/ReadMe/VI/132C?format=txt (Caused ",
+      "verdict": "UNREACHABLE / EMPTY"
+    }
+  }
+}

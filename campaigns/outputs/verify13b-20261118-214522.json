@@ -1,0 +1,146 @@
+{
+  "verify13b": {
+    "holekamp_entries": [
+      {
+        "name": "MSU Hyena Project Data Files/",
+        "bytes": 0
+      },
+      {
+        "name": "MSU Hyena Project Data Files/.DS_Store",
+        "bytes": 6148
+      },
+      {
+        "name": "__MACOSX/",
+        "bytes": 0
+      },
+      {
+        "name": "__MACOSX/MSU Hyena Project Data Files/",
+        "bytes": 0
+      },
+      {
+        "name": "__MACOSX/MSU Hyena Project Data Files/._.DS_Store",
+        "bytes": 120
+      },
+      {
+        "name": "MSU Hyena Project Data Files/aggression.csv",
+        "bytes": 2161057
+      },
+      {
+        "name": "MSU Hyena Project Data Files/foods_consumed.csv",
+        "bytes": 332114
+      },
+      {
+        "name": "__MACOSX/MSU Hyena Project Data Files/._foods_consumed.csv",
+        "bytes": 120
+      },
+      {
+        "name": "MSU Hyena Project Data Files/hyenas.csv",
+        "bytes": 236297
+      },
+      {
+        "name": "__MACOSX/MSU Hyena Project Data Files/._hyenas.csv",
+        "bytes": 120
+      },
+      {
+        "name": "MSU Hyena Project Data Files/immobilizations.csv",
+        "bytes": 302374
+      },
+      {
+        "name": "__MACOSX/MSU Hyena Project Data Files/._immobilizations.csv",
+        "bytes": 120
+      },
+      {
+        "name": "MSU Hyena Project Data Files/prey_count.csv",
+        "bytes": 331691
+      },
+      {
+        "name": "__MACOSX/MSU Hyena Project Data Files/._prey_count.csv",
+        "bytes": 120
+      },
+      {
+        "name": "MSU Hyena Project Data Files/README_data_file_info.doc",
+        "bytes": 46592
+      },
+      {
+        "name": "__MACOSX/MSU Hyena Project Data Files/._README_data_file_info.doc",
+        "bytes": 406
+      },
+      {
+        "name": "MSU Hyena Project Data Files/sessions.csv",
+        "bytes": 8584038
+      },
+      {
+        "name": "__MACOSX/MSU Hyena Project Data Files/._sessions.csv",
+        "bytes": 120
+      },
+      {
+        "name": "MSU Hyena Project Data Files/weather.csv",
+        "bytes": 325512
+      },
+      {
+        "name": "__MACOSX/MSU Hyena Project Data Files/._weather.csv",
+        "bytes": 120
+      }
+    ],
+    "hyenas_csv_lines": 992,
+    "rices_fig3_scar": {
+      "label": "Rice's whale Fig 3 \u2014 whales matched by cookiecutter shark bite scars (PLOS)",
+      "url": "https://journals.plos.org/plosone/article/figure/image?size=medium&id=10.1371/journal.pone.0331010.g003",
+      "http_status": 200,
+      "bytes_downloaded": 418501,
+      "truncated_at_cap": false,
+      "content_type": "image/png",
+      "error": null,
+      "md5_full": "08cc7bed06933f890faccf9f40a5e9c7",
+      "md5_head1mb": "08cc7bed06933f890faccf9f40a5e9c7",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PNG image",
+      "png": true,
+      "saved_to": "gold/campaign13-verify/rices-whale-fig3-scar.jpg"
+    },
+    "rices_fig7_scar": {
+      "label": "Rice's whale Fig 7 \u2014 dorsal fin + peduncle scar matches 2007-2019 (PLOS)",
+      "url": "https://journals.plos.org/plosone/article/figure/image?size=medium&id=10.1371/journal.pone.0331010.g007",
+      "http_status": 200,
+      "bytes_downloaded": 392046,
+      "truncated_at_cap": false,
+      "content_type": "image/png",
+      "error": null,
+      "md5_full": "56cbfd8b921938b8aaf236603dfc4c95",
+      "md5_head1mb": "56cbfd8b921938b8aaf236603dfc4c95",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PNG image",
+      "png": true,
+      "saved_to": "gold/campaign13-verify/rices-whale-fig7-scar.jpg"
+    },
+    "rices_pmc_text": {
+      "status": 200,
+      "n31_snippet": " Thirty-one whales were individually identified based on dorsal fin attributes and body marks",
+      "cc_snippet": " Cookiecutter shark bite scars were widely present on the body of the whales and also served for identification and matching"
+    },
+    "swindler_https": {
+      "label": "Swindler Primate Dentition excerpt (https)",
+      "url": "https://assets.cambridge.org/97805216/52896/excerpt/9780521652896_excerpt.pdf",
+      "http_status": null,
+      "bytes_downloaded": 0,
+      "truncated_at_cap": false,
+      "content_type": null,
+      "error": "HTTPSConnectionPool(host='assets.cambridge.org', port=443): Max retries exceeded with url: /97805216/52896/excerpt/9780521652896_excerpt.pdf (Caused by ProxyErr",
+      "verdict": "UNREACHABLE / EMPTY"
+    },
+    "antillean_cdx": {
+      "rows": 0,
+      "ok200": 0
+    },
+    "bat_repo_check": {
+      "status": 200,
+      "repo_hits": {
+        "Dryad": 0,
+        "Zenodo": 0,
+        "figshare": 0,
+        "Supplementary Material": 3,
+        "supplementary data": 0
+      }
+    }
+  }
+}

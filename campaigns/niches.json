@@ -990,7 +990,7 @@
    "slug": "bat-echolocation-libraries",
    "name": "Regional bat echolocation call libraries",
    "family": "A. Animal bodies & senses",
-   "score": 7,
+   "score": 6,
    "score_justification": "Raw full-spectrum calls are re-identifiable forever; regional libraries were built before the big platforms and never merged.",
    "keywords": [
     "bat call library wav download",
@@ -1017,14 +1017,16 @@
    },
    "headline_shape": "A bat shouts its name in ultrasound every night — but half the regional call libraries call the same shout by different species.",
    "why_niche": "National platforms exist, but the older regional .wav piles (bat groups, consultancies, theses) predate them and were never ingested or re-checked.",
-   "rank_by_score": 28
+   "rank_by_score": 28,
+   "score_pre_campaign15": 7,
+   "calibration_2026_11_18_campaign15": "Campaign 15: INVENTORY. Loose surface real but deliberate (~62-record vendor lure-call showcase, Avisoft/ASL wavs verified); field library is ChiroVox (3,902 recs, formal platform)."
   },
   {
    "rank_input_order": 9,
    "slug": "butterfly-wing-drawers",
    "name": "Butterfly & moth specimen drawer imaging",
    "family": "B. Other taxa",
-   "score": 7,
+   "score": 6,
    "score_justification": "Drawer photos are raw pattern data; subspecies labels from wing pattern vs DNA barcodes is a live second ruler.",
    "keywords": [
     "butterfly collection drawer photographs",
@@ -1051,14 +1053,16 @@
    },
    "headline_shape": "A museum drawer holds a hundred butterflies pinned in 1920 — their wing patterns still argue with their DNA about who is who.",
    "why_niche": "The big barcode library covers sequences, not the drawer photography of the older regional collections where the pattern-based names were made.",
-   "rank_by_score": 29
+   "rank_by_score": 29,
+   "score_pre_campaign15": 7,
+   "calibration_2026_11_18_campaign15": "Campaign 15: INVENTORY/FORMAL. BioCosmos/LepiVerse already aggregated 619,739 images / 515,141 specimens via GBIF/SCAN/Ecdysis."
   },
   {
    "rank_input_order": 10,
    "slug": "snake-venom-spectra",
    "name": "Snake venom proteomics spectra by population",
    "family": "B. Other taxa",
-   "score": 7,
+   "score": 6,
    "score_justification": "Raw spectra per population; antivenom labels are a clinical second ruler; labs publish pooled profiles only.",
    "keywords": [
     "snake venom proteomics raw data",
@@ -1086,14 +1090,16 @@
    },
    "headline_shape": "The same snake species can be a medical emergency in one valley and far less dangerous in the next — its venom keeps the receipts.",
    "why_niche": "Toxinology is a cottage industry of national labs; each publishes its own population profiles and the raw runs rarely leave the lab site.",
-   "rank_by_score": 30
+   "rank_by_score": 30,
+   "score_pre_campaign15": 7,
+   "calibration_2026_11_18_campaign15": "Campaign 15: INVENTORY/FORMAL. Raw spectra publish formally (3 Zenodo Vipera deposits, PRIDE, MassIVE); no antivenom second ruler in any set. Pair flag: venom surfaces share species/population/site keys - an antivenom-neutralisation table, if ever found loose, pairs against all at once."
   },
   {
    "rank_input_order": 14,
    "slug": "heritage-tree-ring-cores",
    "name": "Heritage dendrochronology — building & art timbers",
    "family": "C. Plants, fungi & microbes",
-   "score": 7,
+   "score": 5,
    "score_justification": "Building-timber ring series live on heritage-lab sites, outside the climate tree-ring banks; radiocarbon is the anchor.",
    "keywords": [
     "dendrochronology building timbers data",
@@ -1121,14 +1127,16 @@
    },
    "headline_shape": "The beam in a 600-year-old roof knows the year its tree was felled — to the year, sometimes to the season.",
    "why_niche": "Climate dendro has its bank (ITRDB); heritage dendro — houses, ships, paintings — is dozens of small labs whose series files sit beside their client reports.",
-   "rank_by_score": 31
+   "rank_by_score": 31,
+   "score_pre_campaign15": 7,
+   "calibration_2026_11_18_campaign15": "Campaign 15: KILL/PAPER. Zero series files anywhere: ADS VAG is dates-only, HE publishes report PDFs, labs keep .rwl with client reports."
   },
   {
    "rank_input_order": 15,
    "slug": "phage-plaque-hostrange",
    "name": "Bacteriophage plaque & host-range collections",
    "family": "C. Plants, fungi & microbes",
-   "score": 7,
+   "score": 6,
    "score_justification": "Plaque photos + host-range tables per phage; genome labels arrived later and renamed the collection.",
    "keywords": [
     "bacteriophage collection host range table",
@@ -1155,14 +1163,16 @@
    },
    "headline_shape": "A virus you cannot see leaves a clear hole in a lawn of bacteria that you can — and the hole's shape is its signature.",
    "why_niche": "Phage banks are teaching-collection scale, kept by individual labs; the pre-genomic host-range tables were never re-checked against the genomes.",
-   "rank_by_score": 32
+   "rank_by_score": 32,
+   "score_pre_campaign15": 7,
+   "calibration_2026_11_18_campaign15": "Campaign 15: INVENTORY. phage.org loose files are a published textbook's tables; d'Herelle catalogue (691 phages) is an interface with 0 downloadable files."
   },
   {
    "rank_input_order": 20,
    "slug": "orthodontic-dental-casts",
    "name": "Orthodontic study-cast & ceph archives (non-growth-centre)",
    "family": "D. Human body & medicine history",
-   "score": 7,
+   "score": 5,
    "score_justification": "Dental departments hold cast mountains; Angle classifications by different schools disagree on the same teeth.",
    "keywords": [
     "orthodontic study casts archive",
@@ -1189,14 +1199,16 @@
    },
    "headline_shape": "A century of plaster teeth in department cupboards records how human jaws changed — measured three different ways by three different schools.",
    "why_niche": "The famous growth centres got consolidated; ordinary teaching-department cast archives stayed local, scanned piecemeal if at all.",
-   "rank_by_score": 33
+   "rank_by_score": 33,
+   "score_pre_campaign15": 7,
+   "calibration_2026_11_18_campaign15": "Campaign 15: KILL/PHYSICAL. Non-growth-centre casts are plaster in cupboards, zero web surface; the digitised part (AAOF 20k+ images) is exactly the growth centres the niche excluded."
   },
   {
    "rank_input_order": 27,
    "slug": "lunar-occultation-timings",
    "name": "Lunar occultation & graze timing reports",
    "family": "F. Sky catalogues",
-   "score": 7,
+   "score": 6,
    "score_justification": "Stopwatch timings measured the Moon's limb for a century; IOTA's files are personal-site era and never re-reduced against modern star positions.",
    "keywords": [
     "lunar occultation timings archive",
@@ -1223,14 +1235,16 @@
    },
    "headline_shape": "Amateurs with stopwatches mapped the mountains on the Moon's edge to a hair's breadth — using stars that have since been re-measured from space.",
    "why_niche": "Occultation astronomy is a volunteer world of section coordinators and personal pages; reductions were published, the raw timing files mostly were not pooled.",
-   "rank_by_score": 34
+   "rank_by_score": 34,
+   "score_pre_campaign15": 7,
+   "calibration_2026_11_18_campaign15": "Campaign 15: INVENTORY/FORMAL. VizieR VI/132C already re-reduced 1623-present with DE440 + Gaia EDR3 + LOLA - the card's comparison, run by the archive itself."
   },
   {
    "rank_input_order": 28,
    "slug": "observatory-plate-logbooks",
    "name": "Small-observatory glass plate logbooks & plate stacks",
    "family": "F. Sky catalogues",
-   "score": 7,
+   "score": 6,
    "score_justification": "Plate logbooks are the index to a century of sky photos; big plate archives are famous, small observatories' are attic material.",
    "keywords": [
     "observatory plate archive logbook",
@@ -1257,14 +1271,16 @@
    },
    "headline_shape": "A century of the night sky sits on glass in observatory attics — the logbooks that say what's on each plate are themselves fading paper.",
    "why_niche": "Harvard and Sonneberg got digitisation programmes; the dozens of smaller plate stacks have, at best, a PDF logbook on an archive page.",
-   "rank_by_score": 35
+   "rank_by_score": 35,
+   "score_pre_campaign15": 7,
+   "calibration_2026_11_18_campaign15": "Campaign 15: INVENTORY/FORMAL. APPLAUSE DR3 (70,276 plates, 96,852 logbook images, plate-solving applied) + WFPDB (323,635 obs) formalised flagship and tail."
   },
   {
    "rank_input_order": 29,
    "slug": "early-radio-astronomy-charts",
    "name": "Early radio-astronomy chart recordings",
    "family": "F. Sky catalogues",
-   "score": 7,
+   "score": 5,
    "score_justification": "Pen-chart drift scans are the raw data of radio astronomy's first decades; each observatory's charts were read once, by hand.",
    "keywords": [
     "early radio astronomy chart recordings",
@@ -1291,14 +1307,16 @@
    },
    "headline_shape": "The first maps of the radio sky were drawn by pens on paper tape, in real time, by night staff — the tapes were never re-read.",
    "why_niche": "Radio astronomy's history is well told but its chart archives are observatory-by-observatory, mostly unscanned, and the field moved to digital too fast to consolidate them.",
-   "rank_by_score": 36
+   "rank_by_score": 36,
+   "score_pre_campaign15": 7,
+   "calibration_2026_11_18_campaign15": "Campaign 15: KILL/PAPER. Charts unscanned paper in observatory custody; Manchester digitised Jodrell logbooks, a different record."
   },
   {
    "rank_input_order": 33,
    "slug": "concrete-test-ledgers",
    "name": "Concrete & materials test ledgers (municipal labs)",
    "family": "G. Chemistry, materials & built world",
-   "score": 7,
+   "score": 5,
    "score_justification": "Every structure began as crushed cubes; city lab ledgers are uniform, long, and almost entirely unscanned as data.",
    "keywords": [
     "concrete cube test records archive",
@@ -1325,14 +1343,16 @@
    },
    "headline_shape": "Every bridge and dam was once a tray of little concrete cubes, crushed one by one — the crushing ledgers are still on shelves.",
    "why_niche": "Materials testing was municipal routine, archived as paperwork; engineering history used the standards, not the ledgers behind them.",
-   "rank_by_score": 37
+   "rank_by_score": 37,
+   "score_pre_campaign16": 7,
+   "calibration_2026_11_18_campaign16": "Campaign 16: KILL/FORMAL. No municipal lab ledger surface anywhere; only UCI's published 1,030-record dataset."
   },
   {
    "rank_input_order": 34,
    "slug": "pigment-cross-sections",
    "name": "Paint & pigment cross-section archives (conservation labs)",
    "family": "G. Chemistry, materials & built world",
-   "score": 7,
+   "score": 6,
    "score_justification": "Layer stratigraphy per artwork; each museum lab holds its own section photos; Raman IDs are the second ruler.",
    "keywords": [
     "paint cross section image archive",
@@ -1359,14 +1379,16 @@
    },
    "headline_shape": "A flake of paint the size of a pinhead contains every repainting a picture ever suffered — layer by layer, like tree rings.",
    "why_niche": "Conservation labs publish case studies, not populations; the cross-section photos accumulate per-lab and are never compared across collections.",
-   "rank_by_score": 38
+   "rank_by_score": 38,
+   "score_pre_campaign16": 7,
+   "calibration_2026_11_18_campaign16": "Campaign 16: INVENTORY/CUSTODY. Cross-sections live inside 3 Clowes technical-report PDFs (verified); OPD 15,400 sections on-request, Tate in-person, Rijksmuseum login-gated."
   },
   {
    "rank_input_order": 38,
    "slug": "playbill-programme-archives",
    "name": "Theatre playbill & concert programme archives",
    "family": "H. Language, sound & print",
-   "score": 7,
+   "score": 6,
    "score_justification": "Playbills are structured data in disguise (date, cast, works); small venues and libraries scanned their own runs.",
    "keywords": [
     "theatre playbill archive digitised",
@@ -1393,14 +1415,16 @@
    },
    "headline_shape": "Every night for a hundred years, a theatre printed who sang what — the programmes remember performances no recording ever caught.",
    "why_niche": "Flagship houses published their annals; the long tail of provincial theatres' programmes sits in local-library scans, unindexed as data.",
-   "rank_by_score": 39
+   "rank_by_score": 39,
+   "score_pre_campaign16": 7,
+   "calibration_2026_11_18_campaign16": "Campaign 16: INVENTORY (documented, unsampled)/FORMAL. BL OCR dataset documented live (264 vols, DOI 10.21250/pb2) but download routes JS-gated/404 for the probing client; a browser pass could upgrade to SILVER."
   },
   {
    "rank_input_order": 43,
    "slug": "factory-payroll-wage-books",
    "name": "Factory payroll & wage books (local archives)",
    "family": "I. Historical statistics, prices, maps",
-   "score": 7,
+   "score": 5,
    "score_justification": "Worker-by-week wages are the raw data behind every published wage index; the books are in county record offices.",
    "keywords": [
     "factory wage book archive",
@@ -1427,14 +1451,16 @@
    },
    "headline_shape": "A mill's pay book knows what a twelve-year-old actually earned in 1880, week by week — the famous wage series are averages built from books like it.",
    "why_niche": "Wage books survive firm by firm in local custody; historians sampled famous firms, and the rest were never transcribed as a panel.",
-   "rank_by_score": 40
+   "rank_by_score": 40,
+   "score_pre_campaign16": 7,
+   "calibration_2026_11_18_campaign16": "Campaign 16: KILL/CUSTODY. Physical volumes (JCU PMR/WB/1-13, Derbyshire 1-vol MS); only finding aids digitised. CONFIRMS the CUSTODY-1 prospective kill by probe evidence at all three hosts."
   },
   {
    "rank_input_order": 44,
    "slug": "booth-level-election-gazettes",
    "name": "Polling-booth-level historical election results in gazettes",
    "family": "I. Historical statistics, prices, maps",
-   "score": 7,
+   "score": 6,
    "score_justification": "National results are consolidated at constituency level; booth-level returns sleep in official gazette PDFs.",
    "keywords": [
     "historical election results polling station gazette",
@@ -1461,14 +1487,16 @@
    },
    "headline_shape": "Elections were decided booth by booth, and the booth numbers were printed once, in a gazette almost nobody kept.",
    "why_niche": "Constituency databases are a mature product; the booth-level geography underneath them was never extracted from the gazette scans.",
-   "rank_by_score": 41
+   "rank_by_score": 41,
+   "score_pre_campaign16": 7,
+   "calibration_2026_11_18_campaign16": "Campaign 16: INVENTORY/FORMAL. Gazette PDFs verified but booth content is voter allotments/petitions with constituency totals - no booth-return pile."
   },
   {
    "rank_input_order": 48,
    "slug": "seed-catalogue-varieties",
    "name": "Seed catalogue variety listings (1880–1970)",
    "family": "J. Food, agriculture, sport & play",
-   "score": 7,
+   "score": 6,
    "score_justification": "Every catalogue is a variety census with prices; variety names vs trial results is a second ruler for hype.",
    "keywords": [
     "seed catalogue archive historical varieties",
@@ -1495,14 +1523,16 @@
    },
    "headline_shape": "A seed catalogue from 1900 lists 300 tomato varieties; your supermarket has six. The catalogues are the census of what was lost.",
    "why_niche": "Trade-catalogue libraries digitised the famous firms; variety-level extraction across the long tail of regional seedsmen was never done.",
-   "rank_by_score": 42
+   "rank_by_score": 42,
+   "score_pre_campaign16": 7,
+   "calibration_2026_11_18_campaign16": "Campaign 16: INVENTORY/FORMAL. USDA Gilbert catalogue PDFs verified as single issues; variety unit not verified at pile level (silver-shaped, unproven)."
   },
   {
    "rank_input_order": 49,
    "slug": "regional-menu-collections",
    "name": "Regional restaurant menu collections",
    "family": "J. Food, agriculture, sport & play",
-   "score": 7,
+   "score": 6,
    "score_justification": "Menus are dated price-and-dish censuses; the famous collection is one city — regional libraries hold the rest.",
    "keywords": [
     "restaurant menu collection archive library",
@@ -1528,14 +1558,16 @@
    },
    "headline_shape": "A 1910 menu prices a full dinner below today's coffee — and lists dishes that no longer exist anywhere on Earth.",
    "why_niche": "NYPL's menu project made one city's collection famous; regional libraries hold comparable runs that were scanned as ephemera, not data.",
-   "rank_by_score": 43
+   "rank_by_score": 43,
+   "score_pre_campaign16": 7,
+   "calibration_2026_11_18_campaign16": "Campaign 16: SILVER (small)/FORMAL. UNLV Bohn-Bettoni menus (~2,000, 1870-1930) published by design; 147 status-200 TIFF captures via Wayback, sample TIFF verified REAL."
   },
   {
    "rank_input_order": 25,
    "slug": "borehole-well-logs",
    "name": "Borehole & water-well log archives",
    "family": "E. Earth & weather vintages",
-   "score": 6,
+   "score": 5,
    "score_justification": "Drillers' logs are raw subsurface truth; state surveys each host their own scans; headline is weaker, hence the score.",
    "keywords": [
     "borehole logs archive download",
@@ -1562,14 +1594,16 @@
    },
    "headline_shape": "Every farm well ever drilled left a one-page X-ray of the ground beneath it — filed county by county, never joined up.",
    "why_niche": "Well logs are a known resource class, but each survey's scans use different forms and portals; cross-region lithology panels remain unbuilt.",
-   "rank_by_score": 44
+   "rank_by_score": 44,
+   "score_pre_campaign16": 6,
+   "calibration_2026_11_18_campaign16": "Campaign 16: INVENTORY/FORMAL. BGS AGS API live (75,134 boreholes) + USGS Geolog 7,000+ logs - all formal survey databases."
   },
   {
    "rank_input_order": 30,
    "slug": "sunspot-drawings",
    "name": "Individual-observer sunspot drawings archives",
    "family": "F. Sky catalogues",
-   "score": 6,
+   "score": 5,
    "score_justification": "Distinct from the (excluded, killed) sunspot-number series: the drawings themselves, per observer, are image data with personal equations built in.",
    "keywords": [
     "sunspot drawings archive observer",
@@ -1595,7 +1629,9 @@
    },
    "headline_shape": "For 150 years, people drew the Sun's spots by hand every clear day — each drawer quietly drew a slightly different Sun.",
    "why_niche": "The number series built from drawings is consolidated (and was hunted/killed as a target); the drawing sheets themselves, observer by observer, sit in separate observatory archives.",
-   "rank_by_score": 45
+   "rank_by_score": 45,
+   "score_pre_campaign16": 6,
+   "calibration_2026_11_18_campaign16": "Campaign 16: INVENTORY/FORMAL. Drawings angle only. Dead UCLA FTP tree has >=10k collapsed Wayback captures ALL statuscode 226 (FTP-complete) - the 200-filter reads zero; still not gold: deleted mirror of the MWO set formally digitised in Pevtsov et al. 2019."
   },
   {
    "rank_input_order": 35,

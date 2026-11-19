@@ -168,3 +168,26 @@ labelled — is the deliverable. The lesson the hunter's grades now
 carry: minting is not the finish line; a gold is only spent when its
 comparison has been run and its result, including a coverage failure,
 published as found.
+
+
+## Addendum — Campaigns 13–16 (2026-11-18)
+
+Four more registry-generated campaigns (35 niches; mammal ranks
+34–50, broad ranks 28–45), each run probe → Custody Mapper post-probe
+gate → sample-verified grade: **no new gold, no diamond** — 1 small
+silver (the UNLV Bohn-Bettoni menu collection, published by design),
+18 inventory, 16 kill. The running tally after Campaigns 1–16 stays
+**3 GOLD / 0 DIAMOND** (Fonozoo, manatee scar sheets, LAGS). The
+**mammal-grain registry is now exhausted — 50 of 50 niches fired**.
+Three calibration laws were added (`campaigns/CALIBRATION-2026-11-18.md`):
+completion is the new failure shape at broad score 7 — fields have
+already *run* the comparison a card proposes, so a "has it been run?"
+pre-flight is now warranted; premise errors are a class of their own
+(the livestock-iris trials were retinal; vibrissae patterns are
+species-stereotyped, not individual), so premise risk needs scoring;
+and the Wayback statuscode-226 blind spot — dead FTP trees are
+invisible to the 200-filter and need a 226 exception. A Pair Hunter
+pass over the surfaces these probes uncovered found no new
+gold-shaped pair (`campaigns/PAIR-FLAGS-CAMPAIGNS13-16.md`). The
+queue's centre of gravity shifts from new registry waves to minting
+the pairs already found.

@@ -1,0 +1,866 @@
+{
+  "verify15": {
+    "avisoft": {
+      "status": 403,
+      "refs": []
+    },
+    "avisoft_zip": {
+      "label": "Avisoft batcalls.zip (playback pile, cap 6MB)",
+      "url": "https://www.avisoft.com/batcalls/europe/playback/batcalls.zip",
+      "http_status": 200,
+      "bytes_downloaded": 6029312,
+      "truncated_at_cap": true,
+      "content_type": "application/zip",
+      "error": null,
+      "md5_full": null,
+      "md5_head1mb": "c2ecaceb8de7b5e6cedfde7e8aff02de",
+      "looks_html": false,
+      "verdict": "PK MAGIC but zip unreadable (truncated?): File is not a zip file",
+      "pk_magic": true
+    },
+    "avisoft_cdx": {
+      "collapsed": 99,
+      "ok200": 91,
+      "files": [
+        {
+          "ts": "20130125104239",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Barbastella_barbastellus_1_n.wav",
+          "length": "146779"
+        },
+        {
+          "ts": "20130125111313",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Barbastella_barbastellus_1_o.wav",
+          "length": "217718"
+        },
+        {
+          "ts": "20130125111430",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Barbastella_barbastellus_1_s.wav",
+          "length": "22083"
+        },
+        {
+          "ts": "20130125111939",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Barbastella_barbastellus_2_o.wav",
+          "length": "91061"
+        },
+        {
+          "ts": "20130125112107",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Barbastella_barbastellus_2_s.wav",
+          "length": "22034"
+        },
+        {
+          "ts": "20130125104920",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Barbastella_barbastellus_3_o.wav",
+          "length": "85212"
+        },
+        {
+          "ts": "20130125112118",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/batcalls.zip",
+          "length": "23164097"
+        },
+        {
+          "ts": "20130125110850",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Eptesicus_nilssonii_1_o.wav",
+          "length": "564794"
+        },
+        {
+          "ts": "20130125104457",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Eptesicus_nilssonii_1_s.wav",
+          "length": "28619"
+        },
+        {
+          "ts": "20130125110819",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Eptesicus_nilssonii_2_o.wav",
+          "length": "655040"
+        },
+        {
+          "ts": "20130125111807",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Eptesicus_nilssonii_3_o.wav",
+          "length": "1301310"
+        },
+        {
+          "ts": "20130125104314",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Eptesicus_serotinus_1_o.wav",
+          "length": "65652"
+        },
+        {
+          "ts": "20130125104402",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Miniopterus_schreibersii_1_o.wav",
+          "length": "62963"
+        },
+        {
+          "ts": "20130125110840",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_bechsteinii_1_n.wav",
+          "length": "63128"
+        },
+        {
+          "ts": "20130125112008",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_bechsteinii_1_s.wav",
+          "length": "19470"
+        },
+        {
+          "ts": "20130125104421",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_bechsteinii_2_n.wav",
+          "length": "24454"
+        },
+        {
+          "ts": "20130125110727",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_bechsteinii_2_s.wav",
+          "length": "8378"
+        },
+        {
+          "ts": "20130125112028",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_bechsteinii_3_juv_o.wav",
+          "length": "1561643"
+        },
+        {
+          "ts": "20130125111533",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_bechsteinii_3_juv_s.wav",
+          "length": "131434"
+        },
+        {
+          "ts": "20130125111201",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_bechsteinii_4_s.wav",
+          "length": "13746"
+        },
+        {
+          "ts": "20130125111344",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_bechsteinii_5_o.wav",
+          "length": "3155398"
+        },
+        {
+          "ts": "20130125112543",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_brandtii_1_n.wav",
+          "length": "43307"
+        },
+        {
+          "ts": "20130125110527",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_brandtii_1_s.wav",
+          "length": "8653"
+        },
+        {
+          "ts": "20130125104443",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_capaccinii_1_o.wav",
+          "length": "184165"
+        },
+        {
+          "ts": "20130125110641",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_dasycneme_1_o.wav",
+          "length": "162539"
+        }
+      ]
+    },
+    "asl": {
+      "status": 200,
+      "refs": [
+        "http://batcalls.com/europe/playback/Barbastella_barbastellus_1_n.wav",
+        "http://batcalls.com/europe/playback/Barbastella_barbastellus_1_o.wav",
+        "http://batcalls.com/europe/playback/Barbastella_barbastellus_1_s.wav",
+        "http://batcalls.com/europe/playback/Barbastella_barbastellus_2_o.wav",
+        "http://batcalls.com/europe/playback/Barbastella_barbastellus_2_s.wav",
+        "http://batcalls.com/europe/playback/Barbastella_barbastellus_3_o.wav",
+        "http://batcalls.com/europe/playback/Eptesicus_nilssonii_1_o.wav",
+        "http://batcalls.com/europe/playback/Eptesicus_nilssonii_1_s.wav",
+        "http://batcalls.com/europe/playback/Eptesicus_nilssonii_2_o.wav",
+        "http://batcalls.com/europe/playback/Eptesicus_nilssonii_3_o.wav",
+        "http://batcalls.com/europe/playback/Eptesicus_serotinus_1_o.wav",
+        "http://batcalls.com/europe/playback/Miniopterus_schreibersii_1_o.wav",
+        "http://batcalls.com/europe/playback/Myotis_bechsteinii_1_n.wav",
+        "http://batcalls.com/europe/playback/Myotis_bechsteinii_1_s.wav",
+        "http://batcalls.com/europe/playback/Myotis_bechsteinii_2_n.wav",
+        "http://batcalls.com/europe/playback/Myotis_bechsteinii_2_s.wav",
+        "http://batcalls.com/europe/playback/Myotis_bechsteinii_3_juv_o.wav",
+        "http://batcalls.com/europe/playback/Myotis_bechsteinii_3_juv_s.wav",
+        "http://batcalls.com/europe/playback/Myotis_bechsteinii_5_o.wav",
+        "http://batcalls.com/europe/playback/Myotis_brandtii_1_n.wav"
+      ]
+    },
+    "asl_sample": {
+      "label": "Animal Sound Labs audio sample",
+      "url": "http://batcalls.com/europe/playback/Barbastella_barbastellus_1_n.wav",
+      "http_status": null,
+      "bytes_downloaded": 0,
+      "truncated_at_cap": false,
+      "content_type": null,
+      "error": "HTTPConnectionPool(host='hatch-egress-proxy', port=3128): Max retries exceeded with url: http://batcalls.com/europe/playback/Barbastella_barbastellus_1_n.wav (C",
+      "verdict": "UNREACHABLE / EMPTY"
+    },
+    "morcegoteca": {
+      "status": 200,
+      "downloadish": [
+        "https://ppbio.inpa.gov.br/en/Bat_Library/Tools"
+      ],
+      "hrefs_sample": [
+        "#content",
+        "/Morcegoteca",
+        "/en",
+        "/en/Bat_Library",
+        "/en/Biological_Collections",
+        "/en/Biological_Inventories",
+        "/en/Cheloniateca",
+        "/en/Citizen_Science",
+        "/en/Communications_in_Congresses_and_Scientific_Events/2020",
+        "/en/DataBank",
+        "/en/Data_Sampling",
+        "/en/Extension",
+        "/en/How%20to%20cite",
+        "/en/Ixoditeca_Main_Page",
+        "/en/PPBio_International",
+        "/en/PPBio_Map",
+        "/en/Rapeld",
+        "/en/Regional_Centers",
+        "/en/Sites",
+        "/en/Theses/In_Progress",
+        "/en/node/1168",
+        "/en/node/1788",
+        "/en/repository",
+        "/en/thematic_projects",
+        "/en/training_capacity_building"
+      ]
+    },
+    "morcegoteca_samples": [
+      {
+        "label": "Morcegoteca download sample",
+        "url": "https://ppbio.inpa.gov.br/en/Bat_Library/Tools",
+        "http_status": 200,
+        "bytes_downloaded": 34697,
+        "truncated_at_cap": false,
+        "content_type": "text/html; charset=utf-8",
+        "error": null,
+        "md5_full": "3bd17dbf924eabce0eda2395d63de0ff",
+        "md5_head1mb": "3bd17dbf924eabce0eda2395d63de0ff",
+        "looks_html": true,
+        "verdict": "PHANTOM \u2014 HTML page, not data"
+      }
+    ],
+    "chirovox": {
+      "status": 200,
+      "direct_audio_refs": []
+    },
+    "biocosmos": {
+      "api_status": 200,
+      "title": "Handika et al. Dataset for BioCosmos: computer vision and large-language models for large-scale image-based biodiversity",
+      "files": [
+        {
+          "name": "image_occurrences_manifest.json",
+          "size": 2320,
+          "link": "https://zenodo.org/api/records/23840624/files/image_occurrences_manifest.json/content"
+        },
+        {
+          "name": "image_occurrences_columns.csv",
+          "size": 2468,
+          "link": "https://zenodo.org/api/records/23840624/files/image_occurrences_columns.csv/content"
+        },
+        {
+          "name": "image_occurrences.csv.gz",
+          "size": 51907768,
+          "link": "https://zenodo.org/api/records/23840624/files/image_occurrences.csv.gz/content"
+        },
+        {
+          "name": "image_occurrences.parquet",
+          "size": 40156511,
+          "link": "https://zenodo.org/api/records/23840624/files/image_occurrences.parquet/content"
+        }
+      ]
+    },
+    "biocosmos_sample": {
+      "label": "BioCosmos smallest file (image_occurrences_manifest.json)",
+      "url": "https://zenodo.org/api/records/23840624/files/image_occurrences_manifest.json/content",
+      "http_status": 200,
+      "bytes_downloaded": 2320,
+      "truncated_at_cap": false,
+      "content_type": "text/plain; charset=utf-8, text/plain; charset=utf-8",
+      "error": null,
+      "md5_full": "97fa444f0f8bfdc3e1ecba28f753575c",
+      "md5_head1mb": "97fa444f0f8bfdc3e1ecba28f753575c",
+      "looks_html": false,
+      "lines_sampled": 84,
+      "first_line": "{",
+      "verdict": "REAL \u2014 decodable text data",
+      "saved_to": "gold/campaign15-verify/biocosmos-image_occurrences_manifest.json"
+    },
+    "bamona": {
+      "status": 200,
+      "refs": [
+        "/sites/default/files/collage-transparent-croppedheight.png",
+        "/sites/default/files/metalmark-72dpi-maincentered.png",
+        "/sites/default/files/shirts4.png",
+        "/sites/default/files/shirts5.png",
+        "https://www.butterfliesandmoths.org/sites/default/files/bamona_favicon.png",
+        "https://www.butterfliesandmoths.org/sites/default/files/bamona_images/056_2.jpg",
+        "https://www.butterfliesandmoths.org/sites/default/files/bamona_images/1518_-_copy.jpg",
+        "https://www.butterfliesandmoths.org/sites/default/files/bamona_images/181906_201714596508476_201712266508709_822216_3281186_n.jpeg",
+        "https://www.butterfliesandmoths.org/sites/default/files/bamona_images/201306_doxocopa_thoe_hispaniolan_emperor2llj_0.jpg",
+        "https://www.butterfliesandmoths.org/sites/default/files/bamona_images/2013_06_possible_eunica_monima_la_isabella_15llj_0.jpg"
+      ]
+    },
+    "bamona_sample": {
+      "label": "BAMONA gallery image",
+      "url": "https://www.butterfliesandmoths.org/sites/default/files/collage-transparent-croppedheight.png",
+      "http_status": 200,
+      "bytes_downloaded": 262042,
+      "truncated_at_cap": false,
+      "content_type": "image/png",
+      "error": null,
+      "md5_full": "1fd99582489760eab719a3f2bd6cbd3b",
+      "md5_head1mb": "1fd99582489760eab719a3f2bd6cbd3b",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PNG image",
+      "png": true,
+      "saved_to": "gold/campaign15-verify/bamona-collage-transparent-croppedheight.png"
+    },
+    "venom": {
+      "berus": {
+        "api_status": 200,
+        "title": "DATASET - Mass Spectrometry - Snake venom proteomics of Vipera berus (Sex Variation)",
+        "files": [
+          {
+            "name": "01_SG_Vipera_berus_male_DIA_RAW.zip",
+            "size": 359734163,
+            "link": "https://zenodo.org/api/records/16418915/files/01_SG_Vipera_berus_male_DIA_RAW.zip/content"
+          },
+          {
+            "name": "01_SG_Vipera_berus_male_DDA_RAW.zip",
+            "size": 1232440030,
+            "link": "https://zenodo.org/api/records/16418915/files/01_SG_Vipera_berus_male_DDA_RAW.zip/content"
+          },
+          {
+            "name": "02_SG_Vipera_berus_female_DIA_RAW.zip",
+            "size": 372128293,
+            "link": "https://zenodo.org/api/records/16418915/files/02_SG_Vipera_berus_female_DIA_RAW.zip/content"
+          },
+          {
+            "name": "02_SG_Vipera_berus_female_DDA_RAW.zip",
+            "size": 1221681639,
+            "link": "https://zenodo.org/api/records/16418915/files/02_SG_Vipera_berus_female_DDA_RAW.zip/content"
+          }
+        ]
+      },
+      "berus_sample": {
+        "label": "Venom berus smallest file (01_SG_Vipera_berus_male_DIA_RAW.zip)",
+        "url": "https://zenodo.org/api/records/16418915/files/01_SG_Vipera_berus_male_DIA_RAW.zip/content",
+        "http_status": 200,
+        "bytes_downloaded": 3014656,
+        "truncated_at_cap": true,
+        "content_type": "application/octet-stream, application/octet-stream",
+        "error": null,
+        "md5_full": null,
+        "md5_head1mb": "7a514795219b66d7cc36be441a9ddb20",
+        "looks_html": false,
+        "verdict": "PK MAGIC but zip unreadable (truncated?): File is not a zip file",
+        "pk_magic": true
+      },
+      "monticola": {
+        "api_status": 200,
+        "title": "DATASET - Mass Spectrometry - Snake venom proteomics of three subspecies of the North African mountain viper (Vipera mon",
+        "files": [
+          {
+            "name": "Uniprot_8570_serpentes_reviewed_CandIso_2747_entries_230398.fasta",
+            "size": 726279,
+            "link": "https://zenodo.org/api/records/11103867/files/Uniprot_8570_serpentes_reviewed_CandIso_2747_entries_230398.fasta/content"
+          },
+          {
+            "name": "01_SVX_Vipera_monticola_monticola.zip",
+            "size": 3477690655,
+            "link": "https://zenodo.org/api/records/11103867/files/01_SVX_Vipera_monticola_monticola.zip/content"
+          },
+          {
+            "name": "03_SVX_Vipera_monticola_saintgironsi.zip",
+            "size": 2746971928,
+            "link": "https://zenodo.org/api/records/11103867/files/03_SVX_Vipera_monticola_saintgironsi.zip/content"
+          },
+          {
+            "name": "02_SVX_Vipera_monticola_atlantica.zip",
+            "size": 2767370042,
+            "link": "https://zenodo.org/api/records/11103867/files/02_SVX_Vipera_monticola_atlantica.zip/content"
+          }
+        ]
+      },
+      "monticola_sample": {
+        "label": "Venom monticola smallest file (Uniprot_8570_serpentes_reviewed_CandIso_2747_entries_230398.fasta)",
+        "url": "https://zenodo.org/api/records/11103867/files/Uniprot_8570_serpentes_reviewed_CandIso_2747_entries_230398.fasta/content",
+        "http_status": 200,
+        "bytes_downloaded": 726279,
+        "truncated_at_cap": false,
+        "content_type": "application/octet-stream, application/octet-stream",
+        "error": null,
+        "md5_full": "0978f197c287b771ec44b1aca5c16196",
+        "md5_head1mb": "0978f197c287b771ec44b1aca5c16196",
+        "looks_html": false,
+        "lines_sampled": 11789,
+        "first_line": ">sp|A0A0B4U9L8|VMF1_VIPAA Zinc metalloproteinase-disintegrin-like protein F1 OS=Vipera ammodytes ammodytes OX=8705 PE=1 SV=1",
+        "verdict": "REAL \u2014 decodable text data",
+        "saved_to": "gold/campaign15-verify/venom-monticola-Uniprot_8570_serpentes_reviewed_CandIso_2747_entri"
+      },
+      "ammodytes": {
+        "api_status": 200,
+        "title": "DATASET - Mass Spectrometry - Snake venom proteomics of island and mainland V. ammodytes populations from North Macedoni",
+        "files": [
+          {
+            "name": "Uniprot_8750_serpentes_CanNIso_2674_entries_220210_cRAP_220210.fasta",
+            "size": 734737,
+            "link": "https://zenodo.org/api/records/11482457/files/Uniprot_8750_serpentes_CanNIso_2674_entries_220210_cRAP_220210.fasta/content"
+          },
+          {
+            "name": "01_SVX_Vammodytes_1M_A_ISL.zip",
+            "size": 5473822641,
+            "link": "https://zenodo.org/api/records/11482457/files/01_SVX_Vammodytes_1M_A_ISL.zip/content"
+          },
+          {
+            "name": "03_SVX_Vammodytes_3J_J_ISL.zip",
+            "size": 4085805552,
+            "link": "https://zenodo.org/api/records/11482457/files/03_SVX_Vammodytes_3J_J_ISL.zip/content"
+          },
+          {
+            "name": "02_SVX_Vammodytes_2F_A_ISL.zip",
+            "size": 867020229,
+            "link": "https://zenodo.org/api/records/11482457/files/02_SVX_Vammodytes_2F_A_ISL.zip/content"
+          },
+          {
+            "name": "04_SVX_Vammodytes_4S_S_ISL.zip",
+            "size": 1319500801,
+            "link": "https://zenodo.org/api/records/11482457/files/04_SVX_Vammodytes_4S_S_ISL.zip/content"
+          },
+          {
+            "name": "05_SVX_Vammodytes_5K_A_IML.zip",
+            "size": 4665904249,
+            "link": "https://zenodo.org/api/records/11482457/files/05_SVX_Vammodytes_5K_A_IML.zip/content"
+          },
+          {
+            "name": "07_SVX_Vammodytes_7J_J_ML.zip",
+            "size": 3056135548,
+            "link": "https://zenodo.org/api/records/11482457/files/07_SVX_Vammodytes_7J_J_ML.zip/content"
+          },
+          {
+            "name": "06_SVX_Vammodytes_6S_S_ML.zip",
+            "size": 1111095888,
+            "link": "https://zenodo.org/api/records/11482457/files/06_SVX_Vammodytes_6S_S_ML.zip/content"
+          }
+        ]
+      },
+      "ammodytes_sample": {
+        "label": "Venom ammodytes smallest file (Uniprot_8750_serpentes_CanNIso_2674_entries_220210_cRAP_220210.fasta)",
+        "url": "https://zenodo.org/api/records/11482457/files/Uniprot_8750_serpentes_CanNIso_2674_entries_220210_cRAP_220210.fasta/content",
+        "http_status": 200,
+        "bytes_downloaded": 734737,
+        "truncated_at_cap": false,
+        "content_type": "application/octet-stream, application/octet-stream",
+        "error": null,
+        "md5_full": "ee636ac5eb8d2b37d493a1a6a3b8d46a",
+        "md5_head1mb": "ee636ac5eb8d2b37d493a1a6a3b8d46a",
+        "looks_html": false,
+        "lines_sampled": 12201,
+        "first_line": ">sp|Q9DF66|VSP3_PROJR Snake venom serine protease 3 OS=Protobothrops jerdonii OX=242841 PE=2 SV=1",
+        "verdict": "REAL \u2014 decodable text data",
+        "saved_to": "gold/campaign15-verify/venom-ammodytes-Uniprot_8750_serpentes_CanNIso_2674_entries_220210"
+      }
+    },
+    "pride_head": {
+      "status": 200,
+      "size": null,
+      "type": "text/html"
+    },
+    "historic_england": {
+      "status": null,
+      "pdf_refs": []
+    },
+    "ads": {
+      "923": {
+        "status": null,
+        "data_refs": []
+      },
+      "1100": {
+        "status": null,
+        "data_refs": []
+      }
+    },
+    "ads_cdx": {
+      "collapsed": 0,
+      "ok200": 0
+    },
+    "phage_table_pdf": {
+      "label": "Bacteriophages Table 2-5 host range PDF (phage.org)",
+      "url": "http://www.phage.org/images/thebacteriophages/0020_table_005.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 11314,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "709893b31d3ad1bb3f6c6c564055eb42",
+      "md5_head1mb": "709893b31d3ad1bb3f6c6c564055eb42",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign15-verify/phage-table2-5-hostrange.pdf"
+    },
+    "phage_cdx": {
+      "collapsed": 2765,
+      "ok200_data": 22,
+      "files": [
+        {
+          "ts": "20020225130247",
+          "url": "http://www.phage.org:80/biochem511_files/filelist.xml",
+          "length": "494"
+        },
+        {
+          "ts": "20020310105523",
+          "url": "http://www.phage.org:80/black01_files/filelist.xml",
+          "length": "333"
+        },
+        {
+          "ts": "20261017231707",
+          "url": "https://phage.org/calculators/more-tab.json",
+          "length": "3413"
+        },
+        {
+          "ts": "20020416053153",
+          "url": "http://www.phage.org:80/Campbl01_files/filelist.xml",
+          "length": "368"
+        },
+        {
+          "ts": "20020310101120",
+          "url": "http://www.phage.org:80/Campbl13_files/filelist.xml",
+          "length": "352"
+        },
+        {
+          "ts": "20020310100902",
+          "url": "http://www.phage.org:80/Campbl14_files/filelist.xml",
+          "length": "371"
+        },
+        {
+          "ts": "20020416053150",
+          "url": "http://www.phage.org:80/Campbl18_files/filelist.xml",
+          "length": "370"
+        },
+        {
+          "ts": "20020416054444",
+          "url": "http://www.phage.org:80/Campbl22_files/filelist.xml",
+          "length": "450"
+        },
+        {
+          "ts": "20020222173820",
+          "url": "http://www.phage.org:80/Campbl23_files/filelist.xml",
+          "length": "393"
+        },
+        {
+          "ts": "20020306144750",
+          "url": "http://www.phage.org:80/Campbl24_files/filelist.xml",
+          "length": "424"
+        },
+        {
+          "ts": "20020224122059",
+          "url": "http://www.phage.org:80/Campbl26_files/filelist.xml",
+          "length": "377"
+        },
+        {
+          "ts": "20020306145501",
+          "url": "http://www.phage.org:80/Campbl31_files/filelist.xml",
+          "length": "402"
+        },
+        {
+          "ts": "20020416053940",
+          "url": "http://www.phage.org:80/Campbl34_files/filelist.xml",
+          "length": "522"
+        },
+        {
+          "ts": "20020222172255",
+          "url": "http://www.phage.org:80/Campbl51_files/filelist.xml",
+          "length": "408"
+        },
+        {
+          "ts": "20020404075648",
+          "url": "http://www.phage.org:80/Campbl54_files/filelist.xml",
+          "length": "417"
+        },
+        {
+          "ts": "20020419144027",
+          "url": "http://www.phage.org:80/cv_files/filelist.xml",
+          "length": "336"
+        },
+        {
+          "ts": "20020310114059",
+          "url": "http://www.phage.org:80/descriptions/abedon_113_files/filelist.xml",
+          "length": "366"
+        },
+        {
+          "ts": "20020310113851",
+          "url": "http://www.phage.org:80/descriptions/abedon_114_files/filelist.xml",
+          "length": "345"
+        },
+        {
+          "ts": "20020224122414",
+          "url": "http://www.phage.org:80/descriptions/descriptions_title_index_files/filelist.xml",
+          "length": "353"
+        },
+        {
+          "ts": "20020107160136",
+          "url": "http://www.phage.org:80/my_tie_page_files/filelist.xml",
+          "length": "376"
+        },
+        {
+          "ts": "20221020160655",
+          "url": "https://www.phage.org/names/2000/names.xls",
+          "length": "1600340"
+        },
+        {
+          "ts": "19990124010635",
+          "url": "http://www.phage.org:80/robots.txt",
+          "length": "388"
+        }
+      ]
+    },
+    "ulaval": {
+      "status": 200,
+      "file_refs": []
+    },
+    "aaof": {
+      "status": 403,
+      "refs": []
+    },
+    "vizier132": {
+      "status": null,
+      "refs": []
+    },
+    "vizier132_readme": {
+      "label": "VizieR VI/132C ReadMe (head)",
+      "url": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/VI/132C?format=txt",
+      "http_status": null,
+      "bytes_downloaded": 0,
+      "truncated_at_cap": false,
+      "content_type": null,
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "verdict": "UNREACHABLE / EMPTY"
+    },
+    "lunar_cdx": {
+      "collapsed": 5823,
+      "ok200_data": 53,
+      "files": [
+        {
+          "ts": "20070728023150",
+          "url": "http://www.lunar-occultations.com/bobgraze/a.zip",
+          "length": "57898"
+        },
+        {
+          "ts": "20150623210256",
+          "url": "http://www.lunar-occultations.com/bobgraze/b.zip",
+          "length": "63663"
+        },
+        {
+          "ts": "20070728023322",
+          "url": "http://www.lunar-occultations.com/bobgraze/c.zip",
+          "length": "42931"
+        },
+        {
+          "ts": "20070728023253",
+          "url": "http://www.lunar-occultations.com/bobgraze/d.zip",
+          "length": "46083"
+        },
+        {
+          "ts": "20070728023145",
+          "url": "http://www.lunar-occultations.com/bobgraze/e.zip",
+          "length": "48680"
+        },
+        {
+          "ts": "20150627025948",
+          "url": "http://www.lunar-occultations.com/bobgraze/f.zip",
+          "length": "67295"
+        },
+        {
+          "ts": "20070728023734",
+          "url": "http://www.lunar-occultations.com/bobgraze/g.zip",
+          "length": "47140"
+        },
+        {
+          "ts": "20150623205216",
+          "url": "http://www.lunar-occultations.com/bobgraze/grazeobs.zip",
+          "length": "97641"
+        },
+        {
+          "ts": "20070728023821",
+          "url": "http://www.lunar-occultations.com/bobgraze/h.zip",
+          "length": "48295"
+        },
+        {
+          "ts": "20030118120732",
+          "url": "http://www.lunar-occultations.com:80/iota/2003bstare/multisit.txt",
+          "length": "2947"
+        },
+        {
+          "ts": "20060615145409",
+          "url": "http://www.lunar-occultations.com:80/iota/2006_2010tno.zip",
+          "length": "2974"
+        },
+        {
+          "ts": "20060221220953",
+          "url": "http://www.lunar-occultations.com:80/iota/2006planets/2006planetsall.zip",
+          "length": "27189"
+        },
+        {
+          "ts": "20060221220946",
+          "url": "http://www.lunar-occultations.com:80/iota/2006planets/planetsallold.zip",
+          "length": "26688"
+        },
+        {
+          "ts": "20060221221005",
+          "url": "http://www.lunar-occultations.com:80/iota/2006planets/summarybydateall.zip",
+          "length": "11511"
+        },
+        {
+          "ts": "20060221220959",
+          "url": "http://www.lunar-occultations.com:80/iota/2006planets/summarybymagall.zip",
+          "length": "11606"
+        },
+        {
+          "ts": "20060221221012",
+          "url": "http://www.lunar-occultations.com:80/iota/2006planets/summarybynameall.zip",
+          "length": "11450"
+        },
+        {
+          "ts": "20060615145517",
+          "url": "http://www.lunar-occultations.com:80/iota/2006tno.zip",
+          "length": "45256"
+        },
+        {
+          "ts": "20220121073403",
+          "url": "http://www.lunar-occultations.com/iota/All2022.xml",
+          "length": "457764"
+        },
+        {
+          "ts": "20230119142904",
+          "url": "http://www.lunar-occultations.com/iota/All2023.xml",
+          "length": "349843"
+        },
+        {
+          "ts": "20240528025846",
+          "url": "http://www.lunar-occultations.com/iota/All2024.xml",
+          "length": "1762795"
+        },
+        {
+          "ts": "20250115092932",
+          "url": "http://www.lunar-occultations.com/iota/All2025.xml",
+          "length": "313066"
+        },
+        {
+          "ts": "20001028175025",
+          "url": "http://www.lunar-occultations.com:80/iota/asteroids/adc.zip",
+          "length": "24066"
+        },
+        {
+          "ts": "20071011224936",
+          "url": "http://lunar-occultations.com/iota/asteroids/observations.zip",
+          "length": "328410"
+        },
+        {
+          "ts": "20060715184658",
+          "url": "http://www.lunar-occultations.com:80/iota/asteroids/occelmnt2007.zip",
+          "length": "3312571"
+        },
+        {
+          "ts": "20060221215045",
+          "url": "http://www.lunar-occultations.com:80/iota/deltaat.dat",
+          "length": "495"
+        }
+      ]
+    },
+    "lunar_sample": {
+      "label": "lunar-occultations smallest wb (375 B CDX)",
+      "url": "https://web.archive.org/web/20011004192118id_/http://lunar-occultations.com:80/iota/eurosit.dat",
+      "http_status": 200,
+      "bytes_downloaded": 257,
+      "truncated_at_cap": false,
+      "content_type": "text/plain",
+      "error": null,
+      "md5_full": "f3578d3c0ed4e2dc9919cb7ea7bd1fc5",
+      "md5_head1mb": "f3578d3c0ed4e2dc9919cb7ea7bd1fc5",
+      "looks_html": false,
+      "lines_sampled": 9,
+      "first_line": "User-agent: excite",
+      "verdict": "REAL \u2014 decodable text data",
+      "saved_to": "gold/campaign15-verify/lunar-eurosit.dat"
+    },
+    "rasc_pdf": {
+      "label": "IOTA RASC 2026 lunar PDF (predictions, not timings)",
+      "url": "https://occultations.org/publications/rasc/2026/lunar26.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 768476,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "3025b34433fa03927f834fc63f989fa3",
+      "md5_head1mb": "3025b34433fa03927f834fc63f989fa3",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign15-verify/iota-rasc2026-lunar.pdf"
+    },
+    "wfpdb_readme": {
+      "label": "WFPDB VI/90 ReadMe (head)",
+      "url": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/VI/90?format=txt",
+      "http_status": null,
+      "bytes_downloaded": 0,
+      "truncated_at_cap": false,
+      "content_type": null,
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "verdict": "UNREACHABLE / EMPTY"
+    },
+    "applause_dr3": {
+      "status": 200,
+      "mentions": {
+        "70276": 1,
+        "70,276": 0,
+        "logbook": 11,
+        "plate": 36
+      }
+    },
+    "skyarchive_head": {
+      "status": 200,
+      "size": "1916",
+      "type": "text/html"
+    },
+    "manchester": {
+      "status": 200,
+      "collection_links": [
+        "/resources/search-resources/digital-collections/",
+        "/rylands/special-collections/",
+        "/rylands/special-collections/a-to-z/",
+        "/rylands/special-collections/search/",
+        "/rylands/special-collections/subject-areas/",
+        "/rylands/special-collections/teaching-and-learning/",
+        "/rylands/special-collections/using-the-reading-rooms/",
+        "/services/digitisation-services/projects/jodrell-bank-logbooks/",
+        "/services/digitisation-services/projects/nashriyah-digital-iranian-history/",
+        "/training/accessibility-and-inclusion/collections/managing-our-collections/",
+        "https://rylandscollections.wordpress.com/2012/09/24/sir-bernard-lovell-1913-2012/"
+      ]
+    },
+    "bigear_pdf": {
+      "label": "Cosmic Search 13 \u2014 Reber first radio maps (bigear.org)",
+      "url": "https://www.bigear.org/CSMO/PDF/CS13/cs13p14.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 605705,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "14e1ee2bd29c746c9ea7ba49ae6349ed",
+      "md5_head1mb": "14e1ee2bd29c746c9ea7ba49ae6349ed",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign15-verify/bigear-cs13-reber.pdf"
+    },
+    "bell_pdf": {
+      "label": "Bell Burnell Cosmic Search \u2014 pen-chart pulsar account",
+      "url": "https://magonia.com/wp-content/uploads/2016/10/cosmic-search-jocelyn-bell.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 219993,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "ae235ef2876df43dc21f1e89c5f21698",
+      "md5_head1mb": "ae235ef2876df43dc21f1e89c5f21698",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign15-verify/bell-cosmic-search.pdf"
+    }
+  }
+}

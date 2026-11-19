@@ -1,0 +1,282 @@
+{
+  "campaign14_mammal6": [
+    {
+      "niche": "hair-medulla-cross-sections",
+      "label": "Hair Atlas home/species index (hairatlas.hu \u2014 Toth 2017)",
+      "url": "https://www.hairatlas.hu/index.php?m2=species",
+      "pages": 12,
+      "unique_data_files": 0,
+      "images": 18,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 1,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "hair-medulla-cross-sections",
+      "label": "Hair Atlas \u2014 Cervidae & Bovidae spread PDF (medulla + cross-section)",
+      "url": "https://hairatlas.hu/pdf/Hair_atlas_212-213.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "hair-medulla-cross-sections",
+      "label": "ZSI Trichotaxonomy of Ratufa PDF (medulla + cross-section tables)",
+      "url": "https://zsi.gov.in/public/PDFVolumes/records/110/03/0037-0057.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "sheep-goat-nose-prints",
+      "label": "JOE 2006 \u2014 Retinal imaging vs nose prints, Indiana 4-H beef & sheep (slideshare mirror)",
+      "url": "https://www.slideshare.net/slideshow/2006-an-evaluation-of-retinal-imaging-technology-for-4h-beef-and-sheep-identification/3310171",
+      "pages": 1,
+      "unique_data_files": 0,
+      "images": 58,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "sheep-goat-nose-prints",
+      "label": "MDPI \u2014 Sheep & goat face classifier (muzzle/coat/ear, Roboflow/YOLOv8)",
+      "url": "https://www.mdpi.com/2624-7402/6/4/204",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "cat-nose-leather-patterns",
+      "label": "KNAU Bulletin \u2014 Tentieva & Arbaev 2025 cat nasolabial mirror (n=157)",
+      "url": "https://knau-bulletin.com/en/journals/tom-23-2-2025/kharakteristika-papillyarnogo-stroyeniya-nosogubnogo-zerkala-koshek",
+      "pages": 1,
+      "unique_data_files": 0,
+      "images": 1,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "cat-nose-leather-patterns",
+      "label": "CFA \u2014 Inside the Cat's Nose (nose-print summary)",
+      "url": "https://cfa.org/cat-talk/inside-the-cats-nose/",
+      "pages": 1,
+      "unique_data_files": 1,
+      "images": 1,
+      "top": [
+        {
+          "name": "jquery.json",
+          "url": "https://cfa.org/wp-content/plugins/gravityforms/js/jquery.json",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "hoof-cloven-track-systems",
+      "label": "NMSU Circular 561 \u2014 Identifying & Preserving Wildlife Tracks PDF (hoof measurements)",
+      "url": "https://pubs.nmsu.edu/_circulars/CR561.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "hoof-cloven-track-systems",
+      "label": "Stuart Field Guide to Tracks & Signs \u2014 preview PDF (cloven-hoof reference)",
+      "url": "https://api.pageplace.de/preview/DT0400.9781775840305_A20871588/preview-9781775840305_A20871588.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "claw-mark-archives",
+      "label": "Diversity 2022 \u2014 Three bears NE India, claw-mark method applied (MDPI PDF)",
+      "url": "https://mdpi-res.com/d_attachment/diversity/diversity-14-00717/article_deploy/diversity-14-00717.pdf?version=1661778465",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "claw-mark-archives",
+      "label": "UMN Conservancy \u2014 Steinmetz 2009 thesis (claw-mark discriminant, captive n=43)",
+      "url": "https://conservancy.umn.edu/items/7df0f099-e63b-49c7-beb7-c61f85cf85ee",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "bite-mark-records",
+      "label": "FSI Animals & Environments 2023 \u2014 bear attack taphonomy PDF (scavengers.cat)",
+      "url": "https://scavengers.cat/wp-content/uploads/2023/12/1-s2.0-S2666937423000148-main.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "bite-mark-records",
+      "label": "PMC \u2014 Purussaurus bite marks on sloth tibia (46 tooth marks, figshare supplement)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7480153/",
+      "pages": 1,
+      "unique_data_files": 1,
+      "images": 23,
+      "top": [
+        {
+          "name": "browserconfig.xml",
+          "url": "https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/browserconfig.xml",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "vibrissae-follicle-maps",
+      "label": "MMU e-space \u2014 Evans & Elder diceCT pinniped mystacial pad methods PDF",
+      "url": "https://e-space.mmu.ac.uk/638064/8/EVANS_AND_ELDER_DiceCT_Methods_Pinnipeds_FINAL_SUBMISSION.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "vibrissae-follicle-maps",
+      "label": "PubMed \u2014 Harbour seal mystacial pad diceCT paper record",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39404176/",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "tail-pattern-systems",
+      "label": "San Diego Zoo Library \u2014 Ring-tailed lemur fact sheet (tail-ring counts)",
+      "url": "https://ielc.libguides.com/sdzg/factsheets/ringtailedlemur/characteristics",
+      "pages": 1,
+      "unique_data_files": 1,
+      "images": 6,
+      "top": [
+        {
+          "name": "browserconfig.xml",
+          "url": "https://d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/browserconfig.xml",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "tail-pattern-systems",
+      "label": "Tasmania DPIPWE \u2014 Ring-tailed lemur pest risk assessment PDF",
+      "url": "https://nre.tas.gov.au/Documents/Ring%20tailed%20lemur%20risk%20assessment.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "lab-animal-marking-records",
+      "label": "Jackson Laboratory Green Book Ch.3 \u2014 Keeping Records (ear-punch code, ledgers)",
+      "url": "http://www.informatics.jax.org/greenbook/chapters/chapter3.shtml",
+      "pages": 4,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "lab-animal-marking-records",
+      "label": "USDA 1949 \u2014 Raising Laboratory Mice and Rats (toe-clip/ear-mark Fig.3, archive.org)",
+      "url": "https://ia903202.us.archive.org/7/items/raisinglaborator253eato/raisinglaborator253eato_bw.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "lab-animal-marking-records",
+      "label": "Scand J Lab Anim Sci 1988 \u2014 Review of lab-animal identification methods PDF",
+      "url": "https://ojs.utlib.ee/index.php/SJLAS/article/download/21751/16479/28642",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    }
+  ]
+}

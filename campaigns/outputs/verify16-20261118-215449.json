@@ -1,0 +1,340 @@
+{
+  "verify16": {
+    "concrete_datadory": {
+      "status": 200,
+      "data_links": [
+        "https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength"
+      ]
+    },
+    "concrete_samples": [
+      {
+        "label": "concrete dataset file",
+        "url": "https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength",
+        "http_status": 200,
+        "bytes_downloaded": 119937,
+        "truncated_at_cap": false,
+        "content_type": "text/html",
+        "error": null,
+        "md5_full": "55e6655c518a182958d928056d910c14",
+        "md5_head1mb": "55e6655c518a182958d928056d910c14",
+        "looks_html": true,
+        "verdict": "PHANTOM \u2014 HTML page, not data"
+      }
+    ],
+    "concrete_journal_pdf": {
+      "label": "Concrete journal 1930-10 PDF (archive.org, cap 6MB)",
+      "url": "https://archive.org/download/concrete_1930-10_37_4/concrete_1930-10_37_4.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 6029312,
+      "truncated_at_cap": true,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": null,
+      "md5_head1mb": "6408755c873eaf96542afe6db4a4cf3f",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true
+    },
+    "clowes_reports": [
+      {
+        "label": "Clowes technical report c10042a-d.pdf",
+        "url": "https://paintings.theclowescollection.org/downloads/technical-reports/c10042a-d.pdf",
+        "http_status": 200,
+        "bytes_downloaded": 18824836,
+        "truncated_at_cap": false,
+        "content_type": "application/pdf",
+        "error": null,
+        "md5_full": "40df21f5368c0bb200aa29aafc4a5e9f",
+        "md5_head1mb": "46ca16ad163978b1988fd56ff0a9ab2b",
+        "looks_html": false,
+        "verdict": "REAL \u2014 PDF",
+        "pdf": true,
+        "saved_to": "gold/campaign16-verify/clowes-c10042a-d.pdf"
+      },
+      {
+        "label": "Clowes technical report c10057.pdf",
+        "url": "https://paintings.theclowescollection.org/downloads/technical-reports/c10057.pdf",
+        "http_status": 200,
+        "bytes_downloaded": 3362589,
+        "truncated_at_cap": false,
+        "content_type": "application/pdf",
+        "error": null,
+        "md5_full": "e7fd160041bb06b087073a15f20b3bed",
+        "md5_head1mb": "0f9d85a34802cc313352447a102e3cb2",
+        "looks_html": false,
+        "verdict": "REAL \u2014 PDF",
+        "pdf": true,
+        "saved_to": "gold/campaign16-verify/clowes-c10057.pdf"
+      },
+      {
+        "label": "Clowes technical report c10028.pdf",
+        "url": "https://paintings.theclowescollection.org/downloads/technical-reports/c10028.pdf",
+        "http_status": 200,
+        "bytes_downloaded": 2868690,
+        "truncated_at_cap": false,
+        "content_type": "application/pdf",
+        "error": null,
+        "md5_full": "b4a95bc820b0be00789121c4d88233a9",
+        "md5_head1mb": "e38c86f0f2b967771b2d4a19e6a479f1",
+        "looks_html": false,
+        "verdict": "REAL \u2014 PDF",
+        "pdf": true,
+        "saved_to": "gold/campaign16-verify/clowes-c10028.pdf"
+      }
+    ],
+    "opd": {
+      "status": 200,
+      "access_on_request": true,
+      "n_sections_stated": true,
+      "part_not_digital": true
+    },
+    "psa_head": {
+      "status": 200,
+      "size": "1372",
+      "type": "text/html"
+    },
+    "bl_repo": {
+      "status": 200,
+      "download_links": []
+    },
+    "ia_playbill_item": {
+      "n_files": 16,
+      "files": [
+        {
+          "name": "__ia_thumb.jpg",
+          "size": "10273"
+        },
+        {
+          "name": "playbill_the_plymouth_theatre_the_happy_time.pdf",
+          "size": "6842856"
+        },
+        {
+          "name": "playbill_the_plymouth_theatre_the_happy_time_archive.torrent",
+          "size": "41057"
+        },
+        {
+          "name": "playbill_the_plymouth_theatre_the_happy_time_chocr.html.gz",
+          "size": "516770"
+        },
+        {
+          "name": "playbill_the_plymouth_theatre_the_happy_time_djvu.txt",
+          "size": "34066"
+        },
+        {
+          "name": "playbill_the_plymouth_theatre_the_happy_time_djvu.xml",
+          "size": "502433"
+        },
+        {
+          "name": "playbill_the_plymouth_theatre_the_happy_time_files.xml",
+          "size": null
+        },
+        {
+          "name": "playbill_the_plymouth_theatre_the_happy_time_hocr.html",
+          "size": "1039727"
+        },
+        {
+          "name": "playbill_the_plymouth_theatre_the_happy_time_hocr_pageindex.json.gz",
+          "size": "331"
+        },
+        {
+          "name": "playbill_the_plymouth_theatre_the_happy_time_hocr_searchtext.txt.gz",
+          "size": "16331"
+        },
+        {
+          "name": "playbill_the_plymouth_theatre_the_happy_time_images.tar",
+          "size": "1898890240"
+        },
+        {
+          "name": "playbill_the_plymouth_theatre_the_happy_time_jp2.zip",
+          "size": "23013718"
+        },
+        {
+          "name": "playbill_the_plymouth_theatre_the_happy_time_meta.sqlite",
+          "size": "20480"
+        },
+        {
+          "name": "playbill_the_plymouth_theatre_the_happy_time_meta.xml",
+          "size": "2965"
+        },
+        {
+          "name": "playbill_the_plymouth_theatre_the_happy_time_page_numbers.json",
+          "size": "4620"
+        },
+        {
+          "name": "playbill_the_plymouth_theatre_the_happy_time_scandata.xml",
+          "size": "9188"
+        }
+      ]
+    },
+    "ia_playbill_sample": {
+      "label": "archive.org playbill PDF",
+      "url": "https://archive.org/download/playbill_the_plymouth_theatre_the_happy_time/playbill_the_plymouth_theatre_the_happy_time.pdf",
+      "http_status": 401,
+      "bytes_downloaded": 172,
+      "truncated_at_cap": false,
+      "content_type": null,
+      "error": null,
+      "md5_full": "28c5f434e4ab2e2a682400cb005fb08b",
+      "md5_head1mb": "28c5f434e4ab2e2a682400cb005fb08b",
+      "looks_html": true,
+      "verdict": "PHANTOM \u2014 HTML page, not data"
+    },
+    "jcu_pioneer": {
+      "status": 200,
+      "wages_book_refs": 5,
+      "pdf_links": [
+        "Pioneer CT 1883 to 1906.pdf",
+        "Pioneer CT 1907 to 1913.pdf",
+        "Pioneer CT 1914 to 1920.pdf",
+        "Pioneer CT 1921 to 1931.pdf",
+        "Pioneer CT 1932 to 1963.pdf",
+        "Pioneer Letterbooks 1884 to 1942.pdf",
+        "pioneermaps.pdf"
+      ],
+      "archive_location_stated": true
+    },
+    "derbyshire": {
+      "status": null,
+      "extent_one_volume": false,
+      "repository": false,
+      "has_image_or_file": 0
+    },
+    "fulton": {
+      "status": 200,
+      "payroll_mentioned": true,
+      "personnel_restricted": true
+    },
+    "mysore_gazette": {
+      "label": "Mysore Gazette 1948 text PDF (booth statement inside, cap 6MB)",
+      "url": "https://archive.org/download/karnataka-state-archives-2026-348623/362_PART_2_5_3_JULY_DEC_1948_409_text.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 210565,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "e7d020c073c5c075d137bd089a0b212b",
+      "md5_head1mb": "e7d020c073c5c075d137bd089a0b212b",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true
+    },
+    "himachal_gazette": {
+      "label": "Himachal Gazette 1986 text PDF (cap 6MB)",
+      "url": "https://archive.org/download/in.gazette.himachalarchive.1986-09-13.3691/3691_text.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 2152131,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "e8623ec2bba2a86c47e0c473de461bc4",
+      "md5_head1mb": "e3dbdcb8d234e08f81b5d3656a8910b0",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true
+    },
+    "india_gazette_1953": {
+      "label": "Gazette of India 1953 election PDF",
+      "url": "https://archive.org/download/in.gazette.e.1953.219/E-2260-1953-0009-104687.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 1284429,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "6ba8251366b90328199b470b62665698",
+      "md5_head1mb": "9264e68b2ec5388b6efb722c32f61d08",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign16-verify/gazette-india-1953-election.pdf"
+    },
+    "seed_1926": {
+      "label": "1926 Northern Seed catalogue PDF (cap 6MB)",
+      "url": "https://archive.org/download/CAT31322813/CAT31322813_bw.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 6029312,
+      "truncated_at_cap": true,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": null,
+      "md5_head1mb": "2923c1a27f8acdab2769cae21928e74e",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true
+    },
+    "seed_1906": {
+      "label": "1906 Nebraska Seed catalogue PDF (cap 6MB)",
+      "url": "https://archive.org/download/CAT31288032/CAT31288032_bw.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 6029312,
+      "truncated_at_cap": true,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": null,
+      "md5_head1mb": "ee69933ef952aa6ec07a7dcf10f73a4f",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true
+    },
+    "ia_usda_seed_collection_count": 93315,
+    "unlv_item": {
+      "status": null,
+      "tif_refs": []
+    },
+    "nypl_data": {
+      "status": 404,
+      "export_links": []
+    },
+    "bgs_ags_api": {
+      "status": 200,
+      "n_features_sample": 5,
+      "number_matched": 75134,
+      "first_props": {
+        "bgs_loca_id": "20190306121225410",
+        "id": "20190306121225410",
+        "proj_name": null,
+        "proj_cont": null,
+        "proj_eng": null,
+        "x": 468699.0,
+        "y": 381762.0,
+        "loca_fdep": 1.3,
+        "rec_id": 54258.0,
+        "loca_id": "TP6",
+        "item_index_id": 125155.0,
+        "ags_log_url": "https://webservices.bgs.ac.uk/GWBV/viewborehole?loca_id=20190306121225410",
+        "dad_item_url": "http://www.bgs.ac.uk/services/ngdc/accessions/index.html#item125155"
+      },
+      "saved_to": "gold/campaign16-verify/bgs-ags-api-sample.geojson",
+      "md5_full": "ad08b637e69fa5ed4373f46ce14a6c3c"
+    },
+    "usgs_geolog": {
+      "status": 200,
+      "logs_stated_7000": true,
+      "downloadable": true
+    },
+    "howard_cdx": {
+      "collapsed": 10000,
+      "ok200": 0,
+      "files": []
+    },
+    "howard_live_head": {
+      "status": null,
+      "error": "HTTPConnectionPool(host='hatch-egress-proxy', port=3128): Read timed out. (read timeout=30)"
+    },
+    "kso_automatic": {
+      "status": 200,
+      "refs": []
+    },
+    "kso_cdx": {
+      "collapsed": 84,
+      "ok200_data": 0,
+      "files": []
+    },
+    "mtwilson": {
+      "status": 200,
+      "drawing_links": [
+        "https://www.mtwilson.edu/sunspot-drawings",
+        "https://www.mtwilson.edu/wp-content/uploads/2024/08/sunspot-1.png"
+      ]
+    }
+  }
+}

@@ -34,6 +34,10 @@ projects under `spinoffs/`.
 | Campaign 10 / Broad Wave 2B | 2026-11-18 | Broad registry seeds 11–20, 10 niches | **GOLD** — LAGS dialect pile stranded at its former host: 1,082 informant folders vs 64 covered by formal products; minted as a pre-registered transcription audit; SILVER glacier repeat photos, dye books, endangered-language finding aids ([shortlist](campaigns/SHORTLIST-CAMPAIGN10-WAVE2B-2026-11-18.md), [spin-off](spinoffs/lags-transcription-audit/)) |
 | Campaign 11 / Mammal Wave 3 | 2026-11-18 | Mammal registry next band | No gold; 2 SILVER (published-by-design: SealID, GZGC sets on LILA), 5 inventory, rest custody/kill ([shortlist](campaigns/SHORTLIST-CAMPAIGN11-MAMMAL3-2026-11-18.md)) |
 | Campaign 12 / Mammal Wave 4 | 2026-11-18 | Mammal registry 7-band, 10 niches | No gold, no silver; 4 inventory, 6 kill/custody; registry scores recalibrated ([shortlist](campaigns/SHORTLIST-CAMPAIGN12-MAMMAL4-2026-11-18.md)) |
+| Campaign 13 / Mammal Wave 5 | 2026-11-18 | Mammal registry ranks 34–41, 8 niches | No gold, no silver; 3 inventory, 5 kill — museum drawers, a subscription platform, lab-held photo sets, paper-by-law registries ([shortlist](campaigns/SHORTLIST-CAMPAIGN13-MAMMAL5-2026-11-18.md)) |
+| Campaign 14 / Mammal Wave 6 | 2026-11-18 | Mammal registry ranks 42–50, 9 niches | No gold, no silver; 3 inventory, 6 kill — **the mammal registry is now exhausted, 50/50 fired** ([shortlist](campaigns/SHORTLIST-CAMPAIGN14-MAMMAL6-2026-11-18.md)) |
+| Campaign 15 / Broad Wave 3A | 2026-11-18 | Broad registry ranks 28–36, 9 niches | No gold, no silver; 6 inventory, 3 kill — the recurring shape is completion: the fields have already run the proposed comparisons ([shortlist](campaigns/SHORTLIST-CAMPAIGN15-BROAD3A-2026-11-18.md)) |
+| Campaign 16 / Broad Wave 3B | 2026-11-18 | Broad registry ranks 37–45, 9 niches | No gold; 1 small SILVER (UNLV Bohn-Bettoni menu collection, published by design), 6 inventory, 2 kill ([shortlist](campaigns/SHORTLIST-CAMPAIGN16-BROAD3B-2026-11-18.md)) |
 
 Campaign scripts, verify passes and output JSONs are in `campaigns/`
 and `campaigns/outputs/`; the two niche registries are

@@ -1,0 +1,184 @@
+{
+  "verify14": {
+    "hairatlas_cdx": {
+      "rows": 10,
+      "status200": 10,
+      "sample_urls": [
+        "http://hairatlas.hu/pdf/Hair_atlas_196-197.pdf",
+        "http://hairatlas.hu/pdf/Hair_atlas_212-213.pdf",
+        "http://hairatlas.hu/pdf/Hair_atlas_244.pdf",
+        "http://hairatlas.hu/pdf/Hair_atlas_278.pdf",
+        "http://hairatlas.hu/pdf/Hair_atlas_52-53.pdf",
+        "http://hairatlas.hu/pdf/Hair_atlas_90-91.pdf",
+        "http://www.hairatlas.hu/pdf/Hair_atlas_Checklist.pdf",
+        "http://www.hairatlas.hu/pdf/Hair_atlas_Index.pdf",
+        "http://www.hairatlas.hu/pdf/Hair_atlas_Literature.pdf",
+        "http://www.hairatlas.hu/pdf/Hair_atlas_Museum_codes.pdf"
+      ]
+    },
+    "hair_atlas_spread": {
+      "label": "Hair Atlas Cervidae & Bovidae spread (medulla/cross-section)",
+      "url": "https://hairatlas.hu/pdf/Hair_atlas_212-213.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 366797,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "ae85cf94a6b587d04b165d7af7fa7eda",
+      "md5_head1mb": "ae85cf94a6b587d04b165d7af7fa7eda",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign14-verify/hair-atlas-212-213.pdf"
+    },
+    "hair_atlas_soricomorpha": {
+      "label": "Hair Atlas Soricomorpha spread (medulla/cross-section)",
+      "url": "http://hairatlas.hu/pdf/Hair_atlas_90-91.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 331346,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "f26160b28d560b5ddd1192352f538835",
+      "md5_head1mb": "f26160b28d560b5ddd1192352f538835",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign14-verify/hair-atlas-90-91.pdf"
+    },
+    "zsi_ratufa": {
+      "label": "ZSI Trichotaxonomy of Ratufa (medullary index + cross-section)",
+      "url": "https://zsi.gov.in/public/PDFVolumes/records/110/03/0037-0057.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 826447,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "3c6881dcd662aa22aa905db8ae1f81a6",
+      "md5_head1mb": "3c6881dcd662aa22aa905db8ae1f81a6",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign14-verify/zsi-ratufa-trichotaxonomy.pdf"
+    },
+    "hyena_medulla": {
+      "label": "De & Chakraborty hyena guard hair (medullary index 0.57, Zenodo/BHL)",
+      "url": "https://zenodo.org/records/13475121/files/bhlpart155754.pdf?download=1",
+      "http_status": 200,
+      "bytes_downloaded": 2977512,
+      "truncated_at_cap": false,
+      "content_type": "application/octet-stream, application/octet-stream",
+      "error": null,
+      "md5_full": "09d0f7cb51114e0738e6b90f8f9d5d56",
+      "md5_head1mb": "3ffb83b715a4a58aa5bab9a567c28276",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign14-verify/hyena-medulla-bhl.pdf"
+    },
+    "joe_4h": {
+      "status": 200,
+      "snippet": "2% for beef and 100% for sheep, while retinal imaging was found to be more effective than nose printing, despite a longer collection time",
+      "note": "Indiana 4-H: 491 beef + 220 sheep enrolled, nose prints on index cards by county committees (discovery-pass full text)"
+    },
+    "tentieva": {
+      "status": 200,
+      "n157_snippet": " The nasolabial mirrors of 157 cats were examined, including repeated imprinting in 14 individuals after a certain time interval",
+      "stamp_snippet": "ollowing methods were applied during the study: taking prints using Trodat 9052 stamp pad and paper, scanning images of prints, digital processing using CorelDraw 2017 and Adobe Photoshop programs, as well as "
+    },
+    "nmsu_tracks": {
+      "label": "NMSU Circular 561 Identifying & Preserving Wildlife Tracks",
+      "url": "https://pubs.nmsu.edu/_circulars/CR561.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 2380760,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "82ee64f0ebff7112fd6e1aafb4c3e82e",
+      "md5_head1mb": "9785e546d02c41d4ee5cbe29cc0c3a77",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign14-verify/nmsu-tracks-561.pdf"
+    },
+    "mdpi_claw": {
+      "label": "Diversity 2022 three bears NE India (claw-mark method)",
+      "url": "https://mdpi-res.com/d_attachment/diversity/diversity-14-00717/article_deploy/diversity-14-00717.pdf?version=1661778465",
+      "http_status": 200,
+      "bytes_downloaded": 1511530,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "1128dafabbcbde822a4ce878ff6667af",
+      "md5_head1mb": "7073c123a9c724c1d59ca0b28cec31c5",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign14-verify/mdpi-claw-bears-2022.pdf"
+    },
+    "fsi_bite": {
+      "label": "FSI Animals & Environments 2023 bear-attack taphonomy (tooth pits)",
+      "url": "https://scavengers.cat/wp-content/uploads/2023/12/1-s2.0-S2666937423000148-main.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 8129153,
+      "truncated_at_cap": false,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": "cf324f33b567f7a9431fcd4176074877",
+      "md5_head1mb": "da318171c8a1eb4e712f19e575984fb0",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true,
+      "saved_to": "gold/campaign14-verify/fsi-bear-taphonomy-2023.pdf"
+    },
+    "mmu_dicect": {
+      "label": "Evans & Elder diceCT pinniped mystacial pad methods (MMU e-space)",
+      "url": "https://e-space.mmu.ac.uk/638064/8/EVANS_AND_ELDER_DiceCT_Methods_Pinnipeds_FINAL_SUBMISSION.pdf",
+      "http_status": 202,
+      "bytes_downloaded": 0,
+      "truncated_at_cap": false,
+      "content_type": "text/html; charset=UTF-8",
+      "error": null,
+      "verdict": "UNREACHABLE / EMPTY"
+    },
+    "lemur_risk": {
+      "label": "Tasmania DPIPWE ring-tailed lemur risk assessment",
+      "url": "https://nre.tas.gov.au/Documents/Ring%20tailed%20lemur%20risk%20assessment.pdf",
+      "http_status": null,
+      "bytes_downloaded": 0,
+      "truncated_at_cap": false,
+      "content_type": null,
+      "error": "HTTPSConnectionPool(host='nre.tas.gov.au', port=443): Max retries exceeded with url: /Documents/Ring%20tailed%20lemur%20risk%20assessment.pdf (Caused by ProxyEr",
+      "verdict": "UNREACHABLE / EMPTY"
+    },
+    "jax_greenbook": {
+      "status": 200,
+      "ear_punch_snippet": " \rThe animals are marked with an ear punch according to the code shown in \r Figure 3-2 ",
+      "code_snippet": "ear-marking system"
+    },
+    "usda_mice": {
+      "label": "USDA 1949 Raising Laboratory Mice and Rats (ear/toe Fig.3)",
+      "url": "https://ia903202.us.archive.org/7/items/raisinglaborator253eato/raisinglaborator253eato_bw.pdf",
+      "http_status": 200,
+      "bytes_downloaded": 2031616,
+      "truncated_at_cap": true,
+      "content_type": "application/pdf",
+      "error": null,
+      "md5_full": null,
+      "md5_head1mb": "394049d4abfe368b3a70122ebce355e7",
+      "looks_html": false,
+      "verdict": "REAL \u2014 PDF",
+      "pdf": true
+    },
+    "scand_marking": {
+      "label": "Scand J Lab Anim Sci 1988 identification-methods review",
+      "url": "https://ojs.utlib.ee/index.php/SJLAS/article/download/21751/16479/28642",
+      "http_status": null,
+      "bytes_downloaded": 0,
+      "truncated_at_cap": false,
+      "content_type": null,
+      "error": "HTTPSConnectionPool(host='ojs.utlib.ee', port=443): Read timed out. (read timeout=120)",
+      "verdict": "UNREACHABLE / EMPTY"
+    }
+  }
+}

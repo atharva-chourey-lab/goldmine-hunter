@@ -1,0 +1,1273 @@
+{
+  "campaign15_broad3a": [
+    {
+      "niche": "bat-echolocation-libraries",
+      "label": "Avisoft batcalls \u2014 European bat lure-call library (vendor site, wav + zip)",
+      "url": "http://www.avisoft.com/batcalls/",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 515,
+      "wayback_data_files_raw": 587,
+      "wayback_sets_status200": {
+        "/sounds": 328,
+        "/batcalls/europe/playback": 91,
+        "/test": 44,
+        "/usg/rats": 17,
+        "/usg": 9,
+        "/": 8,
+        "/compression": 8,
+        "/sounds/stereo": 6,
+        "/DDE/RECORDER": 1,
+        "/DDE/SASLab": 1,
+        "/sounscapes": 1,
+        "/wp-includes": 1
+      },
+      "wayback_top": [
+        {
+          "name": "L_original_-_R_ATRAC.wav",
+          "url": "http://www.avisoft.com/compression/L_original_-_R_ATRAC.wav",
+          "first_capture": "20071107202114",
+          "status": "200"
+        },
+        {
+          "name": "original.wav",
+          "url": "http://www.avisoft.com/compression/original.wav",
+          "first_capture": "20071107202308",
+          "status": "200"
+        },
+        {
+          "name": "original8bit.wav",
+          "url": "http://www.avisoft.com/compression/original8bit.wav",
+          "first_capture": "20071107202151",
+          "status": "200"
+        },
+        {
+          "name": "originallow.wav",
+          "url": "http://www.avisoft.com/compression/originallow.wav",
+          "first_capture": "20071107202422",
+          "status": "200"
+        },
+        {
+          "name": "Barbastella_barbastellus_1_n.wav",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Barbastella_barbastellus_1_n.wav",
+          "first_capture": "20130125104239",
+          "status": "200"
+        },
+        {
+          "name": "Barbastella_barbastellus_1_o.wav",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Barbastella_barbastellus_1_o.wav",
+          "first_capture": "20130125111313",
+          "status": "200"
+        },
+        {
+          "name": "Barbastella_barbastellus_1_s.wav",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Barbastella_barbastellus_1_s.wav",
+          "first_capture": "20130125111430",
+          "status": "200"
+        },
+        {
+          "name": "Barbastella_barbastellus_2_o.wav",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Barbastella_barbastellus_2_o.wav",
+          "first_capture": "20130125111939",
+          "status": "200"
+        },
+        {
+          "name": "Barbastella_barbastellus_2_s.wav",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Barbastella_barbastellus_2_s.wav",
+          "first_capture": "20130125112107",
+          "status": "200"
+        },
+        {
+          "name": "Barbastella_barbastellus_3_o.wav",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Barbastella_barbastellus_3_o.wav",
+          "first_capture": "20130125104920",
+          "status": "200"
+        },
+        {
+          "name": "Eptesicus_nilssonii_1_o.wav",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Eptesicus_nilssonii_1_o.wav",
+          "first_capture": "20130125110850",
+          "status": "200"
+        },
+        {
+          "name": "Eptesicus_nilssonii_1_s.wav",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Eptesicus_nilssonii_1_s.wav",
+          "first_capture": "20130125104457",
+          "status": "200"
+        },
+        {
+          "name": "Eptesicus_nilssonii_2_o.wav",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Eptesicus_nilssonii_2_o.wav",
+          "first_capture": "20130125110819",
+          "status": "200"
+        },
+        {
+          "name": "Eptesicus_nilssonii_3_o.wav",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Eptesicus_nilssonii_3_o.wav",
+          "first_capture": "20130125111807",
+          "status": "200"
+        },
+        {
+          "name": "Eptesicus_serotinus_1_o.wav",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Eptesicus_serotinus_1_o.wav",
+          "first_capture": "20130125104314",
+          "status": "200"
+        },
+        {
+          "name": "Miniopterus_schreibersii_1_o.wav",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Miniopterus_schreibersii_1_o.wav",
+          "first_capture": "20130125104402",
+          "status": "200"
+        },
+        {
+          "name": "Myotis_bechsteinii_1_n.wav",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_bechsteinii_1_n.wav",
+          "first_capture": "20130125110840",
+          "status": "200"
+        },
+        {
+          "name": "Myotis_bechsteinii_1_s.wav",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_bechsteinii_1_s.wav",
+          "first_capture": "20130125112008",
+          "status": "200"
+        },
+        {
+          "name": "Myotis_bechsteinii_2_n.wav",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_bechsteinii_2_n.wav",
+          "first_capture": "20130125104421",
+          "status": "200"
+        },
+        {
+          "name": "Myotis_bechsteinii_2_s.wav",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_bechsteinii_2_s.wav",
+          "first_capture": "20130125110727",
+          "status": "200"
+        },
+        {
+          "name": "Myotis_bechsteinii_3_juv_o.wav",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_bechsteinii_3_juv_o.wav",
+          "first_capture": "20130125112028",
+          "status": "200"
+        },
+        {
+          "name": "Myotis_bechsteinii_3_juv_s.wav",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_bechsteinii_3_juv_s.wav",
+          "first_capture": "20130125111533",
+          "status": "200"
+        },
+        {
+          "name": "Myotis_bechsteinii_4_s.wav",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_bechsteinii_4_s.wav",
+          "first_capture": "20130125111201",
+          "status": "200"
+        },
+        {
+          "name": "Myotis_bechsteinii_5_o.wav",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_bechsteinii_5_o.wav",
+          "first_capture": "20130125111344",
+          "status": "200"
+        },
+        {
+          "name": "Myotis_brandtii_1_n.wav",
+          "url": "http://www.avisoft.com/batcalls/europe/playback/Myotis_brandtii_1_n.wav",
+          "first_capture": "20130125112543",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "bat-echolocation-libraries",
+      "label": "Animal Sound Labs \u2014 bat calls mirror/expanded table (animalsoundlabs.pl)",
+      "url": "https://animalsoundlabs.pl/en/bat-calls/",
+      "pages": 10,
+      "unique_data_files": 63,
+      "images": 134,
+      "top": [
+        {
+          "name": "Barbastella_barbastellus_1_o.wav",
+          "url": "http://batcalls.com/europe/playback/Barbastella_barbastellus_1_o.wav",
+          "score": 6
+        },
+        {
+          "name": "Barbastella_barbastellus_1_n.wav",
+          "url": "http://batcalls.com/europe/playback/Barbastella_barbastellus_1_n.wav",
+          "score": 6
+        },
+        {
+          "name": "Barbastella_barbastellus_1_s.wav",
+          "url": "http://batcalls.com/europe/playback/Barbastella_barbastellus_1_s.wav",
+          "score": 6
+        },
+        {
+          "name": "bb1_x3.wav",
+          "url": "https://animalsoundlabs.pl/wp-content/uploads/2018/07/bb1_x3.wav",
+          "score": 6
+        },
+        {
+          "name": "Barbastella_barbastellus_2_o.wav",
+          "url": "http://batcalls.com/europe/playback/Barbastella_barbastellus_2_o.wav",
+          "score": 6
+        },
+        {
+          "name": "Barbastella_barbastellus_2_s.wav",
+          "url": "http://batcalls.com/europe/playback/Barbastella_barbastellus_2_s.wav",
+          "score": 6
+        },
+        {
+          "name": "bb2_x10.wav",
+          "url": "https://animalsoundlabs.pl/wp-content/uploads/2018/07/bb2_x10.wav",
+          "score": 6
+        },
+        {
+          "name": "Barbastella_barbastellus_3_o.wav",
+          "url": "http://batcalls.com/europe/playback/Barbastella_barbastellus_3_o.wav",
+          "score": 6
+        },
+        {
+          "name": "bb3_x6.wav",
+          "url": "https://animalsoundlabs.pl/wp-content/uploads/2018/07/bb3_x6.wav",
+          "score": 6
+        },
+        {
+          "name": "Eptesicus_nilssonii_1_o.wav",
+          "url": "http://batcalls.com/europe/playback/Eptesicus_nilssonii_1_o.wav",
+          "score": 6
+        },
+        {
+          "name": "Eptesicus_nilssonii_1_s.wav",
+          "url": "http://batcalls.com/europe/playback/Eptesicus_nilssonii_1_s.wav",
+          "score": 6
+        },
+        {
+          "name": "en1_x2.wav",
+          "url": "https://animalsoundlabs.pl/wp-content/uploads/2018/07/en1_x2.wav",
+          "score": 6
+        },
+        {
+          "name": "Eptesicus_nilssonii_2_o.wav",
+          "url": "http://batcalls.com/europe/playback/Eptesicus_nilssonii_2_o.wav",
+          "score": 6
+        },
+        {
+          "name": "en2_x2.wav",
+          "url": "https://animalsoundlabs.pl/wp-content/uploads/2018/07/en2_x2.wav",
+          "score": 6
+        },
+        {
+          "name": "Eptesicus_nilssonii_3_o.wav",
+          "url": "http://batcalls.com/europe/playback/Eptesicus_nilssonii_3_o.wav",
+          "score": 6
+        },
+        {
+          "name": "en3_x1.wav",
+          "url": "https://animalsoundlabs.pl/wp-content/uploads/2018/07/en3_x1.wav",
+          "score": 6
+        },
+        {
+          "name": "Eptesicus_serotinus_1_o.wav",
+          "url": "http://batcalls.com/europe/playback/Eptesicus_serotinus_1_o.wav",
+          "score": 6
+        },
+        {
+          "name": "es1_x10.wav",
+          "url": "https://animalsoundlabs.pl/wp-content/uploads/2018/07/es1_x10.wav",
+          "score": 6
+        },
+        {
+          "name": "Miniopterus_schreibersii_1_o.wav",
+          "url": "http://batcalls.com/europe/playback/Miniopterus_schreibersii_1_o.wav",
+          "score": 6
+        },
+        {
+          "name": "ms1_x10.wav",
+          "url": "https://animalsoundlabs.pl/wp-content/uploads/2018/07/ms1_x10.wav",
+          "score": 6
+        },
+        {
+          "name": "Myotis_bechsteinii_1_n.wav",
+          "url": "http://batcalls.com/europe/playback/Myotis_bechsteinii_1_n.wav",
+          "score": 6
+        },
+        {
+          "name": "Myotis_bechsteinii_1_s.wav",
+          "url": "http://batcalls.com/europe/playback/Myotis_bechsteinii_1_s.wav",
+          "score": 6
+        },
+        {
+          "name": "mb1_x3.wav",
+          "url": "https://animalsoundlabs.pl/wp-content/uploads/2018/07/mb1_x3.wav",
+          "score": 6
+        },
+        {
+          "name": "Myotis_bechsteinii_2_n.wav",
+          "url": "http://batcalls.com/europe/playback/Myotis_bechsteinii_2_n.wav",
+          "score": 6
+        },
+        {
+          "name": "Myotis_bechsteinii_2_s.wav",
+          "url": "http://batcalls.com/europe/playback/Myotis_bechsteinii_2_s.wav",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 2,
+      "wayback_data_files_raw": 3,
+      "wayback_sets_status200": {
+        "/wp-content/uploads/2022/06": 1,
+        "/wp-includes": 1
+      },
+      "wayback_top": [
+        {
+          "name": "instal_config_1.mp4",
+          "url": "https://animalsoundlabs.pl/wp-content/uploads/2022/06/instal_config_1.mp4",
+          "first_capture": "20240315111057",
+          "status": "200"
+        },
+        {
+          "name": "wlwmanifest.xml",
+          "url": "http://animalsoundlabs.pl/wp-includes/wlwmanifest.xml",
+          "first_capture": "20180307201050",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "bat-echolocation-libraries",
+      "label": "ChiroVox \u2014 the bat call library (formal platform, help/access page)",
+      "url": "https://www.chirovox.org/help.php",
+      "pages": 9,
+      "unique_data_files": 1,
+      "images": 29,
+      "top": [
+        {
+          "name": "response.json",
+          "url": "https://www.chirovox.org/response.json",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "bat-echolocation-libraries",
+      "label": "Morcegoteca \u2014 PPBio/INPA bat ultrasound library (formal programme site)",
+      "url": "https://ppbio.inpa.gov.br/en/Bat_Library",
+      "pages": 15,
+      "unique_data_files": 3,
+      "images": 73,
+      "top": [
+        {
+          "name": "SGC.zip",
+          "url": "https://ppbio.inpa.gov.br/sites/default/files/SGC.zip",
+          "score": 4
+        },
+        {
+          "name": "SIG_oficial_BR319.zip",
+          "url": "https://ppbio.inpa.gov.br/sites/default/files/SIG_oficial_BR319.zip",
+          "score": 4
+        },
+        {
+          "name": "fwdmapagrade_nhumirim.zip",
+          "url": "https://ppbio.inpa.gov.br/sites/default/files/fwdmapagrade_nhumirim.zip",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "bat-echolocation-libraries",
+      "label": "Bat Sound Database \u2014 personal European social-call site",
+      "url": "https://www.bat-sound-database.com/about",
+      "pages": 10,
+      "unique_data_files": 0,
+      "images": 459,
+      "top": [],
+      "wayback_data_files_status200": 3,
+      "wayback_data_files_raw": 14,
+      "wayback_sets_status200": {
+        "/": 2,
+        "/.well-known": 1
+      },
+      "wayback_top": [
+        {
+          "name": "sitemap.xml",
+          "url": "https://www.bat-sound-database.com/sitemap.xml",
+          "first_capture": "20240811145528",
+          "status": "200"
+        },
+        {
+          "name": "security.txt",
+          "url": "https://www.bat-sound-database.com/.well-known/security.txt",
+          "first_capture": "20240811173648",
+          "status": "200"
+        },
+        {
+          "name": "robots.txt",
+          "url": "https://www.bat-sound-database.com/robots.txt",
+          "first_capture": "20240811125225",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "bat-echolocation-libraries",
+      "label": "TERN \u2014 Australian Bat Acoustic Data Collection record (formal portal)",
+      "url": "https://portal.tern.org.au/metadata/TERN/9c47fe65-86c0-4cbd-bb28-73d30c3fd6c1",
+      "pages": 5,
+      "unique_data_files": 1,
+      "images": 1,
+      "top": [
+        {
+          "name": "ro-crate-metadata.json",
+          "url": "https://portal.tern.org.au/metadata/TERN/ro-crate-metadata.json",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "butterfly-wing-drawers",
+      "label": "BioCosmos / LepiVerse image occurrences \u2014 Zenodo record (GBIF-aggregated, formal)",
+      "url": "http://zenodo.org/records/23840624",
+      "pages": 5,
+      "unique_data_files": 7,
+      "images": 25,
+      "top": [
+        {
+          "name": "image_occurrences_columns.csv",
+          "url": "http://zenodo.org/records/23840624/files/image_occurrences_columns.csv?download=1",
+          "score": 9
+        },
+        {
+          "name": "image_occurrences.csv",
+          "url": "http://zenodo.org/records/23840624/files/image_occurrences.csv",
+          "score": 9
+        },
+        {
+          "name": "nimage_occurrences_columns.csv",
+          "url": "http://zenodo.org/records/nimage_occurrences_columns.csv",
+          "score": 9
+        },
+        {
+          "name": "image_occurrences.parquet",
+          "url": "http://zenodo.org/records/23840624/files/image_occurrences.parquet?download=1",
+          "score": 7
+        },
+        {
+          "name": "image_occurrences_manifest.json",
+          "url": "http://zenodo.org/records/23840624/files/image_occurrences_manifest.json?download=1",
+          "score": 7
+        },
+        {
+          "name": "nimage_occurrences.parquet",
+          "url": "http://zenodo.org/records/nimage_occurrences.parquet",
+          "score": 7
+        },
+        {
+          "name": "nimage_occurrences_manifest.json",
+          "url": "http://zenodo.org/records/nimage_occurrences_manifest.json",
+          "score": 7
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "butterfly-wing-drawers",
+      "label": "AfricaMuseum \u2014 Lepidoptera digitisation / DoeDat transcription project page",
+      "url": "https://www.africamuseum.be/en/research/news/citizen_science_butterfly_collection",
+      "pages": 10,
+      "unique_data_files": 0,
+      "images": 44,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "butterfly-wing-drawers",
+      "label": "BAMONA image gallery (field-photo platform, not specimen drawers)",
+      "url": "https://www.butterfliesandmoths.org/gallery?species_type=0&stage=adult&page=58",
+      "pages": 10,
+      "unique_data_files": 0,
+      "images": 69,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "snake-venom-spectra",
+      "label": "Zenodo \u2014 Vipera berus venom proteomics, sex variation (formal deposit)",
+      "url": "https://zenodo.org/records/16418915",
+      "pages": 5,
+      "unique_data_files": 4,
+      "images": 20,
+      "top": [
+        {
+          "name": "01_SG_Vipera_berus_male_DDA_RAW.zip",
+          "url": "https://zenodo.org/records/16418915/files/01_SG_Vipera_berus_male_DDA_RAW.zip?download=1",
+          "score": 7
+        },
+        {
+          "name": "01_SG_Vipera_berus_male_DIA_RAW.zip",
+          "url": "https://zenodo.org/records/16418915/files/01_SG_Vipera_berus_male_DIA_RAW.zip?download=1",
+          "score": 7
+        },
+        {
+          "name": "02_SG_Vipera_berus_female_DDA_RAW.zip",
+          "url": "https://zenodo.org/records/16418915/files/02_SG_Vipera_berus_female_DDA_RAW.zip?download=1",
+          "score": 7
+        },
+        {
+          "name": "02_SG_Vipera_berus_female_DIA_RAW.zip",
+          "url": "https://zenodo.org/records/16418915/files/02_SG_Vipera_berus_female_DIA_RAW.zip?download=1",
+          "score": 7
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "snake-venom-spectra",
+      "label": "Zenodo \u2014 Vipera monticola 3 subspecies venom proteomics (formal deposit)",
+      "url": "https://zenodo.org/records/11103867",
+      "pages": 5,
+      "unique_data_files": 4,
+      "images": 20,
+      "top": [
+        {
+          "name": "Uniprot_8570_serpentes_reviewed_CandIso_2747_entries_230398.fasta",
+          "url": "https://zenodo.org/records/11103867/files/Uniprot_8570_serpentes_reviewed_CandIso_2747_entries_230398.fasta?download=1",
+          "score": 6
+        },
+        {
+          "name": "01_SVX_Vipera_monticola_monticola.zip",
+          "url": "https://zenodo.org/records/11103867/files/01_SVX_Vipera_monticola_monticola.zip?download=1",
+          "score": 4
+        },
+        {
+          "name": "02_SVX_Vipera_monticola_atlantica.zip",
+          "url": "https://zenodo.org/records/11103867/files/02_SVX_Vipera_monticola_atlantica.zip?download=1",
+          "score": 4
+        },
+        {
+          "name": "03_SVX_Vipera_monticola_saintgironsi.zip",
+          "url": "https://zenodo.org/records/11103867/files/03_SVX_Vipera_monticola_saintgironsi.zip?download=1",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "snake-venom-spectra",
+      "label": "Zenodo \u2014 V. ammodytes island/mainland populations venom proteomics (formal deposit)",
+      "url": "https://zenodo.org/records/11482457",
+      "pages": 5,
+      "unique_data_files": 8,
+      "images": 20,
+      "top": [
+        {
+          "name": "Uniprot_8750_serpentes_CanNIso_2674_entries_220210_cRAP_220210.fasta",
+          "url": "https://zenodo.org/records/11482457/files/Uniprot_8750_serpentes_CanNIso_2674_entries_220210_cRAP_220210.fasta?download=1",
+          "score": 6
+        },
+        {
+          "name": "01_SVX_Vammodytes_1M_A_ISL.zip",
+          "url": "https://zenodo.org/records/11482457/files/01_SVX_Vammodytes_1M_A_ISL.zip?download=1",
+          "score": 4
+        },
+        {
+          "name": "02_SVX_Vammodytes_2F_A_ISL.zip",
+          "url": "https://zenodo.org/records/11482457/files/02_SVX_Vammodytes_2F_A_ISL.zip?download=1",
+          "score": 4
+        },
+        {
+          "name": "03_SVX_Vammodytes_3J_J_ISL.zip",
+          "url": "https://zenodo.org/records/11482457/files/03_SVX_Vammodytes_3J_J_ISL.zip?download=1",
+          "score": 4
+        },
+        {
+          "name": "04_SVX_Vammodytes_4S_S_ISL.zip",
+          "url": "https://zenodo.org/records/11482457/files/04_SVX_Vammodytes_4S_S_ISL.zip?download=1",
+          "score": 4
+        },
+        {
+          "name": "05_SVX_Vammodytes_5K_A_IML.zip",
+          "url": "https://zenodo.org/records/11482457/files/05_SVX_Vammodytes_5K_A_IML.zip?download=1",
+          "score": 4
+        },
+        {
+          "name": "06_SVX_Vammodytes_6S_S_ML.zip",
+          "url": "https://zenodo.org/records/11482457/files/06_SVX_Vammodytes_6S_S_ML.zip?download=1",
+          "score": 4
+        },
+        {
+          "name": "07_SVX_Vammodytes_7J_J_ML.zip",
+          "url": "https://zenodo.org/records/11482457/files/07_SVX_Vammodytes_7J_J_ML.zip?download=1",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "snake-venom-spectra",
+      "label": "PRIDE PXD016503 \u2014 snake venom protein structures (formal archive)",
+      "url": "https://www.ebi.ac.uk/pride/archive/projects/PXD016503",
+      "pages": 1,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "snake-venom-spectra",
+      "label": "MassIVE \u2014 Vipera/Macrovipera/Daboia Turkiye venom dataset (formal archive)",
+      "url": "https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=f8872b47554a4e588fc0580dd4bda293",
+      "pages": 5,
+      "unique_data_files": 3,
+      "images": 13,
+      "top": [
+        {
+          "name": "Uniprot_8750_serpentes_CanNIso_2674_entries_220210_cRAP_220210.fasta",
+          "url": "https://massive.ucsd.edu/ProteoSAFe/user/Uniprot_8750_serpentes_CanNIso_2674_entries_220210_cRAP_220210.fasta",
+          "score": 6
+        },
+        {
+          "name": "Uniprot_8570_serpentes_reviewed_CandIso_2747_entries_230398.fasta",
+          "url": "https://massive.ucsd.edu/ProteoSAFe/user/Uniprot_8570_serpentes_reviewed_CandIso_2747_entries_230398.fasta",
+          "score": 6
+        },
+        {
+          "name": "params.xml",
+          "url": "https://massive.ucsd.edu/ProteoSAFe/f.MSV000094228/ccms_parameters/params.xml",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "heritage-tree-ring-cores",
+      "label": "Historic England \u2014 tree-ring report 96/2022, Stratford timbers (formal report series)",
+      "url": "https://historicengland.org.uk/research/results/reports/96-2022",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "heritage-tree-ring-cores",
+      "label": "ADS VAG Dendrochronology Database \u2014 Stokesay Castle record (formal database)",
+      "url": "https://archaeologydataservice.ac.uk/archives/view/vag_dendro/full_record.cfm?id=923",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "heritage-tree-ring-cores",
+      "label": "ADS VAG Dendrochronology Database \u2014 Bodleian Library record (formal database)",
+      "url": "https://archaeologydataservice.ac.uk/archives/view/vag_dendro/full_record.cfm?id=1100",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "phage-plaque-hostrange",
+      "label": "phage.org \u2014 Bacteriophage Names 2000 host list (old BEG site)",
+      "url": "http://www.phage.org/names/2000/names_host.htm",
+      "pages": 20,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 22,
+      "wayback_data_files_raw": 131,
+      "wayback_sets_status200": {
+        "/biochem511_files": 1,
+        "/black01_files": 1,
+        "/calculators": 1,
+        "/Campbl01_files": 1,
+        "/Campbl13_files": 1,
+        "/Campbl14_files": 1,
+        "/Campbl18_files": 1,
+        "/Campbl22_files": 1,
+        "/Campbl23_files": 1,
+        "/Campbl24_files": 1,
+        "/Campbl26_files": 1,
+        "/Campbl31_files": 1
+      },
+      "wayback_top": [
+        {
+          "name": "filelist.xml",
+          "url": "http://www.phage.org:80/biochem511_files/filelist.xml",
+          "first_capture": "20020225130247",
+          "status": "200"
+        },
+        {
+          "name": "filelist.xml",
+          "url": "http://www.phage.org:80/black01_files/filelist.xml",
+          "first_capture": "20020310105523",
+          "status": "200"
+        },
+        {
+          "name": "filelist.xml",
+          "url": "http://www.phage.org:80/Campbl01_files/filelist.xml",
+          "first_capture": "20020416053153",
+          "status": "200"
+        },
+        {
+          "name": "filelist.xml",
+          "url": "http://www.phage.org:80/Campbl13_files/filelist.xml",
+          "first_capture": "20020310101120",
+          "status": "200"
+        },
+        {
+          "name": "filelist.xml",
+          "url": "http://www.phage.org:80/Campbl14_files/filelist.xml",
+          "first_capture": "20020310100902",
+          "status": "200"
+        },
+        {
+          "name": "filelist.xml",
+          "url": "http://www.phage.org:80/Campbl18_files/filelist.xml",
+          "first_capture": "20020416053150",
+          "status": "200"
+        },
+        {
+          "name": "filelist.xml",
+          "url": "http://www.phage.org:80/Campbl22_files/filelist.xml",
+          "first_capture": "20020416054444",
+          "status": "200"
+        },
+        {
+          "name": "filelist.xml",
+          "url": "http://www.phage.org:80/Campbl23_files/filelist.xml",
+          "first_capture": "20020222173820",
+          "status": "200"
+        },
+        {
+          "name": "filelist.xml",
+          "url": "http://www.phage.org:80/Campbl24_files/filelist.xml",
+          "first_capture": "20020306144750",
+          "status": "200"
+        },
+        {
+          "name": "filelist.xml",
+          "url": "http://www.phage.org:80/Campbl26_files/filelist.xml",
+          "first_capture": "20020224122059",
+          "status": "200"
+        },
+        {
+          "name": "filelist.xml",
+          "url": "http://www.phage.org:80/Campbl31_files/filelist.xml",
+          "first_capture": "20020306145501",
+          "status": "200"
+        },
+        {
+          "name": "filelist.xml",
+          "url": "http://www.phage.org:80/Campbl34_files/filelist.xml",
+          "first_capture": "20020416053940",
+          "status": "200"
+        },
+        {
+          "name": "filelist.xml",
+          "url": "http://www.phage.org:80/Campbl51_files/filelist.xml",
+          "first_capture": "20020222172255",
+          "status": "200"
+        },
+        {
+          "name": "filelist.xml",
+          "url": "http://www.phage.org:80/Campbl54_files/filelist.xml",
+          "first_capture": "20020404075648",
+          "status": "200"
+        },
+        {
+          "name": "filelist.xml",
+          "url": "http://www.phage.org:80/cv_files/filelist.xml",
+          "first_capture": "20020419144027",
+          "status": "200"
+        },
+        {
+          "name": "filelist.xml",
+          "url": "http://www.phage.org:80/descriptions/abedon_113_files/filelist.xml",
+          "first_capture": "20020310114059",
+          "status": "200"
+        },
+        {
+          "name": "filelist.xml",
+          "url": "http://www.phage.org:80/descriptions/abedon_114_files/filelist.xml",
+          "first_capture": "20020310113851",
+          "status": "200"
+        },
+        {
+          "name": "filelist.xml",
+          "url": "http://www.phage.org:80/descriptions/descriptions_title_index_files/filelist.xml",
+          "first_capture": "20020224122414",
+          "status": "200"
+        },
+        {
+          "name": "filelist.xml",
+          "url": "http://www.phage.org:80/my_tie_page_files/filelist.xml",
+          "first_capture": "20020107160136",
+          "status": "200"
+        },
+        {
+          "name": "more-tab.json",
+          "url": "https://phage.org/calculators/more-tab.json",
+          "first_capture": "20261017231707",
+          "status": "200"
+        },
+        {
+          "name": "names.xls",
+          "url": "https://www.phage.org/names/2000/names.xls",
+          "first_capture": "20221020160655",
+          "status": "200"
+        },
+        {
+          "name": "robots.txt",
+          "url": "http://www.phage.org:80/robots.txt",
+          "first_capture": "19990124010635",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "phage-plaque-hostrange",
+      "label": "phage.org \u2014 Bacteriophages 2nd ed. Table 2-5 host range PDF (book table file)",
+      "url": "http://www.phage.org/images/thebacteriophages/0020_table_005.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "phage-plaque-hostrange",
+      "label": "Felix d'Herelle Reference Center catalogue \u2014 phage.ulaval.ca (formal DB interface)",
+      "url": "https://www.phage.ulaval.ca/en/rechercher-catalogue-phages",
+      "pages": 10,
+      "unique_data_files": 0,
+      "images": 6,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "orthodontic-dental-casts",
+      "label": "AAOF Craniofacial Growth Legacy Collection home (formal consolidated archive \u2014 the excluded growth centres)",
+      "url": "https://www.aaoflegacycollection.org/aaof_home.html",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "orthodontic-dental-casts",
+      "label": "CRIL \u2014 2D Longitudinal Growth Study / CGCS page (formal consortium)",
+      "url": "https://www.cril.org/home/2d-longitudinal-growth-study-2/",
+      "pages": 10,
+      "unique_data_files": 2,
+      "images": 78,
+      "top": [
+        {
+          "name": "process-left.mp4",
+          "url": "https://www.cril.org/wp-content/uploads/2021/02/process-left.mp4",
+          "score": 6
+        },
+        {
+          "name": "process-right.mp4",
+          "url": "https://www.cril.org/wp-content/uploads/2021/02/process-right.mp4",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "lunar-occultation-timings",
+      "label": "lunar-occultations.com \u2014 IOTA 2008 archive format page (section site)",
+      "url": "http://www.lunar-occultations.com/iota/2008archiveformat.htm",
+      "pages": 2,
+      "unique_data_files": 0,
+      "images": 10,
+      "top": [],
+      "wayback_data_files_status200": 49,
+      "wayback_data_files_raw": 63,
+      "wayback_sets_status200": {
+        "/iota": 23,
+        "/bobgraze": 9,
+        "/occult4": 7,
+        "/iota/2006planets": 5,
+        "/iota/asteroids": 3,
+        "/iota/2003bstare": 1,
+        "/iota/eclipse": 1
+      },
+      "wayback_top": [
+        {
+          "name": "asteroid_observations.zip",
+          "url": "http://www.lunar-occultations.com/occult4/asteroid_observations.zip",
+          "first_capture": "20230506001726",
+          "status": "200"
+        },
+        {
+          "name": "asteroidobservations.zip",
+          "url": "http://lunar-occultations.com/occult4/asteroidobservations.zip",
+          "first_capture": "20210309133016",
+          "status": "200"
+        },
+        {
+          "name": "observations.zip",
+          "url": "http://lunar-occultations.com/iota/asteroids/observations.zip",
+          "first_capture": "20071011224936",
+          "status": "200"
+        },
+        {
+          "name": "observations.zip",
+          "url": "http://lunar-occultations.com:80/iota/observations.zip",
+          "first_capture": "20070214121100",
+          "status": "200"
+        },
+        {
+          "name": "All2022.xml",
+          "url": "http://www.lunar-occultations.com/iota/All2022.xml",
+          "first_capture": "20220121073403",
+          "status": "200"
+        },
+        {
+          "name": "All2023.xml",
+          "url": "http://www.lunar-occultations.com/iota/All2023.xml",
+          "first_capture": "20230119142904",
+          "status": "200"
+        },
+        {
+          "name": "All2024.xml",
+          "url": "http://www.lunar-occultations.com/iota/All2024.xml",
+          "first_capture": "20240528025846",
+          "status": "200"
+        },
+        {
+          "name": "All2025.xml",
+          "url": "http://www.lunar-occultations.com/iota/All2025.xml",
+          "first_capture": "20250115092932",
+          "status": "200"
+        },
+        {
+          "name": "nam25all.xml",
+          "url": "http://www.lunar-occultations.com/iota/nam25all.xml",
+          "first_capture": "20250115080537",
+          "status": "200"
+        },
+        {
+          "name": "a.zip",
+          "url": "http://www.lunar-occultations.com/bobgraze/a.zip",
+          "first_capture": "20070728023150",
+          "status": "200"
+        },
+        {
+          "name": "b.zip",
+          "url": "http://www.lunar-occultations.com/bobgraze/b.zip",
+          "first_capture": "20150623210256",
+          "status": "200"
+        },
+        {
+          "name": "c.zip",
+          "url": "http://www.lunar-occultations.com/bobgraze/c.zip",
+          "first_capture": "20070728023322",
+          "status": "200"
+        },
+        {
+          "name": "d.zip",
+          "url": "http://www.lunar-occultations.com/bobgraze/d.zip",
+          "first_capture": "20070728023253",
+          "status": "200"
+        },
+        {
+          "name": "e.zip",
+          "url": "http://www.lunar-occultations.com/bobgraze/e.zip",
+          "first_capture": "20070728023145",
+          "status": "200"
+        },
+        {
+          "name": "f.zip",
+          "url": "http://www.lunar-occultations.com/bobgraze/f.zip",
+          "first_capture": "20150627025948",
+          "status": "200"
+        },
+        {
+          "name": "g.zip",
+          "url": "http://www.lunar-occultations.com/bobgraze/g.zip",
+          "first_capture": "20070728023734",
+          "status": "200"
+        },
+        {
+          "name": "grazeobs.zip",
+          "url": "http://www.lunar-occultations.com/bobgraze/grazeobs.zip",
+          "first_capture": "20150623205216",
+          "status": "200"
+        },
+        {
+          "name": "h.zip",
+          "url": "http://www.lunar-occultations.com/bobgraze/h.zip",
+          "first_capture": "20070728023821",
+          "status": "200"
+        },
+        {
+          "name": "multisit.txt",
+          "url": "http://www.lunar-occultations.com:80/iota/2003bstare/multisit.txt",
+          "first_capture": "20030118120732",
+          "status": "200"
+        },
+        {
+          "name": "2006_2010tno.zip",
+          "url": "http://www.lunar-occultations.com:80/iota/2006_2010tno.zip",
+          "first_capture": "20060615145409",
+          "status": "200"
+        },
+        {
+          "name": "2006planetsall.zip",
+          "url": "http://www.lunar-occultations.com:80/iota/2006planets/2006planetsall.zip",
+          "first_capture": "20060221220953",
+          "status": "200"
+        },
+        {
+          "name": "planetsallold.zip",
+          "url": "http://www.lunar-occultations.com:80/iota/2006planets/planetsallold.zip",
+          "first_capture": "20060221220946",
+          "status": "200"
+        },
+        {
+          "name": "summarybydateall.zip",
+          "url": "http://www.lunar-occultations.com:80/iota/2006planets/summarybydateall.zip",
+          "first_capture": "20060221221005",
+          "status": "200"
+        },
+        {
+          "name": "summarybymagall.zip",
+          "url": "http://www.lunar-occultations.com:80/iota/2006planets/summarybymagall.zip",
+          "first_capture": "20060221220959",
+          "status": "200"
+        },
+        {
+          "name": "summarybynameall.zip",
+          "url": "http://www.lunar-occultations.com:80/iota/2006planets/summarybynameall.zip",
+          "first_capture": "20060221221012",
+          "status": "200"
+        }
+      ]
+    },
+    {
+      "niche": "lunar-occultation-timings",
+      "label": "VizieR VI/132C Lunar Occultation Archive \u2014 GAVO record (formal archive, re-reduced)",
+      "url": "https://dc.g-vo.org/rr/q/lp/custom/CDS.VizieR/VI/132C",
+      "pages": 1,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "lunar-occultation-timings",
+      "label": "IOTA RASC 2026 lunar section PDF (occultations.org, formal)",
+      "url": "https://occultations.org/publications/rasc/2026/lunar26.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "observatory-plate-logbooks",
+      "label": "APPLAUSE DR3 metadata \u2014 plate-archive.org (formal plate archive)",
+      "url": "https://www.plate-archive.org/metadata/applause_dr3/",
+      "pages": 10,
+      "unique_data_files": 0,
+      "images": 16,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "observatory-plate-logbooks",
+      "label": "APPLAUSE DR3 documentation \u2014 plate-archive.org (formal)",
+      "url": "https://www.plate-archive.org/cms/documentation/dr3/",
+      "pages": 10,
+      "unique_data_files": 0,
+      "images": 17,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "observatory-plate-logbooks",
+      "label": "WFPDB VizieR VI/90 ReadMe (formal plate-metadata database)",
+      "url": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/VI/90?format=html&tex=true",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "observatory-plate-logbooks",
+      "label": "AIP APPLAUSE project page (formal)",
+      "url": "http://www.aip.de/en/research/projects/applause/",
+      "pages": 5,
+      "unique_data_files": 3,
+      "images": 6,
+      "top": [
+        {
+          "name": "suggestion.label",
+          "url": "http://www.aip.de/en/institute/aip-members/suggestion.label",
+          "score": 11
+        },
+        {
+          "name": "browserconfig.95cc69f87c95.xml",
+          "url": "http://www.aip.de/static/img/favicon-aip/browserconfig.95cc69f87c95.xml",
+          "score": 6
+        },
+        {
+          "name": "230522-AIP-30sec-quer.mp4",
+          "url": "http://www.aip.de/media/media/230522-AIP-30sec-quer.mp4",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "early-radio-astronomy-charts",
+      "label": "Manchester Library \u2014 Jodrell Bank logbooks digitisation project (formal)",
+      "url": "https://www.library.manchester.ac.uk/services/digitisation-services/projects/jodrell-bank-logbooks/",
+      "pages": 10,
+      "unique_data_files": 1,
+      "images": 36,
+      "top": [
+        {
+          "name": "llms.txt",
+          "url": "https://www.library.manchester.ac.uk/llms.txt",
+          "score": 4
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "early-radio-astronomy-charts",
+      "label": "Jodrell Bank history \u2014 early space tracking (jb.man.ac.uk, published history)",
+      "url": "http://www.jb.man.ac.uk/history/tracking/part1.html",
+      "pages": 10,
+      "unique_data_files": 2,
+      "images": 40,
+      "top": [
+        {
+          "name": "rss.xml",
+          "url": "http://www.jb.man.ac.uk/feeds/rss.xml",
+          "score": 6
+        },
+        {
+          "name": "rss-news.xml",
+          "url": "https://www.jb.man.ac.uk//jodcast/rss-news.xml",
+          "score": 6
+        }
+      ],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "early-radio-astronomy-charts",
+      "label": "Big Ear / NAAPO \u2014 Cosmic Search 13, Reber first radio maps (bigear.org PDF)",
+      "url": "https://www.bigear.org/CSMO/PDF/CS13/cs13p14.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    },
+    {
+      "niche": "early-radio-astronomy-charts",
+      "label": "Bell Burnell \u2014 Cosmic Search pulsar account, pen-chart analysis (magonia PDF)",
+      "url": "https://magonia.com/wp-content/uploads/2016/10/cosmic-search-jocelyn-bell.pdf",
+      "pages": 0,
+      "unique_data_files": 0,
+      "images": 0,
+      "top": [],
+      "wayback_data_files_status200": 0,
+      "wayback_data_files_raw": 0,
+      "wayback_sets_status200": {},
+      "wayback_top": []
+    }
+  ]
+}

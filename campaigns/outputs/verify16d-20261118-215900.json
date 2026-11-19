@@ -1,0 +1,25 @@
+{
+  "verify16d": {
+    "bl_pages": [
+      {
+        "url": "https://bl.iro.bl.uk/concern/datasets/807f0563-025e-46be-a251-1ad1ba477981",
+        "status": 200,
+        "links": []
+      },
+      {
+        "url": "https://doi.org/10.21250/pb2",
+        "status": 404,
+        "links": []
+      }
+    ],
+    "sceneweb": {
+      "status": 200,
+      "file_links": []
+    },
+    "blplaybills_sitemap": {
+      "status": 404,
+      "n_urls": 0,
+      "sample": []
+    }
+  }
+}
